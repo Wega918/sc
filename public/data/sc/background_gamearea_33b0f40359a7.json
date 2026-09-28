@@ -1,0 +1,301 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "background_gamearea.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_gamearea.sc",
+  "sha256_container": "33b0f40359a7309c451ed62eb55db5c0cf353d28e11012c0d16143ba5e3138a8",
+  "sha256_descriptor": "c5c2a4e0a9887b53ca4ba36fc412ba90c90f5d08944687dc50eb57dd7c73e7e9",
+  "sha256_decoded_payload": "53f239be2ab477e15e6e0fdabd4d0b706461afd7432326a7bb767448a14efbf0",
+  "version": 6,
+  "descriptor_bytes": 156,
+  "compressed_frame_bytes": 496215,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 1046996,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 64,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 68,
+      "raw_u32": 636
+    },
+    {
+      "field_index": 9,
+      "offset": 72,
+      "raw_u32": 1045912
+    },
+    {
+      "field_index": 10,
+      "offset": 76,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 80,
+      "raw_u32": 496216
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 136,
+      "value": "Player_village_bg"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "Player_village_bg"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 532,
+      "value": "Chronos_BG_Foreground"
+    },
+    {
+      "offset": 560,
+      "value": "Chronos_BG_Background"
+    },
+    {
+      "offset": 588,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 608,
+      "value": "Player_village_bg"
+    },
+    {
+      "offset": 1674,
+      "value": "E@X"
+    },
+    {
+      "offset": 66898,
+      "value": "tKo"
+    },
+    {
+      "offset": 118011,
+      "value": "wowD"
+    },
+    {
+      "offset": 219310,
+      "value": "ykpP@"
+    },
+    {
+      "offset": 232344,
+      "value": "kUN"
+    },
+    {
+      "offset": 264315,
+      "value": "_@Q"
+    },
+    {
+      "offset": 317568,
+      "value": "lIz"
+    },
+    {
+      "offset": 332572,
+      "value": "e:I"
+    },
+    {
+      "offset": 335340,
+      "value": "D@eRY"
+    },
+    {
+      "offset": 359823,
+      "value": "S2m"
+    },
+    {
+      "offset": 369744,
+      "value": "ISz"
+    },
+    {
+      "offset": 374050,
+      "value": "REo"
+    },
+    {
+      "offset": 425308,
+      "value": "tUHt"
+    },
+    {
+      "offset": 426078,
+      "value": "JJQAA"
+    },
+    {
+      "offset": 439270,
+      "value": "bKkY"
+    },
+    {
+      "offset": 448897,
+      "value": "g@Go"
+    },
+    {
+      "offset": 449250,
+      "value": "iEo"
+    },
+    {
+      "offset": 472818,
+      "value": "c9o"
+    },
+    {
+      "offset": 476186,
+      "value": "UOV"
+    },
+    {
+      "offset": 491058,
+      "value": "yQo"
+    },
+    {
+      "offset": 496413,
+      "value": "ZeVy"
+    },
+    {
+      "offset": 534898,
+      "value": "fho"
+    },
+    {
+      "offset": 546816,
+      "value": "mM "
+    },
+    {
+      "offset": 579144,
+      "value": "RDum"
+    },
+    {
+      "offset": 605347,
+      "value": "ibI"
+    },
+    {
+      "offset": 618162,
+      "value": "TKo"
+    },
+    {
+      "offset": 621713,
+      "value": "XeUo"
+    },
+    {
+      "offset": 647808,
+      "value": "vUWxo"
+    },
+    {
+      "offset": 649334,
+      "value": "fM:e"
+    },
+    {
+      "offset": 661804,
+      "value": "RMEY"
+    },
+    {
+      "offset": 662386,
+      "value": "z-o"
+    },
+    {
+      "offset": 666062,
+      "value": "BCQQ "
+    },
+    {
+      "offset": 677767,
+      "value": "uOiEp "
+    },
+    {
+      "offset": 682173,
+      "value": "QH4"
+    },
+    {
+      "offset": 683330,
+      "value": "Ugo"
+    },
+    {
+      "offset": 684602,
+      "value": "Ep "
+    },
+    {
+      "offset": 698282,
+      "value": "Ep "
+    },
+    {
+      "offset": 713439,
+      "value": "BImv-o"
+    },
+    {
+      "offset": 724648,
+      "value": "rBU"
+    },
+    {
+      "offset": 725626,
+      "value": "Ep "
+    },
+    {
+      "offset": 735882,
+      "value": "Ep "
+    },
+    {
+      "offset": 737778,
+      "value": "CTo"
+    },
+    {
+      "offset": 739306,
+      "value": "Ep "
+    },
+    {
+      "offset": 740818,
+      "value": "qro"
+    },
+    {
+      "offset": 775708,
+      "value": "vvZ"
+    },
+    {
+      "offset": 803663,
+      "value": "RXq"
+    },
+    {
+      "offset": 813847,
+      "value": "rBb"
+    },
+    {
+      "offset": 838448,
+      "value": "EoB"
+    },
+    {
+      "offset": 879466,
+      "value": "Cp "
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c003000040008000c0010001400180000001c002000240028002c001c000000010000000100000002000000010000000100000001000000",
+  "decoded_preview_hex": "7802000018000000000012001400040000000000000008000c00100012000000d8010000b80100005400000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

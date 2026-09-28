@@ -1,0 +1,1272 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_air_troop_launcher.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_air_troop_launcher.sc",
+  "sha256_container": "812f800ce1bafb36cbea9c4e19f925efa78dc71e84f496218f8a2eb1234d4ebb",
+  "sha256_descriptor": "3642b600b192a17529f1cb0856fd2a909a995e604483572459100d9c91a27a62",
+  "sha256_decoded_payload": "0db5409c9ca88f38dc55872c94bafb7b2a1d53a091c1890c74d8245c87edb522",
+  "version": 6,
+  "descriptor_bytes": 7748,
+  "compressed_frame_bytes": 38971,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 249572,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 618
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 95
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 181800
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 38164
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 38976
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 472,
+      "value": "sm_air_troop_launcher_projectile_lvl1_9"
+    },
+    {
+      "offset": 548,
+      "value": "sm_air_troop_launcher_projectile_lvl1_8"
+    },
+    {
+      "offset": 624,
+      "value": "sm_air_troop_launcher_projectile_lvl1_7"
+    },
+    {
+      "offset": 700,
+      "value": "sm_air_troop_launcher_projectile_lvl1_6"
+    },
+    {
+      "offset": 776,
+      "value": "sm_air_troop_launcher_projectile_lvl1_5"
+    },
+    {
+      "offset": 852,
+      "value": "sm_air_troop_launcher_projectile_lvl1_4"
+    },
+    {
+      "offset": 928,
+      "value": "sm_air_troop_launcher_projectile_lvl1_3"
+    },
+    {
+      "offset": 1004,
+      "value": "sm_air_troop_launcher_projectile_lvl1_2"
+    },
+    {
+      "offset": 1080,
+      "value": "sm_air_troop_launcher_projectile_lvl1_1"
+    },
+    {
+      "offset": 1156,
+      "value": "sm_air_troop_launcher_projectile_lvl1"
+    },
+    {
+      "offset": 1232,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_parked1"
+    },
+    {
+      "offset": 1316,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_9"
+    },
+    {
+      "offset": 1400,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_8"
+    },
+    {
+      "offset": 1484,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_7"
+    },
+    {
+      "offset": 1568,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_6"
+    },
+    {
+      "offset": 1652,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_5"
+    },
+    {
+      "offset": 1736,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_4"
+    },
+    {
+      "offset": 1820,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_3"
+    },
+    {
+      "offset": 1904,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_2"
+    },
+    {
+      "offset": 1988,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_1"
+    },
+    {
+      "offset": 2072,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_9"
+    },
+    {
+      "offset": 2156,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_8"
+    },
+    {
+      "offset": 2240,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_7"
+    },
+    {
+      "offset": 2324,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_6"
+    },
+    {
+      "offset": 2408,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_5"
+    },
+    {
+      "offset": 2492,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_4"
+    },
+    {
+      "offset": 2576,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_3"
+    },
+    {
+      "offset": 2660,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_2"
+    },
+    {
+      "offset": 2744,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_1"
+    },
+    {
+      "offset": 2828,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_parked1"
+    },
+    {
+      "offset": 2912,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_9"
+    },
+    {
+      "offset": 2996,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_8"
+    },
+    {
+      "offset": 3080,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_7"
+    },
+    {
+      "offset": 3164,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_6"
+    },
+    {
+      "offset": 3248,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_5"
+    },
+    {
+      "offset": 3332,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_4"
+    },
+    {
+      "offset": 3416,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_3"
+    },
+    {
+      "offset": 3500,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_2"
+    },
+    {
+      "offset": 3584,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_1"
+    },
+    {
+      "offset": 3668,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_9"
+    },
+    {
+      "offset": 3752,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_8"
+    },
+    {
+      "offset": 3836,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_7"
+    },
+    {
+      "offset": 3920,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_6"
+    },
+    {
+      "offset": 4004,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_5"
+    },
+    {
+      "offset": 4088,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_4"
+    },
+    {
+      "offset": 4165,
+      "value": "GHQ/"
+    },
+    {
+      "offset": 4172,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_3"
+    },
+    {
+      "offset": 4256,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_2"
+    },
+    {
+      "offset": 4340,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_1"
+    },
+    {
+      "offset": 4424,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_parked1"
+    },
+    {
+      "offset": 4508,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_9"
+    },
+    {
+      "offset": 4592,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_8"
+    },
+    {
+      "offset": 4676,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_7"
+    },
+    {
+      "offset": 4760,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_6"
+    },
+    {
+      "offset": 4844,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_5"
+    },
+    {
+      "offset": 4928,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_4"
+    },
+    {
+      "offset": 5012,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_3"
+    },
+    {
+      "offset": 5096,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_2"
+    },
+    {
+      "offset": 5180,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_1"
+    },
+    {
+      "offset": 5264,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_9"
+    },
+    {
+      "offset": 5348,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_8"
+    },
+    {
+      "offset": 5432,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_7"
+    },
+    {
+      "offset": 5516,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_6"
+    },
+    {
+      "offset": 5600,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_5"
+    },
+    {
+      "offset": 5684,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_4"
+    },
+    {
+      "offset": 5768,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_3"
+    },
+    {
+      "offset": 5852,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_2"
+    },
+    {
+      "offset": 5936,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_1"
+    },
+    {
+      "offset": 6020,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_parked1"
+    },
+    {
+      "offset": 6104,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_9"
+    },
+    {
+      "offset": 6188,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_8"
+    },
+    {
+      "offset": 6272,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_7"
+    },
+    {
+      "offset": 6356,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_6"
+    },
+    {
+      "offset": 6440,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_5"
+    },
+    {
+      "offset": 6524,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_4"
+    },
+    {
+      "offset": 6608,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_3"
+    },
+    {
+      "offset": 6692,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_2"
+    },
+    {
+      "offset": 6776,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_1"
+    },
+    {
+      "offset": 6860,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1"
+    },
+    {
+      "offset": 6940,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_die"
+    },
+    {
+      "offset": 7020,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_9"
+    },
+    {
+      "offset": 7104,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_8"
+    },
+    {
+      "offset": 7188,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_7"
+    },
+    {
+      "offset": 7272,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_6"
+    },
+    {
+      "offset": 7356,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_5"
+    },
+    {
+      "offset": 7440,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_4"
+    },
+    {
+      "offset": 7524,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_3"
+    },
+    {
+      "offset": 7608,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_2"
+    },
+    {
+      "offset": 7700,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "sm_air_troop_launcher_projectile_lvl1_9",
+    "sm_air_troop_launcher_projectile_lvl1_8",
+    "sm_air_troop_launcher_projectile_lvl1_7",
+    "sm_air_troop_launcher_projectile_lvl1_6",
+    "sm_air_troop_launcher_projectile_lvl1_5",
+    "sm_air_troop_launcher_projectile_lvl1_4",
+    "sm_air_troop_launcher_projectile_lvl1_3",
+    "sm_air_troop_launcher_projectile_lvl1_2",
+    "sm_air_troop_launcher_projectile_lvl1_1",
+    "sm_air_troop_launcher_projectile_lvl1",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_parked1",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_9",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_8",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_7",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_6",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_5",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_4",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_3",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_2",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_1",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_9",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_8",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_7",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_6",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_5",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_4",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_3",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_2",
+    "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_1",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_parked1",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_9",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_8",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_7",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_6",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_5",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_4",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_3",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_2",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_1",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_9",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_8",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_7",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_6",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_5",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_4",
+    "GHQ/",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_3",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_2",
+    "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_1",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_parked1",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_9",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_8",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_7",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_6",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_5",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_4",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_3",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_2",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_1",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_9",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_8",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_7",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_6",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_5",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_4",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_3",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_2",
+    "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_1",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_parked1",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_9",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_8",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_7",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_6",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_5",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_4",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_3",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_2",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_1",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_fly1",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_die",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_9",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_8",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_7",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_6",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_5",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_4",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_3",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_2",
+    "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 5908,
+      "value": "ffJA"
+    },
+    {
+      "offset": 5932,
+      "value": "ffRA"
+    },
+    {
+      "offset": 5956,
+      "value": "ffZA"
+    },
+    {
+      "offset": 5980,
+      "value": "ffbA"
+    },
+    {
+      "offset": 7636,
+      "value": "ffBA"
+    },
+    {
+      "offset": 7660,
+      "value": "ff:A"
+    },
+    {
+      "offset": 9131,
+      "value": "L333A"
+    },
+    {
+      "offset": 10785,
+      "value": "gnj"
+    },
+    {
+      "offset": 11926,
+      "value": "Ce33SA"
+    },
+    {
+      "offset": 13199,
+      "value": "Rff:B"
+    },
+    {
+      "offset": 13763,
+      "value": "Kff6@"
+    },
+    {
+      "offset": 14939,
+      "value": "sff:B"
+    },
+    {
+      "offset": 15729,
+      "value": "JM3"
+    },
+    {
+      "offset": 15752,
+      "value": "pTM3"
+    },
+    {
+      "offset": 15789,
+      "value": "HVD"
+    },
+    {
+      "offset": 15813,
+      "value": "WVD"
+    },
+    {
+      "offset": 16116,
+      "value": "ffvB"
+    },
+    {
+      "offset": 19306,
+      "value": "Ce33SA"
+    },
+    {
+      "offset": 20422,
+      "value": "oX33fB"
+    },
+    {
+      "offset": 24465,
+      "value": "va@"
+    },
+    {
+      "offset": 25475,
+      "value": "Rff:B"
+    },
+    {
+      "offset": 25904,
+      "value": "zF+B"
+    },
+    {
+      "offset": 26229,
+      "value": "z z"
+    },
+    {
+      "offset": 26253,
+      "value": "w+y"
+    },
+    {
+      "offset": 26436,
+      "value": "ffQB"
+    },
+    {
+      "offset": 26508,
+      "value": "ffQB"
+    },
+    {
+      "offset": 27045,
+      "value": "hvJ"
+    },
+    {
+      "offset": 27252,
+      "value": "ff6@"
+    },
+    {
+      "offset": 27813,
+      "value": "B+9"
+    },
+    {
+      "offset": 28163,
+      "value": "Rff:B"
+    },
+    {
+      "offset": 28704,
+      "value": "ff6@"
+    },
+    {
+      "offset": 28860,
+      "value": "ffqB"
+    },
+    {
+      "offset": 31188,
+      "value": "ffqB"
+    },
+    {
+      "offset": 32760,
+      "value": "ffaB"
+    },
+    {
+      "offset": 34041,
+      "value": "WWu"
+    },
+    {
+      "offset": 35087,
+      "value": "sff:B"
+    },
+    {
+      "offset": 35480,
+      "value": "Tegu"
+    },
+    {
+      "offset": 36372,
+      "value": "ffaB"
+    },
+    {
+      "offset": 37185,
+      "value": "y2e33:B"
+    },
+    {
+      "offset": 39660,
+      "value": "ff_B"
+    },
+    {
+      "offset": 39684,
+      "value": "ff_B"
+    },
+    {
+      "offset": 41409,
+      "value": "JM3"
+    },
+    {
+      "offset": 41432,
+      "value": "pTM3"
+    },
+    {
+      "offset": 41469,
+      "value": "HVD"
+    },
+    {
+      "offset": 41493,
+      "value": "WVD"
+    },
+    {
+      "offset": 41796,
+      "value": "ffvB"
+    },
+    {
+      "offset": 44052,
+      "value": "fffA"
+    },
+    {
+      "offset": 44076,
+      "value": "fffA"
+    },
+    {
+      "offset": 44986,
+      "value": "Ce33SA"
+    },
+    {
+      "offset": 45827,
+      "value": "Rff:B"
+    },
+    {
+      "offset": 47529,
+      "value": "JM3"
+    },
+    {
+      "offset": 47552,
+      "value": "pTM3"
+    },
+    {
+      "offset": 47589,
+      "value": "HVD"
+    },
+    {
+      "offset": 47613,
+      "value": "WVD"
+    },
+    {
+      "offset": 53816,
+      "value": "zF+B"
+    },
+    {
+      "offset": 54045,
+      "value": "z z"
+    },
+    {
+      "offset": 54069,
+      "value": "w+y"
+    },
+    {
+      "offset": 54252,
+      "value": "ffQB"
+    },
+    {
+      "offset": 54900,
+      "value": "ff6@"
+    },
+    {
+      "offset": 55572,
+      "value": "ffqB"
+    },
+    {
+      "offset": 57036,
+      "value": "ffqB"
+    },
+    {
+      "offset": 58032,
+      "value": "ffaB"
+    },
+    {
+      "offset": 59600,
+      "value": "Tegu"
+    },
+    {
+      "offset": 64858,
+      "value": "Ce33SA"
+    },
+    {
+      "offset": 65435,
+      "value": "Rff:B"
+    },
+    {
+      "offset": 66585,
+      "value": "JM3"
+    },
+    {
+      "offset": 66608,
+      "value": "pTM3"
+    },
+    {
+      "offset": 66645,
+      "value": "HVD"
+    },
+    {
+      "offset": 66669,
+      "value": "WVD"
+    },
+    {
+      "offset": 68386,
+      "value": "Ce33SA"
+    },
+    {
+      "offset": 71063,
+      "value": "Rff:B"
+    },
+    {
+      "offset": 71252,
+      "value": "zF+B"
+    },
+    {
+      "offset": 71472,
+      "value": "ffqB"
+    },
+    {
+      "offset": 72240,
+      "value": "ffqB"
+    },
+    {
+      "offset": 74012,
+      "value": "Tegu"
+    },
+    {
+      "offset": 76414,
+      "value": "Ce33SA"
+    },
+    {
+      "offset": 77423,
+      "value": "Rff:B"
+    },
+    {
+      "offset": 77724,
+      "value": "ff6@"
+    },
+    {
+      "offset": 78756,
+      "value": "ff:B"
+    },
+    {
+      "offset": 79953,
+      "value": "JM3"
+    },
+    {
+      "offset": 79976,
+      "value": "pTM3"
+    },
+    {
+      "offset": 80013,
+      "value": "HVD"
+    },
+    {
+      "offset": 80037,
+      "value": "WVD"
+    },
+    {
+      "offset": 80268,
+      "value": "ffvB"
+    },
+    {
+      "offset": 86579,
+      "value": "Rff:B"
+    },
+    {
+      "offset": 86744,
+      "value": "zF+B"
+    },
+    {
+      "offset": 86964,
+      "value": "ffQB"
+    },
+    {
+      "offset": 87816,
+      "value": "ff6@"
+    },
+    {
+      "offset": 87924,
+      "value": "ffqB"
+    },
+    {
+      "offset": 89388,
+      "value": "ffqB"
+    },
+    {
+      "offset": 90096,
+      "value": "ffZB"
+    },
+    {
+      "offset": 91848,
+      "value": "ff:B"
+    },
+    {
+      "offset": 92048,
+      "value": "Tegu"
+    },
+    {
+      "offset": 94320,
+      "value": "ffvB"
+    },
+    {
+      "offset": 177240,
+      "value": "idle"
+    },
+    {
+      "offset": 177252,
+      "value": "attack"
+    },
+    {
+      "offset": 177264,
+      "value": "attack_pivot"
+    },
+    {
+      "offset": 177284,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 177308,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_7"
+    },
+    {
+      "offset": 177360,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_4"
+    },
+    {
+      "offset": 177412,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_6"
+    },
+    {
+      "offset": 177464,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_1"
+    },
+    {
+      "offset": 177516,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_4"
+    },
+    {
+      "offset": 177568,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_3"
+    },
+    {
+      "offset": 177620,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_2"
+    },
+    {
+      "offset": 177672,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_1"
+    },
+    {
+      "offset": 177724,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_parked1"
+    },
+    {
+      "offset": 177776,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_3"
+    },
+    {
+      "offset": 177828,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_2"
+    },
+    {
+      "offset": 177880,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_1"
+    },
+    {
+      "offset": 177932,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1"
+    },
+    {
+      "offset": 177980,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_9"
+    },
+    {
+      "offset": 178032,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_8"
+    },
+    {
+      "offset": 178084,
+      "value": "sm_air_troop_launcher_projectile_lvl1_2"
+    },
+    {
+      "offset": 178128,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_7"
+    },
+    {
+      "offset": 178180,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_5"
+    },
+    {
+      "offset": 178232,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_4"
+    },
+    {
+      "offset": 178284,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_9"
+    },
+    {
+      "offset": 178336,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_5"
+    },
+    {
+      "offset": 178388,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_7"
+    },
+    {
+      "offset": 178440,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_2"
+    },
+    {
+      "offset": 178492,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_1"
+    },
+    {
+      "offset": 178544,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_1"
+    },
+    {
+      "offset": 178596,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_7"
+    },
+    {
+      "offset": 178648,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_parked1"
+    },
+    {
+      "offset": 178700,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_1"
+    },
+    {
+      "offset": 178752,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_7"
+    },
+    {
+      "offset": 178804,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_7"
+    },
+    {
+      "offset": 178856,
+      "value": "sm_air_troop_launcher_projectile_lvl1_5"
+    },
+    {
+      "offset": 178900,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_9"
+    },
+    {
+      "offset": 178952,
+      "value": "sm_air_troop_launcher_projectile_lvl1_8"
+    },
+    {
+      "offset": 178996,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_5"
+    },
+    {
+      "offset": 179048,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_8"
+    },
+    {
+      "offset": 179100,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_2"
+    },
+    {
+      "offset": 179152,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_5"
+    },
+    {
+      "offset": 179204,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_3"
+    },
+    {
+      "offset": 179256,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_1"
+    },
+    {
+      "offset": 179308,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_9"
+    },
+    {
+      "offset": 179360,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_die"
+    },
+    {
+      "offset": 179408,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_3"
+    },
+    {
+      "offset": 179460,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_4"
+    },
+    {
+      "offset": 179512,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_9"
+    },
+    {
+      "offset": 179564,
+      "value": "sm_air_troop_launcher_projectile_lvl1_6"
+    },
+    {
+      "offset": 179608,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_8"
+    },
+    {
+      "offset": 179660,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_8"
+    },
+    {
+      "offset": 179712,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_2"
+    },
+    {
+      "offset": 179764,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_6"
+    },
+    {
+      "offset": 179816,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_4"
+    },
+    {
+      "offset": 179868,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_2"
+    },
+    {
+      "offset": 179920,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_6"
+    },
+    {
+      "offset": 179972,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_attack1_5"
+    },
+    {
+      "offset": 180024,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_3"
+    },
+    {
+      "offset": 180076,
+      "value": "sm_air_troop_launcher_projectile_lvl1_1"
+    },
+    {
+      "offset": 180120,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_3"
+    },
+    {
+      "offset": 180172,
+      "value": "sm_air_troop_launcher_projectile_lvl1_4"
+    },
+    {
+      "offset": 180216,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_7"
+    },
+    {
+      "offset": 180268,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_fly1_4"
+    },
+    {
+      "offset": 180320,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_9"
+    },
+    {
+      "offset": 180372,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_attack1_4"
+    },
+    {
+      "offset": 180424,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_6"
+    },
+    {
+      "offset": 180476,
+      "value": "sm_air_troop_launcher_projectile_lvl1_3"
+    },
+    {
+      "offset": 180520,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_8"
+    },
+    {
+      "offset": 180572,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl1_fly1_6"
+    },
+    {
+      "offset": 180624,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl3_attack1_6"
+    },
+    {
+      "offset": 180676,
+      "value": "sm_air_troop_launcher_projectile_lvl1_7"
+    },
+    {
+      "offset": 180720,
+      "value": "sm_air_troop_launcher_projectile_lvl1_9"
+    },
+    {
+      "offset": 180764,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_parked1"
+    },
+    {
+      "offset": 180816,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_2"
+    },
+    {
+      "offset": 180868,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_3"
+    },
+    {
+      "offset": 180920,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_5"
+    },
+    {
+      "offset": 180972,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_8"
+    },
+    {
+      "offset": 181024,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_fly1_9"
+    },
+    {
+      "offset": 181076,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_5"
+    },
+    {
+      "offset": 181128,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl2_parked1"
+    },
+    {
+      "offset": 181180,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_1"
+    },
+    {
+      "offset": 181232,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_2"
+    },
+    {
+      "offset": 181284,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_5"
+    },
+    {
+      "offset": 181336,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_6"
+    },
+    {
+      "offset": 181388,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_attack1_8"
+    },
+    {
+      "offset": 181440,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_3"
+    },
+    {
+      "offset": 181492,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_4"
+    },
+    {
+      "offset": 181544,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_6"
+    },
+    {
+      "offset": 181596,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_7"
+    },
+    {
+      "offset": 181648,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_8"
+    },
+    {
+      "offset": 181700,
+      "value": "Siege_Machine_Air_Troop_Launcher_lvl4_fly1_9"
+    },
+    {
+      "offset": 181752,
+      "value": "sm_air_troop_launcher_projectile_lvl1"
+    },
+    {
+      "offset": 249540,
+      "value": "chr_air_troop_launcher_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000006a0200005f0000000100000001000000",
+  "decoded_preview_hex": "24c6020018000000000012001400040000000000000008000c00100012000000bcb2020028760100d822000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

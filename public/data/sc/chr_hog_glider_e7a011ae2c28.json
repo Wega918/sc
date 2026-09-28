@@ -1,0 +1,226 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_hog_glider.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_hog_glider.sc",
+  "sha256_container": "e7a011ae2c281d62f8ff5fe273d42b201a905324edadb80ceddb8b54a5643268",
+  "sha256_descriptor": "7e9b974c6937c65b829886bef35bbb74c7eacbc783632a906f3f2a69d68be886",
+  "sha256_decoded_payload": "6fcfd9fed8d59086c8799c475fa7a12599fd83329a79ce3dea32abbc855adb39",
+  "version": 6,
+  "descriptor_bytes": 1100,
+  "compressed_frame_bytes": 7905,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 32792,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 111
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 16
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 23816
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 5716
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 7912
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 176,
+      "value": "hogglider_lvl5_fly1_3"
+    },
+    {
+      "offset": 236,
+      "value": "hogglider_lvl5_fly1_2"
+    },
+    {
+      "offset": 296,
+      "value": "hogglider_lvl5_fly1_1"
+    },
+    {
+      "offset": 356,
+      "value": "hogglider_lvl4_fly1_3"
+    },
+    {
+      "offset": 416,
+      "value": "hogglider_lvl4_fly1_2"
+    },
+    {
+      "offset": 476,
+      "value": "hogglider_lvl4_fly1_1"
+    },
+    {
+      "offset": 536,
+      "value": "hogglider_lvl3_fly1_3"
+    },
+    {
+      "offset": 596,
+      "value": "hogglider_lvl3_fly1_2"
+    },
+    {
+      "offset": 656,
+      "value": "hogglider_lvl3_fly1_1"
+    },
+    {
+      "offset": 716,
+      "value": "hogglider_lvl2_fly1_3"
+    },
+    {
+      "offset": 776,
+      "value": "hogglider_lvl2_fly1_2"
+    },
+    {
+      "offset": 836,
+      "value": "hogglider_lvl2_fly1_1"
+    },
+    {
+      "offset": 896,
+      "value": "hogglider_lvl1_fly1_3"
+    },
+    {
+      "offset": 956,
+      "value": "hogglider_lvl1_fly1_2"
+    },
+    {
+      "offset": 1016,
+      "value": "hogglider_lvl1_fly1_1"
+    },
+    {
+      "offset": 1084,
+      "value": "hogglider_die"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "hogglider_lvl5_fly1_3",
+    "hogglider_lvl5_fly1_2",
+    "hogglider_lvl5_fly1_1",
+    "hogglider_lvl4_fly1_3",
+    "hogglider_lvl4_fly1_2",
+    "hogglider_lvl4_fly1_1",
+    "hogglider_lvl3_fly1_3",
+    "hogglider_lvl3_fly1_2",
+    "hogglider_lvl3_fly1_1",
+    "hogglider_lvl2_fly1_3",
+    "hogglider_lvl2_fly1_2",
+    "hogglider_lvl2_fly1_1",
+    "hogglider_lvl1_fly1_3",
+    "hogglider_lvl1_fly1_2",
+    "hogglider_lvl1_fly1_1",
+    "hogglider_die"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 5084,
+      "value": "uT8c"
+    },
+    {
+      "offset": 23372,
+      "value": "hogglider_lvl4_fly1_2"
+    },
+    {
+      "offset": 23400,
+      "value": "hogglider_lvl1_fly1_2"
+    },
+    {
+      "offset": 23428,
+      "value": "hogglider_lvl3_fly1_2"
+    },
+    {
+      "offset": 23456,
+      "value": "hogglider_lvl3_fly1_1"
+    },
+    {
+      "offset": 23484,
+      "value": "hogglider_lvl5_fly1_1"
+    },
+    {
+      "offset": 23512,
+      "value": "hogglider_lvl1_fly1_1"
+    },
+    {
+      "offset": 23540,
+      "value": "hogglider_lvl2_fly1_2"
+    },
+    {
+      "offset": 23568,
+      "value": "hogglider_lvl2_fly1_1"
+    },
+    {
+      "offset": 23596,
+      "value": "hogglider_lvl4_fly1_3"
+    },
+    {
+      "offset": 23624,
+      "value": "hogglider_die"
+    },
+    {
+      "offset": 23644,
+      "value": "hogglider_lvl3_fly1_3"
+    },
+    {
+      "offset": 23672,
+      "value": "hogglider_lvl4_fly1_1"
+    },
+    {
+      "offset": 23700,
+      "value": "hogglider_lvl2_fly1_3"
+    },
+    {
+      "offset": 23728,
+      "value": "hogglider_lvl1_fly1_3"
+    },
+    {
+      "offset": 23756,
+      "value": "hogglider_lvl5_fly1_2"
+    },
+    {
+      "offset": 23784,
+      "value": "hogglider_lvl5_fly1_3"
+    },
+    {
+      "offset": 32768,
+      "value": "chr_hog_glider_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000006f0000001000000001000000085d000054160000",
+  "decoded_preview_hex": "045d000018000000000012001400040000000000000008000c00100012000000e05a0000645000005c05000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

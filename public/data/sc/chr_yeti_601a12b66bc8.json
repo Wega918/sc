@@ -1,0 +1,1609 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_yeti.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_yeti.sc",
+  "sha256_container": "601a12b66bc8d66102e57f4f0d027f131a751a996efca3ce611e5a0efd51637f",
+  "sha256_descriptor": "bee565b2d6d7897e4509a6c426625ff466abb0280b4977eb2f47245ef9e1dea4",
+  "sha256_decoded_payload": "e00c9c92915b080f2d55e2894748c3ce844e527aa918e3e6203b79201628c865",
+  "version": 6,
+  "descriptor_bytes": 8676,
+  "compressed_frame_bytes": 91633,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 381576,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 1554
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 190
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 256952
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 72208
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 91640
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 700,
+      "value": "yetimite_run1_3"
+    },
+    {
+      "offset": 752,
+      "value": "yetimite_run1_2"
+    },
+    {
+      "offset": 804,
+      "value": "yetimite_run1_1"
+    },
+    {
+      "offset": 856,
+      "value": "yetimite_lvl8_run1_3"
+    },
+    {
+      "offset": 916,
+      "value": "yetimite_lvl8_run1_2"
+    },
+    {
+      "offset": 976,
+      "value": "yetimite_lvl8_run1_1"
+    },
+    {
+      "offset": 1036,
+      "value": "yetimite_lvl8_idle1_3"
+    },
+    {
+      "offset": 1096,
+      "value": "yetimite_lvl8_idle1_2"
+    },
+    {
+      "offset": 1156,
+      "value": "yetimite_lvl8_idle1_1"
+    },
+    {
+      "offset": 1216,
+      "value": "yetimite_lvl7_run1_3"
+    },
+    {
+      "offset": 1276,
+      "value": "yetimite_lvl7_run1_2"
+    },
+    {
+      "offset": 1336,
+      "value": "yetimite_lvl7_run1_1"
+    },
+    {
+      "offset": 1396,
+      "value": "yetimite_lvl7_idle1_3"
+    },
+    {
+      "offset": 1456,
+      "value": "yetimite_lvl7_idle1_2"
+    },
+    {
+      "offset": 1516,
+      "value": "yetimite_lvl7_idle1_1"
+    },
+    {
+      "offset": 1576,
+      "value": "yetimite_lvl6_run1_3"
+    },
+    {
+      "offset": 1636,
+      "value": "yetimite_lvl6_run1_2"
+    },
+    {
+      "offset": 1696,
+      "value": "yetimite_lvl6_run1_1"
+    },
+    {
+      "offset": 1756,
+      "value": "yetimite_lvl6_idle1_3"
+    },
+    {
+      "offset": 1816,
+      "value": "yetimite_lvl6_idle1_2"
+    },
+    {
+      "offset": 1876,
+      "value": "yetimite_lvl6_idle1_1"
+    },
+    {
+      "offset": 1936,
+      "value": "yetimite_lvl4_run1_3"
+    },
+    {
+      "offset": 1996,
+      "value": "yetimite_lvl4_run1_2"
+    },
+    {
+      "offset": 2056,
+      "value": "yetimite_lvl4_run1_1"
+    },
+    {
+      "offset": 2116,
+      "value": "yetimite_lvl4_idle1_3"
+    },
+    {
+      "offset": 2176,
+      "value": "yetimite_lvl4_idle1_2"
+    },
+    {
+      "offset": 2236,
+      "value": "yetimite_lvl4_idle1_1"
+    },
+    {
+      "offset": 2296,
+      "value": "yetimite_lvl3_run1_3"
+    },
+    {
+      "offset": 2356,
+      "value": "yetimite_lvl3_run1_2"
+    },
+    {
+      "offset": 2416,
+      "value": "yetimite_lvl3_run1_1"
+    },
+    {
+      "offset": 2476,
+      "value": "yetimite_lvl3_idle1_3"
+    },
+    {
+      "offset": 2536,
+      "value": "yetimite_lvl3_idle1_2"
+    },
+    {
+      "offset": 2596,
+      "value": "yetimite_lvl3_idle1_1"
+    },
+    {
+      "offset": 2656,
+      "value": "yetimite_lvl2_run1_3"
+    },
+    {
+      "offset": 2716,
+      "value": "yetimite_lvl2_run1_2"
+    },
+    {
+      "offset": 2776,
+      "value": "yetimite_lvl2_run1_1"
+    },
+    {
+      "offset": 2836,
+      "value": "yetimite_lvl2_idle1_3"
+    },
+    {
+      "offset": 2896,
+      "value": "yetimite_lvl2_idle1_2"
+    },
+    {
+      "offset": 2956,
+      "value": "yetimite_lvl2_idle1_1"
+    },
+    {
+      "offset": 3016,
+      "value": "yetimite_lvl1_run1_3"
+    },
+    {
+      "offset": 3076,
+      "value": "yetimite_lvl1_run1_2"
+    },
+    {
+      "offset": 3136,
+      "value": "yetimite_lvl1_run1_1"
+    },
+    {
+      "offset": 3196,
+      "value": "yetimite_lvl1_idle1_3"
+    },
+    {
+      "offset": 3256,
+      "value": "yetimite_lvl1_idle1_2"
+    },
+    {
+      "offset": 3316,
+      "value": "yetimite_lvl1_idle1_1"
+    },
+    {
+      "offset": 3376,
+      "value": "yetimite_idle1_3"
+    },
+    {
+      "offset": 3432,
+      "value": "yetimite_idle1_2"
+    },
+    {
+      "offset": 3488,
+      "value": "yetimite_idle1_1"
+    },
+    {
+      "offset": 3544,
+      "value": "yetimite_attack1_3"
+    },
+    {
+      "offset": 3600,
+      "value": "yetimite_attack1_2"
+    },
+    {
+      "offset": 3656,
+      "value": "yetimite_attack1_1"
+    },
+    {
+      "offset": 3712,
+      "value": "yeti8_run1_3"
+    },
+    {
+      "offset": 3764,
+      "value": "yeti8_run1_2"
+    },
+    {
+      "offset": 3816,
+      "value": "yeti8_run1_1"
+    },
+    {
+      "offset": 3868,
+      "value": "yeti8_idle1_3"
+    },
+    {
+      "offset": 3920,
+      "value": "yeti8_idle1_2"
+    },
+    {
+      "offset": 3972,
+      "value": "yeti8_idle1_1"
+    },
+    {
+      "offset": 4024,
+      "value": "yeti8_attack2_3"
+    },
+    {
+      "offset": 4076,
+      "value": "yeti8_attack2_2"
+    },
+    {
+      "offset": 4128,
+      "value": "yeti8_attack2_1"
+    },
+    {
+      "offset": 4180,
+      "value": "yeti8_attack1_3"
+    },
+    {
+      "offset": 4232,
+      "value": "yeti8_attack1_2"
+    },
+    {
+      "offset": 4284,
+      "value": "yeti8_attack1_1"
+    },
+    {
+      "offset": 4336,
+      "value": "yeti7_run1_3"
+    },
+    {
+      "offset": 4388,
+      "value": "yeti7_run1_2"
+    },
+    {
+      "offset": 4440,
+      "value": "yeti7_run1_1"
+    },
+    {
+      "offset": 4492,
+      "value": "yeti7_idle1_3"
+    },
+    {
+      "offset": 4544,
+      "value": "yeti7_idle1_2"
+    },
+    {
+      "offset": 4596,
+      "value": "yeti7_idle1_1"
+    },
+    {
+      "offset": 4648,
+      "value": "yeti7_attack2_3"
+    },
+    {
+      "offset": 4700,
+      "value": "yeti7_attack2_2"
+    },
+    {
+      "offset": 4752,
+      "value": "yeti7_attack2_1"
+    },
+    {
+      "offset": 4804,
+      "value": "yeti7_attack1_3"
+    },
+    {
+      "offset": 4856,
+      "value": "yeti7_attack1_2"
+    },
+    {
+      "offset": 4908,
+      "value": "yeti7_attack1_1"
+    },
+    {
+      "offset": 4960,
+      "value": "yeti6_run1_3"
+    },
+    {
+      "offset": 5012,
+      "value": "yeti6_run1_2"
+    },
+    {
+      "offset": 5064,
+      "value": "yeti6_run1_1"
+    },
+    {
+      "offset": 5116,
+      "value": "yeti6_idle1_3"
+    },
+    {
+      "offset": 5168,
+      "value": "yeti6_idle1_2"
+    },
+    {
+      "offset": 5220,
+      "value": "yeti6_idle1_1"
+    },
+    {
+      "offset": 5272,
+      "value": "yeti6_attack2_3"
+    },
+    {
+      "offset": 5324,
+      "value": "yeti6_attack2_2"
+    },
+    {
+      "offset": 5376,
+      "value": "yeti6_attack2_1"
+    },
+    {
+      "offset": 5428,
+      "value": "yeti6_attack1_3"
+    },
+    {
+      "offset": 5480,
+      "value": "yeti6_attack1_2"
+    },
+    {
+      "offset": 5532,
+      "value": "yeti6_attack1_1"
+    },
+    {
+      "offset": 5584,
+      "value": "yeti5_run1_3"
+    },
+    {
+      "offset": 5636,
+      "value": "yeti5_run1_2"
+    },
+    {
+      "offset": 5688,
+      "value": "yeti5_run1_1"
+    },
+    {
+      "offset": 5740,
+      "value": "yeti5_idle1_3"
+    },
+    {
+      "offset": 5792,
+      "value": "yeti5_idle1_2"
+    },
+    {
+      "offset": 5844,
+      "value": "yeti5_idle1_1"
+    },
+    {
+      "offset": 5896,
+      "value": "yeti5_attack2_3"
+    },
+    {
+      "offset": 5948,
+      "value": "yeti5_attack2_2"
+    },
+    {
+      "offset": 6000,
+      "value": "yeti5_attack2_1"
+    },
+    {
+      "offset": 6052,
+      "value": "yeti5_attack1_3"
+    },
+    {
+      "offset": 6104,
+      "value": "yeti5_attack1_2"
+    },
+    {
+      "offset": 6156,
+      "value": "yeti5_attack1_1"
+    },
+    {
+      "offset": 6208,
+      "value": "yeti4_run1_3"
+    },
+    {
+      "offset": 6260,
+      "value": "yeti4_run1_2"
+    },
+    {
+      "offset": 6312,
+      "value": "yeti4_run1_1"
+    },
+    {
+      "offset": 6364,
+      "value": "yeti4_idle1_3"
+    },
+    {
+      "offset": 6416,
+      "value": "yeti4_idle1_2"
+    },
+    {
+      "offset": 6468,
+      "value": "yeti4_idle1_1"
+    },
+    {
+      "offset": 6520,
+      "value": "yeti4_attack2_3"
+    },
+    {
+      "offset": 6572,
+      "value": "yeti4_attack2_2"
+    },
+    {
+      "offset": 6624,
+      "value": "yeti4_attack2_1"
+    },
+    {
+      "offset": 6676,
+      "value": "yeti4_attack1_3"
+    },
+    {
+      "offset": 6728,
+      "value": "yeti4_attack1_2"
+    },
+    {
+      "offset": 6780,
+      "value": "yeti4_attack1_1"
+    },
+    {
+      "offset": 6832,
+      "value": "yeti3_run1_3"
+    },
+    {
+      "offset": 6884,
+      "value": "yeti3_run1_2"
+    },
+    {
+      "offset": 6936,
+      "value": "yeti3_run1_1"
+    },
+    {
+      "offset": 6988,
+      "value": "yeti3_idle1_3"
+    },
+    {
+      "offset": 7040,
+      "value": "yeti3_idle1_2"
+    },
+    {
+      "offset": 7092,
+      "value": "yeti3_idle1_1"
+    },
+    {
+      "offset": 7144,
+      "value": "yeti3_attack2_3"
+    },
+    {
+      "offset": 7196,
+      "value": "yeti3_attack2_2"
+    },
+    {
+      "offset": 7248,
+      "value": "yeti3_attack2_1"
+    },
+    {
+      "offset": 7300,
+      "value": "yeti3_attack1_3"
+    },
+    {
+      "offset": 7352,
+      "value": "yeti3_attack1_2"
+    },
+    {
+      "offset": 7404,
+      "value": "yeti3_attack1_1"
+    },
+    {
+      "offset": 7456,
+      "value": "yeti2_run1_3"
+    },
+    {
+      "offset": 7508,
+      "value": "yeti2_run1_2"
+    },
+    {
+      "offset": 7560,
+      "value": "yeti2_run1_1"
+    },
+    {
+      "offset": 7612,
+      "value": "yeti2_idle1_3"
+    },
+    {
+      "offset": 7664,
+      "value": "yeti2_idle1_2"
+    },
+    {
+      "offset": 7716,
+      "value": "yeti2_idle1_1"
+    },
+    {
+      "offset": 7768,
+      "value": "yeti2_attack2_3"
+    },
+    {
+      "offset": 7820,
+      "value": "yeti2_attack2_2"
+    },
+    {
+      "offset": 7872,
+      "value": "yeti2_attack2_1"
+    },
+    {
+      "offset": 7924,
+      "value": "yeti2_attack1_3"
+    },
+    {
+      "offset": 7976,
+      "value": "yeti2_attack1_2"
+    },
+    {
+      "offset": 8028,
+      "value": "yeti2_attack1_1"
+    },
+    {
+      "offset": 8080,
+      "value": "yeti1_run1_3"
+    },
+    {
+      "offset": 8132,
+      "value": "yeti1_run1_2"
+    },
+    {
+      "offset": 8184,
+      "value": "yeti1_run1_1"
+    },
+    {
+      "offset": 8236,
+      "value": "yeti1_idle1_3"
+    },
+    {
+      "offset": 8288,
+      "value": "yeti1_idle1_2"
+    },
+    {
+      "offset": 8340,
+      "value": "yeti1_idle1_1"
+    },
+    {
+      "offset": 8392,
+      "value": "yeti1_attack2_3"
+    },
+    {
+      "offset": 8444,
+      "value": "yeti1_attack2_2"
+    },
+    {
+      "offset": 8496,
+      "value": "yeti1_attack2_1"
+    },
+    {
+      "offset": 8548,
+      "value": "yeti1_attack1_3"
+    },
+    {
+      "offset": 8600,
+      "value": "yeti1_attack1_2"
+    },
+    {
+      "offset": 8660,
+      "value": "yeti1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "yetimite_run1_3",
+    "yetimite_run1_2",
+    "yetimite_run1_1",
+    "yetimite_lvl8_run1_3",
+    "yetimite_lvl8_run1_2",
+    "yetimite_lvl8_run1_1",
+    "yetimite_lvl8_idle1_3",
+    "yetimite_lvl8_idle1_2",
+    "yetimite_lvl8_idle1_1",
+    "yetimite_lvl7_run1_3",
+    "yetimite_lvl7_run1_2",
+    "yetimite_lvl7_run1_1",
+    "yetimite_lvl7_idle1_3",
+    "yetimite_lvl7_idle1_2",
+    "yetimite_lvl7_idle1_1",
+    "yetimite_lvl6_run1_3",
+    "yetimite_lvl6_run1_2",
+    "yetimite_lvl6_run1_1",
+    "yetimite_lvl6_idle1_3",
+    "yetimite_lvl6_idle1_2",
+    "yetimite_lvl6_idle1_1",
+    "yetimite_lvl4_run1_3",
+    "yetimite_lvl4_run1_2",
+    "yetimite_lvl4_run1_1",
+    "yetimite_lvl4_idle1_3",
+    "yetimite_lvl4_idle1_2",
+    "yetimite_lvl4_idle1_1",
+    "yetimite_lvl3_run1_3",
+    "yetimite_lvl3_run1_2",
+    "yetimite_lvl3_run1_1",
+    "yetimite_lvl3_idle1_3",
+    "yetimite_lvl3_idle1_2",
+    "yetimite_lvl3_idle1_1",
+    "yetimite_lvl2_run1_3",
+    "yetimite_lvl2_run1_2",
+    "yetimite_lvl2_run1_1",
+    "yetimite_lvl2_idle1_3",
+    "yetimite_lvl2_idle1_2",
+    "yetimite_lvl2_idle1_1",
+    "yetimite_lvl1_run1_3",
+    "yetimite_lvl1_run1_2",
+    "yetimite_lvl1_run1_1",
+    "yetimite_lvl1_idle1_3",
+    "yetimite_lvl1_idle1_2",
+    "yetimite_lvl1_idle1_1",
+    "yetimite_idle1_3",
+    "yetimite_idle1_2",
+    "yetimite_idle1_1",
+    "yetimite_attack1_3",
+    "yetimite_attack1_2",
+    "yetimite_attack1_1",
+    "yeti8_run1_3",
+    "yeti8_run1_2",
+    "yeti8_run1_1",
+    "yeti8_idle1_3",
+    "yeti8_idle1_2",
+    "yeti8_idle1_1",
+    "yeti8_attack2_3",
+    "yeti8_attack2_2",
+    "yeti8_attack2_1",
+    "yeti8_attack1_3",
+    "yeti8_attack1_2",
+    "yeti8_attack1_1",
+    "yeti7_run1_3",
+    "yeti7_run1_2",
+    "yeti7_run1_1",
+    "yeti7_idle1_3",
+    "yeti7_idle1_2",
+    "yeti7_idle1_1",
+    "yeti7_attack2_3",
+    "yeti7_attack2_2",
+    "yeti7_attack2_1",
+    "yeti7_attack1_3",
+    "yeti7_attack1_2",
+    "yeti7_attack1_1",
+    "yeti6_run1_3",
+    "yeti6_run1_2",
+    "yeti6_run1_1",
+    "yeti6_idle1_3",
+    "yeti6_idle1_2",
+    "yeti6_idle1_1",
+    "yeti6_attack2_3",
+    "yeti6_attack2_2",
+    "yeti6_attack2_1",
+    "yeti6_attack1_3",
+    "yeti6_attack1_2",
+    "yeti6_attack1_1",
+    "yeti5_run1_3",
+    "yeti5_run1_2",
+    "yeti5_run1_1",
+    "yeti5_idle1_3",
+    "yeti5_idle1_2",
+    "yeti5_idle1_1",
+    "yeti5_attack2_3",
+    "yeti5_attack2_2",
+    "yeti5_attack2_1",
+    "yeti5_attack1_3",
+    "yeti5_attack1_2",
+    "yeti5_attack1_1",
+    "yeti4_run1_3",
+    "yeti4_run1_2",
+    "yeti4_run1_1",
+    "yeti4_idle1_3",
+    "yeti4_idle1_2",
+    "yeti4_idle1_1",
+    "yeti4_attack2_3",
+    "yeti4_attack2_2",
+    "yeti4_attack2_1",
+    "yeti4_attack1_3",
+    "yeti4_attack1_2",
+    "yeti4_attack1_1",
+    "yeti3_run1_3",
+    "yeti3_run1_2",
+    "yeti3_run1_1",
+    "yeti3_idle1_3",
+    "yeti3_idle1_2",
+    "yeti3_idle1_1",
+    "yeti3_attack2_3",
+    "yeti3_attack2_2",
+    "yeti3_attack2_1",
+    "yeti3_attack1_3",
+    "yeti3_attack1_2",
+    "yeti3_attack1_1",
+    "yeti2_run1_3",
+    "yeti2_run1_2",
+    "yeti2_run1_1",
+    "yeti2_idle1_3",
+    "yeti2_idle1_2",
+    "yeti2_idle1_1",
+    "yeti2_attack2_3",
+    "yeti2_attack2_2",
+    "yeti2_attack2_1",
+    "yeti2_attack1_3",
+    "yeti2_attack1_2",
+    "yeti2_attack1_1",
+    "yeti1_run1_3",
+    "yeti1_run1_2",
+    "yeti1_run1_1",
+    "yeti1_idle1_3",
+    "yeti1_idle1_2",
+    "yeti1_idle1_1",
+    "yeti1_attack2_3",
+    "yeti1_attack2_2",
+    "yeti1_attack2_1",
+    "yeti1_attack1_3",
+    "yeti1_attack1_2",
+    "yeti1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 5156,
+      "value": "Opo"
+    },
+    {
+      "offset": 5732,
+      "value": "oUo"
+    },
+    {
+      "offset": 6828,
+      "value": "ffFA"
+    },
+    {
+      "offset": 8733,
+      "value": "Ko\\"
+    },
+    {
+      "offset": 13092,
+      "value": "ffNA"
+    },
+    {
+      "offset": 13281,
+      "value": "doi"
+    },
+    {
+      "offset": 14412,
+      "value": "ff9B"
+    },
+    {
+      "offset": 18084,
+      "value": "ff9B"
+    },
+    {
+      "offset": 19869,
+      "value": "f_l"
+    },
+    {
+      "offset": 20099,
+      "value": "T333A"
+    },
+    {
+      "offset": 20529,
+      "value": "UO_"
+    },
+    {
+      "offset": 21192,
+      "value": "ff9B"
+    },
+    {
+      "offset": 21660,
+      "value": "ffNA"
+    },
+    {
+      "offset": 23400,
+      "value": "ffPB"
+    },
+    {
+      "offset": 23928,
+      "value": "ffwB"
+    },
+    {
+      "offset": 25188,
+      "value": "ffNA"
+    },
+    {
+      "offset": 26568,
+      "value": "ff2B"
+    },
+    {
+      "offset": 26590,
+      "value": "_Yff2B"
+    },
+    {
+      "offset": 26615,
+      "value": "V33sA"
+    },
+    {
+      "offset": 27092,
+      "value": "k-5+33GB"
+    },
+    {
+      "offset": 28389,
+      "value": "S_U"
+    },
+    {
+      "offset": 28412,
+      "value": "oU_U"
+    },
+    {
+      "offset": 29349,
+      "value": "K-t"
+    },
+    {
+      "offset": 29373,
+      "value": "Dtx"
+    },
+    {
+      "offset": 29721,
+      "value": "nO0"
+    },
+    {
+      "offset": 30623,
+      "value": "O33nB"
+    },
+    {
+      "offset": 30707,
+      "value": "C33nB"
+    },
+    {
+      "offset": 30839,
+      "value": "T33nB"
+    },
+    {
+      "offset": 31067,
+      "value": "j332B"
+    },
+    {
+      "offset": 31185,
+      "value": "zOE"
+    },
+    {
+      "offset": 31209,
+      "value": "z/G"
+    },
+    {
+      "offset": 32028,
+      "value": "ffFA"
+    },
+    {
+      "offset": 33071,
+      "value": "A33PB"
+    },
+    {
+      "offset": 34028,
+      "value": "o1O"
+    },
+    {
+      "offset": 34608,
+      "value": "ff9B"
+    },
+    {
+      "offset": 36132,
+      "value": "ffFA"
+    },
+    {
+      "offset": 38532,
+      "value": "ffNA"
+    },
+    {
+      "offset": 40835,
+      "value": "T333A"
+    },
+    {
+      "offset": 41001,
+      "value": "UO_"
+    },
+    {
+      "offset": 41376,
+      "value": "ff9B"
+    },
+    {
+      "offset": 41700,
+      "value": "ffNA"
+    },
+    {
+      "offset": 42264,
+      "value": "ffwB"
+    },
+    {
+      "offset": 42948,
+      "value": "ffNA"
+    },
+    {
+      "offset": 43200,
+      "value": "ff2B"
+    },
+    {
+      "offset": 43222,
+      "value": "_Yff2B"
+    },
+    {
+      "offset": 44037,
+      "value": "S_U"
+    },
+    {
+      "offset": 44060,
+      "value": "oU_U"
+    },
+    {
+      "offset": 44735,
+      "value": "O33nB"
+    },
+    {
+      "offset": 44831,
+      "value": "T33nB"
+    },
+    {
+      "offset": 44963,
+      "value": "j332B"
+    },
+    {
+      "offset": 44985,
+      "value": "zOE"
+    },
+    {
+      "offset": 45009,
+      "value": "z/G"
+    },
+    {
+      "offset": 46296,
+      "value": "ff9B"
+    },
+    {
+      "offset": 48492,
+      "value": "ffFA"
+    },
+    {
+      "offset": 53268,
+      "value": "ffNA"
+    },
+    {
+      "offset": 54429,
+      "value": "mo\\"
+    },
+    {
+      "offset": 58440,
+      "value": "ff2B"
+    },
+    {
+      "offset": 58920,
+      "value": "ff9B"
+    },
+    {
+      "offset": 60672,
+      "value": "ffwB"
+    },
+    {
+      "offset": 62028,
+      "value": "ffNA"
+    },
+    {
+      "offset": 62591,
+      "value": "Sff2B"
+    },
+    {
+      "offset": 63175,
+      "value": "A_5/9"
+    },
+    {
+      "offset": 64536,
+      "value": "ffjA"
+    },
+    {
+      "offset": 65649,
+      "value": "MOD"
+    },
+    {
+      "offset": 65804,
+      "value": "O _P33nB"
+    },
+    {
+      "offset": 66011,
+      "value": "j33sA"
+    },
+    {
+      "offset": 66035,
+      "value": "j332B"
+    },
+    {
+      "offset": 68712,
+      "value": "ff9B"
+    },
+    {
+      "offset": 71604,
+      "value": "ffFA"
+    },
+    {
+      "offset": 77013,
+      "value": "fZh"
+    },
+    {
+      "offset": 77916,
+      "value": "ffNA"
+    },
+    {
+      "offset": 80493,
+      "value": "mo\\"
+    },
+    {
+      "offset": 83421,
+      "value": "T-t"
+    },
+    {
+      "offset": 85680,
+      "value": "ff9B"
+    },
+    {
+      "offset": 88440,
+      "value": "ffwB"
+    },
+    {
+      "offset": 89796,
+      "value": "ffNA"
+    },
+    {
+      "offset": 91151,
+      "value": "Sff2B"
+    },
+    {
+      "offset": 91735,
+      "value": "A_5/9"
+    },
+    {
+      "offset": 92772,
+      "value": "ffjA"
+    },
+    {
+      "offset": 94953,
+      "value": "MOD"
+    },
+    {
+      "offset": 95108,
+      "value": "O _P33nB"
+    },
+    {
+      "offset": 95315,
+      "value": "j33sA"
+    },
+    {
+      "offset": 95339,
+      "value": "j332B"
+    },
+    {
+      "offset": 96202,
+      "value": "OrffFA"
+    },
+    {
+      "offset": 96672,
+      "value": "ffFA"
+    },
+    {
+      "offset": 98640,
+      "value": "ff9B"
+    },
+    {
+      "offset": 100716,
+      "value": "ffFA"
+    },
+    {
+      "offset": 103353,
+      "value": "y_B"
+    },
+    {
+      "offset": 104724,
+      "value": "ffNA"
+    },
+    {
+      "offset": 106629,
+      "value": "mo\\"
+    },
+    {
+      "offset": 109584,
+      "value": "ff9B"
+    },
+    {
+      "offset": 111408,
+      "value": "ffwB"
+    },
+    {
+      "offset": 112092,
+      "value": "ffNA"
+    },
+    {
+      "offset": 112881,
+      "value": "T \\"
+    },
+    {
+      "offset": 113159,
+      "value": "Sff2B"
+    },
+    {
+      "offset": 113455,
+      "value": "A_5/9"
+    },
+    {
+      "offset": 115497,
+      "value": "MOD"
+    },
+    {
+      "offset": 115556,
+      "value": "O _P33nB"
+    },
+    {
+      "offset": 115667,
+      "value": "j33sA"
+    },
+    {
+      "offset": 115691,
+      "value": "j332B"
+    },
+    {
+      "offset": 116148,
+      "value": "ffFA"
+    },
+    {
+      "offset": 116229,
+      "value": "f_o"
+    },
+    {
+      "offset": 117720,
+      "value": "ff9B"
+    },
+    {
+      "offset": 117981,
+      "value": "Q_H"
+    },
+    {
+      "offset": 118017,
+      "value": "VOH"
+    },
+    {
+      "offset": 119292,
+      "value": "fffA"
+    },
+    {
+      "offset": 120912,
+      "value": "ff9B"
+    },
+    {
+      "offset": 121785,
+      "value": "HOX"
+    },
+    {
+      "offset": 122625,
+      "value": "a/f"
+    },
+    {
+      "offset": 123216,
+      "value": "ff9B"
+    },
+    {
+      "offset": 123527,
+      "value": "x330B"
+    },
+    {
+      "offset": 125328,
+      "value": "ffIB"
+    },
+    {
+      "offset": 127124,
+      "value": "_._o"
+    },
+    {
+      "offset": 129168,
+      "value": "ff9B"
+    },
+    {
+      "offset": 129187,
+      "value": "AOv"
+    },
+    {
+      "offset": 130608,
+      "value": "ff9B"
+    },
+    {
+      "offset": 131469,
+      "value": "zOn"
+    },
+    {
+      "offset": 131875,
+      "value": "AocO5"
+    },
+    {
+      "offset": 132070,
+      "value": "oaff9B"
+    },
+    {
+      "offset": 132669,
+      "value": "EoH"
+    },
+    {
+      "offset": 134352,
+      "value": "ff9B"
+    },
+    {
+      "offset": 134472,
+      "value": "ff2B"
+    },
+    {
+      "offset": 135960,
+      "value": "ffjA"
+    },
+    {
+      "offset": 136464,
+      "value": "ffIB"
+    },
+    {
+      "offset": 137136,
+      "value": "ffwB"
+    },
+    {
+      "offset": 137543,
+      "value": "N33WB"
+    },
+    {
+      "offset": 137615,
+      "value": "cffPB"
+    },
+    {
+      "offset": 137639,
+      "value": "effPB"
+    },
+    {
+      "offset": 137961,
+      "value": "I_3"
+    },
+    {
+      "offset": 137985,
+      "value": "K_3"
+    },
+    {
+      "offset": 138021,
+      "value": "J_@"
+    },
+    {
+      "offset": 138045,
+      "value": "K_@"
+    },
+    {
+      "offset": 139893,
+      "value": "iOH"
+    },
+    {
+      "offset": 139917,
+      "value": "fOH"
+    },
+    {
+      "offset": 140304,
+      "value": "ff9B"
+    },
+    {
+      "offset": 140374,
+      "value": "_ ffNA"
+    },
+    {
+      "offset": 140589,
+      "value": "uo."
+    },
+    {
+      "offset": 141648,
+      "value": "ffgB"
+    },
+    {
+      "offset": 143564,
+      "value": "Opo"
+    },
+    {
+      "offset": 144500,
+      "value": "oUo"
+    },
+    {
+      "offset": 145248,
+      "value": "ffv@"
+    },
+    {
+      "offset": 146316,
+      "value": "ffFA"
+    },
+    {
+      "offset": 147624,
+      "value": "ffJA"
+    },
+    {
+      "offset": 147885,
+      "value": "Ko\\"
+    },
+    {
+      "offset": 148317,
+      "value": "T/+"
+    },
+    {
+      "offset": 154020,
+      "value": "ffNA"
+    },
+    {
+      "offset": 155328,
+      "value": "ffRA"
+    },
+    {
+      "offset": 155580,
+      "value": "ff9B"
+    },
+    {
+      "offset": 159948,
+      "value": "ff9B"
+    },
+    {
+      "offset": 161541,
+      "value": "f_l"
+    },
+    {
+      "offset": 161783,
+      "value": "r33WA"
+    },
+    {
+      "offset": 161795,
+      "value": "u33WA"
+    },
+    {
+      "offset": 161891,
+      "value": "T333A"
+    },
+    {
+      "offset": 162154,
+      "value": "OJ33WA"
+    },
+    {
+      "offset": 162561,
+      "value": "UO_"
+    },
+    {
+      "offset": 162756,
+      "value": "ffVA"
+    },
+    {
+      "offset": 163704,
+      "value": "ff9B"
+    },
+    {
+      "offset": 164484,
+      "value": "ffNA"
+    },
+    {
+      "offset": 165576,
+      "value": "ffPB"
+    },
+    {
+      "offset": 166464,
+      "value": "ffwB"
+    },
+    {
+      "offset": 168732,
+      "value": "ffNA"
+    },
+    {
+      "offset": 169728,
+      "value": "ff2B"
+    },
+    {
+      "offset": 169750,
+      "value": "_Yff2B"
+    },
+    {
+      "offset": 169775,
+      "value": "V33sA"
+    },
+    {
+      "offset": 170540,
+      "value": "k-5+33GB"
+    },
+    {
+      "offset": 172845,
+      "value": "S_U"
+    },
+    {
+      "offset": 172868,
+      "value": "oU_U"
+    },
+    {
+      "offset": 173649,
+      "value": "nO0"
+    },
+    {
+      "offset": 175008,
+      "value": "ffjA"
+    },
+    {
+      "offset": 175151,
+      "value": "O33nB"
+    },
+    {
+      "offset": 175235,
+      "value": "C33nB"
+    },
+    {
+      "offset": 175487,
+      "value": "T33nB"
+    },
+    {
+      "offset": 175835,
+      "value": "j332B"
+    },
+    {
+      "offset": 176097,
+      "value": "zOE"
+    },
+    {
+      "offset": 176121,
+      "value": "z/G"
+    },
+    {
+      "offset": 176604,
+      "value": "ff:A"
+    },
+    {
+      "offset": 176663,
+      "value": "bff:A"
+    },
+    {
+      "offset": 177887,
+      "value": "A33PB"
+    },
+    {
+      "offset": 179040,
+      "value": "ffnA"
+    },
+    {
+      "offset": 179516,
+      "value": "o1O"
+    },
+    {
+      "offset": 180456,
+      "value": "ff9B"
+    },
+    {
+      "offset": 182494,
+      "value": "ox330B"
+    },
+    {
+      "offset": 182759,
+      "value": "q330B"
+    },
+    {
+      "offset": 183035,
+      "value": "IffVA"
+    },
+    {
+      "offset": 183396,
+      "value": "ffVA"
+    },
+    {
+      "offset": 185421,
+      "value": "oOs"
+    },
+    {
+      "offset": 185445,
+      "value": "pOs"
+    },
+    {
+      "offset": 185532,
+      "value": "ffVA"
+    },
+    {
+      "offset": 186934,
+      "value": "ox330B"
+    },
+    {
+      "offset": 187055,
+      "value": "q330B"
+    },
+    {
+      "offset": 188709,
+      "value": "oOs"
+    },
+    {
+      "offset": 189575,
+      "value": "q330B"
+    },
+    {
+      "offset": 194796,
+      "value": "ffFA"
+    },
+    {
+      "offset": 253576,
+      "value": "action_frame2"
+    },
+    {
+      "offset": 253596,
+      "value": "action_frame1"
+    },
+    {
+      "offset": 253616,
+      "value": "action_frame"
+    },
+    {
+      "offset": 253636,
+      "value": "full"
+    },
+    {
+      "offset": 253648,
+      "value": "yetimite_lvl2_run1_1"
+    },
+    {
+      "offset": 253676,
+      "value": "yeti3_idle1_3"
+    },
+    {
+      "offset": 253696,
+      "value": "yetimite_lvl4_run1_3"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c000000010000000100000012060000be00000003000000b8eb0300101a0100",
+  "decoded_preview_hex": "b4eb030018000000000012001400040000000000000008000c0010001200000000dc0300dc0e03005c05000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

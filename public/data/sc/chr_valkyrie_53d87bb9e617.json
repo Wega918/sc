@@ -1,0 +1,1035 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_valkyrie.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_valkyrie.sc",
+  "sha256_container": "53d87bb9e6170780a87e1fdd3636902d592faa4daceeffcb74f7e9a867626df9",
+  "sha256_descriptor": "0203264729caaa30ac56d194453a374038868becd7f84254610d92f60c89140c",
+  "sha256_decoded_payload": "5e7d3aed5e0fea336a4e4bcb906574c698551b64e121f75fb7ae720663861832",
+  "version": 6,
+  "descriptor_bytes": 4420,
+  "compressed_frame_bytes": 30433,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 173112,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 556
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 65
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 122956
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 33816
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 30440
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 372,
+      "value": "WarriorGirl_lvl7_Run1_3"
+    },
+    {
+      "offset": 432,
+      "value": "WarriorGirl_lvl7_Run1_2"
+    },
+    {
+      "offset": 492,
+      "value": "WarriorGirl_lvl7_Run1_1"
+    },
+    {
+      "offset": 552,
+      "value": "WarriorGirl_lvl7_Idle1_3"
+    },
+    {
+      "offset": 616,
+      "value": "WarriorGirl_lvl7_Attack1_3"
+    },
+    {
+      "offset": 680,
+      "value": "WarriorGirl_lvl7_Attack1_2"
+    },
+    {
+      "offset": 744,
+      "value": "WarriorGirl_lvl7_Attack1_1"
+    },
+    {
+      "offset": 808,
+      "value": "WarriorGirl_lvl6_Run1_3"
+    },
+    {
+      "offset": 868,
+      "value": "WarriorGirl_lvl6_Run1_2"
+    },
+    {
+      "offset": 928,
+      "value": "WarriorGirl_lvl6_Run1_1"
+    },
+    {
+      "offset": 988,
+      "value": "WarriorGirl_lvl6_Idle1_3"
+    },
+    {
+      "offset": 1052,
+      "value": "WarriorGirl_lvl6_Attack1_3"
+    },
+    {
+      "offset": 1116,
+      "value": "WarriorGirl_lvl6_Attack1_2"
+    },
+    {
+      "offset": 1180,
+      "value": "WarriorGirl_lvl6_Attack1_1"
+    },
+    {
+      "offset": 1244,
+      "value": "WarriorGirl_lvl5_Run1_3"
+    },
+    {
+      "offset": 1304,
+      "value": "WarriorGirl_lvl5_Run1_2"
+    },
+    {
+      "offset": 1364,
+      "value": "WarriorGirl_lvl5_Run1_1"
+    },
+    {
+      "offset": 1424,
+      "value": "WarriorGirl_lvl5_Idle1_3"
+    },
+    {
+      "offset": 1488,
+      "value": "WarriorGirl_lvl5_Attack1_3"
+    },
+    {
+      "offset": 1552,
+      "value": "WarriorGirl_lvl5_Attack1_2"
+    },
+    {
+      "offset": 1616,
+      "value": "WarriorGirl_lvl5_Attack1_1"
+    },
+    {
+      "offset": 1680,
+      "value": "WarriorGirl_lvl4_Run1_3"
+    },
+    {
+      "offset": 1740,
+      "value": "WarriorGirl_lvl4_Run1_2"
+    },
+    {
+      "offset": 1800,
+      "value": "WarriorGirl_lvl4_Run1_1"
+    },
+    {
+      "offset": 1860,
+      "value": "WarriorGirl_lvl4_Idle1_3"
+    },
+    {
+      "offset": 1924,
+      "value": "WarriorGirl_lvl4_Attack1_3"
+    },
+    {
+      "offset": 1988,
+      "value": "WarriorGirl_lvl4_Attack1_2"
+    },
+    {
+      "offset": 2052,
+      "value": "WarriorGirl_lvl4_Attack1_1"
+    },
+    {
+      "offset": 2116,
+      "value": "WarriorGirl_lvl3_Run1_3"
+    },
+    {
+      "offset": 2176,
+      "value": "WarriorGirl_lvl3_Run1_2"
+    },
+    {
+      "offset": 2236,
+      "value": "WarriorGirl_lvl3_Run1_1"
+    },
+    {
+      "offset": 2296,
+      "value": "WarriorGirl_lvl3_Idle1_3"
+    },
+    {
+      "offset": 2360,
+      "value": "WarriorGirl_lvl3_Attack1_3"
+    },
+    {
+      "offset": 2424,
+      "value": "WarriorGirl_lvl3_Attack1_2"
+    },
+    {
+      "offset": 2488,
+      "value": "WarriorGirl_lvl3_Attack1_1"
+    },
+    {
+      "offset": 2552,
+      "value": "WarriorGirl_lvl2_Run1_3"
+    },
+    {
+      "offset": 2612,
+      "value": "WarriorGirl_lvl2_Run1_2"
+    },
+    {
+      "offset": 2672,
+      "value": "WarriorGirl_lvl2_Run1_1"
+    },
+    {
+      "offset": 2732,
+      "value": "WarriorGirl_lvl2_Idle1_3"
+    },
+    {
+      "offset": 2796,
+      "value": "WarriorGirl_lvl2_Attack1_3"
+    },
+    {
+      "offset": 2860,
+      "value": "WarriorGirl_lvl2_Attack1_2"
+    },
+    {
+      "offset": 2924,
+      "value": "WarriorGirl_lvl2_Attack1_1"
+    },
+    {
+      "offset": 2988,
+      "value": "WarriorGirl_lvl1_Run1_3"
+    },
+    {
+      "offset": 3048,
+      "value": "WarriorGirl_lvl1_Run1_2"
+    },
+    {
+      "offset": 3108,
+      "value": "WarriorGirl_lvl1_Run1_1"
+    },
+    {
+      "offset": 3168,
+      "value": "WarriorGirl_lvl1_Idle1_3"
+    },
+    {
+      "offset": 3232,
+      "value": "WarriorGirl_lvl1_Attack1_3"
+    },
+    {
+      "offset": 3296,
+      "value": "WarriorGirl_lvl1_Attack1_2"
+    },
+    {
+      "offset": 3360,
+      "value": "WarriorGirl_lvl1_Attack1_1"
+    },
+    {
+      "offset": 3424,
+      "value": "WarriorGirl_lvl12_Run1_3"
+    },
+    {
+      "offset": 3488,
+      "value": "WarriorGirl_lvl12_Run1_2"
+    },
+    {
+      "offset": 3552,
+      "value": "WarriorGirl_lvl12_Run1_1"
+    },
+    {
+      "offset": 3616,
+      "value": "WarriorGirl_lvl12_Idle1_3"
+    },
+    {
+      "offset": 3680,
+      "value": "WarriorGirl_lvl12_Idle1_2"
+    },
+    {
+      "offset": 3744,
+      "value": "WarriorGirl_lvl12_Idle1_1"
+    },
+    {
+      "offset": 3808,
+      "value": "WarriorGirl_lvl12_Attack1_3"
+    },
+    {
+      "offset": 3872,
+      "value": "WarriorGirl_lvl12_Attack1_2"
+    },
+    {
+      "offset": 3936,
+      "value": "WarriorGirl_lvl12_Attack1_1"
+    },
+    {
+      "offset": 4000,
+      "value": "WarriorGirl_lvl11_Run1_3"
+    },
+    {
+      "offset": 4064,
+      "value": "WarriorGirl_lvl11_Run1_2"
+    },
+    {
+      "offset": 4128,
+      "value": "WarriorGirl_lvl11_Run1_1"
+    },
+    {
+      "offset": 4192,
+      "value": "WarriorGirl_lvl11_Idle1_3"
+    },
+    {
+      "offset": 4256,
+      "value": "WarriorGirl_lvl11_Attack1_3"
+    },
+    {
+      "offset": 4320,
+      "value": "WarriorGirl_lvl11_Attack1_2"
+    },
+    {
+      "offset": 4392,
+      "value": "WarriorGirl_lvl11_Attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "WarriorGirl_lvl7_Run1_3",
+    "WarriorGirl_lvl7_Run1_2",
+    "WarriorGirl_lvl7_Run1_1",
+    "WarriorGirl_lvl7_Idle1_3",
+    "WarriorGirl_lvl7_Attack1_3",
+    "WarriorGirl_lvl7_Attack1_2",
+    "WarriorGirl_lvl7_Attack1_1",
+    "WarriorGirl_lvl6_Run1_3",
+    "WarriorGirl_lvl6_Run1_2",
+    "WarriorGirl_lvl6_Run1_1",
+    "WarriorGirl_lvl6_Idle1_3",
+    "WarriorGirl_lvl6_Attack1_3",
+    "WarriorGirl_lvl6_Attack1_2",
+    "WarriorGirl_lvl6_Attack1_1",
+    "WarriorGirl_lvl5_Run1_3",
+    "WarriorGirl_lvl5_Run1_2",
+    "WarriorGirl_lvl5_Run1_1",
+    "WarriorGirl_lvl5_Idle1_3",
+    "WarriorGirl_lvl5_Attack1_3",
+    "WarriorGirl_lvl5_Attack1_2",
+    "WarriorGirl_lvl5_Attack1_1",
+    "WarriorGirl_lvl4_Run1_3",
+    "WarriorGirl_lvl4_Run1_2",
+    "WarriorGirl_lvl4_Run1_1",
+    "WarriorGirl_lvl4_Idle1_3",
+    "WarriorGirl_lvl4_Attack1_3",
+    "WarriorGirl_lvl4_Attack1_2",
+    "WarriorGirl_lvl4_Attack1_1",
+    "WarriorGirl_lvl3_Run1_3",
+    "WarriorGirl_lvl3_Run1_2",
+    "WarriorGirl_lvl3_Run1_1",
+    "WarriorGirl_lvl3_Idle1_3",
+    "WarriorGirl_lvl3_Attack1_3",
+    "WarriorGirl_lvl3_Attack1_2",
+    "WarriorGirl_lvl3_Attack1_1",
+    "WarriorGirl_lvl2_Run1_3",
+    "WarriorGirl_lvl2_Run1_2",
+    "WarriorGirl_lvl2_Run1_1",
+    "WarriorGirl_lvl2_Idle1_3",
+    "WarriorGirl_lvl2_Attack1_3",
+    "WarriorGirl_lvl2_Attack1_2",
+    "WarriorGirl_lvl2_Attack1_1",
+    "WarriorGirl_lvl1_Run1_3",
+    "WarriorGirl_lvl1_Run1_2",
+    "WarriorGirl_lvl1_Run1_1",
+    "WarriorGirl_lvl1_Idle1_3",
+    "WarriorGirl_lvl1_Attack1_3",
+    "WarriorGirl_lvl1_Attack1_2",
+    "WarriorGirl_lvl1_Attack1_1",
+    "WarriorGirl_lvl12_Run1_3",
+    "WarriorGirl_lvl12_Run1_2",
+    "WarriorGirl_lvl12_Run1_1",
+    "WarriorGirl_lvl12_Idle1_3",
+    "WarriorGirl_lvl12_Idle1_2",
+    "WarriorGirl_lvl12_Idle1_1",
+    "WarriorGirl_lvl12_Attack1_3",
+    "WarriorGirl_lvl12_Attack1_2",
+    "WarriorGirl_lvl12_Attack1_1",
+    "WarriorGirl_lvl11_Run1_3",
+    "WarriorGirl_lvl11_Run1_2",
+    "WarriorGirl_lvl11_Run1_1",
+    "WarriorGirl_lvl11_Idle1_3",
+    "WarriorGirl_lvl11_Attack1_3",
+    "WarriorGirl_lvl11_Attack1_2",
+    "WarriorGirl_lvl11_Attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2204,
+      "value": "gceK"
+    },
+    {
+      "offset": 2553,
+      "value": "K24"
+    },
+    {
+      "offset": 2577,
+      "value": "Q24"
+    },
+    {
+      "offset": 7725,
+      "value": "WCt"
+    },
+    {
+      "offset": 9020,
+      "value": "gceK"
+    },
+    {
+      "offset": 9897,
+      "value": "K24"
+    },
+    {
+      "offset": 9921,
+      "value": "Q24"
+    },
+    {
+      "offset": 13725,
+      "value": "jTn"
+    },
+    {
+      "offset": 13749,
+      "value": "gTn"
+    },
+    {
+      "offset": 20889,
+      "value": "WCt"
+    },
+    {
+      "offset": 22136,
+      "value": "gceK"
+    },
+    {
+      "offset": 22244,
+      "value": "Q/8S"
+    },
+    {
+      "offset": 22989,
+      "value": "K24"
+    },
+    {
+      "offset": 23013,
+      "value": "Q24"
+    },
+    {
+      "offset": 26745,
+      "value": "jTn"
+    },
+    {
+      "offset": 26769,
+      "value": "gTn"
+    },
+    {
+      "offset": 33873,
+      "value": "WCt"
+    },
+    {
+      "offset": 35096,
+      "value": "gceK"
+    },
+    {
+      "offset": 35949,
+      "value": "K24"
+    },
+    {
+      "offset": 35973,
+      "value": "Q24"
+    },
+    {
+      "offset": 36237,
+      "value": "Fft"
+    },
+    {
+      "offset": 36261,
+      "value": "Bft"
+    },
+    {
+      "offset": 39681,
+      "value": "jTn"
+    },
+    {
+      "offset": 39705,
+      "value": "gTn"
+    },
+    {
+      "offset": 46605,
+      "value": "Jq2"
+    },
+    {
+      "offset": 46617,
+      "value": "DQ-"
+    },
+    {
+      "offset": 46629,
+      "value": "Mq2"
+    },
+    {
+      "offset": 47529,
+      "value": "WCt"
+    },
+    {
+      "offset": 48968,
+      "value": "gceK"
+    },
+    {
+      "offset": 49256,
+      "value": "KvZp"
+    },
+    {
+      "offset": 49989,
+      "value": "K24"
+    },
+    {
+      "offset": 50013,
+      "value": "Q24"
+    },
+    {
+      "offset": 54585,
+      "value": "jTn"
+    },
+    {
+      "offset": 54609,
+      "value": "gTn"
+    },
+    {
+      "offset": 60981,
+      "value": "Jq2"
+    },
+    {
+      "offset": 60993,
+      "value": "DQ-"
+    },
+    {
+      "offset": 61005,
+      "value": "Mq2"
+    },
+    {
+      "offset": 61713,
+      "value": "WCt"
+    },
+    {
+      "offset": 63248,
+      "value": "gceK"
+    },
+    {
+      "offset": 63488,
+      "value": "KvZp"
+    },
+    {
+      "offset": 64077,
+      "value": "K24"
+    },
+    {
+      "offset": 64101,
+      "value": "Q24"
+    },
+    {
+      "offset": 67809,
+      "value": "jTn"
+    },
+    {
+      "offset": 67833,
+      "value": "gTn"
+    },
+    {
+      "offset": 72693,
+      "value": "Jq2"
+    },
+    {
+      "offset": 72705,
+      "value": "DQ-"
+    },
+    {
+      "offset": 72717,
+      "value": "Mq2"
+    },
+    {
+      "offset": 73257,
+      "value": "WCt"
+    },
+    {
+      "offset": 74408,
+      "value": "gceK"
+    },
+    {
+      "offset": 74600,
+      "value": "KvZp"
+    },
+    {
+      "offset": 75021,
+      "value": "K24"
+    },
+    {
+      "offset": 75045,
+      "value": "Q24"
+    },
+    {
+      "offset": 77793,
+      "value": "jTn"
+    },
+    {
+      "offset": 77817,
+      "value": "gTn"
+    },
+    {
+      "offset": 81153,
+      "value": "WCt"
+    },
+    {
+      "offset": 82593,
+      "value": "jTn"
+    },
+    {
+      "offset": 82617,
+      "value": "gTn"
+    },
+    {
+      "offset": 83685,
+      "value": "y5X"
+    },
+    {
+      "offset": 83961,
+      "value": "R2Q"
+    },
+    {
+      "offset": 83985,
+      "value": "J2Q"
+    },
+    {
+      "offset": 84033,
+      "value": "zzX"
+    },
+    {
+      "offset": 84117,
+      "value": "wCt"
+    },
+    {
+      "offset": 84740,
+      "value": "Kn/-"
+    },
+    {
+      "offset": 84789,
+      "value": "dL7"
+    },
+    {
+      "offset": 85579,
+      "value": "A\\izX"
+    },
+    {
+      "offset": 85605,
+      "value": "czX"
+    },
+    {
+      "offset": 85687,
+      "value": "BA\\zX"
+    },
+    {
+      "offset": 85713,
+      "value": "_zX"
+    },
+    {
+      "offset": 85917,
+      "value": "c5u"
+    },
+    {
+      "offset": 86709,
+      "value": "xSE"
+    },
+    {
+      "offset": 86720,
+      "value": "wv.J"
+    },
+    {
+      "offset": 86733,
+      "value": "xaD"
+    },
+    {
+      "offset": 86744,
+      "value": "gk.J"
+    },
+    {
+      "offset": 86829,
+      "value": "WF5"
+    },
+    {
+      "offset": 86877,
+      "value": "Nz/"
+    },
+    {
+      "offset": 87824,
+      "value": "g+4L"
+    },
+    {
+      "offset": 88112,
+      "value": "KFK+"
+    },
+    {
+      "offset": 88137,
+      "value": "BK+"
+    },
+    {
+      "offset": 91712,
+      "value": "gS:k"
+    },
+    {
+      "offset": 91725,
+      "value": "V4i"
+    },
+    {
+      "offset": 91736,
+      "value": "rU:k"
+    },
+    {
+      "offset": 93596,
+      "value": "wNOx"
+    },
+    {
+      "offset": 93621,
+      "value": "JOx"
+    },
+    {
+      "offset": 93633,
+      "value": "Nwz"
+    },
+    {
+      "offset": 93753,
+      "value": "WCt"
+    },
+    {
+      "offset": 95024,
+      "value": "gceK"
+    },
+    {
+      "offset": 95853,
+      "value": "K24"
+    },
+    {
+      "offset": 95877,
+      "value": "Q24"
+    },
+    {
+      "offset": 96573,
+      "value": "uBh"
+    },
+    {
+      "offset": 96597,
+      "value": "uPg"
+    },
+    {
+      "offset": 97869,
+      "value": "Ic3"
+    },
+    {
+      "offset": 99657,
+      "value": "jTn"
+    },
+    {
+      "offset": 99681,
+      "value": "gTn"
+    },
+    {
+      "offset": 120956,
+      "value": "WarriorGirl_lvl6_Run1_1"
+    },
+    {
+      "offset": 120984,
+      "value": "WarriorGirl_lvl11_Attack1_1"
+    },
+    {
+      "offset": 121016,
+      "value": "WarriorGirl_lvl7_Attack1_1"
+    },
+    {
+      "offset": 121048,
+      "value": "WarriorGirl_lvl7_Run1_2"
+    },
+    {
+      "offset": 121076,
+      "value": "WarriorGirl_lvl6_Run1_3"
+    },
+    {
+      "offset": 121104,
+      "value": "WarriorGirl_lvl5_Run1_1"
+    },
+    {
+      "offset": 121132,
+      "value": "WarriorGirl_lvl11_Run1_3"
+    },
+    {
+      "offset": 121164,
+      "value": "WarriorGirl_lvl6_Attack1_3"
+    },
+    {
+      "offset": 121196,
+      "value": "WarriorGirl_lvl7_Attack1_2"
+    },
+    {
+      "offset": 121228,
+      "value": "WarriorGirl_lvl5_Run1_3"
+    },
+    {
+      "offset": 121256,
+      "value": "WarriorGirl_lvl6_Attack1_1"
+    },
+    {
+      "offset": 121288,
+      "value": "WarriorGirl_lvl5_Idle1_3"
+    },
+    {
+      "offset": 121320,
+      "value": "WarriorGirl_lvl5_Attack1_3"
+    },
+    {
+      "offset": 121352,
+      "value": "WarriorGirl_lvl5_Attack1_1"
+    },
+    {
+      "offset": 121384,
+      "value": "WarriorGirl_lvl12_Run1_2"
+    },
+    {
+      "offset": 121416,
+      "value": "WarriorGirl_lvl4_Run1_3"
+    },
+    {
+      "offset": 121444,
+      "value": "WarriorGirl_lvl4_Run1_2"
+    },
+    {
+      "offset": 121472,
+      "value": "WarriorGirl_lvl4_Attack1_2"
+    },
+    {
+      "offset": 121504,
+      "value": "WarriorGirl_lvl4_Attack1_1"
+    },
+    {
+      "offset": 121536,
+      "value": "WarriorGirl_lvl11_Attack1_3"
+    },
+    {
+      "offset": 121568,
+      "value": "WarriorGirl_lvl6_Run1_2"
+    },
+    {
+      "offset": 121596,
+      "value": "WarriorGirl_lvl6_Idle1_3"
+    },
+    {
+      "offset": 121628,
+      "value": "WarriorGirl_lvl4_Run1_1"
+    },
+    {
+      "offset": 121656,
+      "value": "WarriorGirl_lvl4_Idle1_3"
+    },
+    {
+      "offset": 121688,
+      "value": "WarriorGirl_lvl3_Run1_3"
+    },
+    {
+      "offset": 121716,
+      "value": "WarriorGirl_lvl3_Run1_1"
+    },
+    {
+      "offset": 121744,
+      "value": "WarriorGirl_lvl3_Attack1_2"
+    },
+    {
+      "offset": 121776,
+      "value": "WarriorGirl_lvl3_Attack1_1"
+    },
+    {
+      "offset": 121808,
+      "value": "WarriorGirl_lvl2_Run1_3"
+    },
+    {
+      "offset": 121836,
+      "value": "WarriorGirl_lvl12_Attack1_2"
+    },
+    {
+      "offset": 121868,
+      "value": "WarriorGirl_lvl3_Idle1_3"
+    },
+    {
+      "offset": 121900,
+      "value": "WarriorGirl_lvl1_Run1_3"
+    },
+    {
+      "offset": 121928,
+      "value": "WarriorGirl_lvl12_Attack1_1"
+    },
+    {
+      "offset": 121960,
+      "value": "WarriorGirl_lvl1_Attack1_3"
+    },
+    {
+      "offset": 121992,
+      "value": "WarriorGirl_lvl12_Idle1_2"
+    },
+    {
+      "offset": 122024,
+      "value": "WarriorGirl_lvl3_Attack1_3"
+    },
+    {
+      "offset": 122056,
+      "value": "WarriorGirl_lvl11_Run1_1"
+    },
+    {
+      "offset": 122088,
+      "value": "WarriorGirl_lvl2_Attack1_2"
+    },
+    {
+      "offset": 122120,
+      "value": "WarriorGirl_lvl4_Attack1_3"
+    },
+    {
+      "offset": 122152,
+      "value": "WarriorGirl_lvl1_Attack1_2"
+    },
+    {
+      "offset": 122184,
+      "value": "WarriorGirl_lvl12_Attack1_3"
+    },
+    {
+      "offset": 122216,
+      "value": "WarriorGirl_lvl1_Run1_1"
+    },
+    {
+      "offset": 122244,
+      "value": "WarriorGirl_lvl3_Run1_2"
+    },
+    {
+      "offset": 122272,
+      "value": "WarriorGirl_lvl2_Run1_2"
+    },
+    {
+      "offset": 122300,
+      "value": "WarriorGirl_lvl2_Run1_1"
+    },
+    {
+      "offset": 122328,
+      "value": "WarriorGirl_lvl12_Run1_3"
+    },
+    {
+      "offset": 122360,
+      "value": "WarriorGirl_lvl11_Run1_2"
+    },
+    {
+      "offset": 122392,
+      "value": "WarriorGirl_lvl2_Idle1_3"
+    },
+    {
+      "offset": 122424,
+      "value": "WarriorGirl_lvl7_Run1_3"
+    },
+    {
+      "offset": 122452,
+      "value": "WarriorGirl_lvl11_Idle1_3"
+    },
+    {
+      "offset": 122484,
+      "value": "WarriorGirl_lvl1_Run1_2"
+    },
+    {
+      "offset": 122512,
+      "value": "WarriorGirl_lvl6_Attack1_2"
+    },
+    {
+      "offset": 122544,
+      "value": "WarriorGirl_lvl11_Attack1_2"
+    },
+    {
+      "offset": 122576,
+      "value": "WarriorGirl_lvl5_Attack1_2"
+    },
+    {
+      "offset": 122608,
+      "value": "WarriorGirl_lvl2_Attack1_3"
+    },
+    {
+      "offset": 122640,
+      "value": "WarriorGirl_lvl12_Idle1_1"
+    },
+    {
+      "offset": 122672,
+      "value": "WarriorGirl_lvl1_Idle1_3"
+    },
+    {
+      "offset": 122704,
+      "value": "WarriorGirl_lvl12_Idle1_3"
+    },
+    {
+      "offset": 122736,
+      "value": "WarriorGirl_lvl12_Run1_1"
+    },
+    {
+      "offset": 122768,
+      "value": "WarriorGirl_lvl5_Run1_2"
+    },
+    {
+      "offset": 122796,
+      "value": "WarriorGirl_lvl1_Attack1_1"
+    },
+    {
+      "offset": 122828,
+      "value": "WarriorGirl_lvl2_Attack1_1"
+    },
+    {
+      "offset": 122860,
+      "value": "WarriorGirl_lvl7_Attack1_3"
+    },
+    {
+      "offset": 122892,
+      "value": "WarriorGirl_lvl7_Idle1_3"
+    },
+    {
+      "offset": 122924,
+      "value": "WarriorGirl_lvl7_Run1_1"
+    },
+    {
+      "offset": 173092,
+      "value": "chr_valkyrie_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000002c02000041000000010000004ce0010018840000",
+  "decoded_preview_hex": "48e0010018000000000012001400040000000000000008000c001000120000004cd70100f88d01007c06000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

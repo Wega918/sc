@@ -1,0 +1,611 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "health_bar.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\health_bar.sc",
+  "sha256_container": "26d2a52f3e8d1ae5a9759588ce24fee5c735cc583ea620dcd00814c75e808416",
+  "sha256_descriptor": "dbf2dd67562fdf85b7f5f2d830b9ba4f282f8f69f7bc88e7feeab9776eeb55b8",
+  "sha256_decoded_payload": "e2b9f282570f5ad9fbabe1c3f647c4bbc0bd35ef7e4b562fc6adf38f41a2bb8d",
+  "version": 6,
+  "descriptor_bytes": 788,
+  "compressed_frame_bytes": 51648,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 161100,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 37
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 29
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 5
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 53384
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 92888
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 51648
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 164,
+      "value": "troop_load_bar"
+    },
+    {
+      "offset": 216,
+      "value": "sour_elixir_building_amount"
+    },
+    {
+      "offset": 280,
+      "value": "pet_level"
+    },
+    {
+      "offset": 328,
+      "value": "hero_health_bar_regenerate"
+    },
+    {
+      "offset": 392,
+      "value": "hero_health_bar_enemy"
+    },
+    {
+      "offset": 452,
+      "value": "hero_health_bar"
+    },
+    {
+      "offset": 504,
+      "value": "health_bar_enemy"
+    },
+    {
+      "offset": 560,
+      "value": "health_bar_defender"
+    },
+    {
+      "offset": 616,
+      "value": "health_bar_clan"
+    },
+    {
+      "offset": 668,
+      "value": "health_bar"
+    },
+    {
+      "offset": 716,
+      "value": "badge"
+    },
+    {
+      "offset": 768,
+      "value": "baby_dragon_rage"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "troop_load_bar",
+    "sour_elixir_building_amount",
+    "pet_level",
+    "hero_health_bar_regenerate",
+    "hero_health_bar_enemy",
+    "hero_health_bar",
+    "health_bar_enemy",
+    "health_bar_defender",
+    "health_bar_clan",
+    "health_bar",
+    "badge",
+    "baby_dragon_rage"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 18223,
+      "value": "B33c@"
+    },
+    {
+      "offset": 25887,
+      "value": "ZffFA"
+    },
+    {
+      "offset": 26896,
+      "value": "ffFA"
+    },
+    {
+      "offset": 52692,
+      "value": "heal_ability"
+    },
+    {
+      "offset": 52712,
+      "value": "hero_ability_charges"
+    },
+    {
+      "offset": 52740,
+      "value": "charge_03_complete"
+    },
+    {
+      "offset": 52764,
+      "value": "charge_03"
+    },
+    {
+      "offset": 52780,
+      "value": "charge_02_complete"
+    },
+    {
+      "offset": 52804,
+      "value": "charge_02"
+    },
+    {
+      "offset": 52820,
+      "value": "charge_01_complete"
+    },
+    {
+      "offset": 52844,
+      "value": "charge_01"
+    },
+    {
+      "offset": 52860,
+      "value": "hero_heart"
+    },
+    {
+      "offset": 52876,
+      "value": "time"
+    },
+    {
+      "offset": 52912,
+      "value": "heart_progress"
+    },
+    {
+      "offset": 52932,
+      "value": "plus_one"
+    },
+    {
+      "offset": 52996,
+      "value": "progress_bar"
+    },
+    {
+      "offset": 53016,
+      "value": "hero_boost"
+    },
+    {
+      "offset": 53032,
+      "value": "hero"
+    },
+    {
+      "offset": 53044,
+      "value": "level"
+    },
+    {
+      "offset": 53056,
+      "value": "amount"
+    },
+    {
+      "offset": 53068,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 53092,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 53112,
+      "value": "troop_load_bar"
+    },
+    {
+      "offset": 53132,
+      "value": "health_bar"
+    },
+    {
+      "offset": 53148,
+      "value": "badge"
+    },
+    {
+      "offset": 53160,
+      "value": "pet_level"
+    },
+    {
+      "offset": 53176,
+      "value": "hero_health_bar"
+    },
+    {
+      "offset": 53196,
+      "value": "baby_dragon_rage"
+    },
+    {
+      "offset": 53220,
+      "value": "hero_health_bar_regenerate"
+    },
+    {
+      "offset": 53252,
+      "value": "health_bar_defender"
+    },
+    {
+      "offset": 53276,
+      "value": "hero_health_bar_enemy"
+    },
+    {
+      "offset": 53304,
+      "value": "health_bar_enemy"
+    },
+    {
+      "offset": 53328,
+      "value": "health_bar_clan"
+    },
+    {
+      "offset": 53348,
+      "value": "sour_elixir_building_amount"
+    },
+    {
+      "offset": 71878,
+      "value": "_ZSJJ"
+    },
+    {
+      "offset": 75247,
+      "value": "X@\\"
+    },
+    {
+      "offset": 76255,
+      "value": "R6V"
+    },
+    {
+      "offset": 76271,
+      "value": "bDf"
+    },
+    {
+      "offset": 76286,
+      "value": "JpNt"
+    },
+    {
+      "offset": 77358,
+      "value": "InHnHnLr"
+    },
+    {
+      "offset": 77535,
+      "value": "V:Z"
+    },
+    {
+      "offset": 78446,
+      "value": "LtPx"
+    },
+    {
+      "offset": 78638,
+      "value": "HpLt"
+    },
+    {
+      "offset": 79519,
+      "value": "R6V"
+    },
+    {
+      "offset": 79534,
+      "value": "InHnHnLr"
+    },
+    {
+      "offset": 79775,
+      "value": "N4R"
+    },
+    {
+      "offset": 80623,
+      "value": "bDf"
+    },
+    {
+      "offset": 81726,
+      "value": "JpNt"
+    },
+    {
+      "offset": 81999,
+      "value": "J.J.J2N"
+    },
+    {
+      "offset": 83086,
+      "value": "PrTv"
+    },
+    {
+      "offset": 85311,
+      "value": "T@X"
+    },
+    {
+      "offset": 85552,
+      "value": "V1K"
+    },
+    {
+      "offset": 86127,
+      "value": "X@\\"
+    },
+    {
+      "offset": 86398,
+      "value": "VvZz"
+    },
+    {
+      "offset": 87519,
+      "value": "P8T"
+    },
+    {
+      "offset": 88606,
+      "value": "DhHl"
+    },
+    {
+      "offset": 90559,
+      "value": "P4T"
+    },
+    {
+      "offset": 90798,
+      "value": "BfFj"
+    },
+    {
+      "offset": 90815,
+      "value": "L2P"
+    },
+    {
+      "offset": 91679,
+      "value": "V:Z"
+    },
+    {
+      "offset": 91694,
+      "value": "HpLt"
+    },
+    {
+      "offset": 91903,
+      "value": "R6V"
+    },
+    {
+      "offset": 92974,
+      "value": "BfFj"
+    },
+    {
+      "offset": 92991,
+      "value": "R6V"
+    },
+    {
+      "offset": 93966,
+      "value": "PrTv"
+    },
+    {
+      "offset": 94014,
+      "value": "VvZz"
+    },
+    {
+      "offset": 94046,
+      "value": "DhHl"
+    },
+    {
+      "offset": 94079,
+      "value": "L2P"
+    },
+    {
+      "offset": 95055,
+      "value": "J.J.J2N"
+    },
+    {
+      "offset": 95103,
+      "value": "T@X"
+    },
+    {
+      "offset": 95135,
+      "value": "P8T"
+    },
+    {
+      "offset": 95151,
+      "value": "H2L"
+    },
+    {
+      "offset": 96504,
+      "value": "kl."
+    },
+    {
+      "offset": 96520,
+      "value": "kl."
+    },
+    {
+      "offset": 96536,
+      "value": "kl."
+    },
+    {
+      "offset": 96552,
+      "value": "kl."
+    },
+    {
+      "offset": 96568,
+      "value": "kl."
+    },
+    {
+      "offset": 99768,
+      "value": "kl."
+    },
+    {
+      "offset": 99784,
+      "value": "kl."
+    },
+    {
+      "offset": 99800,
+      "value": "kl."
+    },
+    {
+      "offset": 99816,
+      "value": "kl."
+    },
+    {
+      "offset": 99832,
+      "value": "kl."
+    },
+    {
+      "offset": 99848,
+      "value": "kl."
+    },
+    {
+      "offset": 99864,
+      "value": "kl."
+    },
+    {
+      "offset": 99880,
+      "value": "kl."
+    },
+    {
+      "offset": 99896,
+      "value": "kl."
+    },
+    {
+      "offset": 99912,
+      "value": "kl."
+    },
+    {
+      "offset": 99928,
+      "value": "kl."
+    },
+    {
+      "offset": 102664,
+      "value": "PEQ"
+    },
+    {
+      "offset": 106356,
+      "value": "NGg"
+    },
+    {
+      "offset": 131923,
+      "value": "jdg3"
+    },
+    {
+      "offset": 132750,
+      "value": "adBDfj"
+    },
+    {
+      "offset": 133838,
+      "value": "cfBHhj"
+    },
+    {
+      "offset": 133854,
+      "value": "abBBfh"
+    },
+    {
+      "offset": 134942,
+      "value": "cfBHhj"
+    },
+    {
+      "offset": 134958,
+      "value": "abBBfh"
+    },
+    {
+      "offset": 135252,
+      "value": "sDb"
+    },
+    {
+      "offset": 136046,
+      "value": "cfBHhj"
+    },
+    {
+      "offset": 136062,
+      "value": "abBBfh"
+    },
+    {
+      "offset": 136209,
+      "value": "B\\f"
+    },
+    {
+      "offset": 136302,
+      "value": "mvLVrz"
+    },
+    {
+      "offset": 137150,
+      "value": "cfBHhj"
+    },
+    {
+      "offset": 137166,
+      "value": "abBBfh"
+    },
+    {
+      "offset": 138254,
+      "value": "cfBHhj"
+    },
+    {
+      "offset": 138270,
+      "value": "abBBfh"
+    },
+    {
+      "offset": 139374,
+      "value": "abBBfh"
+    },
+    {
+      "offset": 140462,
+      "value": "cfBHhj"
+    },
+    {
+      "offset": 140478,
+      "value": "abBBfh"
+    },
+    {
+      "offset": 140620,
+      "value": "mHZa"
+    },
+    {
+      "offset": 141566,
+      "value": "cfBHhj"
+    },
+    {
+      "offset": 141582,
+      "value": "abBBfh"
+    },
+    {
+      "offset": 141831,
+      "value": "F48"
+    },
+    {
+      "offset": 142640,
+      "value": "SAG"
+    },
+    {
+      "offset": 142670,
+      "value": "cfBHhj"
+    },
+    {
+      "offset": 142686,
+      "value": "abBBfh"
+    },
+    {
+      "offset": 145088,
+      "value": "ih00"
+    },
+    {
+      "offset": 154332,
+      "value": "o@CB"
+    },
+    {
+      "offset": 157005,
+      "value": "BMH"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000250000001d000000010000000500000088d00000",
+  "decoded_preview_hex": "84d000001800000000001200180004000000000008000c00100014001200000008cd0000d0cc0000107100002062000004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

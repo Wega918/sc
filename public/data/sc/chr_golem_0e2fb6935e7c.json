@@ -1,0 +1,1212 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_golem.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_golem.sc",
+  "sha256_container": "0e2fb6935e7cee3a2dcd36ccd0d3a5e74ee618978fef71e94d732815f4819abc",
+  "sha256_descriptor": "27badf7ce77dfee12c8a2187a4c7fb36ccf93e87165bda3f11f8474c0e5ff19b",
+  "sha256_decoded_payload": "7ecd24124d0493eef1752f9d704d91aeeda0c12fc35f7ba7e8204bbf0dcbbbcf",
+  "version": 6,
+  "descriptor_bytes": 7260,
+  "compressed_frame_bytes": 35524,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 143320,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 493
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 117
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 96548
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 28080
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 35528
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 580,
+      "value": "golem_lvl9_walk1_3"
+    },
+    {
+      "offset": 636,
+      "value": "golem_lvl9_walk1_2"
+    },
+    {
+      "offset": 692,
+      "value": "golem_lvl9_walk1_1"
+    },
+    {
+      "offset": 748,
+      "value": "golem_lvl9_idle1_3"
+    },
+    {
+      "offset": 804,
+      "value": "golem_lvl9_idle1_2"
+    },
+    {
+      "offset": 860,
+      "value": "golem_lvl9_idle1_1"
+    },
+    {
+      "offset": 916,
+      "value": "golem_lvl9_attack1_3"
+    },
+    {
+      "offset": 976,
+      "value": "golem_lvl9_attack1_2"
+    },
+    {
+      "offset": 1036,
+      "value": "golem_lvl9_attack1_1"
+    },
+    {
+      "offset": 1096,
+      "value": "golem_lvl8_walk1_3"
+    },
+    {
+      "offset": 1152,
+      "value": "golem_lvl8_walk1_2"
+    },
+    {
+      "offset": 1208,
+      "value": "golem_lvl8_walk1_1"
+    },
+    {
+      "offset": 1264,
+      "value": "golem_lvl8_idle1_3"
+    },
+    {
+      "offset": 1320,
+      "value": "golem_lvl8_idle1_2"
+    },
+    {
+      "offset": 1376,
+      "value": "golem_lvl8_idle1_1"
+    },
+    {
+      "offset": 1432,
+      "value": "golem_lvl8_attack1_3"
+    },
+    {
+      "offset": 1492,
+      "value": "golem_lvl8_attack1_2"
+    },
+    {
+      "offset": 1552,
+      "value": "golem_lvl8_attack1_1"
+    },
+    {
+      "offset": 1612,
+      "value": "golem_lvl7_walk1_3"
+    },
+    {
+      "offset": 1668,
+      "value": "golem_lvl7_walk1_2"
+    },
+    {
+      "offset": 1724,
+      "value": "golem_lvl7_walk1_1"
+    },
+    {
+      "offset": 1780,
+      "value": "golem_lvl7_idle1_3"
+    },
+    {
+      "offset": 1836,
+      "value": "golem_lvl7_idle1_2"
+    },
+    {
+      "offset": 1892,
+      "value": "golem_lvl7_idle1_1"
+    },
+    {
+      "offset": 1948,
+      "value": "golem_lvl7_attack1_3"
+    },
+    {
+      "offset": 2008,
+      "value": "golem_lvl7_attack1_2"
+    },
+    {
+      "offset": 2068,
+      "value": "golem_lvl7_attack1_1"
+    },
+    {
+      "offset": 2128,
+      "value": "golem_lvl6_walk1_3"
+    },
+    {
+      "offset": 2184,
+      "value": "golem_lvl6_walk1_2"
+    },
+    {
+      "offset": 2240,
+      "value": "golem_lvl6_walk1_1"
+    },
+    {
+      "offset": 2296,
+      "value": "golem_lvl6_idle1_3"
+    },
+    {
+      "offset": 2352,
+      "value": "golem_lvl6_idle1_2"
+    },
+    {
+      "offset": 2408,
+      "value": "golem_lvl6_idle1_1"
+    },
+    {
+      "offset": 2464,
+      "value": "golem_lvl6_attack1_3"
+    },
+    {
+      "offset": 2524,
+      "value": "golem_lvl6_attack1_2"
+    },
+    {
+      "offset": 2584,
+      "value": "golem_lvl6_attack1_1"
+    },
+    {
+      "offset": 2644,
+      "value": "golem_lvl5_walk1_3"
+    },
+    {
+      "offset": 2700,
+      "value": "golem_lvl5_walk1_2"
+    },
+    {
+      "offset": 2756,
+      "value": "golem_lvl5_walk1_1"
+    },
+    {
+      "offset": 2812,
+      "value": "golem_lvl5_idle1_3"
+    },
+    {
+      "offset": 2868,
+      "value": "golem_lvl5_idle1_2"
+    },
+    {
+      "offset": 2924,
+      "value": "golem_lvl5_idle1_1"
+    },
+    {
+      "offset": 2980,
+      "value": "golem_lvl5_attack1_3"
+    },
+    {
+      "offset": 3040,
+      "value": "golem_lvl5_attack1_2"
+    },
+    {
+      "offset": 3100,
+      "value": "golem_lvl5_attack1_1"
+    },
+    {
+      "offset": 3160,
+      "value": "golem_lvl4_walk1_3"
+    },
+    {
+      "offset": 3216,
+      "value": "golem_lvl4_walk1_2"
+    },
+    {
+      "offset": 3272,
+      "value": "golem_lvl4_walk1_1"
+    },
+    {
+      "offset": 3328,
+      "value": "golem_lvl4_idle1_3"
+    },
+    {
+      "offset": 3384,
+      "value": "golem_lvl4_idle1_2"
+    },
+    {
+      "offset": 3440,
+      "value": "golem_lvl4_idle1_1"
+    },
+    {
+      "offset": 3496,
+      "value": "golem_lvl4_attack1_3"
+    },
+    {
+      "offset": 3556,
+      "value": "golem_lvl4_attack1_2"
+    },
+    {
+      "offset": 3616,
+      "value": "golem_lvl4_attack1_1"
+    },
+    {
+      "offset": 3676,
+      "value": "golem_lvl3_walk1_3"
+    },
+    {
+      "offset": 3732,
+      "value": "golem_lvl3_walk1_2"
+    },
+    {
+      "offset": 3788,
+      "value": "golem_lvl3_walk1_1"
+    },
+    {
+      "offset": 3844,
+      "value": "golem_lvl3_idle1_3"
+    },
+    {
+      "offset": 3900,
+      "value": "golem_lvl3_idle1_2"
+    },
+    {
+      "offset": 3956,
+      "value": "golem_lvl3_idle1_1"
+    },
+    {
+      "offset": 4012,
+      "value": "golem_lvl3_attack1_3"
+    },
+    {
+      "offset": 4062,
+      "value": "f9P"
+    },
+    {
+      "offset": 4072,
+      "value": "golem_lvl3_attack1_2"
+    },
+    {
+      "offset": 4132,
+      "value": "golem_lvl3_attack1_1"
+    },
+    {
+      "offset": 4192,
+      "value": "golem_lvl2_walk1_3"
+    },
+    {
+      "offset": 4248,
+      "value": "golem_lvl2_walk1_2"
+    },
+    {
+      "offset": 4304,
+      "value": "golem_lvl2_walk1_1"
+    },
+    {
+      "offset": 4360,
+      "value": "golem_lvl2_idle1_3"
+    },
+    {
+      "offset": 4416,
+      "value": "golem_lvl2_idle1_2"
+    },
+    {
+      "offset": 4472,
+      "value": "golem_lvl2_idle1_1"
+    },
+    {
+      "offset": 4528,
+      "value": "golem_lvl2_attack1_3"
+    },
+    {
+      "offset": 4588,
+      "value": "golem_lvl2_attack1_2"
+    },
+    {
+      "offset": 4648,
+      "value": "golem_lvl2_attack1_1"
+    },
+    {
+      "offset": 4708,
+      "value": "golem_lvl1_walk1_3"
+    },
+    {
+      "offset": 4764,
+      "value": "golem_lvl1_walk1_2"
+    },
+    {
+      "offset": 4820,
+      "value": "golem_lvl1_walk1_1"
+    },
+    {
+      "offset": 4876,
+      "value": "golem_lvl1_idle1_3"
+    },
+    {
+      "offset": 4932,
+      "value": "golem_lvl1_idle1_2"
+    },
+    {
+      "offset": 4988,
+      "value": "golem_lvl1_idle1_1"
+    },
+    {
+      "offset": 5044,
+      "value": "golem_lvl1_attack1_3"
+    },
+    {
+      "offset": 5104,
+      "value": "golem_lvl1_attack1_2"
+    },
+    {
+      "offset": 5164,
+      "value": "golem_lvl1_attack1_1"
+    },
+    {
+      "offset": 5224,
+      "value": "golem_lvl15_walk1_3"
+    },
+    {
+      "offset": 5280,
+      "value": "golem_lvl15_walk1_2"
+    },
+    {
+      "offset": 5336,
+      "value": "golem_lvl15_walk1_1"
+    },
+    {
+      "offset": 5392,
+      "value": "golem_lvl15_idle1_3"
+    },
+    {
+      "offset": 5448,
+      "value": "golem_lvl15_idle1_2"
+    },
+    {
+      "offset": 5504,
+      "value": "golem_lvl15_idle1_1"
+    },
+    {
+      "offset": 5560,
+      "value": "golem_lvl15_attack1_3"
+    },
+    {
+      "offset": 5620,
+      "value": "golem_lvl15_attack1_2"
+    },
+    {
+      "offset": 5680,
+      "value": "golem_lvl15_attack1_1"
+    },
+    {
+      "offset": 5740,
+      "value": "golem_lvl14_walk1_3"
+    },
+    {
+      "offset": 5796,
+      "value": "golem_lvl14_walk1_2"
+    },
+    {
+      "offset": 5852,
+      "value": "golem_lvl14_walk1_1"
+    },
+    {
+      "offset": 5908,
+      "value": "golem_lvl14_idle1_3"
+    },
+    {
+      "offset": 5964,
+      "value": "golem_lvl14_idle1_2"
+    },
+    {
+      "offset": 6020,
+      "value": "golem_lvl14_idle1_1"
+    },
+    {
+      "offset": 6076,
+      "value": "golem_lvl14_attack1_3"
+    },
+    {
+      "offset": 6136,
+      "value": "golem_lvl14_attack1_2"
+    },
+    {
+      "offset": 6196,
+      "value": "golem_lvl14_attack1_1"
+    },
+    {
+      "offset": 6256,
+      "value": "golem_lvl13_walk1_3"
+    },
+    {
+      "offset": 6312,
+      "value": "golem_lvl13_walk1_2"
+    },
+    {
+      "offset": 6368,
+      "value": "golem_lvl13_walk1_1"
+    },
+    {
+      "offset": 6424,
+      "value": "golem_lvl13_idle1_3"
+    },
+    {
+      "offset": 6480,
+      "value": "golem_lvl13_idle1_2"
+    },
+    {
+      "offset": 6536,
+      "value": "golem_lvl13_idle1_1"
+    },
+    {
+      "offset": 6592,
+      "value": "golem_lvl13_attack1_3"
+    },
+    {
+      "offset": 6652,
+      "value": "golem_lvl13_attack1_2"
+    },
+    {
+      "offset": 6712,
+      "value": "golem_lvl13_attack1_1"
+    },
+    {
+      "offset": 6772,
+      "value": "golem_lvl10_walk1_3"
+    },
+    {
+      "offset": 6828,
+      "value": "golem_lvl10_walk1_2"
+    },
+    {
+      "offset": 6884,
+      "value": "golem_lvl10_walk1_1"
+    },
+    {
+      "offset": 6940,
+      "value": "golem_lvl10_idle1_3"
+    },
+    {
+      "offset": 6996,
+      "value": "golem_lvl10_idle1_2"
+    },
+    {
+      "offset": 7052,
+      "value": "golem_lvl10_idle1_1"
+    },
+    {
+      "offset": 7108,
+      "value": "golem_lvl10_attack1_3"
+    },
+    {
+      "offset": 7168,
+      "value": "golem_lvl10_attack1_2"
+    },
+    {
+      "offset": 7236,
+      "value": "golem_lvl10_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "golem_lvl9_walk1_3",
+    "golem_lvl9_walk1_2",
+    "golem_lvl9_walk1_1",
+    "golem_lvl9_idle1_3",
+    "golem_lvl9_idle1_2",
+    "golem_lvl9_idle1_1",
+    "golem_lvl9_attack1_3",
+    "golem_lvl9_attack1_2",
+    "golem_lvl9_attack1_1",
+    "golem_lvl8_walk1_3",
+    "golem_lvl8_walk1_2",
+    "golem_lvl8_walk1_1",
+    "golem_lvl8_idle1_3",
+    "golem_lvl8_idle1_2",
+    "golem_lvl8_idle1_1",
+    "golem_lvl8_attack1_3",
+    "golem_lvl8_attack1_2",
+    "golem_lvl8_attack1_1",
+    "golem_lvl7_walk1_3",
+    "golem_lvl7_walk1_2",
+    "golem_lvl7_walk1_1",
+    "golem_lvl7_idle1_3",
+    "golem_lvl7_idle1_2",
+    "golem_lvl7_idle1_1",
+    "golem_lvl7_attack1_3",
+    "golem_lvl7_attack1_2",
+    "golem_lvl7_attack1_1",
+    "golem_lvl6_walk1_3",
+    "golem_lvl6_walk1_2",
+    "golem_lvl6_walk1_1",
+    "golem_lvl6_idle1_3",
+    "golem_lvl6_idle1_2",
+    "golem_lvl6_idle1_1",
+    "golem_lvl6_attack1_3",
+    "golem_lvl6_attack1_2",
+    "golem_lvl6_attack1_1",
+    "golem_lvl5_walk1_3",
+    "golem_lvl5_walk1_2",
+    "golem_lvl5_walk1_1",
+    "golem_lvl5_idle1_3",
+    "golem_lvl5_idle1_2",
+    "golem_lvl5_idle1_1",
+    "golem_lvl5_attack1_3",
+    "golem_lvl5_attack1_2",
+    "golem_lvl5_attack1_1",
+    "golem_lvl4_walk1_3",
+    "golem_lvl4_walk1_2",
+    "golem_lvl4_walk1_1",
+    "golem_lvl4_idle1_3",
+    "golem_lvl4_idle1_2",
+    "golem_lvl4_idle1_1",
+    "golem_lvl4_attack1_3",
+    "golem_lvl4_attack1_2",
+    "golem_lvl4_attack1_1",
+    "golem_lvl3_walk1_3",
+    "golem_lvl3_walk1_2",
+    "golem_lvl3_walk1_1",
+    "golem_lvl3_idle1_3",
+    "golem_lvl3_idle1_2",
+    "golem_lvl3_idle1_1",
+    "golem_lvl3_attack1_3",
+    "f9P",
+    "golem_lvl3_attack1_2",
+    "golem_lvl3_attack1_1",
+    "golem_lvl2_walk1_3",
+    "golem_lvl2_walk1_2",
+    "golem_lvl2_walk1_1",
+    "golem_lvl2_idle1_3",
+    "golem_lvl2_idle1_2",
+    "golem_lvl2_idle1_1",
+    "golem_lvl2_attack1_3",
+    "golem_lvl2_attack1_2",
+    "golem_lvl2_attack1_1",
+    "golem_lvl1_walk1_3",
+    "golem_lvl1_walk1_2",
+    "golem_lvl1_walk1_1",
+    "golem_lvl1_idle1_3",
+    "golem_lvl1_idle1_2",
+    "golem_lvl1_idle1_1",
+    "golem_lvl1_attack1_3",
+    "golem_lvl1_attack1_2",
+    "golem_lvl1_attack1_1",
+    "golem_lvl15_walk1_3",
+    "golem_lvl15_walk1_2",
+    "golem_lvl15_walk1_1",
+    "golem_lvl15_idle1_3",
+    "golem_lvl15_idle1_2",
+    "golem_lvl15_idle1_1",
+    "golem_lvl15_attack1_3",
+    "golem_lvl15_attack1_2",
+    "golem_lvl15_attack1_1",
+    "golem_lvl14_walk1_3",
+    "golem_lvl14_walk1_2",
+    "golem_lvl14_walk1_1",
+    "golem_lvl14_idle1_3",
+    "golem_lvl14_idle1_2",
+    "golem_lvl14_idle1_1",
+    "golem_lvl14_attack1_3",
+    "golem_lvl14_attack1_2",
+    "golem_lvl14_attack1_1",
+    "golem_lvl13_walk1_3",
+    "golem_lvl13_walk1_2",
+    "golem_lvl13_walk1_1",
+    "golem_lvl13_idle1_3",
+    "golem_lvl13_idle1_2",
+    "golem_lvl13_idle1_1",
+    "golem_lvl13_attack1_3",
+    "golem_lvl13_attack1_2",
+    "golem_lvl13_attack1_1",
+    "golem_lvl10_walk1_3",
+    "golem_lvl10_walk1_2",
+    "golem_lvl10_walk1_1",
+    "golem_lvl10_idle1_3",
+    "golem_lvl10_idle1_2",
+    "golem_lvl10_idle1_1",
+    "golem_lvl10_attack1_3",
+    "golem_lvl10_attack1_2",
+    "golem_lvl10_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 6052,
+      "value": "ffNA"
+    },
+    {
+      "offset": 6304,
+      "value": "ffNA"
+    },
+    {
+      "offset": 6411,
+      "value": "j330B"
+    },
+    {
+      "offset": 7285,
+      "value": "kza"
+    },
+    {
+      "offset": 7321,
+      "value": "x/c"
+    },
+    {
+      "offset": 7468,
+      "value": "ffNA"
+    },
+    {
+      "offset": 7480,
+      "value": "ffNA"
+    },
+    {
+      "offset": 14524,
+      "value": "ffNA"
+    },
+    {
+      "offset": 14749,
+      "value": "dww"
+    },
+    {
+      "offset": 16525,
+      "value": "s+y"
+    },
+    {
+      "offset": 40192,
+      "value": "ffjA"
+    },
+    {
+      "offset": 41905,
+      "value": "F1K"
+    },
+    {
+      "offset": 42769,
+      "value": "gI0"
+    },
+    {
+      "offset": 42853,
+      "value": "Hhh"
+    },
+    {
+      "offset": 43693,
+      "value": "kSm"
+    },
+    {
+      "offset": 43717,
+      "value": "iSm"
+    },
+    {
+      "offset": 44053,
+      "value": "AbI"
+    },
+    {
+      "offset": 44464,
+      "value": "ff2B"
+    },
+    {
+      "offset": 45049,
+      "value": "U1e33kA"
+    },
+    {
+      "offset": 93580,
+      "value": "golem_lvl5_idle1_2"
+    },
+    {
+      "offset": 93604,
+      "value": "golem_lvl10_attack1_3"
+    },
+    {
+      "offset": 93632,
+      "value": "golem_lvl5_idle1_1"
+    },
+    {
+      "offset": 93656,
+      "value": "golem_lvl4_idle1_1"
+    },
+    {
+      "offset": 93680,
+      "value": "golem_lvl5_attack1_3"
+    },
+    {
+      "offset": 93708,
+      "value": "golem_lvl9_attack1_3"
+    },
+    {
+      "offset": 93736,
+      "value": "golem_lvl5_attack1_2"
+    },
+    {
+      "offset": 93764,
+      "value": "golem_lvl5_idle1_3"
+    },
+    {
+      "offset": 93788,
+      "value": "golem_lvl5_walk1_2"
+    },
+    {
+      "offset": 93812,
+      "value": "golem_lvl5_attack1_1"
+    },
+    {
+      "offset": 93840,
+      "value": "golem_lvl14_idle1_2"
+    },
+    {
+      "offset": 93864,
+      "value": "golem_lvl13_attack1_2"
+    },
+    {
+      "offset": 93892,
+      "value": "golem_lvl4_walk1_2"
+    },
+    {
+      "offset": 93916,
+      "value": "golem_lvl4_idle1_3"
+    },
+    {
+      "offset": 93940,
+      "value": "golem_lvl2_walk1_2"
+    },
+    {
+      "offset": 93964,
+      "value": "golem_lvl4_idle1_2"
+    },
+    {
+      "offset": 93988,
+      "value": "golem_lvl2_walk1_3"
+    },
+    {
+      "offset": 94012,
+      "value": "golem_lvl4_attack1_1"
+    },
+    {
+      "offset": 94040,
+      "value": "golem_lvl7_idle1_1"
+    },
+    {
+      "offset": 94064,
+      "value": "golem_lvl8_idle1_1"
+    },
+    {
+      "offset": 94088,
+      "value": "golem_lvl9_idle1_1"
+    },
+    {
+      "offset": 94112,
+      "value": "golem_lvl3_walk1_2"
+    },
+    {
+      "offset": 94136,
+      "value": "golem_lvl3_walk1_1"
+    },
+    {
+      "offset": 94160,
+      "value": "golem_lvl8_walk1_1"
+    },
+    {
+      "offset": 94184,
+      "value": "golem_lvl3_idle1_3"
+    },
+    {
+      "offset": 94208,
+      "value": "golem_lvl1_walk1_3"
+    },
+    {
+      "offset": 94232,
+      "value": "golem_lvl3_idle1_2"
+    },
+    {
+      "offset": 94256,
+      "value": "golem_lvl14_walk1_1"
+    },
+    {
+      "offset": 94280,
+      "value": "golem_lvl13_attack1_1"
+    },
+    {
+      "offset": 94308,
+      "value": "golem_lvl4_attack1_3"
+    },
+    {
+      "offset": 94336,
+      "value": "golem_lvl15_attack1_2"
+    },
+    {
+      "offset": 94364,
+      "value": "golem_lvl7_idle1_2"
+    },
+    {
+      "offset": 94388,
+      "value": "golem_lvl3_attack1_3"
+    },
+    {
+      "offset": 94416,
+      "value": "golem_lvl3_idle1_1"
+    },
+    {
+      "offset": 94440,
+      "value": "golem_lvl1_walk1_1"
+    },
+    {
+      "offset": 94464,
+      "value": "golem_lvl1_walk1_2"
+    },
+    {
+      "offset": 94488,
+      "value": "golem_lvl3_walk1_3"
+    },
+    {
+      "offset": 94512,
+      "value": "golem_lvl15_walk1_1"
+    },
+    {
+      "offset": 94536,
+      "value": "golem_lvl15_attack1_1"
+    },
+    {
+      "offset": 94564,
+      "value": "golem_lvl7_walk1_3"
+    },
+    {
+      "offset": 94588,
+      "value": "golem_lvl15_walk1_3"
+    },
+    {
+      "offset": 94612,
+      "value": "golem_lvl15_attack1_3"
+    },
+    {
+      "offset": 94640,
+      "value": "golem_lvl4_walk1_1"
+    },
+    {
+      "offset": 94664,
+      "value": "golem_lvl6_walk1_1"
+    },
+    {
+      "offset": 94688,
+      "value": "golem_lvl2_idle1_1"
+    },
+    {
+      "offset": 94712,
+      "value": "golem_lvl14_walk1_3"
+    },
+    {
+      "offset": 94736,
+      "value": "golem_lvl2_attack1_2"
+    },
+    {
+      "offset": 94764,
+      "value": "golem_lvl8_walk1_2"
+    },
+    {
+      "offset": 94788,
+      "value": "golem_lvl2_idle1_3"
+    },
+    {
+      "offset": 94812,
+      "value": "golem_lvl4_attack1_2"
+    },
+    {
+      "offset": 94840,
+      "value": "golem_lvl9_idle1_2"
+    },
+    {
+      "offset": 94864,
+      "value": "golem_lvl14_idle1_3"
+    },
+    {
+      "offset": 94888,
+      "value": "golem_lvl9_idle1_3"
+    },
+    {
+      "offset": 94912,
+      "value": "golem_lvl5_walk1_1"
+    },
+    {
+      "offset": 94936,
+      "value": "golem_lvl15_idle1_2"
+    },
+    {
+      "offset": 94960,
+      "value": "golem_lvl4_walk1_3"
+    },
+    {
+      "offset": 94984,
+      "value": "golem_lvl14_idle1_1"
+    },
+    {
+      "offset": 95008,
+      "value": "golem_lvl6_idle1_3"
+    },
+    {
+      "offset": 95032,
+      "value": "golem_lvl1_idle1_3"
+    },
+    {
+      "offset": 95056,
+      "value": "golem_lvl3_attack1_1"
+    },
+    {
+      "offset": 95084,
+      "value": "golem_lvl7_attack1_1"
+    },
+    {
+      "offset": 95112,
+      "value": "golem_lvl14_walk1_2"
+    },
+    {
+      "offset": 95136,
+      "value": "golem_lvl7_idle1_3"
+    },
+    {
+      "offset": 95160,
+      "value": "golem_lvl14_attack1_2"
+    },
+    {
+      "offset": 95188,
+      "value": "golem_lvl7_attack1_3"
+    },
+    {
+      "offset": 95216,
+      "value": "golem_lvl2_attack1_1"
+    },
+    {
+      "offset": 95244,
+      "value": "golem_lvl10_walk1_2"
+    },
+    {
+      "offset": 95268,
+      "value": "golem_lvl3_attack1_2"
+    },
+    {
+      "offset": 95296,
+      "value": "golem_lvl15_idle1_1"
+    },
+    {
+      "offset": 95320,
+      "value": "golem_lvl15_idle1_3"
+    },
+    {
+      "offset": 95344,
+      "value": "golem_lvl14_attack1_3"
+    },
+    {
+      "offset": 95372,
+      "value": "golem_lvl1_attack1_3"
+    },
+    {
+      "offset": 95400,
+      "value": "golem_lvl8_walk1_3"
+    },
+    {
+      "offset": 95424,
+      "value": "golem_lvl15_walk1_2"
+    },
+    {
+      "offset": 95448,
+      "value": "golem_lvl1_attack1_1"
+    },
+    {
+      "offset": 95476,
+      "value": "golem_lvl1_attack1_2"
+    },
+    {
+      "offset": 95504,
+      "value": "golem_lvl2_attack1_3"
+    },
+    {
+      "offset": 95532,
+      "value": "golem_lvl2_idle1_2"
+    },
+    {
+      "offset": 95556,
+      "value": "golem_lvl14_attack1_1"
+    },
+    {
+      "offset": 95584,
+      "value": "golem_lvl2_walk1_1"
+    },
+    {
+      "offset": 95608,
+      "value": "golem_lvl13_idle1_1"
+    },
+    {
+      "offset": 95632,
+      "value": "golem_lvl5_walk1_3"
+    },
+    {
+      "offset": 95656,
+      "value": "golem_lvl6_attack1_1"
+    },
+    {
+      "offset": 95684,
+      "value": "golem_lvl10_idle1_1"
+    },
+    {
+      "offset": 95708,
+      "value": "golem_lvl6_attack1_2"
+    },
+    {
+      "offset": 95736,
+      "value": "golem_lvl6_attack1_3"
+    },
+    {
+      "offset": 95764,
+      "value": "golem_lvl6_idle1_1"
+    },
+    {
+      "offset": 95788,
+      "value": "golem_lvl6_walk1_3"
+    },
+    {
+      "offset": 95812,
+      "value": "golem_lvl8_idle1_2"
+    },
+    {
+      "offset": 95836,
+      "value": "golem_lvl6_idle1_2"
+    },
+    {
+      "offset": 95860,
+      "value": "golem_lvl6_walk1_2"
+    },
+    {
+      "offset": 95884,
+      "value": "golem_lvl7_attack1_2"
+    },
+    {
+      "offset": 95912,
+      "value": "golem_lvl7_walk1_1"
+    },
+    {
+      "offset": 95936,
+      "value": "golem_lvl7_walk1_2"
+    },
+    {
+      "offset": 95960,
+      "value": "golem_lvl8_attack1_1"
+    },
+    {
+      "offset": 95988,
+      "value": "golem_lvl8_attack1_2"
+    },
+    {
+      "offset": 96016,
+      "value": "golem_lvl8_attack1_3"
+    },
+    {
+      "offset": 96044,
+      "value": "golem_lvl8_idle1_3"
+    },
+    {
+      "offset": 96068,
+      "value": "golem_lvl1_idle1_1"
+    },
+    {
+      "offset": 96092,
+      "value": "golem_lvl13_walk1_3"
+    },
+    {
+      "offset": 96116,
+      "value": "golem_lvl9_attack1_1"
+    },
+    {
+      "offset": 96144,
+      "value": "golem_lvl9_attack1_2"
+    },
+    {
+      "offset": 96172,
+      "value": "golem_lvl9_walk1_1"
+    },
+    {
+      "offset": 96196,
+      "value": "golem_lvl9_walk1_2"
+    },
+    {
+      "offset": 96220,
+      "value": "golem_lvl9_walk1_3"
+    },
+    {
+      "offset": 96244,
+      "value": "golem_lvl10_attack1_1"
+    },
+    {
+      "offset": 96272,
+      "value": "golem_lvl10_attack1_2"
+    },
+    {
+      "offset": 96300,
+      "value": "golem_lvl10_idle1_2"
+    },
+    {
+      "offset": 96324,
+      "value": "golem_lvl10_idle1_3"
+    },
+    {
+      "offset": 96348,
+      "value": "golem_lvl10_walk1_1"
+    },
+    {
+      "offset": 96372,
+      "value": "golem_lvl10_walk1_3"
+    },
+    {
+      "offset": 96396,
+      "value": "golem_lvl13_attack1_3"
+    },
+    {
+      "offset": 96424,
+      "value": "golem_lvl13_idle1_2"
+    },
+    {
+      "offset": 96448,
+      "value": "golem_lvl1_idle1_2"
+    },
+    {
+      "offset": 96472,
+      "value": "golem_lvl13_idle1_3"
+    },
+    {
+      "offset": 96496,
+      "value": "golem_lvl13_walk1_1"
+    },
+    {
+      "offset": 96520,
+      "value": "golem_lvl13_walk1_2"
+    },
+    {
+      "offset": 143300,
+      "value": "chr_golem_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000ed010000750000000100000024790100b06d0000",
+  "decoded_preview_hex": "2079010018000000000012001400040000000000000008000c001000120000008c6b0100b0bf00006815000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

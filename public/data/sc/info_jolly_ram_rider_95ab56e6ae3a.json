@@ -1,0 +1,164 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_jolly_ram_rider.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_jolly_ram_rider.sc",
+  "sha256_container": "95ab56e6ae3a774819e78b30d812ac0f9fdb407f8abe0d88cf37c0be11b1448d",
+  "sha256_descriptor": "6607ff9c734f7329f000dc14e428399943dcbf07a398dbd353bfb5626f5ad482",
+  "sha256_decoded_payload": "e8328983498e9cd73007bad841a0f15a9de12eaff0f15a165da420878ee223e7",
+  "version": 6,
+  "descriptor_bytes": 148,
+  "compressed_frame_bytes": 47073,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 79672,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 220
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 79192
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 47080
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "unit_ramRider_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_ramRider_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 192,
+      "value": "unit_ramRider_big"
+    },
+    {
+      "offset": 1112,
+      "value": "MB_n"
+    },
+    {
+      "offset": 3246,
+      "value": "TP "
+    },
+    {
+      "offset": 11308,
+      "value": "Za3"
+    },
+    {
+      "offset": 24500,
+      "value": "wvA"
+    },
+    {
+      "offset": 31099,
+      "value": "Rd."
+    },
+    {
+      "offset": 35166,
+      "value": "M08"
+    },
+    {
+      "offset": 38404,
+      "value": "v.+"
+    },
+    {
+      "offset": 40371,
+      "value": "CQ@"
+    },
+    {
+      "offset": 43722,
+      "value": "KVBJ.8"
+    },
+    {
+      "offset": 48165,
+      "value": "c@q_"
+    },
+    {
+      "offset": 52042,
+      "value": "GRHP.6"
+    },
+    {
+      "offset": 54266,
+      "value": "stdhf+L"
+    },
+    {
+      "offset": 59436,
+      "value": "Rl2P"
+    },
+    {
+      "offset": 60364,
+      "value": "BD08"
+    },
+    {
+      "offset": 60751,
+      "value": "EaT"
+    },
+    {
+      "offset": 63595,
+      "value": "VHT6H"
+    },
+    {
+      "offset": 67275,
+      "value": "hp7E"
+    },
+    {
+      "offset": 69471,
+      "value": "H4F"
+    },
+    {
+      "offset": 75004,
+      "value": "lz6@"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000010000000100000003000000dc000000",
+  "decoded_preview_hex": "d800000018000000000012001400040000000000000008000c001000120000009000000080000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

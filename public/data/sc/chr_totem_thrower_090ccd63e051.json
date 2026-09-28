@@ -1,0 +1,521 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_totem_thrower.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_totem_thrower.sc",
+  "sha256_container": "090ccd63e0513f97702fe178967d0909d706f80986530f6fc0a70ae8fccb9b58",
+  "sha256_descriptor": "b0a545c0dcd901ff7c1ed40c1ebb804c5440a0ec237d6fb1832dcfa41aa8b7b9",
+  "sha256_decoded_payload": "eab51d2c6c8109fa328e601f775f6f89b508f97237774b096c537ee2fef48181",
+  "version": 6,
+  "descriptor_bytes": 2416,
+  "compressed_frame_bytes": 30682,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 95624,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 400
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 41
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 80,
+      "raw_u32": 65480
+    },
+    {
+      "field_index": 9,
+      "offset": 84,
+      "raw_u32": 15316
+    },
+    {
+      "field_index": 10,
+      "offset": 88,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 92,
+      "raw_u32": 30684
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 276,
+      "value": "totem_thrower_totem_shatter_3"
+    },
+    {
+      "offset": 344,
+      "value": "totem_thrower_totem_fly_3"
+    },
+    {
+      "offset": 408,
+      "value": "totem_thrower_totem_fly_2"
+    },
+    {
+      "offset": 472,
+      "value": "totem_thrower_totem_fly_1"
+    },
+    {
+      "offset": 536,
+      "value": "totem_thrower_totem_3"
+    },
+    {
+      "offset": 596,
+      "value": "totem_thrower_stone_fly_3"
+    },
+    {
+      "offset": 660,
+      "value": "totem_thrower_stone_fly_2"
+    },
+    {
+      "offset": 724,
+      "value": "totem_thrower_stone_fly_1"
+    },
+    {
+      "offset": 788,
+      "value": "totem_thrower_run02_3"
+    },
+    {
+      "offset": 848,
+      "value": "totem_thrower_run02_2"
+    },
+    {
+      "offset": 908,
+      "value": "totem_thrower_run02_1"
+    },
+    {
+      "offset": 968,
+      "value": "totem_thrower_run01_3"
+    },
+    {
+      "offset": 1028,
+      "value": "totem_thrower_run01_2"
+    },
+    {
+      "offset": 1088,
+      "value": "totem_thrower_run01_1"
+    },
+    {
+      "offset": 1148,
+      "value": "totem_thrower_idle02_3"
+    },
+    {
+      "offset": 1208,
+      "value": "totem_thrower_idle02_2"
+    },
+    {
+      "offset": 1268,
+      "value": "totem_thrower_idle02_1"
+    },
+    {
+      "offset": 1328,
+      "value": "totem_thrower_idle01_3"
+    },
+    {
+      "offset": 1388,
+      "value": "totem_thrower_idle01_2"
+    },
+    {
+      "offset": 1448,
+      "value": "totem_thrower_idle01_1"
+    },
+    {
+      "offset": 1508,
+      "value": "totem_thrower_cheer02_3"
+    },
+    {
+      "offset": 1568,
+      "value": "totem_thrower_cheer02_2"
+    },
+    {
+      "offset": 1628,
+      "value": "totem_thrower_cheer02_1"
+    },
+    {
+      "offset": 1688,
+      "value": "totem_thrower_cheer01_3"
+    },
+    {
+      "offset": 1748,
+      "value": "totem_thrower_cheer01_2"
+    },
+    {
+      "offset": 1808,
+      "value": "totem_thrower_cheer01_1"
+    },
+    {
+      "offset": 1868,
+      "value": "totem_thrower_attack03_3"
+    },
+    {
+      "offset": 1932,
+      "value": "totem_thrower_attack03_2"
+    },
+    {
+      "offset": 1996,
+      "value": "totem_thrower_attack03_1"
+    },
+    {
+      "offset": 2060,
+      "value": "totem_thrower_attack02_3"
+    },
+    {
+      "offset": 2124,
+      "value": "totem_thrower_attack02_2"
+    },
+    {
+      "offset": 2188,
+      "value": "totem_thrower_attack02_1"
+    },
+    {
+      "offset": 2252,
+      "value": "totem_thrower_attack01_3"
+    },
+    {
+      "offset": 2316,
+      "value": "totem_thrower_attack01_2"
+    },
+    {
+      "offset": 2388,
+      "value": "totem_thrower_attack01_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "totem_thrower_totem_shatter_3",
+    "totem_thrower_totem_fly_3",
+    "totem_thrower_totem_fly_2",
+    "totem_thrower_totem_fly_1",
+    "totem_thrower_totem_3",
+    "totem_thrower_stone_fly_3",
+    "totem_thrower_stone_fly_2",
+    "totem_thrower_stone_fly_1",
+    "totem_thrower_run02_3",
+    "totem_thrower_run02_2",
+    "totem_thrower_run02_1",
+    "totem_thrower_run01_3",
+    "totem_thrower_run01_2",
+    "totem_thrower_run01_1",
+    "totem_thrower_idle02_3",
+    "totem_thrower_idle02_2",
+    "totem_thrower_idle02_1",
+    "totem_thrower_idle01_3",
+    "totem_thrower_idle01_2",
+    "totem_thrower_idle01_1",
+    "totem_thrower_cheer02_3",
+    "totem_thrower_cheer02_2",
+    "totem_thrower_cheer02_1",
+    "totem_thrower_cheer01_3",
+    "totem_thrower_cheer01_2",
+    "totem_thrower_cheer01_1",
+    "totem_thrower_attack03_3",
+    "totem_thrower_attack03_2",
+    "totem_thrower_attack03_1",
+    "totem_thrower_attack02_3",
+    "totem_thrower_attack02_2",
+    "totem_thrower_attack02_1",
+    "totem_thrower_attack01_3",
+    "totem_thrower_attack01_2",
+    "totem_thrower_attack01_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 10236,
+      "value": "ffIB"
+    },
+    {
+      "offset": 13920,
+      "value": "ff_B"
+    },
+    {
+      "offset": 17031,
+      "value": "AffWB"
+    },
+    {
+      "offset": 17040,
+      "value": "ffWB"
+    },
+    {
+      "offset": 17424,
+      "value": "ffUB"
+    },
+    {
+      "offset": 17904,
+      "value": "ffNA"
+    },
+    {
+      "offset": 18444,
+      "value": "ffjA"
+    },
+    {
+      "offset": 21603,
+      "value": "Aff"
+    },
+    {
+      "offset": 22112,
+      "value": "v-Fn"
+    },
+    {
+      "offset": 23784,
+      "value": "ffMB"
+    },
+    {
+      "offset": 23976,
+      "value": "ffgB"
+    },
+    {
+      "offset": 30000,
+      "value": "ff1B"
+    },
+    {
+      "offset": 31416,
+      "value": "ffvB"
+    },
+    {
+      "offset": 31440,
+      "value": "ffvBff"
+    },
+    {
+      "offset": 32481,
+      "value": "rJW"
+    },
+    {
+      "offset": 32505,
+      "value": "sJW"
+    },
+    {
+      "offset": 33561,
+      "value": "qk9"
+    },
+    {
+      "offset": 34706,
+      "value": "ZBff"
+    },
+    {
+      "offset": 35256,
+      "value": "ff6@"
+    },
+    {
+      "offset": 36405,
+      "value": "F7d"
+    },
+    {
+      "offset": 36740,
+      "value": "cBH/"
+    },
+    {
+      "offset": 38112,
+      "value": "ff1B"
+    },
+    {
+      "offset": 39167,
+      "value": "D33OB"
+    },
+    {
+      "offset": 39274,
+      "value": "MYfffA"
+    },
+    {
+      "offset": 39489,
+      "value": "P b"
+    },
+    {
+      "offset": 39500,
+      "value": "EN7d"
+    },
+    {
+      "offset": 39524,
+      "value": "eJ7d"
+    },
+    {
+      "offset": 39537,
+      "value": "ItX"
+    },
+    {
+      "offset": 40199,
+      "value": "q33OB"
+    },
+    {
+      "offset": 43257,
+      "value": "ob3"
+    },
+    {
+      "offset": 43683,
+      "value": "Bff"
+    },
+    {
+      "offset": 44100,
+      "value": "ffJA"
+    },
+    {
+      "offset": 64428,
+      "value": "totem_thrower_totem_fly_1"
+    },
+    {
+      "offset": 64460,
+      "value": "totem_thrower_run02_3"
+    },
+    {
+      "offset": 64488,
+      "value": "totem_thrower_run01_3"
+    },
+    {
+      "offset": 64516,
+      "value": "totem_thrower_idle01_1"
+    },
+    {
+      "offset": 64544,
+      "value": "totem_thrower_run01_2"
+    },
+    {
+      "offset": 64572,
+      "value": "totem_thrower_run02_1"
+    },
+    {
+      "offset": 64600,
+      "value": "totem_thrower_attack01_1"
+    },
+    {
+      "offset": 64632,
+      "value": "totem_thrower_idle01_3"
+    },
+    {
+      "offset": 64660,
+      "value": "totem_thrower_idle01_2"
+    },
+    {
+      "offset": 64688,
+      "value": "totem_thrower_idle02_1"
+    },
+    {
+      "offset": 64716,
+      "value": "totem_thrower_attack01_3"
+    },
+    {
+      "offset": 64748,
+      "value": "totem_thrower_idle02_3"
+    },
+    {
+      "offset": 64776,
+      "value": "totem_thrower_cheer02_2"
+    },
+    {
+      "offset": 64804,
+      "value": "totem_thrower_attack03_3"
+    },
+    {
+      "offset": 64836,
+      "value": "totem_thrower_run01_1"
+    },
+    {
+      "offset": 64864,
+      "value": "totem_thrower_attack02_1"
+    },
+    {
+      "offset": 64896,
+      "value": "totem_thrower_cheer02_3"
+    },
+    {
+      "offset": 64924,
+      "value": "totem_thrower_attack03_1"
+    },
+    {
+      "offset": 64956,
+      "value": "totem_thrower_attack03_2"
+    },
+    {
+      "offset": 64988,
+      "value": "totem_thrower_stone_fly_2"
+    },
+    {
+      "offset": 65020,
+      "value": "totem_thrower_cheer01_2"
+    },
+    {
+      "offset": 65048,
+      "value": "totem_thrower_attack02_2"
+    },
+    {
+      "offset": 65080,
+      "value": "totem_thrower_run02_2"
+    },
+    {
+      "offset": 65108,
+      "value": "totem_thrower_idle02_2"
+    },
+    {
+      "offset": 65136,
+      "value": "totem_thrower_attack02_3"
+    },
+    {
+      "offset": 65168,
+      "value": "totem_thrower_stone_fly_1"
+    },
+    {
+      "offset": 65200,
+      "value": "totem_thrower_totem_3"
+    },
+    {
+      "offset": 65228,
+      "value": "totem_thrower_cheer01_3"
+    },
+    {
+      "offset": 65256,
+      "value": "totem_thrower_attack01_2"
+    },
+    {
+      "offset": 65288,
+      "value": "totem_thrower_cheer02_1"
+    },
+    {
+      "offset": 65316,
+      "value": "totem_thrower_cheer01_1"
+    },
+    {
+      "offset": 65344,
+      "value": "totem_thrower_stone_fly_3"
+    },
+    {
+      "offset": 65376,
+      "value": "totem_thrower_totem_fly_2"
+    },
+    {
+      "offset": 65408,
+      "value": "totem_thrower_totem_fly_3"
+    },
+    {
+      "offset": 65440,
+      "value": "totem_thrower_totem_shatter_3"
+    },
+    {
+      "offset": 95596,
+      "value": "chr_totem_thrower_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "380000001400000083445a1eecb588667b90d54adb110469d96e4df31c002800040008000c001000140000000000000018001c00200024001c00000001000000",
+  "decoded_preview_hex": "c4ff000018000000000012001400040000000000000008000c00100012000000f4fa000054b100005824000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

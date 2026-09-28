@@ -1,0 +1,1124 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_cannon_cart.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_cannon_cart.sc",
+  "sha256_container": "3ca45bbe967b225867588ddbbfa09ac87fac8f9544e7be2eafca6edb4456bf91",
+  "sha256_descriptor": "84bae899350a313bf65e6d3ac3232e06c3ff5262dc4f702a6e681fd9abe9021a",
+  "sha256_decoded_payload": "0a966ed2033d7934b95e0cba63fa9b27dc33a79dbb71f686f365472427e43b85",
+  "version": 6,
+  "descriptor_bytes": 7916,
+  "compressed_frame_bytes": 16617,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 81436,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 211
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 115
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 54416
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 18528
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 16624
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 568,
+      "value": "movingCannon_lvl1_run1_9"
+    },
+    {
+      "offset": 632,
+      "value": "movingCannon_lvl1_run1_8"
+    },
+    {
+      "offset": 696,
+      "value": "movingCannon_lvl1_run1_7"
+    },
+    {
+      "offset": 760,
+      "value": "movingCannon_lvl1_run1_6"
+    },
+    {
+      "offset": 824,
+      "value": "movingCannon_lvl1_run1_5"
+    },
+    {
+      "offset": 888,
+      "value": "movingCannon_lvl1_run1_4"
+    },
+    {
+      "offset": 952,
+      "value": "movingCannon_lvl1_run1_3"
+    },
+    {
+      "offset": 1016,
+      "value": "movingCannon_lvl1_run1_2"
+    },
+    {
+      "offset": 1080,
+      "value": "movingCannon_lvl1_run1_19"
+    },
+    {
+      "offset": 1144,
+      "value": "movingCannon_lvl1_run1_18"
+    },
+    {
+      "offset": 1208,
+      "value": "movingCannon_lvl1_run1_17"
+    },
+    {
+      "offset": 1272,
+      "value": "movingCannon_lvl1_run1_16"
+    },
+    {
+      "offset": 1336,
+      "value": "movingCannon_lvl1_run1_15"
+    },
+    {
+      "offset": 1400,
+      "value": "movingCannon_lvl1_run1_14"
+    },
+    {
+      "offset": 1464,
+      "value": "movingCannon_lvl1_run1_13"
+    },
+    {
+      "offset": 1528,
+      "value": "movingCannon_lvl1_run1_12"
+    },
+    {
+      "offset": 1592,
+      "value": "movingCannon_lvl1_run1_11"
+    },
+    {
+      "offset": 1656,
+      "value": "movingCannon_lvl1_run1_10"
+    },
+    {
+      "offset": 1720,
+      "value": "movingCannon_lvl1_run1_1"
+    },
+    {
+      "offset": 1784,
+      "value": "movingCannon_lvl1_idle1_9"
+    },
+    {
+      "offset": 1848,
+      "value": "movingCannon_lvl1_idle1_8"
+    },
+    {
+      "offset": 1912,
+      "value": "movingCannon_lvl1_idle1_7"
+    },
+    {
+      "offset": 1976,
+      "value": "movingCannon_lvl1_idle1_6"
+    },
+    {
+      "offset": 2040,
+      "value": "movingCannon_lvl1_idle1_5"
+    },
+    {
+      "offset": 2104,
+      "value": "movingCannon_lvl1_idle1_4"
+    },
+    {
+      "offset": 2168,
+      "value": "movingCannon_lvl1_idle1_3"
+    },
+    {
+      "offset": 2232,
+      "value": "movingCannon_lvl1_idle1_2"
+    },
+    {
+      "offset": 2296,
+      "value": "movingCannon_lvl1_idle1_19"
+    },
+    {
+      "offset": 2360,
+      "value": "movingCannon_lvl1_idle1_18"
+    },
+    {
+      "offset": 2424,
+      "value": "movingCannon_lvl1_idle1_17"
+    },
+    {
+      "offset": 2488,
+      "value": "movingCannon_lvl1_idle1_16"
+    },
+    {
+      "offset": 2552,
+      "value": "movingCannon_lvl1_idle1_15"
+    },
+    {
+      "offset": 2616,
+      "value": "movingCannon_lvl1_idle1_14"
+    },
+    {
+      "offset": 2680,
+      "value": "movingCannon_lvl1_idle1_13"
+    },
+    {
+      "offset": 2744,
+      "value": "movingCannon_lvl1_idle1_12"
+    },
+    {
+      "offset": 2808,
+      "value": "movingCannon_lvl1_idle1_11"
+    },
+    {
+      "offset": 2872,
+      "value": "movingCannon_lvl1_idle1_10"
+    },
+    {
+      "offset": 2936,
+      "value": "movingCannon_lvl1_idle1_1"
+    },
+    {
+      "offset": 3000,
+      "value": "movingCannon_lvl1_attack1_9"
+    },
+    {
+      "offset": 3064,
+      "value": "movingCannon_lvl1_attack1_8"
+    },
+    {
+      "offset": 3128,
+      "value": "movingCannon_lvl1_attack1_7"
+    },
+    {
+      "offset": 3192,
+      "value": "movingCannon_lvl1_attack1_6"
+    },
+    {
+      "offset": 3256,
+      "value": "movingCannon_lvl1_attack1_5"
+    },
+    {
+      "offset": 3320,
+      "value": "movingCannon_lvl1_attack1_4"
+    },
+    {
+      "offset": 3384,
+      "value": "movingCannon_lvl1_attack1_3"
+    },
+    {
+      "offset": 3448,
+      "value": "movingCannon_lvl1_attack1_2"
+    },
+    {
+      "offset": 3512,
+      "value": "movingCannon_lvl1_attack1_19"
+    },
+    {
+      "offset": 3580,
+      "value": "movingCannon_lvl1_attack1_18"
+    },
+    {
+      "offset": 3648,
+      "value": "movingCannon_lvl1_attack1_17"
+    },
+    {
+      "offset": 3716,
+      "value": "movingCannon_lvl1_attack1_16"
+    },
+    {
+      "offset": 3784,
+      "value": "movingCannon_lvl1_attack1_15"
+    },
+    {
+      "offset": 3852,
+      "value": "movingCannon_lvl1_attack1_14"
+    },
+    {
+      "offset": 3920,
+      "value": "movingCannon_lvl1_attack1_13"
+    },
+    {
+      "offset": 3988,
+      "value": "movingCannon_lvl1_attack1_12"
+    },
+    {
+      "offset": 4056,
+      "value": "movingCannon_lvl1_attack1_11"
+    },
+    {
+      "offset": 4124,
+      "value": "movingCannon_lvl1_attack1_10"
+    },
+    {
+      "offset": 4192,
+      "value": "movingCannon_lvl1_attack1_1"
+    },
+    {
+      "offset": 4256,
+      "value": "brokenCannon_lvl1_run1_9"
+    },
+    {
+      "offset": 4320,
+      "value": "brokenCannon_lvl1_run1_8"
+    },
+    {
+      "offset": 4384,
+      "value": "brokenCannon_lvl1_run1_7"
+    },
+    {
+      "offset": 4448,
+      "value": "brokenCannon_lvl1_run1_6"
+    },
+    {
+      "offset": 4512,
+      "value": "brokenCannon_lvl1_run1_5"
+    },
+    {
+      "offset": 4576,
+      "value": "brokenCannon_lvl1_run1_4"
+    },
+    {
+      "offset": 4640,
+      "value": "brokenCannon_lvl1_run1_3"
+    },
+    {
+      "offset": 4704,
+      "value": "brokenCannon_lvl1_run1_2"
+    },
+    {
+      "offset": 4768,
+      "value": "brokenCannon_lvl1_run1_19"
+    },
+    {
+      "offset": 4832,
+      "value": "brokenCannon_lvl1_run1_18"
+    },
+    {
+      "offset": 4896,
+      "value": "brokenCannon_lvl1_run1_17"
+    },
+    {
+      "offset": 4960,
+      "value": "brokenCannon_lvl1_run1_16"
+    },
+    {
+      "offset": 5024,
+      "value": "brokenCannon_lvl1_run1_15"
+    },
+    {
+      "offset": 5088,
+      "value": "brokenCannon_lvl1_run1_14"
+    },
+    {
+      "offset": 5152,
+      "value": "brokenCannon_lvl1_run1_13"
+    },
+    {
+      "offset": 5216,
+      "value": "brokenCannon_lvl1_run1_12"
+    },
+    {
+      "offset": 5280,
+      "value": "brokenCannon_lvl1_run1_11"
+    },
+    {
+      "offset": 5344,
+      "value": "brokenCannon_lvl1_run1_10"
+    },
+    {
+      "offset": 5408,
+      "value": "brokenCannon_lvl1_run1_1"
+    },
+    {
+      "offset": 5472,
+      "value": "brokenCannon_lvl1_idle1_9"
+    },
+    {
+      "offset": 5536,
+      "value": "brokenCannon_lvl1_idle1_8"
+    },
+    {
+      "offset": 5600,
+      "value": "brokenCannon_lvl1_idle1_7"
+    },
+    {
+      "offset": 5664,
+      "value": "brokenCannon_lvl1_idle1_6"
+    },
+    {
+      "offset": 5728,
+      "value": "brokenCannon_lvl1_idle1_5"
+    },
+    {
+      "offset": 5792,
+      "value": "brokenCannon_lvl1_idle1_4"
+    },
+    {
+      "offset": 5856,
+      "value": "brokenCannon_lvl1_idle1_3"
+    },
+    {
+      "offset": 5920,
+      "value": "brokenCannon_lvl1_idle1_2"
+    },
+    {
+      "offset": 5984,
+      "value": "brokenCannon_lvl1_idle1_19"
+    },
+    {
+      "offset": 6048,
+      "value": "brokenCannon_lvl1_idle1_18"
+    },
+    {
+      "offset": 6112,
+      "value": "brokenCannon_lvl1_idle1_17"
+    },
+    {
+      "offset": 6176,
+      "value": "brokenCannon_lvl1_idle1_16"
+    },
+    {
+      "offset": 6240,
+      "value": "brokenCannon_lvl1_idle1_15"
+    },
+    {
+      "offset": 6304,
+      "value": "brokenCannon_lvl1_idle1_14"
+    },
+    {
+      "offset": 6368,
+      "value": "brokenCannon_lvl1_idle1_13"
+    },
+    {
+      "offset": 6432,
+      "value": "brokenCannon_lvl1_idle1_12"
+    },
+    {
+      "offset": 6496,
+      "value": "brokenCannon_lvl1_idle1_11"
+    },
+    {
+      "offset": 6560,
+      "value": "brokenCannon_lvl1_idle1_10"
+    },
+    {
+      "offset": 6624,
+      "value": "brokenCannon_lvl1_idle1_1"
+    },
+    {
+      "offset": 6688,
+      "value": "brokenCannon_lvl1_attack1_9"
+    },
+    {
+      "offset": 6752,
+      "value": "brokenCannon_lvl1_attack1_8"
+    },
+    {
+      "offset": 6816,
+      "value": "brokenCannon_lvl1_attack1_7"
+    },
+    {
+      "offset": 6880,
+      "value": "brokenCannon_lvl1_attack1_6"
+    },
+    {
+      "offset": 6944,
+      "value": "brokenCannon_lvl1_attack1_5"
+    },
+    {
+      "offset": 7008,
+      "value": "brokenCannon_lvl1_attack1_4"
+    },
+    {
+      "offset": 7072,
+      "value": "brokenCannon_lvl1_attack1_3"
+    },
+    {
+      "offset": 7136,
+      "value": "brokenCannon_lvl1_attack1_2"
+    },
+    {
+      "offset": 7200,
+      "value": "brokenCannon_lvl1_attack1_19"
+    },
+    {
+      "offset": 7268,
+      "value": "brokenCannon_lvl1_attack1_18"
+    },
+    {
+      "offset": 7336,
+      "value": "brokenCannon_lvl1_attack1_17"
+    },
+    {
+      "offset": 7404,
+      "value": "brokenCannon_lvl1_attack1_16"
+    },
+    {
+      "offset": 7472,
+      "value": "brokenCannon_lvl1_attack1_15"
+    },
+    {
+      "offset": 7540,
+      "value": "brokenCannon_lvl1_attack1_14"
+    },
+    {
+      "offset": 7608,
+      "value": "brokenCannon_lvl1_attack1_13"
+    },
+    {
+      "offset": 7676,
+      "value": "brokenCannon_lvl1_attack1_12"
+    },
+    {
+      "offset": 7744,
+      "value": "brokenCannon_lvl1_attack1_11"
+    },
+    {
+      "offset": 7812,
+      "value": "brokenCannon_lvl1_attack1_10"
+    },
+    {
+      "offset": 7888,
+      "value": "brokenCannon_lvl1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "movingCannon_lvl1_run1_9",
+    "movingCannon_lvl1_run1_8",
+    "movingCannon_lvl1_run1_7",
+    "movingCannon_lvl1_run1_6",
+    "movingCannon_lvl1_run1_5",
+    "movingCannon_lvl1_run1_4",
+    "movingCannon_lvl1_run1_3",
+    "movingCannon_lvl1_run1_2",
+    "movingCannon_lvl1_run1_19",
+    "movingCannon_lvl1_run1_18",
+    "movingCannon_lvl1_run1_17",
+    "movingCannon_lvl1_run1_16",
+    "movingCannon_lvl1_run1_15",
+    "movingCannon_lvl1_run1_14",
+    "movingCannon_lvl1_run1_13",
+    "movingCannon_lvl1_run1_12",
+    "movingCannon_lvl1_run1_11",
+    "movingCannon_lvl1_run1_10",
+    "movingCannon_lvl1_run1_1",
+    "movingCannon_lvl1_idle1_9",
+    "movingCannon_lvl1_idle1_8",
+    "movingCannon_lvl1_idle1_7",
+    "movingCannon_lvl1_idle1_6",
+    "movingCannon_lvl1_idle1_5",
+    "movingCannon_lvl1_idle1_4",
+    "movingCannon_lvl1_idle1_3",
+    "movingCannon_lvl1_idle1_2",
+    "movingCannon_lvl1_idle1_19",
+    "movingCannon_lvl1_idle1_18",
+    "movingCannon_lvl1_idle1_17",
+    "movingCannon_lvl1_idle1_16",
+    "movingCannon_lvl1_idle1_15",
+    "movingCannon_lvl1_idle1_14",
+    "movingCannon_lvl1_idle1_13",
+    "movingCannon_lvl1_idle1_12",
+    "movingCannon_lvl1_idle1_11",
+    "movingCannon_lvl1_idle1_10",
+    "movingCannon_lvl1_idle1_1",
+    "movingCannon_lvl1_attack1_9",
+    "movingCannon_lvl1_attack1_8",
+    "movingCannon_lvl1_attack1_7",
+    "movingCannon_lvl1_attack1_6",
+    "movingCannon_lvl1_attack1_5",
+    "movingCannon_lvl1_attack1_4",
+    "movingCannon_lvl1_attack1_3",
+    "movingCannon_lvl1_attack1_2",
+    "movingCannon_lvl1_attack1_19",
+    "movingCannon_lvl1_attack1_18",
+    "movingCannon_lvl1_attack1_17",
+    "movingCannon_lvl1_attack1_16",
+    "movingCannon_lvl1_attack1_15",
+    "movingCannon_lvl1_attack1_14",
+    "movingCannon_lvl1_attack1_13",
+    "movingCannon_lvl1_attack1_12",
+    "movingCannon_lvl1_attack1_11",
+    "movingCannon_lvl1_attack1_10",
+    "movingCannon_lvl1_attack1_1",
+    "brokenCannon_lvl1_run1_9",
+    "brokenCannon_lvl1_run1_8",
+    "brokenCannon_lvl1_run1_7",
+    "brokenCannon_lvl1_run1_6",
+    "brokenCannon_lvl1_run1_5",
+    "brokenCannon_lvl1_run1_4",
+    "brokenCannon_lvl1_run1_3",
+    "brokenCannon_lvl1_run1_2",
+    "brokenCannon_lvl1_run1_19",
+    "brokenCannon_lvl1_run1_18",
+    "brokenCannon_lvl1_run1_17",
+    "brokenCannon_lvl1_run1_16",
+    "brokenCannon_lvl1_run1_15",
+    "brokenCannon_lvl1_run1_14",
+    "brokenCannon_lvl1_run1_13",
+    "brokenCannon_lvl1_run1_12",
+    "brokenCannon_lvl1_run1_11",
+    "brokenCannon_lvl1_run1_10",
+    "brokenCannon_lvl1_run1_1",
+    "brokenCannon_lvl1_idle1_9",
+    "brokenCannon_lvl1_idle1_8",
+    "brokenCannon_lvl1_idle1_7",
+    "brokenCannon_lvl1_idle1_6",
+    "brokenCannon_lvl1_idle1_5",
+    "brokenCannon_lvl1_idle1_4",
+    "brokenCannon_lvl1_idle1_3",
+    "brokenCannon_lvl1_idle1_2",
+    "brokenCannon_lvl1_idle1_19",
+    "brokenCannon_lvl1_idle1_18",
+    "brokenCannon_lvl1_idle1_17",
+    "brokenCannon_lvl1_idle1_16",
+    "brokenCannon_lvl1_idle1_15",
+    "brokenCannon_lvl1_idle1_14",
+    "brokenCannon_lvl1_idle1_13",
+    "brokenCannon_lvl1_idle1_12",
+    "brokenCannon_lvl1_idle1_11",
+    "brokenCannon_lvl1_idle1_10",
+    "brokenCannon_lvl1_idle1_1",
+    "brokenCannon_lvl1_attack1_9",
+    "brokenCannon_lvl1_attack1_8",
+    "brokenCannon_lvl1_attack1_7",
+    "brokenCannon_lvl1_attack1_6",
+    "brokenCannon_lvl1_attack1_5",
+    "brokenCannon_lvl1_attack1_4",
+    "brokenCannon_lvl1_attack1_3",
+    "brokenCannon_lvl1_attack1_2",
+    "brokenCannon_lvl1_attack1_19",
+    "brokenCannon_lvl1_attack1_18",
+    "brokenCannon_lvl1_attack1_17",
+    "brokenCannon_lvl1_attack1_16",
+    "brokenCannon_lvl1_attack1_15",
+    "brokenCannon_lvl1_attack1_14",
+    "brokenCannon_lvl1_attack1_13",
+    "brokenCannon_lvl1_attack1_12",
+    "brokenCannon_lvl1_attack1_11",
+    "brokenCannon_lvl1_attack1_10",
+    "brokenCannon_lvl1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 9411,
+      "value": "Aa85u"
+    },
+    {
+      "offset": 10661,
+      "value": "RXS"
+    },
+    {
+      "offset": 11309,
+      "value": "x_0"
+    },
+    {
+      "offset": 17788,
+      "value": "ahdU"
+    },
+    {
+      "offset": 20477,
+      "value": "Kvd"
+    },
+    {
+      "offset": 50684,
+      "value": "brokenCannon_lvl1_run1_16"
+    },
+    {
+      "offset": 50716,
+      "value": "brokenCannon_lvl1_run1_15"
+    },
+    {
+      "offset": 50748,
+      "value": "brokenCannon_lvl1_run1_14"
+    },
+    {
+      "offset": 50780,
+      "value": "brokenCannon_lvl1_run1_1"
+    },
+    {
+      "offset": 50812,
+      "value": "brokenCannon_lvl1_run1_9"
+    },
+    {
+      "offset": 50844,
+      "value": "movingCannon_lvl1_run1_19"
+    },
+    {
+      "offset": 50876,
+      "value": "brokenCannon_lvl1_run1_7"
+    },
+    {
+      "offset": 50908,
+      "value": "brokenCannon_lvl1_run1_5"
+    },
+    {
+      "offset": 50940,
+      "value": "brokenCannon_lvl1_attack1_6"
+    },
+    {
+      "offset": 50972,
+      "value": "brokenCannon_lvl1_run1_4"
+    },
+    {
+      "offset": 51004,
+      "value": "brokenCannon_lvl1_run1_2"
+    },
+    {
+      "offset": 51036,
+      "value": "brokenCannon_lvl1_idle1_18"
+    },
+    {
+      "offset": 51068,
+      "value": "movingCannon_lvl1_run1_2"
+    },
+    {
+      "offset": 51100,
+      "value": "movingCannon_lvl1_run1_10"
+    },
+    {
+      "offset": 51132,
+      "value": "brokenCannon_lvl1_idle1_14"
+    },
+    {
+      "offset": 51164,
+      "value": "brokenCannon_lvl1_idle1_11"
+    },
+    {
+      "offset": 51196,
+      "value": "brokenCannon_lvl1_idle1_13"
+    },
+    {
+      "offset": 51228,
+      "value": "movingCannon_lvl1_attack1_12"
+    },
+    {
+      "offset": 51264,
+      "value": "movingCannon_lvl1_run1_7"
+    },
+    {
+      "offset": 51296,
+      "value": "brokenCannon_lvl1_run1_3"
+    },
+    {
+      "offset": 51328,
+      "value": "brokenCannon_lvl1_idle1_9"
+    },
+    {
+      "offset": 51360,
+      "value": "brokenCannon_lvl1_idle1_8"
+    },
+    {
+      "offset": 51392,
+      "value": "movingCannon_lvl1_run1_5"
+    },
+    {
+      "offset": 51424,
+      "value": "brokenCannon_lvl1_attack1_8"
+    },
+    {
+      "offset": 51456,
+      "value": "brokenCannon_lvl1_run1_12"
+    },
+    {
+      "offset": 51488,
+      "value": "brokenCannon_lvl1_idle1_7"
+    },
+    {
+      "offset": 51520,
+      "value": "brokenCannon_lvl1_run1_19"
+    },
+    {
+      "offset": 51552,
+      "value": "brokenCannon_lvl1_idle1_16"
+    },
+    {
+      "offset": 51584,
+      "value": "brokenCannon_lvl1_idle1_2"
+    },
+    {
+      "offset": 51616,
+      "value": "brokenCannon_lvl1_attack1_19"
+    },
+    {
+      "offset": 51652,
+      "value": "brokenCannon_lvl1_idle1_10"
+    },
+    {
+      "offset": 51684,
+      "value": "movingCannon_lvl1_idle1_14"
+    },
+    {
+      "offset": 51716,
+      "value": "brokenCannon_lvl1_attack1_9"
+    },
+    {
+      "offset": 51748,
+      "value": "brokenCannon_lvl1_attack1_5"
+    },
+    {
+      "offset": 51780,
+      "value": "brokenCannon_lvl1_idle1_5"
+    },
+    {
+      "offset": 51812,
+      "value": "brokenCannon_lvl1_attack1_4"
+    },
+    {
+      "offset": 51844,
+      "value": "movingCannon_lvl1_run1_8"
+    },
+    {
+      "offset": 51876,
+      "value": "movingCannon_lvl1_run1_13"
+    },
+    {
+      "offset": 51908,
+      "value": "brokenCannon_lvl1_run1_18"
+    },
+    {
+      "offset": 51940,
+      "value": "brokenCannon_lvl1_idle1_12"
+    },
+    {
+      "offset": 51972,
+      "value": "brokenCannon_lvl1_attack1_3"
+    },
+    {
+      "offset": 52004,
+      "value": "brokenCannon_lvl1_attack1_2"
+    },
+    {
+      "offset": 52036,
+      "value": "movingCannon_lvl1_run1_15"
+    },
+    {
+      "offset": 52068,
+      "value": "brokenCannon_lvl1_attack1_7"
+    },
+    {
+      "offset": 52100,
+      "value": "brokenCannon_lvl1_idle1_15"
+    },
+    {
+      "offset": 52132,
+      "value": "brokenCannon_lvl1_attack1_11"
+    },
+    {
+      "offset": 52168,
+      "value": "movingCannon_lvl1_idle1_16"
+    },
+    {
+      "offset": 52200,
+      "value": "brokenCannon_lvl1_run1_6"
+    },
+    {
+      "offset": 52232,
+      "value": "movingCannon_lvl1_attack1_14"
+    },
+    {
+      "offset": 52268,
+      "value": "brokenCannon_lvl1_attack1_18"
+    },
+    {
+      "offset": 52304,
+      "value": "brokenCannon_lvl1_run1_17"
+    },
+    {
+      "offset": 52336,
+      "value": "brokenCannon_lvl1_idle1_17"
+    },
+    {
+      "offset": 52368,
+      "value": "brokenCannon_lvl1_attack1_13"
+    },
+    {
+      "offset": 52404,
+      "value": "brokenCannon_lvl1_attack1_10"
+    },
+    {
+      "offset": 52440,
+      "value": "brokenCannon_lvl1_attack1_12"
+    },
+    {
+      "offset": 52476,
+      "value": "movingCannon_lvl1_idle1_12"
+    },
+    {
+      "offset": 52508,
+      "value": "brokenCannon_lvl1_attack1_14"
+    },
+    {
+      "offset": 52544,
+      "value": "brokenCannon_lvl1_run1_13"
+    },
+    {
+      "offset": 52576,
+      "value": "brokenCannon_lvl1_idle1_19"
+    },
+    {
+      "offset": 52608,
+      "value": "movingCannon_lvl1_run1_14"
+    },
+    {
+      "offset": 52640,
+      "value": "movingCannon_lvl1_attack1_13"
+    },
+    {
+      "offset": 52676,
+      "value": "movingCannon_lvl1_idle1_15"
+    },
+    {
+      "offset": 52708,
+      "value": "brokenCannon_lvl1_attack1_15"
+    },
+    {
+      "offset": 52744,
+      "value": "brokenCannon_lvl1_attack1_17"
+    },
+    {
+      "offset": 52780,
+      "value": "brokenCannon_lvl1_attack1_1"
+    },
+    {
+      "offset": 52812,
+      "value": "brokenCannon_lvl1_attack1_16"
+    },
+    {
+      "offset": 52848,
+      "value": "movingCannon_lvl1_run1_16"
+    },
+    {
+      "offset": 52880,
+      "value": "brokenCannon_lvl1_run1_10"
+    },
+    {
+      "offset": 52912,
+      "value": "brokenCannon_lvl1_run1_11"
+    },
+    {
+      "offset": 52944,
+      "value": "movingCannon_lvl1_attack1_4"
+    },
+    {
+      "offset": 52976,
+      "value": "brokenCannon_lvl1_idle1_1"
+    },
+    {
+      "offset": 53008,
+      "value": "brokenCannon_lvl1_idle1_3"
+    },
+    {
+      "offset": 53040,
+      "value": "movingCannon_lvl1_attack1_11"
+    },
+    {
+      "offset": 53076,
+      "value": "brokenCannon_lvl1_run1_8"
+    },
+    {
+      "offset": 53108,
+      "value": "movingCannon_lvl1_attack1_15"
+    },
+    {
+      "offset": 53144,
+      "value": "brokenCannon_lvl1_idle1_4"
+    },
+    {
+      "offset": 53176,
+      "value": "movingCannon_lvl1_idle1_11"
+    },
+    {
+      "offset": 53208,
+      "value": "brokenCannon_lvl1_idle1_6"
+    },
+    {
+      "offset": 53240,
+      "value": "movingCannon_lvl1_attack1_1"
+    },
+    {
+      "offset": 53272,
+      "value": "movingCannon_lvl1_attack1_3"
+    },
+    {
+      "offset": 53304,
+      "value": "movingCannon_lvl1_idle1_3"
+    },
+    {
+      "offset": 53336,
+      "value": "movingCannon_lvl1_attack1_2"
+    },
+    {
+      "offset": 53368,
+      "value": "movingCannon_lvl1_attack1_5"
+    },
+    {
+      "offset": 53400,
+      "value": "movingCannon_lvl1_attack1_6"
+    },
+    {
+      "offset": 53432,
+      "value": "movingCannon_lvl1_attack1_7"
+    },
+    {
+      "offset": 53464,
+      "value": "movingCannon_lvl1_attack1_8"
+    },
+    {
+      "offset": 53496,
+      "value": "movingCannon_lvl1_attack1_9"
+    },
+    {
+      "offset": 53528,
+      "value": "movingCannon_lvl1_attack1_10"
+    },
+    {
+      "offset": 53564,
+      "value": "movingCannon_lvl1_attack1_16"
+    },
+    {
+      "offset": 53600,
+      "value": "movingCannon_lvl1_attack1_17"
+    },
+    {
+      "offset": 53636,
+      "value": "movingCannon_lvl1_attack1_18"
+    },
+    {
+      "offset": 53672,
+      "value": "movingCannon_lvl1_idle1_7"
+    },
+    {
+      "offset": 53704,
+      "value": "movingCannon_lvl1_idle1_13"
+    },
+    {
+      "offset": 53736,
+      "value": "movingCannon_lvl1_attack1_19"
+    },
+    {
+      "offset": 53772,
+      "value": "movingCannon_lvl1_idle1_1"
+    },
+    {
+      "offset": 53804,
+      "value": "movingCannon_lvl1_idle1_2"
+    },
+    {
+      "offset": 53836,
+      "value": "movingCannon_lvl1_idle1_4"
+    },
+    {
+      "offset": 53868,
+      "value": "movingCannon_lvl1_idle1_5"
+    },
+    {
+      "offset": 53900,
+      "value": "movingCannon_lvl1_idle1_8"
+    },
+    {
+      "offset": 53932,
+      "value": "movingCannon_lvl1_run1_12"
+    },
+    {
+      "offset": 53964,
+      "value": "movingCannon_lvl1_idle1_6"
+    },
+    {
+      "offset": 53996,
+      "value": "movingCannon_lvl1_idle1_18"
+    },
+    {
+      "offset": 54028,
+      "value": "movingCannon_lvl1_idle1_9"
+    },
+    {
+      "offset": 54060,
+      "value": "movingCannon_lvl1_idle1_10"
+    },
+    {
+      "offset": 54092,
+      "value": "movingCannon_lvl1_run1_1"
+    },
+    {
+      "offset": 54124,
+      "value": "movingCannon_lvl1_idle1_17"
+    },
+    {
+      "offset": 54156,
+      "value": "movingCannon_lvl1_idle1_19"
+    },
+    {
+      "offset": 54188,
+      "value": "movingCannon_lvl1_run1_3"
+    },
+    {
+      "offset": 54220,
+      "value": "movingCannon_lvl1_run1_4"
+    },
+    {
+      "offset": 54252,
+      "value": "movingCannon_lvl1_run1_6"
+    },
+    {
+      "offset": 54284,
+      "value": "movingCannon_lvl1_run1_9"
+    },
+    {
+      "offset": 54316,
+      "value": "movingCannon_lvl1_run1_11"
+    },
+    {
+      "offset": 54348,
+      "value": "movingCannon_lvl1_run1_17"
+    },
+    {
+      "offset": 54380,
+      "value": "movingCannon_lvl1_run1_18"
+    },
+    {
+      "offset": 81412,
+      "value": "chr_cannon_cart_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000d3000000730000000100000090d4000060480000",
+  "decoded_preview_hex": "8cd4000018000000000012001400040000000000000008000c0010001200000008c40000a46000003c1b000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

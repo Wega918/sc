@@ -1,0 +1,1000 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_minion.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_minion.sc",
+  "sha256_container": "6cd5a1f523d3aa5639420881849c2594c8c62027783ae44dad5f7ca7b348c97c",
+  "sha256_descriptor": "f7ece8acba18f054d3ffc7abdbacf2cd09054c4c0adec39ed6026ae36dd2f109",
+  "sha256_decoded_payload": "a36ef8242499c940731742e2ca906888c8720af0570e5f77c9109f7bbb21898b",
+  "version": 6,
+  "descriptor_bytes": 6196,
+  "compressed_frame_bytes": 29460,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 136024,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 447
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 186
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 83568
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 32584
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 29464
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 524,
+      "value": "ice_minion_fly_3"
+    },
+    {
+      "offset": 580,
+      "value": "ice_minion_fly_2"
+    },
+    {
+      "offset": 636,
+      "value": "ice_minion_fly_1"
+    },
+    {
+      "offset": 692,
+      "value": "ice_minion_fastfly_3"
+    },
+    {
+      "offset": 752,
+      "value": "ice_minion_fastfly_2"
+    },
+    {
+      "offset": 812,
+      "value": "ice_minion_fastfly_1"
+    },
+    {
+      "offset": 872,
+      "value": "ice_minion_attack2_3"
+    },
+    {
+      "offset": 932,
+      "value": "ice_minion_attack2_2"
+    },
+    {
+      "offset": 992,
+      "value": "ice_minion_attack2_1"
+    },
+    {
+      "offset": 1052,
+      "value": "Gargoyle9_Fly_3"
+    },
+    {
+      "offset": 1104,
+      "value": "Gargoyle9_Fly_2"
+    },
+    {
+      "offset": 1156,
+      "value": "Gargoyle9_Fly_1"
+    },
+    {
+      "offset": 1208,
+      "value": "Gargoyle9_FastFly_3"
+    },
+    {
+      "offset": 1264,
+      "value": "Gargoyle9_FastFly_2"
+    },
+    {
+      "offset": 1320,
+      "value": "Gargoyle9_FastFly_1"
+    },
+    {
+      "offset": 1376,
+      "value": "Gargoyle9_Attack2_3"
+    },
+    {
+      "offset": 1432,
+      "value": "Gargoyle9_Attack2_2"
+    },
+    {
+      "offset": 1488,
+      "value": "Gargoyle9_Attack2_1"
+    },
+    {
+      "offset": 1544,
+      "value": "Gargoyle8_Fly_3"
+    },
+    {
+      "offset": 1596,
+      "value": "Gargoyle8_Fly_2"
+    },
+    {
+      "offset": 1648,
+      "value": "Gargoyle8_Fly_1"
+    },
+    {
+      "offset": 1700,
+      "value": "Gargoyle8_FastFly_3"
+    },
+    {
+      "offset": 1756,
+      "value": "Gargoyle8_FastFly_2"
+    },
+    {
+      "offset": 1812,
+      "value": "Gargoyle8_FastFly_1"
+    },
+    {
+      "offset": 1868,
+      "value": "Gargoyle8_Attack2_3"
+    },
+    {
+      "offset": 1924,
+      "value": "Gargoyle8_Attack2_2"
+    },
+    {
+      "offset": 1980,
+      "value": "Gargoyle8_Attack2_1"
+    },
+    {
+      "offset": 2036,
+      "value": "Gargoyle7_Fly_3"
+    },
+    {
+      "offset": 2088,
+      "value": "Gargoyle7_Fly_2"
+    },
+    {
+      "offset": 2140,
+      "value": "Gargoyle7_Fly_1"
+    },
+    {
+      "offset": 2192,
+      "value": "Gargoyle7_FastFly_3"
+    },
+    {
+      "offset": 2248,
+      "value": "Gargoyle7_FastFly_2"
+    },
+    {
+      "offset": 2304,
+      "value": "Gargoyle7_FastFly_1"
+    },
+    {
+      "offset": 2360,
+      "value": "Gargoyle7_Attack2_3"
+    },
+    {
+      "offset": 2416,
+      "value": "Gargoyle7_Attack2_2"
+    },
+    {
+      "offset": 2472,
+      "value": "Gargoyle7_Attack2_1"
+    },
+    {
+      "offset": 2528,
+      "value": "Gargoyle6_Fly_3"
+    },
+    {
+      "offset": 2580,
+      "value": "Gargoyle6_Fly_2"
+    },
+    {
+      "offset": 2632,
+      "value": "Gargoyle6_Fly_1"
+    },
+    {
+      "offset": 2684,
+      "value": "Gargoyle6_FastFly_3"
+    },
+    {
+      "offset": 2740,
+      "value": "Gargoyle6_FastFly_2"
+    },
+    {
+      "offset": 2796,
+      "value": "Gargoyle6_FastFly_1"
+    },
+    {
+      "offset": 2852,
+      "value": "Gargoyle6_Attack2_3"
+    },
+    {
+      "offset": 2908,
+      "value": "Gargoyle6_Attack2_2"
+    },
+    {
+      "offset": 2964,
+      "value": "Gargoyle6_Attack2_1"
+    },
+    {
+      "offset": 3020,
+      "value": "Gargoyle5_Fly_3"
+    },
+    {
+      "offset": 3072,
+      "value": "Gargoyle5_Fly_2"
+    },
+    {
+      "offset": 3124,
+      "value": "Gargoyle5_Fly_1"
+    },
+    {
+      "offset": 3176,
+      "value": "Gargoyle5_FastFly_3"
+    },
+    {
+      "offset": 3232,
+      "value": "Gargoyle5_FastFly_2"
+    },
+    {
+      "offset": 3288,
+      "value": "Gargoyle5_FastFly_1"
+    },
+    {
+      "offset": 3344,
+      "value": "Gargoyle5_Attack2_3"
+    },
+    {
+      "offset": 3400,
+      "value": "Gargoyle5_Attack2_2"
+    },
+    {
+      "offset": 3456,
+      "value": "Gargoyle5_Attack2_1"
+    },
+    {
+      "offset": 3512,
+      "value": "Gargoyle4_Fly_3"
+    },
+    {
+      "offset": 3564,
+      "value": "Gargoyle4_Fly_2"
+    },
+    {
+      "offset": 3616,
+      "value": "Gargoyle4_Fly_1"
+    },
+    {
+      "offset": 3668,
+      "value": "Gargoyle4_FastFly_3"
+    },
+    {
+      "offset": 3724,
+      "value": "Gargoyle4_FastFly_2"
+    },
+    {
+      "offset": 3780,
+      "value": "Gargoyle4_FastFly_1"
+    },
+    {
+      "offset": 3836,
+      "value": "Gargoyle4_Attack2_3"
+    },
+    {
+      "offset": 3892,
+      "value": "Gargoyle4_Attack2_2"
+    },
+    {
+      "offset": 3948,
+      "value": "Gargoyle4_Attack2_1"
+    },
+    {
+      "offset": 4004,
+      "value": "Gargoyle3_Fly_3"
+    },
+    {
+      "offset": 4056,
+      "value": "Gargoyle3_Fly_2"
+    },
+    {
+      "offset": 4108,
+      "value": "Gargoyle3_Fly_1"
+    },
+    {
+      "offset": 4160,
+      "value": "Gargoyle3_FastFly_3"
+    },
+    {
+      "offset": 4216,
+      "value": "Gargoyle3_FastFly_2"
+    },
+    {
+      "offset": 4272,
+      "value": "Gargoyle3_FastFly_1"
+    },
+    {
+      "offset": 4328,
+      "value": "Gargoyle3_Attack2_3"
+    },
+    {
+      "offset": 4384,
+      "value": "Gargoyle3_Attack2_2"
+    },
+    {
+      "offset": 4440,
+      "value": "Gargoyle3_Attack2_1"
+    },
+    {
+      "offset": 4496,
+      "value": "Gargoyle1_fly_3"
+    },
+    {
+      "offset": 4548,
+      "value": "Gargoyle1_fly_2"
+    },
+    {
+      "offset": 4600,
+      "value": "Gargoyle1_fly_1"
+    },
+    {
+      "offset": 4652,
+      "value": "Gargoyle1_FastFly_3"
+    },
+    {
+      "offset": 4708,
+      "value": "Gargoyle1_FastFly_2"
+    },
+    {
+      "offset": 4764,
+      "value": "Gargoyle1_FastFly_1"
+    },
+    {
+      "offset": 4820,
+      "value": "Gargoyle1_Attack2_3"
+    },
+    {
+      "offset": 4876,
+      "value": "Gargoyle1_Attack2_2"
+    },
+    {
+      "offset": 4932,
+      "value": "Gargoyle1_Attack2_1"
+    },
+    {
+      "offset": 4988,
+      "value": "Gargoyle14_Fly_3"
+    },
+    {
+      "offset": 5044,
+      "value": "Gargoyle14_Fly_2"
+    },
+    {
+      "offset": 5100,
+      "value": "Gargoyle14_Fly_1"
+    },
+    {
+      "offset": 5156,
+      "value": "Gargoyle14_FastFly_3"
+    },
+    {
+      "offset": 5216,
+      "value": "Gargoyle14_FastFly_2"
+    },
+    {
+      "offset": 5276,
+      "value": "Gargoyle14_FastFly_1"
+    },
+    {
+      "offset": 5336,
+      "value": "Gargoyle14_Attack2_3"
+    },
+    {
+      "offset": 5396,
+      "value": "Gargoyle14_Attack2_2"
+    },
+    {
+      "offset": 5456,
+      "value": "Gargoyle14_Attack2_1"
+    },
+    {
+      "offset": 5516,
+      "value": "Gargoyle14_Attack1_3"
+    },
+    {
+      "offset": 5576,
+      "value": "Gargoyle14_Attack1_2"
+    },
+    {
+      "offset": 5636,
+      "value": "Gargoyle14_Attack1_1"
+    },
+    {
+      "offset": 5696,
+      "value": "Gargoyle13_Fly_3"
+    },
+    {
+      "offset": 5752,
+      "value": "Gargoyle13_Fly_2"
+    },
+    {
+      "offset": 5808,
+      "value": "Gargoyle13_Fly_1"
+    },
+    {
+      "offset": 5864,
+      "value": "Gargoyle13_FastFly_3"
+    },
+    {
+      "offset": 5924,
+      "value": "Gargoyle13_FastFly_2"
+    },
+    {
+      "offset": 5984,
+      "value": "Gargoyle13_FastFly_1"
+    },
+    {
+      "offset": 6044,
+      "value": "Gargoyle13_Attack2_3"
+    },
+    {
+      "offset": 6104,
+      "value": "Gargoyle13_Attack2_2"
+    },
+    {
+      "offset": 6172,
+      "value": "Gargoyle13_Attack2_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "ice_minion_fly_3",
+    "ice_minion_fly_2",
+    "ice_minion_fly_1",
+    "ice_minion_fastfly_3",
+    "ice_minion_fastfly_2",
+    "ice_minion_fastfly_1",
+    "ice_minion_attack2_3",
+    "ice_minion_attack2_2",
+    "ice_minion_attack2_1",
+    "Gargoyle9_Fly_3",
+    "Gargoyle9_Fly_2",
+    "Gargoyle9_Fly_1",
+    "Gargoyle9_FastFly_3",
+    "Gargoyle9_FastFly_2",
+    "Gargoyle9_FastFly_1",
+    "Gargoyle9_Attack2_3",
+    "Gargoyle9_Attack2_2",
+    "Gargoyle9_Attack2_1",
+    "Gargoyle8_Fly_3",
+    "Gargoyle8_Fly_2",
+    "Gargoyle8_Fly_1",
+    "Gargoyle8_FastFly_3",
+    "Gargoyle8_FastFly_2",
+    "Gargoyle8_FastFly_1",
+    "Gargoyle8_Attack2_3",
+    "Gargoyle8_Attack2_2",
+    "Gargoyle8_Attack2_1",
+    "Gargoyle7_Fly_3",
+    "Gargoyle7_Fly_2",
+    "Gargoyle7_Fly_1",
+    "Gargoyle7_FastFly_3",
+    "Gargoyle7_FastFly_2",
+    "Gargoyle7_FastFly_1",
+    "Gargoyle7_Attack2_3",
+    "Gargoyle7_Attack2_2",
+    "Gargoyle7_Attack2_1",
+    "Gargoyle6_Fly_3",
+    "Gargoyle6_Fly_2",
+    "Gargoyle6_Fly_1",
+    "Gargoyle6_FastFly_3",
+    "Gargoyle6_FastFly_2",
+    "Gargoyle6_FastFly_1",
+    "Gargoyle6_Attack2_3",
+    "Gargoyle6_Attack2_2",
+    "Gargoyle6_Attack2_1",
+    "Gargoyle5_Fly_3",
+    "Gargoyle5_Fly_2",
+    "Gargoyle5_Fly_1",
+    "Gargoyle5_FastFly_3",
+    "Gargoyle5_FastFly_2",
+    "Gargoyle5_FastFly_1",
+    "Gargoyle5_Attack2_3",
+    "Gargoyle5_Attack2_2",
+    "Gargoyle5_Attack2_1",
+    "Gargoyle4_Fly_3",
+    "Gargoyle4_Fly_2",
+    "Gargoyle4_Fly_1",
+    "Gargoyle4_FastFly_3",
+    "Gargoyle4_FastFly_2",
+    "Gargoyle4_FastFly_1",
+    "Gargoyle4_Attack2_3",
+    "Gargoyle4_Attack2_2",
+    "Gargoyle4_Attack2_1",
+    "Gargoyle3_Fly_3",
+    "Gargoyle3_Fly_2",
+    "Gargoyle3_Fly_1",
+    "Gargoyle3_FastFly_3",
+    "Gargoyle3_FastFly_2",
+    "Gargoyle3_FastFly_1",
+    "Gargoyle3_Attack2_3",
+    "Gargoyle3_Attack2_2",
+    "Gargoyle3_Attack2_1",
+    "Gargoyle1_fly_3",
+    "Gargoyle1_fly_2",
+    "Gargoyle1_fly_1",
+    "Gargoyle1_FastFly_3",
+    "Gargoyle1_FastFly_2",
+    "Gargoyle1_FastFly_1",
+    "Gargoyle1_Attack2_3",
+    "Gargoyle1_Attack2_2",
+    "Gargoyle1_Attack2_1",
+    "Gargoyle14_Fly_3",
+    "Gargoyle14_Fly_2",
+    "Gargoyle14_Fly_1",
+    "Gargoyle14_FastFly_3",
+    "Gargoyle14_FastFly_2",
+    "Gargoyle14_FastFly_1",
+    "Gargoyle14_Attack2_3",
+    "Gargoyle14_Attack2_2",
+    "Gargoyle14_Attack2_1",
+    "Gargoyle14_Attack1_3",
+    "Gargoyle14_Attack1_2",
+    "Gargoyle14_Attack1_1",
+    "Gargoyle13_Fly_3",
+    "Gargoyle13_Fly_2",
+    "Gargoyle13_Fly_1",
+    "Gargoyle13_FastFly_3",
+    "Gargoyle13_FastFly_2",
+    "Gargoyle13_FastFly_1",
+    "Gargoyle13_Attack2_3",
+    "Gargoyle13_Attack2_2",
+    "Gargoyle13_Attack2_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 5420,
+      "value": "ffF@"
+    },
+    {
+      "offset": 81128,
+      "value": "Gargoyle5_Fly_2"
+    },
+    {
+      "offset": 81148,
+      "value": "Gargoyle5_Attack2_1"
+    },
+    {
+      "offset": 81172,
+      "value": "Gargoyle8_Fly_3"
+    },
+    {
+      "offset": 81192,
+      "value": "Gargoyle4_FastFly_3"
+    },
+    {
+      "offset": 81216,
+      "value": "Gargoyle3_Fly_2"
+    },
+    {
+      "offset": 81236,
+      "value": "Gargoyle5_FastFly_2"
+    },
+    {
+      "offset": 81260,
+      "value": "Gargoyle14_Fly_3"
+    },
+    {
+      "offset": 81284,
+      "value": "Gargoyle4_Attack2_3"
+    },
+    {
+      "offset": 81308,
+      "value": "Gargoyle5_Fly_3"
+    },
+    {
+      "offset": 81328,
+      "value": "Gargoyle1_FastFly_3"
+    },
+    {
+      "offset": 81352,
+      "value": "Gargoyle4_Attack2_2"
+    },
+    {
+      "offset": 81376,
+      "value": "Gargoyle4_Attack2_1"
+    },
+    {
+      "offset": 81400,
+      "value": "Gargoyle5_FastFly_3"
+    },
+    {
+      "offset": 81424,
+      "value": "ice_minion_fly_2"
+    },
+    {
+      "offset": 81448,
+      "value": "Gargoyle3_Fly_1"
+    },
+    {
+      "offset": 81468,
+      "value": "Gargoyle5_Attack2_3"
+    },
+    {
+      "offset": 81492,
+      "value": "Gargoyle3_FastFly_3"
+    },
+    {
+      "offset": 81516,
+      "value": "Gargoyle8_Fly_2"
+    },
+    {
+      "offset": 81536,
+      "value": "Gargoyle3_FastFly_2"
+    },
+    {
+      "offset": 81560,
+      "value": "ice_minion_fly_1"
+    },
+    {
+      "offset": 81584,
+      "value": "Gargoyle3_FastFly_1"
+    },
+    {
+      "offset": 81608,
+      "value": "Gargoyle9_Attack2_3"
+    },
+    {
+      "offset": 81632,
+      "value": "Gargoyle1_fly_1"
+    },
+    {
+      "offset": 81652,
+      "value": "Gargoyle1_fly_2"
+    },
+    {
+      "offset": 81672,
+      "value": "Gargoyle1_FastFly_1"
+    },
+    {
+      "offset": 81696,
+      "value": "Gargoyle6_Attack2_2"
+    },
+    {
+      "offset": 81720,
+      "value": "Gargoyle3_Attack2_2"
+    },
+    {
+      "offset": 81744,
+      "value": "Gargoyle4_FastFly_2"
+    },
+    {
+      "offset": 81768,
+      "value": "Gargoyle1_Attack2_3"
+    },
+    {
+      "offset": 81792,
+      "value": "Gargoyle13_Attack2_3"
+    },
+    {
+      "offset": 81820,
+      "value": "Gargoyle1_Attack2_2"
+    },
+    {
+      "offset": 81844,
+      "value": "Gargoyle6_Fly_3"
+    },
+    {
+      "offset": 81864,
+      "value": "Gargoyle7_Fly_2"
+    },
+    {
+      "offset": 81884,
+      "value": "ice_minion_attack2_3"
+    },
+    {
+      "offset": 81912,
+      "value": "Gargoyle13_Attack2_2"
+    },
+    {
+      "offset": 81940,
+      "value": "Gargoyle14_FastFly_1"
+    },
+    {
+      "offset": 81968,
+      "value": "Gargoyle4_Fly_3"
+    },
+    {
+      "offset": 81988,
+      "value": "Gargoyle7_Fly_3"
+    },
+    {
+      "offset": 82008,
+      "value": "Gargoyle3_Attack2_1"
+    },
+    {
+      "offset": 82032,
+      "value": "Gargoyle13_FastFly_3"
+    },
+    {
+      "offset": 82060,
+      "value": "Gargoyle14_Fly_2"
+    },
+    {
+      "offset": 82084,
+      "value": "Gargoyle4_Fly_2"
+    },
+    {
+      "offset": 82104,
+      "value": "Gargoyle14_FastFly_3"
+    },
+    {
+      "offset": 82132,
+      "value": "Gargoyle5_FastFly_1"
+    },
+    {
+      "offset": 82156,
+      "value": "Gargoyle13_Fly_1"
+    },
+    {
+      "offset": 82180,
+      "value": "Gargoyle13_FastFly_2"
+    },
+    {
+      "offset": 82208,
+      "value": "Gargoyle13_FastFly_1"
+    },
+    {
+      "offset": 82236,
+      "value": "Gargoyle6_FastFly_3"
+    },
+    {
+      "offset": 82260,
+      "value": "Gargoyle5_Attack2_2"
+    },
+    {
+      "offset": 82284,
+      "value": "Gargoyle13_Attack2_1"
+    },
+    {
+      "offset": 82312,
+      "value": "Gargoyle7_FastFly_2"
+    },
+    {
+      "offset": 82336,
+      "value": "Gargoyle1_Attack2_1"
+    },
+    {
+      "offset": 82360,
+      "value": "Gargoyle1_fly_3"
+    },
+    {
+      "offset": 82380,
+      "value": "Gargoyle3_Fly_3"
+    },
+    {
+      "offset": 82400,
+      "value": "Gargoyle9_Attack2_1"
+    },
+    {
+      "offset": 82424,
+      "value": "Gargoyle9_FastFly_2"
+    },
+    {
+      "offset": 82448,
+      "value": "Gargoyle4_Fly_1"
+    },
+    {
+      "offset": 82468,
+      "value": "Gargoyle13_Fly_2"
+    },
+    {
+      "offset": 82492,
+      "value": "Gargoyle7_FastFly_1"
+    },
+    {
+      "offset": 82516,
+      "value": "Gargoyle9_Fly_3"
+    },
+    {
+      "offset": 82536,
+      "value": "Gargoyle9_FastFly_1"
+    },
+    {
+      "offset": 82560,
+      "value": "Gargoyle14_Fly_1"
+    },
+    {
+      "offset": 82584,
+      "value": "Gargoyle6_Fly_1"
+    },
+    {
+      "offset": 82604,
+      "value": "Gargoyle4_FastFly_1"
+    },
+    {
+      "offset": 82628,
+      "value": "Gargoyle13_Fly_3"
+    },
+    {
+      "offset": 82652,
+      "value": "Gargoyle9_FastFly_3"
+    },
+    {
+      "offset": 82676,
+      "value": "ice_minion_attack2_2"
+    },
+    {
+      "offset": 82704,
+      "value": "Gargoyle14_Attack1_1"
+    },
+    {
+      "offset": 82732,
+      "value": "Gargoyle14_Attack1_3"
+    },
+    {
+      "offset": 82760,
+      "value": "Gargoyle14_Attack2_1"
+    },
+    {
+      "offset": 82788,
+      "value": "Gargoyle14_Attack2_3"
+    },
+    {
+      "offset": 82816,
+      "value": "Gargoyle8_Attack2_2"
+    },
+    {
+      "offset": 82840,
+      "value": "Gargoyle14_FastFly_2"
+    },
+    {
+      "offset": 82868,
+      "value": "Gargoyle5_Fly_1"
+    },
+    {
+      "offset": 82888,
+      "value": "Gargoyle14_Attack1_2"
+    },
+    {
+      "offset": 82916,
+      "value": "Gargoyle3_Attack2_3"
+    },
+    {
+      "offset": 82940,
+      "value": "ice_minion_fly_3"
+    },
+    {
+      "offset": 82964,
+      "value": "Gargoyle1_FastFly_2"
+    },
+    {
+      "offset": 82988,
+      "value": "Gargoyle14_Attack2_2"
+    },
+    {
+      "offset": 83016,
+      "value": "Gargoyle7_Fly_1"
+    },
+    {
+      "offset": 83036,
+      "value": "Gargoyle6_Attack2_1"
+    },
+    {
+      "offset": 83060,
+      "value": "Gargoyle6_Attack2_3"
+    },
+    {
+      "offset": 83084,
+      "value": "Gargoyle8_FastFly_3"
+    },
+    {
+      "offset": 83108,
+      "value": "ice_minion_fastfly_1"
+    },
+    {
+      "offset": 83136,
+      "value": "Gargoyle6_FastFly_1"
+    },
+    {
+      "offset": 83160,
+      "value": "Gargoyle6_FastFly_2"
+    },
+    {
+      "offset": 83184,
+      "value": "Gargoyle6_Fly_2"
+    },
+    {
+      "offset": 83204,
+      "value": "Gargoyle7_Attack2_2"
+    },
+    {
+      "offset": 83228,
+      "value": "Gargoyle7_Attack2_1"
+    },
+    {
+      "offset": 83252,
+      "value": "Gargoyle7_Attack2_3"
+    },
+    {
+      "offset": 83276,
+      "value": "Gargoyle7_FastFly_3"
+    },
+    {
+      "offset": 83300,
+      "value": "Gargoyle8_Attack2_1"
+    },
+    {
+      "offset": 83324,
+      "value": "Gargoyle8_Attack2_3"
+    },
+    {
+      "offset": 83348,
+      "value": "Gargoyle8_FastFly_1"
+    },
+    {
+      "offset": 83372,
+      "value": "Gargoyle8_FastFly_2"
+    },
+    {
+      "offset": 83396,
+      "value": "Gargoyle8_Fly_1"
+    },
+    {
+      "offset": 83416,
+      "value": "Gargoyle9_Attack2_2"
+    },
+    {
+      "offset": 83440,
+      "value": "Gargoyle9_Fly_1"
+    },
+    {
+      "offset": 83460,
+      "value": "Gargoyle9_Fly_2"
+    },
+    {
+      "offset": 83480,
+      "value": "ice_minion_attack2_1"
+    },
+    {
+      "offset": 83508,
+      "value": "ice_minion_fastfly_2"
+    },
+    {
+      "offset": 83536,
+      "value": "ice_minion_fastfly_3"
+    },
+    {
+      "offset": 136004,
+      "value": "chr_minion_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000bf010000ba0000000100000070460100",
+  "decoded_preview_hex": "6c46010018000000000012001400040000000000000008000c00100012000000243b010018d40000ec0d000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

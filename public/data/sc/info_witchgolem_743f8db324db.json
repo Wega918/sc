@@ -1,0 +1,322 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_witchgolem.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_witchgolem.sc",
+  "sha256_container": "743f8db324dbd78356540f2b95e477fad741a6ec5035bf8004df8038248cfbec",
+  "sha256_descriptor": "7c029f6c7c556191e764748f2bd1cbcf1c1cfcdc78994d62734436968f00caa0",
+  "sha256_decoded_payload": "489c49e2e1b59e61fe6e437b9a03d7fc10355ff24cd28ac812872b81c67e61d7",
+  "version": 6,
+  "descriptor_bytes": 292,
+  "compressed_frame_bytes": 124036,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 231428,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 636
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 230312
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 124040
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 132,
+      "value": "unit_witchgolem_skeleton_big"
+    },
+    {
+      "offset": 200,
+      "value": "unit_witchgolem_bigboy_big"
+    },
+    {
+      "offset": 272,
+      "value": "unit_witchgolem_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_witchgolem_skeleton_big",
+    "unit_witchgolem_bigboy_big",
+    "unit_witchgolem_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 540,
+      "value": "unit_witchgolem_skeleton_big"
+    },
+    {
+      "offset": 576,
+      "value": "unit_witchgolem_bigboy_big"
+    },
+    {
+      "offset": 608,
+      "value": "unit_witchgolem_big"
+    },
+    {
+      "offset": 25674,
+      "value": "zcb"
+    },
+    {
+      "offset": 32102,
+      "value": "d+/"
+    },
+    {
+      "offset": 39088,
+      "value": "Q e"
+    },
+    {
+      "offset": 40710,
+      "value": "P5Q"
+    },
+    {
+      "offset": 42414,
+      "value": "nQ "
+    },
+    {
+      "offset": 47638,
+      "value": "p5BbB"
+    },
+    {
+      "offset": 54495,
+      "value": "IdwM"
+    },
+    {
+      "offset": 56714,
+      "value": "FBS"
+    },
+    {
+      "offset": 57913,
+      "value": "ASc:s"
+    },
+    {
+      "offset": 66072,
+      "value": "EKM"
+    },
+    {
+      "offset": 75490,
+      "value": "gvo"
+    },
+    {
+      "offset": 81338,
+      "value": "LyG"
+    },
+    {
+      "offset": 81350,
+      "value": "CJHT4D"
+    },
+    {
+      "offset": 83142,
+      "value": "a Z"
+    },
+    {
+      "offset": 83174,
+      "value": "EL\\jLX"
+    },
+    {
+      "offset": 89292,
+      "value": "vT.w/xO"
+    },
+    {
+      "offset": 92598,
+      "value": "gU7gh"
+    },
+    {
+      "offset": 92710,
+      "value": "MTjl\\\\"
+    },
+    {
+      "offset": 92758,
+      "value": "MRdnPX"
+    },
+    {
+      "offset": 93168,
+      "value": "Dqg"
+    },
+    {
+      "offset": 94898,
+      "value": "zPo"
+    },
+    {
+      "offset": 99284,
+      "value": "O@KZ:"
+    },
+    {
+      "offset": 99975,
+      "value": "JHX@P"
+    },
+    {
+      "offset": 101766,
+      "value": "hZ\\J"
+    },
+    {
+      "offset": 106057,
+      "value": "pj_ x"
+    },
+    {
+      "offset": 106793,
+      "value": "l@H"
+    },
+    {
+      "offset": 112979,
+      "value": "xRI"
+    },
+    {
+      "offset": 113463,
+      "value": "tIL"
+    },
+    {
+      "offset": 115971,
+      "value": "PACcF"
+    },
+    {
+      "offset": 118247,
+      "value": "thr"
+    },
+    {
+      "offset": 118264,
+      "value": "nVH"
+    },
+    {
+      "offset": 119912,
+      "value": "CTH"
+    },
+    {
+      "offset": 126616,
+      "value": "TsUx"
+    },
+    {
+      "offset": 126898,
+      "value": "MI_"
+    },
+    {
+      "offset": 128185,
+      "value": "cCj"
+    },
+    {
+      "offset": 129329,
+      "value": "lbmo"
+    },
+    {
+      "offset": 134705,
+      "value": "e5uo"
+    },
+    {
+      "offset": 134946,
+      "value": "uJ_"
+    },
+    {
+      "offset": 139304,
+      "value": "jzDF"
+    },
+    {
+      "offset": 139792,
+      "value": "n:v"
+    },
+    {
+      "offset": 144552,
+      "value": "Zf4D"
+    },
+    {
+      "offset": 144984,
+      "value": "_ct"
+    },
+    {
+      "offset": 161353,
+      "value": "A4h"
+    },
+    {
+      "offset": 169193,
+      "value": "dRJ"
+    },
+    {
+      "offset": 175730,
+      "value": "DQ_"
+    },
+    {
+      "offset": 175946,
+      "value": "kxZ@"
+    },
+    {
+      "offset": 184345,
+      "value": "xUZ"
+    },
+    {
+      "offset": 186329,
+      "value": "DXH"
+    },
+    {
+      "offset": 193128,
+      "value": "JLUDv"
+    },
+    {
+      "offset": 194411,
+      "value": "jBJ"
+    },
+    {
+      "offset": 205558,
+      "value": "PS@ "
+    },
+    {
+      "offset": 205927,
+      "value": "HVCj"
+    },
+    {
+      "offset": 207723,
+      "value": "I Q"
+    },
+    {
+      "offset": 209960,
+      "value": "HxPD"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000003000000030000000100000003000000",
+  "decoded_preview_hex": "7802000018000000000012001400040000000000000008000c00100012000000e4010000bc0100009400000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,1119 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_ruin_witch.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_ruin_witch.sc",
+  "sha256_container": "3f29373d9483274979adfd1c003ca68983a2cd29f8fcae5137ad062f22c9e93f",
+  "sha256_descriptor": "5540cb529ceb08f39f541a574d3e9252eafaca012e2c8e51ef509a0e3e08e898",
+  "sha256_decoded_payload": "185053b365a9663aa36324cf719a2053e9fa5891d347e8fa7f1ff5965148d07f",
+  "version": 6,
+  "descriptor_bytes": 3400,
+  "compressed_frame_bytes": 2057140,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 4051992,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 1067
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 52
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 80,
+      "raw_u32": 300076
+    },
+    {
+      "field_index": 9,
+      "offset": 84,
+      "raw_u32": 3650552
+    },
+    {
+      "field_index": 10,
+      "offset": 88,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 92,
+      "raw_u32": 2057140
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 332,
+      "value": "vfx_chr_th18guardian_ImpactSpark_01"
+    },
+    {
+      "offset": 404,
+      "value": "ruin_witch_lvl4_summon_1_3"
+    },
+    {
+      "offset": 468,
+      "value": "ruin_witch_lvl4_summon_1_2"
+    },
+    {
+      "offset": 532,
+      "value": "ruin_witch_lvl4_summon_1_1"
+    },
+    {
+      "offset": 596,
+      "value": "ruin_witch_lvl4_run_1_3"
+    },
+    {
+      "offset": 656,
+      "value": "ruin_witch_lvl4_run_1_2"
+    },
+    {
+      "offset": 716,
+      "value": "ruin_witch_lvl4_run_1_1"
+    },
+    {
+      "offset": 776,
+      "value": "ruin_witch_lvl4_idle_1_3"
+    },
+    {
+      "offset": 840,
+      "value": "ruin_witch_lvl4_idle_1_2"
+    },
+    {
+      "offset": 904,
+      "value": "ruin_witch_lvl4_idle_1_1"
+    },
+    {
+      "offset": 968,
+      "value": "ruin_witch_lvl4_attack_1_3"
+    },
+    {
+      "offset": 1032,
+      "value": "ruin_witch_lvl4_attack_1_2"
+    },
+    {
+      "offset": 1096,
+      "value": "ruin_witch_lvl4_attack_1_1"
+    },
+    {
+      "offset": 1160,
+      "value": "ruin_witch_lvl3_summon_1_3"
+    },
+    {
+      "offset": 1224,
+      "value": "ruin_witch_lvl3_summon_1_2"
+    },
+    {
+      "offset": 1288,
+      "value": "ruin_witch_lvl3_summon_1_1"
+    },
+    {
+      "offset": 1352,
+      "value": "ruin_witch_lvl3_run_1_3"
+    },
+    {
+      "offset": 1412,
+      "value": "ruin_witch_lvl3_run_1_2"
+    },
+    {
+      "offset": 1472,
+      "value": "ruin_witch_lvl3_run_1_1"
+    },
+    {
+      "offset": 1532,
+      "value": "ruin_witch_lvl3_idle_1_3"
+    },
+    {
+      "offset": 1596,
+      "value": "ruin_witch_lvl3_idle_1_2"
+    },
+    {
+      "offset": 1660,
+      "value": "ruin_witch_lvl3_idle_1_1"
+    },
+    {
+      "offset": 1724,
+      "value": "ruin_witch_lvl3_attack_1_3"
+    },
+    {
+      "offset": 1788,
+      "value": "ruin_witch_lvl3_attack_1_2"
+    },
+    {
+      "offset": 1852,
+      "value": "ruin_witch_lvl3_attack_1_1"
+    },
+    {
+      "offset": 1916,
+      "value": "ruin_witch_lvl2_summon_1_3"
+    },
+    {
+      "offset": 1980,
+      "value": "ruin_witch_lvl2_summon_1_2"
+    },
+    {
+      "offset": 2044,
+      "value": "ruin_witch_lvl2_summon_1_1"
+    },
+    {
+      "offset": 2108,
+      "value": "ruin_witch_lvl2_run_1_3"
+    },
+    {
+      "offset": 2168,
+      "value": "ruin_witch_lvl2_run_1_2"
+    },
+    {
+      "offset": 2228,
+      "value": "ruin_witch_lvl2_run_1_1"
+    },
+    {
+      "offset": 2288,
+      "value": "ruin_witch_lvl2_idle_1_3"
+    },
+    {
+      "offset": 2352,
+      "value": "ruin_witch_lvl2_idle_1_2"
+    },
+    {
+      "offset": 2416,
+      "value": "ruin_witch_lvl2_idle_1_1"
+    },
+    {
+      "offset": 2480,
+      "value": "ruin_witch_lvl2_attack_1_3"
+    },
+    {
+      "offset": 2544,
+      "value": "ruin_witch_lvl2_attack_1_2"
+    },
+    {
+      "offset": 2608,
+      "value": "ruin_witch_lvl2_attack_1_1"
+    },
+    {
+      "offset": 2672,
+      "value": "ruin_witch_lvl1_summon_1_3"
+    },
+    {
+      "offset": 2736,
+      "value": "ruin_witch_lvl1_summon_1_2"
+    },
+    {
+      "offset": 2800,
+      "value": "ruin_witch_lvl1_summon_1_1"
+    },
+    {
+      "offset": 2864,
+      "value": "ruin_witch_lvl1_run_1_3"
+    },
+    {
+      "offset": 2924,
+      "value": "ruin_witch_lvl1_run_1_2"
+    },
+    {
+      "offset": 2984,
+      "value": "ruin_witch_lvl1_run_1_1"
+    },
+    {
+      "offset": 3044,
+      "value": "ruin_witch_lvl1_idle_1_3"
+    },
+    {
+      "offset": 3108,
+      "value": "ruin_witch_lvl1_idle_1_2"
+    },
+    {
+      "offset": 3172,
+      "value": "ruin_witch_lvl1_idle_1_1"
+    },
+    {
+      "offset": 3236,
+      "value": "ruin_witch_lvl1_attack_1_3"
+    },
+    {
+      "offset": 3300,
+      "value": "ruin_witch_lvl1_attack_1_2"
+    },
+    {
+      "offset": 3372,
+      "value": "ruin_witch_lvl1_attack_1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "vfx_chr_th18guardian_ImpactSpark_01",
+    "ruin_witch_lvl4_summon_1_3",
+    "ruin_witch_lvl4_summon_1_2",
+    "ruin_witch_lvl4_summon_1_1",
+    "ruin_witch_lvl4_run_1_3",
+    "ruin_witch_lvl4_run_1_2",
+    "ruin_witch_lvl4_run_1_1",
+    "ruin_witch_lvl4_idle_1_3",
+    "ruin_witch_lvl4_idle_1_2",
+    "ruin_witch_lvl4_idle_1_1",
+    "ruin_witch_lvl4_attack_1_3",
+    "ruin_witch_lvl4_attack_1_2",
+    "ruin_witch_lvl4_attack_1_1",
+    "ruin_witch_lvl3_summon_1_3",
+    "ruin_witch_lvl3_summon_1_2",
+    "ruin_witch_lvl3_summon_1_1",
+    "ruin_witch_lvl3_run_1_3",
+    "ruin_witch_lvl3_run_1_2",
+    "ruin_witch_lvl3_run_1_1",
+    "ruin_witch_lvl3_idle_1_3",
+    "ruin_witch_lvl3_idle_1_2",
+    "ruin_witch_lvl3_idle_1_1",
+    "ruin_witch_lvl3_attack_1_3",
+    "ruin_witch_lvl3_attack_1_2",
+    "ruin_witch_lvl3_attack_1_1",
+    "ruin_witch_lvl2_summon_1_3",
+    "ruin_witch_lvl2_summon_1_2",
+    "ruin_witch_lvl2_summon_1_1",
+    "ruin_witch_lvl2_run_1_3",
+    "ruin_witch_lvl2_run_1_2",
+    "ruin_witch_lvl2_run_1_1",
+    "ruin_witch_lvl2_idle_1_3",
+    "ruin_witch_lvl2_idle_1_2",
+    "ruin_witch_lvl2_idle_1_1",
+    "ruin_witch_lvl2_attack_1_3",
+    "ruin_witch_lvl2_attack_1_2",
+    "ruin_witch_lvl2_attack_1_1",
+    "ruin_witch_lvl1_summon_1_3",
+    "ruin_witch_lvl1_summon_1_2",
+    "ruin_witch_lvl1_summon_1_1",
+    "ruin_witch_lvl1_run_1_3",
+    "ruin_witch_lvl1_run_1_2",
+    "ruin_witch_lvl1_run_1_1",
+    "ruin_witch_lvl1_idle_1_3",
+    "ruin_witch_lvl1_idle_1_2",
+    "ruin_witch_lvl1_idle_1_1",
+    "ruin_witch_lvl1_attack_1_3",
+    "ruin_witch_lvl1_attack_1_2",
+    "ruin_witch_lvl1_attack_1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 4598,
+      "value": "QBgfv@"
+    },
+    {
+      "offset": 4767,
+      "value": "A33C@"
+    },
+    {
+      "offset": 4887,
+      "value": "A33KA"
+    },
+    {
+      "offset": 4935,
+      "value": "A33CA"
+    },
+    {
+      "offset": 5100,
+      "value": "gfF@"
+    },
+    {
+      "offset": 6280,
+      "value": "gfjA"
+    },
+    {
+      "offset": 6615,
+      "value": "AgfaB"
+    },
+    {
+      "offset": 6687,
+      "value": "AgfQB"
+    },
+    {
+      "offset": 10167,
+      "value": "B33S@"
+    },
+    {
+      "offset": 10500,
+      "value": "gfXB"
+    },
+    {
+      "offset": 10644,
+      "value": "gfTB"
+    },
+    {
+      "offset": 11511,
+      "value": "AgfRA"
+    },
+    {
+      "offset": 11559,
+      "value": "AgfJA"
+    },
+    {
+      "offset": 11823,
+      "value": "Agf:A"
+    },
+    {
+      "offset": 12111,
+      "value": "A33+A"
+    },
+    {
+      "offset": 16092,
+      "value": "gfeB"
+    },
+    {
+      "offset": 16260,
+      "value": "gf+B"
+    },
+    {
+      "offset": 18513,
+      "value": "kRg"
+    },
+    {
+      "offset": 18537,
+      "value": "kii"
+    },
+    {
+      "offset": 19017,
+      "value": "RQH"
+    },
+    {
+      "offset": 19029,
+      "value": "R0M"
+    },
+    {
+      "offset": 19041,
+      "value": "UQH"
+    },
+    {
+      "offset": 19328,
+      "value": "wI_f"
+    },
+    {
+      "offset": 19340,
+      "value": "wI_a"
+    },
+    {
+      "offset": 19353,
+      "value": "D_f"
+    },
+    {
+      "offset": 19365,
+      "value": "By_"
+    },
+    {
+      "offset": 19785,
+      "value": "u1H"
+    },
+    {
+      "offset": 19977,
+      "value": "IgT"
+    },
+    {
+      "offset": 20301,
+      "value": "CS4"
+    },
+    {
+      "offset": 20325,
+      "value": "BS4"
+    },
+    {
+      "offset": 20505,
+      "value": "lF0"
+    },
+    {
+      "offset": 20553,
+      "value": "om-"
+    },
+    {
+      "offset": 20577,
+      "value": "rm-"
+    },
+    {
+      "offset": 20589,
+      "value": "w3/"
+    },
+    {
+      "offset": 20817,
+      "value": "LF5"
+    },
+    {
+      "offset": 21032,
+      "value": "X0c4"
+    },
+    {
+      "offset": 26133,
+      "value": "x@R"
+    },
+    {
+      "offset": 26169,
+      "value": "m@R"
+    },
+    {
+      "offset": 27729,
+      "value": "Fy_"
+    },
+    {
+      "offset": 28053,
+      "value": "ItX"
+    },
+    {
+      "offset": 30452,
+      "value": "xc24"
+    },
+    {
+      "offset": 30477,
+      "value": "_24"
+    },
+    {
+      "offset": 33129,
+      "value": "XKo"
+    },
+    {
+      "offset": 33655,
+      "value": "A800v"
+    },
+    {
+      "offset": 34856,
+      "value": "fO\\7"
+    },
+    {
+      "offset": 34881,
+      "value": "R\\7"
+    },
+    {
+      "offset": 34890,
+      "value": "XAwV29"
+    },
+    {
+      "offset": 37749,
+      "value": "bF5"
+    },
+    {
+      "offset": 37773,
+      "value": "bl7"
+    },
+    {
+      "offset": 37785,
+      "value": "ms4"
+    },
+    {
+      "offset": 42633,
+      "value": "zav"
+    },
+    {
+      "offset": 42777,
+      "value": "C0v"
+    },
+    {
+      "offset": 42800,
+      "value": "mE0v"
+    },
+    {
+      "offset": 44013,
+      "value": "l8@"
+    },
+    {
+      "offset": 47889,
+      "value": "g7x"
+    },
+    {
+      "offset": 47913,
+      "value": "e7x"
+    },
+    {
+      "offset": 48381,
+      "value": "N M"
+    },
+    {
+      "offset": 49149,
+      "value": "ONk"
+    },
+    {
+      "offset": 49173,
+      "value": "LNk"
+    },
+    {
+      "offset": 49233,
+      "value": "Dii"
+    },
+    {
+      "offset": 49341,
+      "value": "Mbl"
+    },
+    {
+      "offset": 49377,
+      "value": "DXn"
+    },
+    {
+      "offset": 50529,
+      "value": "E0W"
+    },
+    {
+      "offset": 50756,
+      "value": "cN R"
+    },
+    {
+      "offset": 50793,
+      "value": "WnQ"
+    },
+    {
+      "offset": 50817,
+      "value": "WdS"
+    },
+    {
+      "offset": 51225,
+      "value": "QZ1"
+    },
+    {
+      "offset": 51249,
+      "value": "Q0."
+    },
+    {
+      "offset": 53732,
+      "value": "l+w+"
+    },
+    {
+      "offset": 55341,
+      "value": "dpa"
+    },
+    {
+      "offset": 55545,
+      "value": "UgY"
+    },
+    {
+      "offset": 55557,
+      "value": "Zp\\"
+    },
+    {
+      "offset": 55569,
+      "value": "SgY"
+    },
+    {
+      "offset": 55603,
+      "value": "AWVi_"
+    },
+    {
+      "offset": 55627,
+      "value": "ApSi_"
+    },
+    {
+      "offset": 55761,
+      "value": "nid"
+    },
+    {
+      "offset": 56576,
+      "value": "g6/a"
+    },
+    {
+      "offset": 58113,
+      "value": "Wbg"
+    },
+    {
+      "offset": 58137,
+      "value": "Zbg"
+    },
+    {
+      "offset": 58149,
+      "value": "REm"
+    },
+    {
+      "offset": 60834,
+      "value": "xAxp"
+    },
+    {
+      "offset": 65059,
+      "value": "A+ku "
+    },
+    {
+      "offset": 65085,
+      "value": "gu "
+    },
+    {
+      "offset": 65709,
+      "value": "Qm-"
+    },
+    {
+      "offset": 65721,
+      "value": "HW+"
+    },
+    {
+      "offset": 67197,
+      "value": "vB9"
+    },
+    {
+      "offset": 67221,
+      "value": "r\\7"
+    },
+    {
+      "offset": 68553,
+      "value": "c0M"
+    },
+    {
+      "offset": 68997,
+      "value": "IeI"
+    },
+    {
+      "offset": 69873,
+      "value": "hgO"
+    },
+    {
+      "offset": 69897,
+      "value": "egO"
+    },
+    {
+      "offset": 69921,
+      "value": "eaM"
+    },
+    {
+      "offset": 72331,
+      "value": "AeB"
+    },
+    {
+      "offset": 72547,
+      "value": "Af\\"
+    },
+    {
+      "offset": 74361,
+      "value": "pJU"
+    },
+    {
+      "offset": 74384,
+      "value": "lknQ"
+    },
+    {
+      "offset": 74409,
+      "value": "hnQ"
+    },
+    {
+      "offset": 74925,
+      "value": "vMV"
+    },
+    {
+      "offset": 74947,
+      "value": "A1z0W"
+    },
+    {
+      "offset": 75909,
+      "value": "VgY"
+    },
+    {
+      "offset": 77409,
+      "value": "xkt"
+    },
+    {
+      "offset": 77421,
+      "value": "x v"
+    },
+    {
+      "offset": 77589,
+      "value": "P:t"
+    },
+    {
+      "offset": 77613,
+      "value": "PQv"
+    },
+    {
+      "offset": 78333,
+      "value": "xur"
+    },
+    {
+      "offset": 78632,
+      "value": "n_av"
+    },
+    {
+      "offset": 78669,
+      "value": "jtX"
+    },
+    {
+      "offset": 79629,
+      "value": "ZZy"
+    },
+    {
+      "offset": 79641,
+      "value": "Pxx"
+    },
+    {
+      "offset": 80696,
+      "value": "aZC4"
+    },
+    {
+      "offset": 80997,
+      "value": "ihJ"
+    },
+    {
+      "offset": 81691,
+      "value": "A.y-Q"
+    },
+    {
+      "offset": 81715,
+      "value": "A.y"
+    },
+    {
+      "offset": 83049,
+      "value": "RQH"
+    },
+    {
+      "offset": 83061,
+      "value": "R0M"
+    },
+    {
+      "offset": 83073,
+      "value": "UQH"
+    },
+    {
+      "offset": 83432,
+      "value": "wI_f"
+    },
+    {
+      "offset": 83444,
+      "value": "wI_a"
+    },
+    {
+      "offset": 83457,
+      "value": "D_f"
+    },
+    {
+      "offset": 83469,
+      "value": "By_"
+    },
+    {
+      "offset": 83817,
+      "value": "u1H"
+    },
+    {
+      "offset": 84009,
+      "value": "IgT"
+    },
+    {
+      "offset": 84333,
+      "value": "CS4"
+    },
+    {
+      "offset": 84357,
+      "value": "BS4"
+    },
+    {
+      "offset": 84537,
+      "value": "lF0"
+    },
+    {
+      "offset": 84585,
+      "value": "om-"
+    },
+    {
+      "offset": 84609,
+      "value": "rm-"
+    },
+    {
+      "offset": 84621,
+      "value": "w3/"
+    },
+    {
+      "offset": 84849,
+      "value": "LF5"
+    },
+    {
+      "offset": 85064,
+      "value": "X0c4"
+    },
+    {
+      "offset": 90045,
+      "value": "x@R"
+    },
+    {
+      "offset": 90081,
+      "value": "m@R"
+    },
+    {
+      "offset": 91737,
+      "value": "Fy_"
+    },
+    {
+      "offset": 92061,
+      "value": "ItX"
+    },
+    {
+      "offset": 94364,
+      "value": "xc24"
+    },
+    {
+      "offset": 94389,
+      "value": "_24"
+    },
+    {
+      "offset": 97017,
+      "value": "XKo"
+    },
+    {
+      "offset": 97495,
+      "value": "A800v"
+    },
+    {
+      "offset": 98672,
+      "value": "fO\\7"
+    },
+    {
+      "offset": 98697,
+      "value": "R\\7"
+    },
+    {
+      "offset": 98706,
+      "value": "XAwV29"
+    },
+    {
+      "offset": 98997,
+      "value": "htw"
+    },
+    {
+      "offset": 99009,
+      "value": "aAv"
+    },
+    {
+      "offset": 99021,
+      "value": "etw"
+    },
+    {
+      "offset": 101565,
+      "value": "bF5"
+    },
+    {
+      "offset": 101589,
+      "value": "bl7"
+    },
+    {
+      "offset": 101601,
+      "value": "ms4"
+    },
+    {
+      "offset": 106449,
+      "value": "zav"
+    },
+    {
+      "offset": 107829,
+      "value": "l8@"
+    },
+    {
+      "offset": 111921,
+      "value": "g7x"
+    },
+    {
+      "offset": 111945,
+      "value": "e7x"
+    },
+    {
+      "offset": 112413,
+      "value": "N M"
+    },
+    {
+      "offset": 113289,
+      "value": "Dii"
+    },
+    {
+      "offset": 113577,
+      "value": "zRb"
+    },
+    {
+      "offset": 113625,
+      "value": "xBg"
+    },
+    {
+      "offset": 114285,
+      "value": "eQq"
+    },
+    {
+      "offset": 114585,
+      "value": "E0W"
+    },
+    {
+      "offset": 114812,
+      "value": "cN R"
+    },
+    {
+      "offset": 114849,
+      "value": "WnQ"
+    },
+    {
+      "offset": 114873,
+      "value": "WdS"
+    },
+    {
+      "offset": 115281,
+      "value": "QZ1"
+    },
+    {
+      "offset": 115305,
+      "value": "Q0."
+    },
+    {
+      "offset": 117212,
+      "value": "l+w+"
+    },
+    {
+      "offset": 118437,
+      "value": "dpa"
+    },
+    {
+      "offset": 118761,
+      "value": "nid"
+    },
+    {
+      "offset": 122730,
+      "value": "xAxp"
+    },
+    {
+      "offset": 126787,
+      "value": "A+ku "
+    },
+    {
+      "offset": 126813,
+      "value": "gu "
+    },
+    {
+      "offset": 127437,
+      "value": "Qm-"
+    },
+    {
+      "offset": 127449,
+      "value": "HW+"
+    },
+    {
+      "offset": 128997,
+      "value": "vB9"
+    },
+    {
+      "offset": 129021,
+      "value": "r\\7"
+    },
+    {
+      "offset": 130425,
+      "value": "c0M"
+    },
+    {
+      "offset": 130869,
+      "value": "IeI"
+    },
+    {
+      "offset": 131769,
+      "value": "hgO"
+    },
+    {
+      "offset": 131793,
+      "value": "egO"
+    },
+    {
+      "offset": 131817,
+      "value": "eaM"
+    },
+    {
+      "offset": 134155,
+      "value": "AeB"
+    },
+    {
+      "offset": 134371,
+      "value": "Af\\"
+    },
+    {
+      "offset": 136281,
+      "value": "pJU"
+    },
+    {
+      "offset": 136304,
+      "value": "lknQ"
+    },
+    {
+      "offset": 136329,
+      "value": "hnQ"
+    },
+    {
+      "offset": 137757,
+      "value": "VgY"
+    },
+    {
+      "offset": 140517,
+      "value": "jtX"
+    },
+    {
+      "offset": 142520,
+      "value": "aZC4"
+    },
+    {
+      "offset": 142797,
+      "value": "ihJ"
+    },
+    {
+      "offset": 143371,
+      "value": "A.y-Q"
+    },
+    {
+      "offset": 143395,
+      "value": "A.y"
+    },
+    {
+      "offset": 144393,
+      "value": "RQH"
+    },
+    {
+      "offset": 144405,
+      "value": "R0M"
+    },
+    {
+      "offset": 144417,
+      "value": "UQH"
+    },
+    {
+      "offset": 144729,
+      "value": "u1H"
+    },
+    {
+      "offset": 144753,
+      "value": "IgT"
+    },
+    {
+      "offset": 144909,
+      "value": "CS4"
+    },
+    {
+      "offset": 144933,
+      "value": "BS4"
+    },
+    {
+      "offset": 144945,
+      "value": "lF0"
+    },
+    {
+      "offset": 144993,
+      "value": "om-"
+    },
+    {
+      "offset": 145017,
+      "value": "rm-"
+    },
+    {
+      "offset": 145029,
+      "value": "w3/"
+    },
+    {
+      "offset": 145089,
+      "value": "LF5"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000009c870f5a4da945065c1f7c1712ebe8d32a86a2df1c002800040008000c001000140000000000000018001c00200024001c00000001000000",
+  "decoded_preview_hex": "2894040018000000000012001400040000000000000008000c00100012000000408d04002c580300ec47000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

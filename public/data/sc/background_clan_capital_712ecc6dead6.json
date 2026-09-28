@@ -1,0 +1,894 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "background_clan_capital.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_clan_capital.sc",
+  "sha256_container": "712ecc6dead615cf63e3621739a263c71b096f84b15efcb7f0bd960512ecb8d0",
+  "sha256_descriptor": "ffe235c53b8b0be7a4bb0ba3c03c9a9b99b51d1c9745a2abb25de9bba5f3653d",
+  "sha256_decoded_payload": "f2fb699ad177fe728fe68007810ed11ae1f98300d0a5ad35df94b1c77feffb0d",
+  "version": 6,
+  "descriptor_bytes": 212,
+  "compressed_frame_bytes": 5011097,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 8048484,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 112
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 48
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 251488
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 7728820
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 5011104
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "Player_Background"
+    },
+    {
+      "offset": 192,
+      "value": "Enemy_Background"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "Player_Background",
+    "Enemy_Background"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1768,
+      "value": "Cff "
+    },
+    {
+      "offset": 2238,
+      "value": "RB33"
+    },
+    {
+      "offset": 4060,
+      "value": "ff8B"
+    },
+    {
+      "offset": 4348,
+      "value": "ffPB"
+    },
+    {
+      "offset": 4924,
+      "value": "ffRB"
+    },
+    {
+      "offset": 5311,
+      "value": "B33c@"
+    },
+    {
+      "offset": 5743,
+      "value": "B33"
+    },
+    {
+      "offset": 6076,
+      "value": "ff@B"
+    },
+    {
+      "offset": 6604,
+      "value": "ff@B"
+    },
+    {
+      "offset": 7444,
+      "value": "ff8B"
+    },
+    {
+      "offset": 8284,
+      "value": "ffBB"
+    },
+    {
+      "offset": 8836,
+      "value": "ff/B"
+    },
+    {
+      "offset": 8863,
+      "value": "Bff"
+    },
+    {
+      "offset": 9196,
+      "value": "ff:B"
+    },
+    {
+      "offset": 11092,
+      "value": "ff8B"
+    },
+    {
+      "offset": 12148,
+      "value": "ffCB"
+    },
+    {
+      "offset": 12748,
+      "value": "ff@B"
+    },
+    {
+      "offset": 12820,
+      "value": "ffPB"
+    },
+    {
+      "offset": 12844,
+      "value": "ff8B"
+    },
+    {
+      "offset": 12964,
+      "value": "ffBB"
+    },
+    {
+      "offset": 13468,
+      "value": "ff@B"
+    },
+    {
+      "offset": 13732,
+      "value": "ff8B"
+    },
+    {
+      "offset": 15942,
+      "value": "KBff"
+    },
+    {
+      "offset": 17668,
+      "value": "ff/B"
+    },
+    {
+      "offset": 17812,
+      "value": "ffZB"
+    },
+    {
+      "offset": 18388,
+      "value": "ff/B"
+    },
+    {
+      "offset": 18484,
+      "value": "ffAB"
+    },
+    {
+      "offset": 18868,
+      "value": "ff/B"
+    },
+    {
+      "offset": 19156,
+      "value": "ffiB"
+    },
+    {
+      "offset": 19780,
+      "value": "ffWB"
+    },
+    {
+      "offset": 20236,
+      "value": "fffB"
+    },
+    {
+      "offset": 20308,
+      "value": "ffIB"
+    },
+    {
+      "offset": 21052,
+      "value": "ff/B"
+    },
+    {
+      "offset": 21292,
+      "value": "ffAB"
+    },
+    {
+      "offset": 22684,
+      "value": "ff@B"
+    },
+    {
+      "offset": 23221,
+      "value": "p+@"
+    },
+    {
+      "offset": 23524,
+      "value": "ff/B"
+    },
+    {
+      "offset": 24196,
+      "value": "ffZB"
+    },
+    {
+      "offset": 25372,
+      "value": "ffOB"
+    },
+    {
+      "offset": 26572,
+      "value": "ffTB"
+    },
+    {
+      "offset": 26980,
+      "value": "ff8B"
+    },
+    {
+      "offset": 27085,
+      "value": "P @"
+    },
+    {
+      "offset": 27772,
+      "value": "ff8B"
+    },
+    {
+      "offset": 27964,
+      "value": "ff_B"
+    },
+    {
+      "offset": 28351,
+      "value": "Bfff@"
+    },
+    {
+      "offset": 29071,
+      "value": "Bff6@"
+    },
+    {
+      "offset": 29533,
+      "value": "p+@"
+    },
+    {
+      "offset": 30061,
+      "value": "p-@"
+    },
+    {
+      "offset": 30340,
+      "value": "ffkB"
+    },
+    {
+      "offset": 32191,
+      "value": "E3C E"
+    },
+    {
+      "offset": 32289,
+      "value": "EhE"
+    },
+    {
+      "offset": 32577,
+      "value": "YBD"
+    },
+    {
+      "offset": 32649,
+      "value": "YBD"
+    },
+    {
+      "offset": 34471,
+      "value": "EfffD"
+    },
+    {
+      "offset": 35600,
+      "value": "ffiB"
+    },
+    {
+      "offset": 35720,
+      "value": "fflB"
+    },
+    {
+      "offset": 36584,
+      "value": "ff0B"
+    },
+    {
+      "offset": 37232,
+      "value": "ffAB"
+    },
+    {
+      "offset": 37352,
+      "value": "ffDB"
+    },
+    {
+      "offset": 37808,
+      "value": "ffVA"
+    },
+    {
+      "offset": 37904,
+      "value": "ff-B"
+    },
+    {
+      "offset": 38096,
+      "value": "ffXB"
+    },
+    {
+      "offset": 39104,
+      "value": "ffzB"
+    },
+    {
+      "offset": 39128,
+      "value": "ffUB"
+    },
+    {
+      "offset": 39488,
+      "value": "fff@"
+    },
+    {
+      "offset": 39512,
+      "value": "fffB"
+    },
+    {
+      "offset": 40352,
+      "value": "ff6A"
+    },
+    {
+      "offset": 40832,
+      "value": "ffzA"
+    },
+    {
+      "offset": 41960,
+      "value": "ff6@"
+    },
+    {
+      "offset": 41984,
+      "value": "ffOB"
+    },
+    {
+      "offset": 42080,
+      "value": "ffRB"
+    },
+    {
+      "offset": 42560,
+      "value": "ffcB"
+    },
+    {
+      "offset": 43040,
+      "value": "fftB"
+    },
+    {
+      "offset": 43112,
+      "value": "ffwB"
+    },
+    {
+      "offset": 43352,
+      "value": "ffnA"
+    },
+    {
+      "offset": 43952,
+      "value": "ff0B"
+    },
+    {
+      "offset": 44480,
+      "value": "ffAB"
+    },
+    {
+      "offset": 44576,
+      "value": "ffDB"
+    },
+    {
+      "offset": 45176,
+      "value": "ffUB"
+    },
+    {
+      "offset": 45536,
+      "value": "ffbA"
+    },
+    {
+      "offset": 47264,
+      "value": "ffLB"
+    },
+    {
+      "offset": 47881,
+      "value": "P0@"
+    },
+    {
+      "offset": 47989,
+      "value": "p+@"
+    },
+    {
+      "offset": 52252,
+      "value": "ff.A"
+    },
+    {
+      "offset": 52900,
+      "value": "ff.A"
+    },
+    {
+      "offset": 53332,
+      "value": "ff.A"
+    },
+    {
+      "offset": 58036,
+      "value": "ffNA"
+    },
+    {
+      "offset": 61232,
+      "value": "ffzA"
+    },
+    {
+      "offset": 61280,
+      "value": "ffFA"
+    },
+    {
+      "offset": 61448,
+      "value": "ffv@"
+    },
+    {
+      "offset": 62120,
+      "value": "fff@"
+    },
+    {
+      "offset": 62144,
+      "value": "fff@"
+    },
+    {
+      "offset": 64588,
+      "value": "ffBB"
+    },
+    {
+      "offset": 65620,
+      "value": "ffNA"
+    },
+    {
+      "offset": 67180,
+      "value": "ff6A"
+    },
+    {
+      "offset": 75968,
+      "value": "ff6@"
+    },
+    {
+      "offset": 76016,
+      "value": "ff6@"
+    },
+    {
+      "offset": 76064,
+      "value": "ff6@"
+    },
+    {
+      "offset": 76496,
+      "value": "ffF@"
+    },
+    {
+      "offset": 76544,
+      "value": "ffF@"
+    },
+    {
+      "offset": 76904,
+      "value": "ffV@"
+    },
+    {
+      "offset": 76928,
+      "value": "ffV@"
+    },
+    {
+      "offset": 76952,
+      "value": "ffV@"
+    },
+    {
+      "offset": 77240,
+      "value": "fff@"
+    },
+    {
+      "offset": 77264,
+      "value": "fff@"
+    },
+    {
+      "offset": 77288,
+      "value": "fff@"
+    },
+    {
+      "offset": 77696,
+      "value": "ffv@"
+    },
+    {
+      "offset": 77744,
+      "value": "ffv@"
+    },
+    {
+      "offset": 77792,
+      "value": "ffv@"
+    },
+    {
+      "offset": 79880,
+      "value": "ff6@"
+    },
+    {
+      "offset": 79904,
+      "value": "ff6@"
+    },
+    {
+      "offset": 79928,
+      "value": "ff6@"
+    },
+    {
+      "offset": 80144,
+      "value": "ffF@"
+    },
+    {
+      "offset": 80168,
+      "value": "ffF@"
+    },
+    {
+      "offset": 80192,
+      "value": "ffF@"
+    },
+    {
+      "offset": 82232,
+      "value": "ffvA"
+    },
+    {
+      "offset": 84320,
+      "value": "ffJA"
+    },
+    {
+      "offset": 87872,
+      "value": "ffFA"
+    },
+    {
+      "offset": 91693,
+      "value": "P0@"
+    },
+    {
+      "offset": 91729,
+      "value": "P4@"
+    },
+    {
+      "offset": 91901,
+      "value": "y0D"
+    },
+    {
+      "offset": 92095,
+      "value": "D3sDC"
+    },
+    {
+      "offset": 92261,
+      "value": "xxE"
+    },
+    {
+      "offset": 92649,
+      "value": "YeD"
+    },
+    {
+      "offset": 93081,
+      "value": "YEC"
+    },
+    {
+      "offset": 93871,
+      "value": "EffiC"
+    },
+    {
+      "offset": 94159,
+      "value": "DffFA"
+    },
+    {
+      "offset": 94541,
+      "value": "LvCf6GD"
+    },
+    {
+      "offset": 94809,
+      "value": "ISD"
+    },
+    {
+      "offset": 94948,
+      "value": "fzYEfFmD"
+    },
+    {
+      "offset": 96033,
+      "value": "LeD"
+    },
+    {
+      "offset": 96221,
+      "value": "TbE"
+    },
+    {
+      "offset": 96244,
+      "value": "fveE"
+    },
+    {
+      "offset": 96921,
+      "value": "L6C"
+    },
+    {
+      "offset": 97471,
+      "value": "E33iC"
+    },
+    {
+      "offset": 97759,
+      "value": "D33CA"
+    },
+    {
+      "offset": 97831,
+      "value": "EffXC"
+    },
+    {
+      "offset": 100409,
+      "value": "L0C"
+    },
+    {
+      "offset": 100433,
+      "value": "YXC"
+    },
+    {
+      "offset": 115427,
+      "value": "DKm"
+    },
+    {
+      "offset": 117875,
+      "value": "CO\\"
+    },
+    {
+      "offset": 118085,
+      "value": "DcE"
+    },
+    {
+      "offset": 119395,
+      "value": "E3W6E"
+    },
+    {
+      "offset": 120868,
+      "value": "ffdD"
+    },
+    {
+      "offset": 121867,
+      "value": "E3sxD"
+    },
+    {
+      "offset": 122373,
+      "value": "pqD"
+    },
+    {
+      "offset": 122453,
+      "value": "PME"
+    },
+    {
+      "offset": 122755,
+      "value": "D33_D"
+    },
+    {
+      "offset": 122957,
+      "value": "pyD"
+    },
+    {
+      "offset": 123139,
+      "value": "D3c"
+    },
+    {
+      "offset": 123907,
+      "value": "D3SvE"
+    },
+    {
+      "offset": 125037,
+      "value": "i/D"
+    },
+    {
+      "offset": 251220,
+      "value": "camera_bounds"
+    },
+    {
+      "offset": 251240,
+      "value": "foreground_3"
+    },
+    {
+      "offset": 251260,
+      "value": "foreground_2"
+    },
+    {
+      "offset": 251280,
+      "value": "foreground_1"
+    },
+    {
+      "offset": 251300,
+      "value": "banner"
+    },
+    {
+      "offset": 251312,
+      "value": "clan_pattern"
+    },
+    {
+      "offset": 251332,
+      "value": "clan_badge"
+    },
+    {
+      "offset": 251348,
+      "value": "background_3"
+    },
+    {
+      "offset": 251368,
+      "value": "background_2"
+    },
+    {
+      "offset": 251388,
+      "value": "background_1"
+    },
+    {
+      "offset": 251408,
+      "value": "Arial"
+    },
+    {
+      "offset": 251420,
+      "value": "Arial Bold"
+    },
+    {
+      "offset": 251436,
+      "value": "Player_Background"
+    },
+    {
+      "offset": 251460,
+      "value": "Enemy_Background"
+    },
+    {
+      "offset": 414845,
+      "value": "AYA"
+    },
+    {
+      "offset": 422269,
+      "value": "AYA"
+    },
+    {
+      "offset": 426087,
+      "value": "X@0"
+    },
+    {
+      "offset": 429306,
+      "value": "oHo"
+    },
+    {
+      "offset": 459096,
+      "value": "iFoq_"
+    },
+    {
+      "offset": 477950,
+      "value": "NeE"
+    },
+    {
+      "offset": 478413,
+      "value": "AYA"
+    },
+    {
+      "offset": 485920,
+      "value": "_e6"
+    },
+    {
+      "offset": 487994,
+      "value": "FH_"
+    },
+    {
+      "offset": 496201,
+      "value": "Kczo"
+    },
+    {
+      "offset": 496874,
+      "value": "IUo"
+    },
+    {
+      "offset": 500760,
+      "value": "_/8"
+    },
+    {
+      "offset": 503994,
+      "value": "pe_"
+    },
+    {
+      "offset": 511336,
+      "value": "sjo"
+    },
+    {
+      "offset": 515625,
+      "value": "N\\jo"
+    },
+    {
+      "offset": 517674,
+      "value": "V:_"
+    },
+    {
+      "offset": 522986,
+      "value": "yHo"
+    },
+    {
+      "offset": 527040,
+      "value": "nBxH"
+    },
+    {
+      "offset": 529606,
+      "value": "ZYm"
+    },
+    {
+      "offset": 539959,
+      "value": "r_V"
+    },
+    {
+      "offset": 540968,
+      "value": "S@nWo"
+    },
+    {
+      "offset": 541226,
+      "value": "HR_"
+    },
+    {
+      "offset": 543722,
+      "value": "jbo"
+    },
+    {
+      "offset": 544009,
+      "value": "dwQO"
+    },
+    {
+      "offset": 563994,
+      "value": "a_o"
+    },
+    {
+      "offset": 574746,
+      "value": "dS_"
+    },
+    {
+      "offset": 590622,
+      "value": "Vs19"
+    },
+    {
+      "offset": 597658,
+      "value": "jd_"
+    },
+    {
+      "offset": 612314,
+      "value": "Q-o"
+    },
+    {
+      "offset": 612359,
+      "value": "f7Hyi_"
+    },
+    {
+      "offset": 614489,
+      "value": "dLKs"
+    },
+    {
+      "offset": 626068,
+      "value": "yv_"
+    },
+    {
+      "offset": 627176,
+      "value": "INYUo"
+    },
+    {
+      "offset": 630327,
+      "value": "JTi"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c003000040008000c0010001400180000001c002000240028002c001c00000001000000010000007000000030000000020000000200000003000000",
+  "decoded_preview_hex": "5cd6030018000000000012001400040000000000000008000c00100012000000f0d4030068eb0100847f010004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

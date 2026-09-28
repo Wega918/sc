@@ -1,0 +1,87 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_pumpkin_barbarian.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pumpkin_barbarian.sc",
+  "sha256_container": "057885ba72680fbb4a47ee847988847a8593ff3d87c810716b6d1d07c7bd3b4a",
+  "sha256_descriptor": "b97cc12c0dee54e49e2fe9c10e0d0e80bc7197d2c4c9695cd0b161f0fa8110ab",
+  "sha256_decoded_payload": "b9c88b86894d57ea81807a331207e34a5cb59bc55a27af93a7bfbd43f9738d6a",
+  "version": 6,
+  "descriptor_bytes": 204,
+  "compressed_frame_bytes": 174,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 396,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 44,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 7,
+      "offset": 48,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 52,
+      "raw_u32": 132
+    },
+    {
+      "field_index": 9,
+      "offset": 56,
+      "raw_u32": 152
+    },
+    {
+      "field_index": 10,
+      "offset": 60,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 64,
+      "raw_u32": 176
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 116,
+      "value": "unit_pumpkin_barbarian_big"
+    },
+    {
+      "offset": 188,
+      "value": "temp_dummya2"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_pumpkin_barbarian_big",
+    "temp_dummya2"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 76,
+      "value": "unit_pumpkin_barbarian_big"
+    },
+    {
+      "offset": 108,
+      "value": "temp_dummya2"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c0024000400080000000c000000000000001000140018001c0020001c00000001000000010000000200000003000000840000009800000008000000",
+  "decoded_preview_hex": "8000000018000000000012000c000400000000000000000000000800120000001800000004000000010000000800000004000400040000000300000040000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

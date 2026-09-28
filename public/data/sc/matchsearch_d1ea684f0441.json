@@ -1,0 +1,310 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "matchsearch.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\matchsearch.sc",
+  "sha256_container": "d1ea684f04416e2d83ff506e7909d3c287c3a3f7bd52a1cce80c1accec0d26ec",
+  "sha256_descriptor": "0ffaa611cf6251fa69c342d30f22641cfac7d2187bae9be335c1fd282313899e",
+  "sha256_decoded_payload": "9eb3562c67c4e48de5ba8f992e4e555bc3005290f20b81a27a971dc496e14438",
+  "version": 6,
+  "descriptor_bytes": 488,
+  "compressed_frame_bytes": 46559,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 113684,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 9
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 16
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 11
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 59028
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 46248
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 46560
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 168,
+      "value": "match_search_ranked_no_glow"
+    },
+    {
+      "offset": 232,
+      "value": "match_search_ranked"
+    },
+    {
+      "offset": 288,
+      "value": "match_search_no_glow"
+    },
+    {
+      "offset": 348,
+      "value": "match_search_duel"
+    },
+    {
+      "offset": 404,
+      "value": "match_search_clan_wars"
+    },
+    {
+      "offset": 472,
+      "value": "match_search"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "match_search_ranked_no_glow",
+    "match_search_ranked",
+    "match_search_no_glow",
+    "match_search_duel",
+    "match_search_clan_wars",
+    "match_search"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 13784,
+      "value": "gfV@"
+    },
+    {
+      "offset": 13880,
+      "value": "gff@"
+    },
+    {
+      "offset": 17548,
+      "value": "gf0C"
+    },
+    {
+      "offset": 19232,
+      "value": "gfv@"
+    },
+    {
+      "offset": 22228,
+      "value": "gfNA"
+    },
+    {
+      "offset": 27964,
+      "value": "gfVB"
+    },
+    {
+      "offset": 33080,
+      "value": "gfF@"
+    },
+    {
+      "offset": 33128,
+      "value": "gf6@"
+    },
+    {
+      "offset": 37180,
+      "value": "gfUB"
+    },
+    {
+      "offset": 39269,
+      "value": "L C"
+    },
+    {
+      "offset": 43972,
+      "value": "gfbA"
+    },
+    {
+      "offset": 58612,
+      "value": "button_cancel"
+    },
+    {
+      "offset": 58632,
+      "value": "TID_BUTTON_CANCEL"
+    },
+    {
+      "offset": 58656,
+      "value": "searching"
+    },
+    {
+      "offset": 58672,
+      "value": "status_fail"
+    },
+    {
+      "offset": 58688,
+      "value": "status"
+    },
+    {
+      "offset": 58700,
+      "value": "button_retry"
+    },
+    {
+      "offset": 58720,
+      "value": "cancel_button"
+    },
+    {
+      "offset": 58740,
+      "value": "glas_glow"
+    },
+    {
+      "offset": 58756,
+      "value": "magnifying_glass"
+    },
+    {
+      "offset": 58780,
+      "value": "glass_lense"
+    },
+    {
+      "offset": 58796,
+      "value": "league_icon"
+    },
+    {
+      "offset": 58812,
+      "value": "TID_BUTTON_RETRY"
+    },
+    {
+      "offset": 58836,
+      "value": "text"
+    },
+    {
+      "offset": 58848,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 58868,
+      "value": "match_search_duel"
+    },
+    {
+      "offset": 58892,
+      "value": "match_search"
+    },
+    {
+      "offset": 58912,
+      "value": "match_search_clan_wars"
+    },
+    {
+      "offset": 58940,
+      "value": "match_search_no_glow"
+    },
+    {
+      "offset": 58968,
+      "value": "match_search_ranked"
+    },
+    {
+      "offset": 58992,
+      "value": "match_search_ranked_no_glow"
+    },
+    {
+      "offset": 68183,
+      "value": "Qu+"
+    },
+    {
+      "offset": 71174,
+      "value": "CDPPPP"
+    },
+    {
+      "offset": 71190,
+      "value": "CBPPPP"
+    },
+    {
+      "offset": 71862,
+      "value": "CBPPPPTr"
+    },
+    {
+      "offset": 72518,
+      "value": "CBPPPPTX"
+    },
+    {
+      "offset": 73206,
+      "value": "CBNPNPRT"
+    },
+    {
+      "offset": 74006,
+      "value": "CHPVPVTZ"
+    },
+    {
+      "offset": 74566,
+      "value": "CBPRPRbp"
+    },
+    {
+      "offset": 74598,
+      "value": "CDPRPRTZ"
+    },
+    {
+      "offset": 74710,
+      "value": "CFPTPTTX"
+    },
+    {
+      "offset": 74745,
+      "value": "kTO"
+    },
+    {
+      "offset": 75350,
+      "value": "CBNPNPRT"
+    },
+    {
+      "offset": 77414,
+      "value": "CBRRPRtf"
+    },
+    {
+      "offset": 78118,
+      "value": "CBPRNRdl"
+    },
+    {
+      "offset": 88303,
+      "value": "RCL"
+    },
+    {
+      "offset": 89007,
+      "value": "eRW"
+    },
+    {
+      "offset": 94376,
+      "value": "YqR"
+    },
+    {
+      "offset": 103010,
+      "value": "Q4_"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000002e8c1c40c583c34844538310f3287a1aadc61ea01c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "90e6000018000000000012001400040000000000000008000c0010001200000078e400001cb100008cae000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_siege_machine_flyer.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_siege_machine_flyer.sc",
+  "sha256_container": "60abd00ffcabe81f42e44fdf77350c71498126a1ec8d2f4fe0867201759f13c0",
+  "sha256_descriptor": "1ce4a0aba0c8606c10c1749355a048d615d2fe0e96bd6aa9b55a6ddf9089383d",
+  "sha256_decoded_payload": "9b2545d18879719c9f0fc1f02a24cfffae7ae4b165e6f93a2529246958dced62",
+  "version": 6,
+  "descriptor_bytes": 164,
+  "compressed_frame_bytes": 75408,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 134476,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 208
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 134008
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 75408
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 132,
+      "value": "unit_siege_machine_flyer_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_siege_machine_flyer_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 168,
+      "value": "unit_siege_machine_flyer_big"
+    },
+    {
+      "offset": 5895,
+      "value": "sX@"
+    },
+    {
+      "offset": 16086,
+      "value": "P0F"
+    },
+    {
+      "offset": 26675,
+      "value": "m.."
+    },
+    {
+      "offset": 28682,
+      "value": "u0O"
+    },
+    {
+      "offset": 40993,
+      "value": "PhY"
+    },
+    {
+      "offset": 54078,
+      "value": "tke"
+    },
+    {
+      "offset": 56746,
+      "value": "FBo"
+    },
+    {
+      "offset": 61456,
+      "value": "hrfn"
+    },
+    {
+      "offset": 69722,
+      "value": "VJo"
+    },
+    {
+      "offset": 70742,
+      "value": "jOX"
+    },
+    {
+      "offset": 74440,
+      "value": "UUUyO"
+    },
+    {
+      "offset": 75345,
+      "value": "jDH"
+    },
+    {
+      "offset": 75456,
+      "value": "ta7"
+    },
+    {
+      "offset": 76672,
+      "value": "TnBL"
+    },
+    {
+      "offset": 76794,
+      "value": "xmO"
+    },
+    {
+      "offset": 79457,
+      "value": "zLV"
+    },
+    {
+      "offset": 79488,
+      "value": "ZtJT"
+    },
+    {
+      "offset": 79552,
+      "value": "ZrHN"
+    },
+    {
+      "offset": 79568,
+      "value": "VpDN"
+    },
+    {
+      "offset": 81024,
+      "value": "ZtDN"
+    },
+    {
+      "offset": 82698,
+      "value": "Sn_"
+    },
+    {
+      "offset": 83905,
+      "value": "vDN"
+    },
+    {
+      "offset": 85650,
+      "value": "PV8"
+    },
+    {
+      "offset": 86427,
+      "value": "ZcH"
+    },
+    {
+      "offset": 87123,
+      "value": "VCy"
+    },
+    {
+      "offset": 87858,
+      "value": "aZk"
+    },
+    {
+      "offset": 101828,
+      "value": "PfpP"
+    },
+    {
+      "offset": 104131,
+      "value": "LMD"
+    },
+    {
+      "offset": 127782,
+      "value": "nJK2IH_"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000010000000100000003000000",
+  "decoded_preview_hex": "cc00000018000000000012001400040000000000000008000c001000120000007800000068000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

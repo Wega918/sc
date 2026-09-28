@@ -1,0 +1,268 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_mecha.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_mecha.sc",
+  "sha256_container": "bf574df02e5c35854a0711c8189d9b2f938fcf0ff5c4d17718af24749e0d1519",
+  "sha256_descriptor": "539cfbdf3af489878b2cf281cd2ac548b5444ae884fd8fb4a3232d193485b1cb",
+  "sha256_decoded_payload": "af3d87d71ceb88baa2b9ec9a30a406b73431bf63cc69d59842d3aa5e2f715596",
+  "version": 6,
+  "descriptor_bytes": 868,
+  "compressed_frame_bytes": 12484,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 34456,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 169
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 14
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 24084
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 6124
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 12488
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 168,
+      "value": "mecha_walk1_3"
+    },
+    {
+      "offset": 220,
+      "value": "mecha_walk1_2"
+    },
+    {
+      "offset": 272,
+      "value": "mecha_walk1_1"
+    },
+    {
+      "offset": 324,
+      "value": "mecha_run1_3"
+    },
+    {
+      "offset": 376,
+      "value": "mecha_run1_2"
+    },
+    {
+      "offset": 428,
+      "value": "mecha_run1_1"
+    },
+    {
+      "offset": 480,
+      "value": "mecha_cheer1_3"
+    },
+    {
+      "offset": 532,
+      "value": "mecha_cheer1_2"
+    },
+    {
+      "offset": 584,
+      "value": "mecha_cheer1_1"
+    },
+    {
+      "offset": 636,
+      "value": "mecha_attack1_3"
+    },
+    {
+      "offset": 688,
+      "value": "mecha_attack1_2"
+    },
+    {
+      "offset": 740,
+      "value": "mecha_attack1_1"
+    },
+    {
+      "offset": 792,
+      "value": "elixir_burst_2"
+    },
+    {
+      "offset": 852,
+      "value": "elixir_burst_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "mecha_walk1_3",
+    "mecha_walk1_2",
+    "mecha_walk1_1",
+    "mecha_run1_3",
+    "mecha_run1_2",
+    "mecha_run1_1",
+    "mecha_cheer1_3",
+    "mecha_cheer1_2",
+    "mecha_cheer1_1",
+    "mecha_attack1_3",
+    "mecha_attack1_2",
+    "mecha_attack1_1",
+    "elixir_burst_2",
+    "elixir_burst_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1976,
+      "value": "ff6@"
+    },
+    {
+      "offset": 3267,
+      "value": "P33OA"
+    },
+    {
+      "offset": 4118,
+      "value": "N-330B"
+    },
+    {
+      "offset": 6112,
+      "value": "ffjA"
+    },
+    {
+      "offset": 7984,
+      "value": "ffNA"
+    },
+    {
+      "offset": 8667,
+      "value": "fffIB"
+    },
+    {
+      "offset": 10387,
+      "value": "AffFAmp"
+    },
+    {
+      "offset": 10695,
+      "value": "S33sA"
+    },
+    {
+      "offset": 10908,
+      "value": "m7py"
+    },
+    {
+      "offset": 11966,
+      "value": "Ux33kA"
+    },
+    {
+      "offset": 12817,
+      "value": "gzo"
+    },
+    {
+      "offset": 13360,
+      "value": "ff2B"
+    },
+    {
+      "offset": 13648,
+      "value": "ff2B"
+    },
+    {
+      "offset": 16321,
+      "value": "gJz"
+    },
+    {
+      "offset": 17079,
+      "value": "d33nB"
+    },
+    {
+      "offset": 17737,
+      "value": "P9T"
+    },
+    {
+      "offset": 23800,
+      "value": "elixir_burst_1"
+    },
+    {
+      "offset": 23820,
+      "value": "mecha_attack1_3"
+    },
+    {
+      "offset": 23840,
+      "value": "mecha_attack1_2"
+    },
+    {
+      "offset": 23860,
+      "value": "mecha_run1_1"
+    },
+    {
+      "offset": 23880,
+      "value": "mecha_attack1_1"
+    },
+    {
+      "offset": 23900,
+      "value": "mecha_cheer1_3"
+    },
+    {
+      "offset": 23920,
+      "value": "mecha_cheer1_1"
+    },
+    {
+      "offset": 23940,
+      "value": "mecha_cheer1_2"
+    },
+    {
+      "offset": 23960,
+      "value": "mecha_run1_3"
+    },
+    {
+      "offset": 23980,
+      "value": "mecha_run1_2"
+    },
+    {
+      "offset": 24000,
+      "value": "mecha_walk1_3"
+    },
+    {
+      "offset": 24020,
+      "value": "mecha_walk1_2"
+    },
+    {
+      "offset": 24040,
+      "value": "mecha_walk1_1"
+    },
+    {
+      "offset": 24060,
+      "value": "elixir_burst_2"
+    },
+    {
+      "offset": 34436,
+      "value": "chr_mecha_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000a90000000e00000001000000145e0000ec170000",
+  "decoded_preview_hex": "105e000018000000000012001400040000000000000008000c00100012000000945c0000e44600004409000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_skeleton_glider.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_skeleton_glider.sc",
+  "sha256_container": "06d9b1d26d7cac7777ef55c142245eb4db79a9cfd6916feb72e81ee7c3aa7964",
+  "sha256_descriptor": "0e66b9c0260cce738af9506429d60080ac16d94e88d1a1bed692d99dc25699b1",
+  "sha256_decoded_payload": "28ee1f68a05cbea6b12628ca6a31ae4df848286e42cc0fe959afd06b5cb97070",
+  "version": 6,
+  "descriptor_bytes": 348,
+  "compressed_frame_bytes": 2691,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 6664,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 27
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 4668
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 1012
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 2696
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "skeleton_glider_lvl1_fly1_3"
+    },
+    {
+      "offset": 192,
+      "value": "skeleton_glider_lvl1_fly1_2"
+    },
+    {
+      "offset": 256,
+      "value": "skeleton_glider_lvl1_fly1_1"
+    },
+    {
+      "offset": 328,
+      "value": "skeleton_glider_die"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "skeleton_glider_lvl1_fly1_3",
+    "skeleton_glider_lvl1_fly1_2",
+    "skeleton_glider_lvl1_fly1_1",
+    "skeleton_glider_die"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2352,
+      "value": "ffgB"
+    },
+    {
+      "offset": 2375,
+      "value": "pffgB"
+    },
+    {
+      "offset": 3633,
+      "value": "s0833WB"
+    },
+    {
+      "offset": 3660,
+      "value": "ffjA"
+    },
+    {
+      "offset": 3708,
+      "value": "ffPB"
+    },
+    {
+      "offset": 4544,
+      "value": "skeleton_glider_lvl1_fly1_3"
+    },
+    {
+      "offset": 4576,
+      "value": "skeleton_glider_die"
+    },
+    {
+      "offset": 4600,
+      "value": "skeleton_glider_lvl1_fly1_1"
+    },
+    {
+      "offset": 4632,
+      "value": "skeleton_glider_lvl1_fly1_2"
+    },
+    {
+      "offset": 6636,
+      "value": "chr_skeleton_glider_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001b00000004000000010000003c120000f4030000",
+  "decoded_preview_hex": "3812000018000000000012001400040000000000000008000c0010001200000084110000e80e00004405000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_elite_hogrider.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_hogrider.sc",
+  "sha256_container": "5d8e740f5ee69aa3640c2fe4e03368531b532acdfd3d5e88a042490a8c2959b8",
+  "sha256_descriptor": "4067e8b81622dc4d963429336c8b9d00c85d7431925fd5a1cb8ef25bb6f9becb",
+  "sha256_decoded_payload": "75a612b05fbf82566de2ae11a496bf3eaed260bb7dad76124f190bb6829d4597",
+  "version": 6,
+  "descriptor_bytes": 360,
+  "compressed_frame_bytes": 132375,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 301524,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 696
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 300152
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 132376
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 160,
+      "value": "unit_elite_rider"
+    },
+    {
+      "offset": 216,
+      "value": "unit_elite_hogrider_big"
+    },
+    {
+      "offset": 276,
+      "value": "unit_elite_hog"
+    },
+    {
+      "offset": 336,
+      "value": "card_elite_hogrider_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_elite_rider",
+    "unit_elite_hogrider_big",
+    "unit_elite_hog",
+    "card_elite_hogrider_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 560,
+      "value": "bounds"
+    },
+    {
+      "offset": 572,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 592,
+      "value": "unit_elite_hogrider_big"
+    },
+    {
+      "offset": 620,
+      "value": "card_elite_hogrider_big"
+    },
+    {
+      "offset": 648,
+      "value": "unit_elite_hog"
+    },
+    {
+      "offset": 668,
+      "value": "unit_elite_rider"
+    },
+    {
+      "offset": 7263,
+      "value": "tXh "
+    },
+    {
+      "offset": 23183,
+      "value": "fAbFeo"
+    },
+    {
+      "offset": 28463,
+      "value": "nQ@@"
+    },
+    {
+      "offset": 28633,
+      "value": "z@0"
+    },
+    {
+      "offset": 29363,
+      "value": "icA-N"
+    },
+    {
+      "offset": 41331,
+      "value": "D/h"
+    },
+    {
+      "offset": 44222,
+      "value": "Vm-"
+    },
+    {
+      "offset": 44234,
+      "value": "V-D8"
+    },
+    {
+      "offset": 59152,
+      "value": "ojJ"
+    },
+    {
+      "offset": 64846,
+      "value": "iZ2"
+    },
+    {
+      "offset": 70318,
+      "value": "pF8"
+    },
+    {
+      "offset": 73001,
+      "value": "fdoB"
+    },
+    {
+      "offset": 77006,
+      "value": "rEJ"
+    },
+    {
+      "offset": 81047,
+      "value": "K8w3"
+    },
+    {
+      "offset": 84305,
+      "value": "bNto"
+    },
+    {
+      "offset": 89000,
+      "value": "Hf8R"
+    },
+    {
+      "offset": 91970,
+      "value": "JNo"
+    },
+    {
+      "offset": 94012,
+      "value": "d7V9"
+    },
+    {
+      "offset": 97137,
+      "value": "z24o"
+    },
+    {
+      "offset": 105304,
+      "value": "bv6D"
+    },
+    {
+      "offset": 110248,
+      "value": "gBE"
+    },
+    {
+      "offset": 116018,
+      "value": "V\\O"
+    },
+    {
+      "offset": 117257,
+      "value": "T-t"
+    },
+    {
+      "offset": 121823,
+      "value": "QMU"
+    },
+    {
+      "offset": 127250,
+      "value": "zv_"
+    },
+    {
+      "offset": 133142,
+      "value": "DkL"
+    },
+    {
+      "offset": 150434,
+      "value": "uT_"
+    },
+    {
+      "offset": 151666,
+      "value": "AOo"
+    },
+    {
+      "offset": 151913,
+      "value": "B+ "
+    },
+    {
+      "offset": 155124,
+      "value": "cAYF"
+    },
+    {
+      "offset": 158992,
+      "value": "_hlKo"
+    },
+    {
+      "offset": 164491,
+      "value": "cJH"
+    },
+    {
+      "offset": 171156,
+      "value": "cAYN"
+    },
+    {
+      "offset": 183118,
+      "value": "h@P"
+    },
+    {
+      "offset": 191476,
+      "value": "cA-N"
+    },
+    {
+      "offset": 207282,
+      "value": "gHo"
+    },
+    {
+      "offset": 209458,
+      "value": "HqO"
+    },
+    {
+      "offset": 217281,
+      "value": "H9H_"
+    },
+    {
+      "offset": 218950,
+      "value": "NWn+"
+    },
+    {
+      "offset": 219343,
+      "value": "HBIJqO"
+    },
+    {
+      "offset": 220621,
+      "value": "FO3"
+    },
+    {
+      "offset": 222902,
+      "value": "uCyaJ"
+    },
+    {
+      "offset": 225362,
+      "value": "ya_"
+    },
+    {
+      "offset": 225451,
+      "value": "BmDfTW"
+    },
+    {
+      "offset": 227314,
+      "value": "LIo"
+    },
+    {
+      "offset": 228679,
+      "value": "dDL8:"
+    },
+    {
+      "offset": 233022,
+      "value": "U9y"
+    },
+    {
+      "offset": 234414,
+      "value": "H@C"
+    },
+    {
+      "offset": 239493,
+      "value": "CUA0"
+    },
+    {
+      "offset": 240880,
+      "value": "UHS"
+    },
+    {
+      "offset": 245079,
+      "value": "qV9"
+    },
+    {
+      "offset": 255161,
+      "value": "ah@"
+    },
+    {
+      "offset": 263362,
+      "value": "I+o"
+    },
+    {
+      "offset": 269467,
+      "value": "fBH"
+    },
+    {
+      "offset": 271265,
+      "value": "yTZ_"
+    },
+    {
+      "offset": 295286,
+      "value": "HsJ"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000f08ebaf15b8066c6b60a6848a0201837c82065fa1c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "b402000018000000000012001400040000000000000008000c00100012000000ec010000c40100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

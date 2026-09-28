@@ -1,0 +1,231 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_snake_barrel.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_snake_barrel.sc",
+  "sha256_container": "7faf0f803da7ca2f0da8eae55ab85b7fe88ee4e1e51372ed4ce2bc68718dc8b1",
+  "sha256_descriptor": "e0da036ee1bcb4e7766a87b82afeb09a39517a21b98e295c25104cb7f1ced3fd",
+  "sha256_decoded_payload": "51ef66cad92665494119afeb9d3697d62d61649e5fd965cf61d7b34fcaf5718c",
+  "version": 6,
+  "descriptor_bytes": 1036,
+  "compressed_frame_bytes": 9493,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 38068,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 90
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 15
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 27964
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 6540
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 9496
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 168,
+      "value": "snake_barrel_troop_lvl1_spawn1_3"
+    },
+    {
+      "offset": 240,
+      "value": "snake_barrel_troop_lvl1_spawn1_2"
+    },
+    {
+      "offset": 312,
+      "value": "snake_barrel_troop_lvl1_spawn1_1"
+    },
+    {
+      "offset": 384,
+      "value": "snake_barrel_troop_lvl1_run1_3"
+    },
+    {
+      "offset": 452,
+      "value": "snake_barrel_troop_lvl1_run1_2"
+    },
+    {
+      "offset": 520,
+      "value": "snake_barrel_troop_lvl1_run1_1"
+    },
+    {
+      "offset": 588,
+      "value": "snake_barrel_troop_lvl1_idle1_3"
+    },
+    {
+      "offset": 656,
+      "value": "snake_barrel_troop_lvl1_idle1_2"
+    },
+    {
+      "offset": 724,
+      "value": "snake_barrel_troop_lvl1_idle1_1"
+    },
+    {
+      "offset": 792,
+      "value": "snake_barrel_troop_lvl1_attack1_3"
+    },
+    {
+      "offset": 864,
+      "value": "snake_barrel_troop_lvl1_attack1_2"
+    },
+    {
+      "offset": 936,
+      "value": "snake_barrel_troop_lvl1_attack1_1"
+    },
+    {
+      "offset": 1016,
+      "value": "snake_barrel_run1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "snake_barrel_troop_lvl1_spawn1_3",
+    "snake_barrel_troop_lvl1_spawn1_2",
+    "snake_barrel_troop_lvl1_spawn1_1",
+    "snake_barrel_troop_lvl1_run1_3",
+    "snake_barrel_troop_lvl1_run1_2",
+    "snake_barrel_troop_lvl1_run1_1",
+    "snake_barrel_troop_lvl1_idle1_3",
+    "snake_barrel_troop_lvl1_idle1_2",
+    "snake_barrel_troop_lvl1_idle1_1",
+    "snake_barrel_troop_lvl1_attack1_3",
+    "snake_barrel_troop_lvl1_attack1_2",
+    "snake_barrel_troop_lvl1_attack1_1",
+    "snake_barrel_run1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 4744,
+      "value": "ff6@"
+    },
+    {
+      "offset": 13569,
+      "value": "y3x"
+    },
+    {
+      "offset": 13857,
+      "value": "bsM"
+    },
+    {
+      "offset": 14817,
+      "value": "Ftx"
+    },
+    {
+      "offset": 15048,
+      "value": "ffFA"
+    },
+    {
+      "offset": 16944,
+      "value": "ffFA"
+    },
+    {
+      "offset": 27428,
+      "value": "fly3_end"
+    },
+    {
+      "offset": 27444,
+      "value": "action_frame1"
+    },
+    {
+      "offset": 27464,
+      "value": "fly3_start"
+    },
+    {
+      "offset": 27480,
+      "value": "snake_barrel_run1_1"
+    },
+    {
+      "offset": 27504,
+      "value": "snake_barrel_troop_lvl1_attack1_3"
+    },
+    {
+      "offset": 27544,
+      "value": "snake_barrel_troop_lvl1_attack1_1"
+    },
+    {
+      "offset": 27584,
+      "value": "snake_barrel_troop_lvl1_run1_3"
+    },
+    {
+      "offset": 27620,
+      "value": "snake_barrel_troop_lvl1_spawn1_2"
+    },
+    {
+      "offset": 27660,
+      "value": "snake_barrel_troop_lvl1_attack1_2"
+    },
+    {
+      "offset": 27700,
+      "value": "snake_barrel_troop_lvl1_idle1_1"
+    },
+    {
+      "offset": 27736,
+      "value": "snake_barrel_troop_lvl1_idle1_2"
+    },
+    {
+      "offset": 27772,
+      "value": "snake_barrel_troop_lvl1_idle1_3"
+    },
+    {
+      "offset": 27808,
+      "value": "snake_barrel_troop_lvl1_run1_1"
+    },
+    {
+      "offset": 27844,
+      "value": "snake_barrel_troop_lvl1_run1_2"
+    },
+    {
+      "offset": 27880,
+      "value": "snake_barrel_troop_lvl1_spawn1_3"
+    },
+    {
+      "offset": 27920,
+      "value": "snake_barrel_troop_lvl1_spawn1_1"
+    },
+    {
+      "offset": 38044,
+      "value": "chr_snake_barrel_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000005a0000000f000000010000003c6d0000",
+  "decoded_preview_hex": "386d000018000000000012001400040000000000000008000c00100012000000b86a000064470000fc2b000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_super_miner.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_miner.sc",
+  "sha256_container": "db86c021d1d29e9921ce6303bb98232ce49468b8715aff0831abde19eb4fa38f",
+  "sha256_descriptor": "c81f69dc2013188c452c9340f8182293bf4539575efaf2dfe868ec2bddd98017",
+  "sha256_decoded_payload": "099322942e8895e5abed9f8142623db0b2ff0803118f43b31a52571d593e4a3e",
+  "version": 6,
+  "descriptor_bytes": 940,
+  "compressed_frame_bytes": 14682,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 42396,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 94
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 18
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 34036
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 4684
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 14688
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 164,
+      "value": "super_miner_lvl1_run1_3"
+    },
+    {
+      "offset": 224,
+      "value": "super_miner_lvl1_run1_2"
+    },
+    {
+      "offset": 284,
+      "value": "super_miner_lvl1_run1_1"
+    },
+    {
+      "offset": 344,
+      "value": "super_miner_lvl1_idle1_3"
+    },
+    {
+      "offset": 408,
+      "value": "super_miner_lvl1_idle1_2"
+    },
+    {
+      "offset": 472,
+      "value": "super_miner_lvl1_idle1_1"
+    },
+    {
+      "offset": 536,
+      "value": "super_miner_lvl1_dig1_3"
+    },
+    {
+      "offset": 596,
+      "value": "super_miner_lvl1_dig1_2"
+    },
+    {
+      "offset": 656,
+      "value": "super_miner_lvl1_dig1_1"
+    },
+    {
+      "offset": 716,
+      "value": "super_miner_lvl1_barrel"
+    },
+    {
+      "offset": 776,
+      "value": "super_miner_lvl1_attack1_3"
+    },
+    {
+      "offset": 840,
+      "value": "super_miner_lvl1_attack1_2"
+    },
+    {
+      "offset": 912,
+      "value": "super_miner_lvl1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "super_miner_lvl1_run1_3",
+    "super_miner_lvl1_run1_2",
+    "super_miner_lvl1_run1_1",
+    "super_miner_lvl1_idle1_3",
+    "super_miner_lvl1_idle1_2",
+    "super_miner_lvl1_idle1_1",
+    "super_miner_lvl1_dig1_3",
+    "super_miner_lvl1_dig1_2",
+    "super_miner_lvl1_dig1_1",
+    "super_miner_lvl1_barrel",
+    "super_miner_lvl1_attack1_3",
+    "super_miner_lvl1_attack1_2",
+    "super_miner_lvl1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1224,
+      "value": "ffF@"
+    },
+    {
+      "offset": 3984,
+      "value": "ffF@"
+    },
+    {
+      "offset": 4824,
+      "value": "ff.A"
+    },
+    {
+      "offset": 10540,
+      "value": "ffzA"
+    },
+    {
+      "offset": 10900,
+      "value": "fffA"
+    },
+    {
+      "offset": 13132,
+      "value": "ffjA"
+    },
+    {
+      "offset": 14976,
+      "value": "fff@"
+    },
+    {
+      "offset": 16224,
+      "value": "ffv@"
+    },
+    {
+      "offset": 17700,
+      "value": "ffjA"
+    },
+    {
+      "offset": 18731,
+      "value": "bffHB"
+    },
+    {
+      "offset": 18828,
+      "value": "ffHB"
+    },
+    {
+      "offset": 18850,
+      "value": "vwffHB"
+    },
+    {
+      "offset": 18875,
+      "value": "pff.A"
+    },
+    {
+      "offset": 21260,
+      "value": "kXBr"
+    },
+    {
+      "offset": 21804,
+      "value": "ffAB"
+    },
+    {
+      "offset": 23100,
+      "value": "ffJA"
+    },
+    {
+      "offset": 24080,
+      "value": "dIs/"
+    },
+    {
+      "offset": 24180,
+      "value": "ff8B"
+    },
+    {
+      "offset": 24252,
+      "value": "ff8B"
+    },
+    {
+      "offset": 24420,
+      "value": "ff8B"
+    },
+    {
+      "offset": 24504,
+      "value": "ff8B"
+    },
+    {
+      "offset": 33644,
+      "value": "super_miner_lvl1_run1_3"
+    },
+    {
+      "offset": 33672,
+      "value": "super_miner_lvl1_attack1_1"
+    },
+    {
+      "offset": 33704,
+      "value": "super_miner_lvl1_idle1_1"
+    },
+    {
+      "offset": 33736,
+      "value": "super_miner_lvl1_run1_1"
+    },
+    {
+      "offset": 33764,
+      "value": "super_miner_lvl1_barrel"
+    },
+    {
+      "offset": 33792,
+      "value": "super_miner_lvl1_dig1_2"
+    },
+    {
+      "offset": 33820,
+      "value": "super_miner_lvl1_attack1_2"
+    },
+    {
+      "offset": 33852,
+      "value": "super_miner_lvl1_dig1_3"
+    },
+    {
+      "offset": 33880,
+      "value": "super_miner_lvl1_attack1_3"
+    },
+    {
+      "offset": 33912,
+      "value": "super_miner_lvl1_dig1_1"
+    },
+    {
+      "offset": 33940,
+      "value": "super_miner_lvl1_idle1_2"
+    },
+    {
+      "offset": 33972,
+      "value": "super_miner_lvl1_idle1_3"
+    },
+    {
+      "offset": 34004,
+      "value": "super_miner_lvl1_run1_2"
+    },
+    {
+      "offset": 42372,
+      "value": "chr_super_miner_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000005e0000001200000001000000f48400004c120000",
+  "decoded_preview_hex": "f084000018000000000012001400040000000000000008000c001000120000000c830000006000003841000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

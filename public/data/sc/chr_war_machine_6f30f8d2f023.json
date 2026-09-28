@@ -1,0 +1,196 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_war_machine.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_war_machine.sc",
+  "sha256_container": "6f30f8d2f023729355f4ef43884c171cc4d4bec08122ede0a379372fd79eeac0",
+  "sha256_descriptor": "852b593b8bd25d5bbfaa5e7b301bc9adc500f9faa93530bde201cfd9044f3663",
+  "sha256_decoded_payload": "f6065a43eb78c3f5e4161ac1ec4e1ff95ac660e8f4717f9ce226a3e373e64a59",
+  "version": 6,
+  "descriptor_bytes": 524,
+  "compressed_frame_bytes": 4778,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 15192,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 21
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 10972
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 2768
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 4784
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 140,
+      "value": "warmachine_hammer_glow"
+    },
+    {
+      "offset": 200,
+      "value": "warmachine_hammer_flash"
+    },
+    {
+      "offset": 260,
+      "value": "warmachine_hammer_electric_spark_blast_02"
+    },
+    {
+      "offset": 340,
+      "value": "warmachine_hammer_electric_spark_blast_01"
+    },
+    {
+      "offset": 420,
+      "value": "warmachine_hammer_charge_spark"
+    },
+    {
+      "offset": 496,
+      "value": "warmachine_hammer_charge_fx"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "warmachine_hammer_glow",
+    "warmachine_hammer_flash",
+    "warmachine_hammer_electric_spark_blast_02",
+    "warmachine_hammer_electric_spark_blast_01",
+    "warmachine_hammer_charge_spark",
+    "warmachine_hammer_charge_fx"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 280,
+      "value": "UUU"
+    },
+    {
+      "offset": 4865,
+      "value": "H2A"
+    },
+    {
+      "offset": 4877,
+      "value": "H2A"
+    },
+    {
+      "offset": 5189,
+      "value": "d1A"
+    },
+    {
+      "offset": 5213,
+      "value": "H.A"
+    },
+    {
+      "offset": 5249,
+      "value": "x_A"
+    },
+    {
+      "offset": 5369,
+      "value": "tTA"
+    },
+    {
+      "offset": 5525,
+      "value": "T/A"
+    },
+    {
+      "offset": 5609,
+      "value": "dXA"
+    },
+    {
+      "offset": 5789,
+      "value": "aNE"
+    },
+    {
+      "offset": 6137,
+      "value": "Nbu"
+    },
+    {
+      "offset": 6209,
+      "value": "Nbu"
+    },
+    {
+      "offset": 6509,
+      "value": "aNE"
+    },
+    {
+      "offset": 6857,
+      "value": "Nbu"
+    },
+    {
+      "offset": 6929,
+      "value": "Nbu"
+    },
+    {
+      "offset": 8336,
+      "value": "ff:A"
+    },
+    {
+      "offset": 10748,
+      "value": "warmachine_hammer_glow"
+    },
+    {
+      "offset": 10776,
+      "value": "warmachine_hammer_flash"
+    },
+    {
+      "offset": 10804,
+      "value": "warmachine_hammer_electric_spark_blast_02"
+    },
+    {
+      "offset": 10852,
+      "value": "warmachine_hammer_electric_spark_blast_01"
+    },
+    {
+      "offset": 10900,
+      "value": "warmachine_hammer_charge_fx"
+    },
+    {
+      "offset": 10932,
+      "value": "warmachine_hammer_charge_spark"
+    },
+    {
+      "offset": 15168,
+      "value": "chr_war_machine_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000150000000800000001000000dc2a0000",
+  "decoded_preview_hex": "d82a000018000000000012001400040000000000000008000c00100012000000b8290000982100002016000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

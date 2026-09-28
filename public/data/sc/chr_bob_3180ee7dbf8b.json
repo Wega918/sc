@@ -1,0 +1,360 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_bob.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_bob.sc",
+  "sha256_container": "3180ee7dbf8bb6e85e20211ada4d923969375936cf2a76d6c8e663f20e7d6f8c",
+  "sha256_descriptor": "2c086e27b7341291d91e50437d30a99ed6d6ea1da46464145148b37d1ac107e5",
+  "sha256_decoded_payload": "f9cbb9fab42baee4e5f2b22e9368c9e6b7e2c01c67c8d17fca8d0ce0d0c77f97",
+  "version": 6,
+  "descriptor_bytes": 676,
+  "compressed_frame_bytes": 19810,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 66024,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 87
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 16
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 56364
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 6248
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 19816
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 156,
+      "value": "bob_lvl1_run1_3"
+    },
+    {
+      "offset": 208,
+      "value": "bob_lvl1_run1_2"
+    },
+    {
+      "offset": 260,
+      "value": "bob_lvl1_run1_1"
+    },
+    {
+      "offset": 312,
+      "value": "bob_lvl1_idle1_3"
+    },
+    {
+      "offset": 368,
+      "value": "bob_lvl1_idle1_2"
+    },
+    {
+      "offset": 424,
+      "value": "bob_lvl1_idle1_1"
+    },
+    {
+      "offset": 480,
+      "value": "bob_lvl1_build1_3"
+    },
+    {
+      "offset": 536,
+      "value": "bob_lvl1_build1_2"
+    },
+    {
+      "offset": 592,
+      "value": "bob_lvl1_build1_1"
+    },
+    {
+      "offset": 656,
+      "value": "bob_heroUpgrade1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "bob_lvl1_run1_3",
+    "bob_lvl1_run1_2",
+    "bob_lvl1_run1_1",
+    "bob_lvl1_idle1_3",
+    "bob_lvl1_idle1_2",
+    "bob_lvl1_idle1_1",
+    "bob_lvl1_build1_3",
+    "bob_lvl1_build1_2",
+    "bob_lvl1_build1_1",
+    "bob_heroUpgrade1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1551,
+      "value": "Aff.A"
+    },
+    {
+      "offset": 1767,
+      "value": "A33kA"
+    },
+    {
+      "offset": 1911,
+      "value": "AffjA"
+    },
+    {
+      "offset": 1956,
+      "value": "ff6B"
+    },
+    {
+      "offset": 2511,
+      "value": "Aff6@"
+    },
+    {
+      "offset": 3972,
+      "value": "ffbA"
+    },
+    {
+      "offset": 7263,
+      "value": "A33"
+    },
+    {
+      "offset": 8196,
+      "value": "fff@"
+    },
+    {
+      "offset": 12615,
+      "value": "A33"
+    },
+    {
+      "offset": 15108,
+      "value": "ff:A"
+    },
+    {
+      "offset": 20100,
+      "value": "ffvA"
+    },
+    {
+      "offset": 22701,
+      "value": "pF@"
+    },
+    {
+      "offset": 23895,
+      "value": "A33S@"
+    },
+    {
+      "offset": 24375,
+      "value": "A33+A"
+    },
+    {
+      "offset": 24471,
+      "value": "A33SA"
+    },
+    {
+      "offset": 24783,
+      "value": "AffF@"
+    },
+    {
+      "offset": 24807,
+      "value": "A33CA"
+    },
+    {
+      "offset": 25341,
+      "value": "pF@"
+    },
+    {
+      "offset": 26007,
+      "value": "A33+A"
+    },
+    {
+      "offset": 26176,
+      "value": "ff.A"
+    },
+    {
+      "offset": 26200,
+      "value": "ff6A"
+    },
+    {
+      "offset": 26248,
+      "value": "ffFA"
+    },
+    {
+      "offset": 26296,
+      "value": "ffVA"
+    },
+    {
+      "offset": 26320,
+      "value": "ffZA"
+    },
+    {
+      "offset": 26344,
+      "value": "fffA"
+    },
+    {
+      "offset": 26392,
+      "value": "ffvA"
+    },
+    {
+      "offset": 26925,
+      "value": "pF@"
+    },
+    {
+      "offset": 27417,
+      "value": "p2@"
+    },
+    {
+      "offset": 27591,
+      "value": "A33+A"
+    },
+    {
+      "offset": 27669,
+      "value": "pF@"
+    },
+    {
+      "offset": 28335,
+      "value": "A33+A"
+    },
+    {
+      "offset": 28413,
+      "value": "pF@"
+    },
+    {
+      "offset": 28557,
+      "value": "PY@"
+    },
+    {
+      "offset": 28581,
+      "value": "p\\@"
+    },
+    {
+      "offset": 28737,
+      "value": "p6@"
+    },
+    {
+      "offset": 28887,
+      "value": "AffBA"
+    },
+    {
+      "offset": 28911,
+      "value": "A333A"
+    },
+    {
+      "offset": 29511,
+      "value": "Aff"
+    },
+    {
+      "offset": 30448,
+      "value": "ffnA"
+    },
+    {
+      "offset": 30621,
+      "value": "ybJ33"
+    },
+    {
+      "offset": 30647,
+      "value": "Q33"
+    },
+    {
+      "offset": 30719,
+      "value": "n33"
+    },
+    {
+      "offset": 30743,
+      "value": "t33"
+    },
+    {
+      "offset": 30873,
+      "value": "V.c"
+    },
+    {
+      "offset": 30897,
+      "value": "P.c"
+    },
+    {
+      "offset": 31127,
+      "value": "c33"
+    },
+    {
+      "offset": 32688,
+      "value": "ffVA"
+    },
+    {
+      "offset": 56120,
+      "value": "shadow"
+    },
+    {
+      "offset": 56132,
+      "value": "bob_lvl1_run1_1"
+    },
+    {
+      "offset": 56152,
+      "value": "bob_lvl1_build1_2"
+    },
+    {
+      "offset": 56176,
+      "value": "bob_lvl1_idle1_1"
+    },
+    {
+      "offset": 56200,
+      "value": "bob_lvl1_run1_2"
+    },
+    {
+      "offset": 56220,
+      "value": "bob_lvl1_build1_1"
+    },
+    {
+      "offset": 56244,
+      "value": "bob_heroUpgrade1"
+    },
+    {
+      "offset": 56268,
+      "value": "bob_lvl1_build1_3"
+    },
+    {
+      "offset": 56292,
+      "value": "bob_lvl1_idle1_2"
+    },
+    {
+      "offset": 56316,
+      "value": "bob_lvl1_idle1_3"
+    },
+    {
+      "offset": 56340,
+      "value": "bob_lvl1_run1_3"
+    },
+    {
+      "offset": 66008,
+      "value": "chr_bob_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000005700000010000000010000002cdc0000",
+  "decoded_preview_hex": "28dc000018000000000012001400040000000000000008000c00100012000000e0da0000cc900000f475000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "tutorial_character_neutral.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\tutorial_character_neutral.sc",
+  "sha256_container": "dcc1e6f9a4dbeb6aad0eaa45bca1d755c8a5a730affe3523f61fc2647362cfcd",
+  "sha256_descriptor": "1e14a640931c7ffdfe12f8ebb43c4dd9e26f3e50c19583847e85865bbeb507ad",
+  "sha256_decoded_payload": "660c51d63a7cdaf25013ae6a7431abc472b874e9a6795b4db0037a60db33d6f5",
+  "version": 6,
+  "descriptor_bytes": 868,
+  "compressed_frame_bytes": 247191,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 416344,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 11
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 11
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 80,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 84,
+      "raw_u32": 1712
+    },
+    {
+      "field_index": 9,
+      "offset": 88,
+      "raw_u32": 413288
+    },
+    {
+      "field_index": 10,
+      "offset": 92,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 96,
+      "raw_u32": 247192
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 184,
+      "value": "character_friendly_trader"
+    },
+    {
+      "offset": 248,
+      "value": "character_friendly_thinking"
+    },
+    {
+      "offset": 312,
+      "value": "character_friendly_sad"
+    },
+    {
+      "offset": 372,
+      "value": "character_friendly_remembers"
+    },
+    {
+      "offset": 440,
+      "value": "character_friendly_relieved"
+    },
+    {
+      "offset": 504,
+      "value": "character_friendly_neutral_war"
+    },
+    {
+      "offset": 572,
+      "value": "character_friendly_neutral"
+    },
+    {
+      "offset": 636,
+      "value": "character_friendly_hostile"
+    },
+    {
+      "offset": 700,
+      "value": "character_friendly_happy_open"
+    },
+    {
+      "offset": 768,
+      "value": "character_friendly_happy_closed"
+    },
+    {
+      "offset": 844,
+      "value": "character_friendly_fear"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "character_friendly_trader",
+    "character_friendly_thinking",
+    "character_friendly_sad",
+    "character_friendly_remembers",
+    "character_friendly_relieved",
+    "character_friendly_neutral_war",
+    "character_friendly_neutral",
+    "character_friendly_hostile",
+    "character_friendly_happy_open",
+    "character_friendly_happy_closed",
+    "character_friendly_fear"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 344,
+      "value": "ffQB"
+    },
+    {
+      "offset": 787,
+      "value": "cffkB"
+    },
+    {
+      "offset": 1348,
+      "value": "character_friendly_neutral"
+    },
+    {
+      "offset": 1380,
+      "value": "character_friendly_neutral_war"
+    },
+    {
+      "offset": 1416,
+      "value": "character_friendly_trader"
+    },
+    {
+      "offset": 1448,
+      "value": "character_friendly_relieved"
+    },
+    {
+      "offset": 1480,
+      "value": "character_friendly_fear"
+    },
+    {
+      "offset": 1508,
+      "value": "character_friendly_happy_closed"
+    },
+    {
+      "offset": 1544,
+      "value": "character_friendly_happy_open"
+    },
+    {
+      "offset": 1580,
+      "value": "character_friendly_hostile"
+    },
+    {
+      "offset": 1612,
+      "value": "character_friendly_remembers"
+    },
+    {
+      "offset": 1648,
+      "value": "character_friendly_thinking"
+    },
+    {
+      "offset": 1680,
+      "value": "character_friendly_sad"
+    },
+    {
+      "offset": 9046,
+      "value": "kCn"
+    },
+    {
+      "offset": 12093,
+      "value": "hDL"
+    },
+    {
+      "offset": 23240,
+      "value": "o@M-"
+    },
+    {
+      "offset": 26763,
+      "value": "pRyE"
+    },
+    {
+      "offset": 30668,
+      "value": "NT@"
+    },
+    {
+      "offset": 32462,
+      "value": "Xr v"
+    },
+    {
+      "offset": 33760,
+      "value": "UVYJZH"
+    },
+    {
+      "offset": 36212,
+      "value": "s1T"
+    },
+    {
+      "offset": 40814,
+      "value": "JUla"
+    },
+    {
+      "offset": 42983,
+      "value": "HrIV"
+    },
+    {
+      "offset": 57924,
+      "value": "Tt-"
+    },
+    {
+      "offset": 60877,
+      "value": "KPv "
+    },
+    {
+      "offset": 62346,
+      "value": "L4v"
+    },
+    {
+      "offset": 64556,
+      "value": "gXAI"
+    },
+    {
+      "offset": 68317,
+      "value": "X@AC"
+    },
+    {
+      "offset": 76543,
+      "value": "Q A7"
+    },
+    {
+      "offset": 78966,
+      "value": "_:_"
+    },
+    {
+      "offset": 81195,
+      "value": "Am "
+    },
+    {
+      "offset": 81434,
+      "value": "dKk"
+    },
+    {
+      "offset": 96586,
+      "value": "WK4m"
+    },
+    {
+      "offset": 98939,
+      "value": "CT.FK"
+    },
+    {
+      "offset": 106424,
+      "value": "_@gC"
+    },
+    {
+      "offset": 113918,
+      "value": "HIiu"
+    },
+    {
+      "offset": 118960,
+      "value": "XF4J"
+    },
+    {
+      "offset": 126220,
+      "value": "aoyv"
+    },
+    {
+      "offset": 134236,
+      "value": "jlHP"
+    },
+    {
+      "offset": 139828,
+      "value": "onh"
+    },
+    {
+      "offset": 148255,
+      "value": "AIf"
+    },
+    {
+      "offset": 148294,
+      "value": "W_n"
+    },
+    {
+      "offset": 148549,
+      "value": "r.e_"
+    },
+    {
+      "offset": 150166,
+      "value": "H6_"
+    },
+    {
+      "offset": 151043,
+      "value": "LKhKao"
+    },
+    {
+      "offset": 151108,
+      "value": "NCg"
+    },
+    {
+      "offset": 151133,
+      "value": "P4C."
+    },
+    {
+      "offset": 160661,
+      "value": "jyao"
+    },
+    {
+      "offset": 167830,
+      "value": "tGn"
+    },
+    {
+      "offset": 168102,
+      "value": "qio"
+    },
+    {
+      "offset": 168188,
+      "value": "Tl.@"
+    },
+    {
+      "offset": 174254,
+      "value": "hDj"
+    },
+    {
+      "offset": 180436,
+      "value": "oFQ"
+    },
+    {
+      "offset": 181404,
+      "value": "BP ."
+    },
+    {
+      "offset": 183866,
+      "value": "rCQP"
+    },
+    {
+      "offset": 185784,
+      "value": "n@-HV"
+    },
+    {
+      "offset": 185839,
+      "value": "gr2"
+    },
+    {
+      "offset": 187147,
+      "value": "xK/z"
+    },
+    {
+      "offset": 192102,
+      "value": "H o"
+    },
+    {
+      "offset": 192115,
+      "value": "RChBM_"
+    },
+    {
+      "offset": 193473,
+      "value": "KzZKJ@"
+    },
+    {
+      "offset": 193523,
+      "value": "om4Q"
+    },
+    {
+      "offset": 198372,
+      "value": "d41"
+    },
+    {
+      "offset": 203453,
+      "value": "NLi"
+    },
+    {
+      "offset": 205585,
+      "value": "EEGxMM"
+    },
+    {
+      "offset": 217258,
+      "value": "CS5Eon"
+    },
+    {
+      "offset": 219037,
+      "value": "BEj"
+    },
+    {
+      "offset": 224804,
+      "value": "ffx"
+    },
+    {
+      "offset": 228669,
+      "value": "DKt"
+    },
+    {
+      "offset": 247084,
+      "value": "je4"
+    },
+    {
+      "offset": 249382,
+      "value": "cm_"
+    },
+    {
+      "offset": 251495,
+      "value": "waY"
+    },
+    {
+      "offset": 254230,
+      "value": "m0_"
+    },
+    {
+      "offset": 260067,
+      "value": "bSHJIO"
+    },
+    {
+      "offset": 264310,
+      "value": "Jxs"
+    },
+    {
+      "offset": 266758,
+      "value": "_N_"
+    },
+    {
+      "offset": 269141,
+      "value": "jeWo"
+    },
+    {
+      "offset": 274533,
+      "value": "ywzo"
+    },
+    {
+      "offset": 280519,
+      "value": "jRI"
+    },
+    {
+      "offset": 280940,
+      "value": "ItI"
+    },
+    {
+      "offset": 283356,
+      "value": "IxI"
+    },
+    {
+      "offset": 285749,
+      "value": "cEMqI"
+    },
+    {
+      "offset": 292859,
+      "value": "LKQ"
+    },
+    {
+      "offset": 295596,
+      "value": "Oc "
+    },
+    {
+      "offset": 302380,
+      "value": "k\\i"
+    },
+    {
+      "offset": 309554,
+      "value": "Sp0"
+    },
+    {
+      "offset": 311146,
+      "value": "s:a"
+    },
+    {
+      "offset": 323344,
+      "value": "TMsr"
+    },
+    {
+      "offset": 334560,
+      "value": "qf "
+    },
+    {
+      "offset": 338690,
+      "value": "_zr0"
+    },
+    {
+      "offset": 341523,
+      "value": "FSf"
+    },
+    {
+      "offset": 343068,
+      "value": "t4i"
+    },
+    {
+      "offset": 346500,
+      "value": "FJLHo"
+    },
+    {
+      "offset": 351283,
+      "value": "NQH"
+    },
+    {
+      "offset": 357693,
+      "value": "Ucx"
+    },
+    {
+      "offset": 362269,
+      "value": "mCk "
+    },
+    {
+      "offset": 369173,
+      "value": "FFA_"
+    },
+    {
+      "offset": 370269,
+      "value": "Mwv"
+    },
+    {
+      "offset": 381405,
+      "value": "Uwv"
+    },
+    {
+      "offset": 382874,
+      "value": "Q_EOwt"
+    },
+    {
+      "offset": 389519,
+      "value": "OKq"
+    },
+    {
+      "offset": 392986,
+      "value": "CS5Cqp"
+    },
+    {
+      "offset": 394124,
+      "value": "IwWc"
+    },
+    {
+      "offset": 394190,
+      "value": "kNah"
+    },
+    {
+      "offset": 394431,
+      "value": "N @"
+    },
+    {
+      "offset": 398390,
+      "value": "R o"
+    },
+    {
+      "offset": 402990,
+      "value": "sGKi"
+    },
+    {
+      "offset": 404413,
+      "value": "XQc"
+    },
+    {
+      "offset": 411710,
+      "value": "Yk "
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000fead57b97f2aaa981722a86a4b5a3ce81f7ca09c1c002c00040008000c00100014000000000018001c002000240028001c00000001000000",
+  "decoded_preview_hex": "ac06000018000000000012001400040000000000000008000c00100012000000ec040000a0040000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

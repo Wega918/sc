@@ -1,0 +1,149 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_minion_prince.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_minion_prince.sc",
+  "sha256_container": "2bf2bba102f059b0bcdfa513d196af43ad3a8d3acc65799665399e7f5bb47a7b",
+  "sha256_descriptor": "dd2a3ef32c7875ac0b0ecb98de2332b3ae3ef3cac11dcdb93a6ce268f5dfa845",
+  "sha256_decoded_payload": "2b7d9102c807c5964611086400ca328a2d7195d91e2c47993a2a4782fc20626d",
+  "version": 6,
+  "descriptor_bytes": 228,
+  "compressed_frame_bytes": 42898,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 103004,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 268
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 102408
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 42904
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "unit_minion_prince_big"
+    },
+    {
+      "offset": 196,
+      "value": "unit_minion_prince_ability_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_minion_prince_big",
+    "unit_minion_prince_ability_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 200,
+      "value": "unit_minion_prince_big"
+    },
+    {
+      "offset": 228,
+      "value": "unit_minion_prince_ability_big"
+    },
+    {
+      "offset": 9874,
+      "value": "F0X"
+    },
+    {
+      "offset": 17932,
+      "value": "o@_c"
+    },
+    {
+      "offset": 27271,
+      "value": "XXP@"
+    },
+    {
+      "offset": 34362,
+      "value": "g0_"
+    },
+    {
+      "offset": 37309,
+      "value": "AQe"
+    },
+    {
+      "offset": 42289,
+      "value": "wvH"
+    },
+    {
+      "offset": 45004,
+      "value": "aqw+d"
+    },
+    {
+      "offset": 51368,
+      "value": "B30"
+    },
+    {
+      "offset": 52044,
+      "value": "ACKj"
+    },
+    {
+      "offset": 65192,
+      "value": "hYi"
+    },
+    {
+      "offset": 82531,
+      "value": "PAL"
+    },
+    {
+      "offset": 91112,
+      "value": "T@@"
+    },
+    {
+      "offset": 96274,
+      "value": "ThIP"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000020000000100000003000000",
+  "decoded_preview_hex": "0801000018000000000012001400040000000000000008000c001000120000009400000080000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

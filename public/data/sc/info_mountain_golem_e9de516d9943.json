@@ -1,0 +1,168 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_mountain_golem.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_mountain_golem.sc",
+  "sha256_container": "e9de516d994376d1673505014c54215a23e0442391e7d9f2619b3c92e99c0552",
+  "sha256_descriptor": "3303babc2882b2511dff43d48a7350fa114d1f7a4141f57b996f3f1da5740c3c",
+  "sha256_decoded_payload": "eb8dd4f49a9f3d97b7370d5120c03d1d5dcfb21e52a793beba84186c21f8a19b",
+  "version": 6,
+  "descriptor_bytes": 148,
+  "compressed_frame_bytes": 70812,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 120136,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 220
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 119656
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 70816
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "unit_mountain_golem"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_mountain_golem"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 192,
+      "value": "unit_mountain_golem"
+    },
+    {
+      "offset": 2262,
+      "value": "yg_"
+    },
+    {
+      "offset": 4636,
+      "value": "gMm"
+    },
+    {
+      "offset": 16078,
+      "value": "Ipx"
+    },
+    {
+      "offset": 19440,
+      "value": "a0p"
+    },
+    {
+      "offset": 19783,
+      "value": "CbI"
+    },
+    {
+      "offset": 21295,
+      "value": "o P"
+    },
+    {
+      "offset": 21583,
+      "value": "GFd"
+    },
+    {
+      "offset": 33510,
+      "value": "hG_"
+    },
+    {
+      "offset": 37109,
+      "value": "zoEo"
+    },
+    {
+      "offset": 45937,
+      "value": "XR@"
+    },
+    {
+      "offset": 56182,
+      "value": "Tzo"
+    },
+    {
+      "offset": 56674,
+      "value": "JO0"
+    },
+    {
+      "offset": 64550,
+      "value": "D@o"
+    },
+    {
+      "offset": 65935,
+      "value": "GED"
+    },
+    {
+      "offset": 67039,
+      "value": "G  "
+    },
+    {
+      "offset": 88230,
+      "value": "xxo"
+    },
+    {
+      "offset": 94980,
+      "value": "m6b"
+    },
+    {
+      "offset": 99718,
+      "value": "zc_"
+    },
+    {
+      "offset": 108620,
+      "value": "nGkFj"
+    },
+    {
+      "offset": 114630,
+      "value": "RFo"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000010000000100000003000000dc000000",
+  "decoded_preview_hex": "d800000018000000000012001400040000000000000008000c001000120000009000000080000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

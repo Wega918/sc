@@ -1,0 +1,1569 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_siege_machine_catapult.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_siege_machine_catapult.sc",
+  "sha256_container": "bb75ca42f0674f7b898d1e60c0fe26ee69b35d845c1cf741b3b6f742474d4cd7",
+  "sha256_descriptor": "3cc8e55187461a735c0cfce7f22043c8cc8297845d0a7ad68748bf3f0a164183",
+  "sha256_decoded_payload": "935c196de77652f383f54a4f020ec0d9c955401aa95c20df67385f5c5bf6f9cf",
+  "version": 6,
+  "descriptor_bytes": 8756,
+  "compressed_frame_bytes": 78899,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 413136,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 1368
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 230
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 289812
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 63864
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 78904
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 672,
+      "value": "firespirit_projectile1_3"
+    },
+    {
+      "offset": 736,
+      "value": "firespirit_projectile1_2"
+    },
+    {
+      "offset": 800,
+      "value": "firespirit_projectile1_1"
+    },
+    {
+      "offset": 864,
+      "value": "SM_catapult5_run1_9"
+    },
+    {
+      "offset": 920,
+      "value": "SM_catapult5_run1_8"
+    },
+    {
+      "offset": 976,
+      "value": "SM_catapult5_run1_7"
+    },
+    {
+      "offset": 1032,
+      "value": "SM_catapult5_run1_6"
+    },
+    {
+      "offset": 1088,
+      "value": "SM_catapult5_run1_5"
+    },
+    {
+      "offset": 1144,
+      "value": "SM_catapult5_run1_4"
+    },
+    {
+      "offset": 1200,
+      "value": "SM_catapult5_run1_3"
+    },
+    {
+      "offset": 1256,
+      "value": "SM_catapult5_run1_2"
+    },
+    {
+      "offset": 1312,
+      "value": "SM_catapult5_run1_1"
+    },
+    {
+      "offset": 1368,
+      "value": "SM_catapult5_idle1_9"
+    },
+    {
+      "offset": 1428,
+      "value": "SM_catapult5_idle1_8"
+    },
+    {
+      "offset": 1488,
+      "value": "SM_catapult5_idle1_7"
+    },
+    {
+      "offset": 1548,
+      "value": "SM_catapult5_idle1_6"
+    },
+    {
+      "offset": 1608,
+      "value": "SM_catapult5_idle1_5"
+    },
+    {
+      "offset": 1668,
+      "value": "SM_catapult5_idle1_4"
+    },
+    {
+      "offset": 1728,
+      "value": "SM_catapult5_idle1_3"
+    },
+    {
+      "offset": 1788,
+      "value": "SM_catapult5_idle1_2"
+    },
+    {
+      "offset": 1848,
+      "value": "SM_catapult5_idle1_1"
+    },
+    {
+      "offset": 1908,
+      "value": "SM_catapult5_attack1_9"
+    },
+    {
+      "offset": 1968,
+      "value": "SM_catapult5_attack1_8"
+    },
+    {
+      "offset": 2028,
+      "value": "SM_catapult5_attack1_7"
+    },
+    {
+      "offset": 2088,
+      "value": "SM_catapult5_attack1_6"
+    },
+    {
+      "offset": 2148,
+      "value": "SM_catapult5_attack1_5"
+    },
+    {
+      "offset": 2208,
+      "value": "SM_catapult5_attack1_4"
+    },
+    {
+      "offset": 2268,
+      "value": "SM_catapult5_attack1_3"
+    },
+    {
+      "offset": 2328,
+      "value": "SM_catapult5_attack1_2"
+    },
+    {
+      "offset": 2388,
+      "value": "SM_catapult5_attack1_1"
+    },
+    {
+      "offset": 2448,
+      "value": "SM_catapult4_run1_9"
+    },
+    {
+      "offset": 2504,
+      "value": "SM_catapult4_run1_8"
+    },
+    {
+      "offset": 2560,
+      "value": "SM_catapult4_run1_7"
+    },
+    {
+      "offset": 2616,
+      "value": "SM_catapult4_run1_6"
+    },
+    {
+      "offset": 2672,
+      "value": "SM_catapult4_run1_5"
+    },
+    {
+      "offset": 2728,
+      "value": "SM_catapult4_run1_4"
+    },
+    {
+      "offset": 2784,
+      "value": "SM_catapult4_run1_3"
+    },
+    {
+      "offset": 2840,
+      "value": "SM_catapult4_run1_2"
+    },
+    {
+      "offset": 2896,
+      "value": "SM_catapult4_run1_1"
+    },
+    {
+      "offset": 2952,
+      "value": "SM_catapult4_idle1_9"
+    },
+    {
+      "offset": 3012,
+      "value": "SM_catapult4_idle1_8"
+    },
+    {
+      "offset": 3072,
+      "value": "SM_catapult4_idle1_7"
+    },
+    {
+      "offset": 3132,
+      "value": "SM_catapult4_idle1_6"
+    },
+    {
+      "offset": 3192,
+      "value": "SM_catapult4_idle1_5"
+    },
+    {
+      "offset": 3252,
+      "value": "SM_catapult4_idle1_4"
+    },
+    {
+      "offset": 3312,
+      "value": "SM_catapult4_idle1_3"
+    },
+    {
+      "offset": 3372,
+      "value": "SM_catapult4_idle1_2"
+    },
+    {
+      "offset": 3432,
+      "value": "SM_catapult4_idle1_1"
+    },
+    {
+      "offset": 3492,
+      "value": "SM_catapult4_attack1_9"
+    },
+    {
+      "offset": 3552,
+      "value": "SM_catapult4_attack1_8"
+    },
+    {
+      "offset": 3612,
+      "value": "SM_catapult4_attack1_7"
+    },
+    {
+      "offset": 3672,
+      "value": "SM_catapult4_attack1_6"
+    },
+    {
+      "offset": 3732,
+      "value": "SM_catapult4_attack1_5"
+    },
+    {
+      "offset": 3792,
+      "value": "SM_catapult4_attack1_4"
+    },
+    {
+      "offset": 3852,
+      "value": "SM_catapult4_attack1_3"
+    },
+    {
+      "offset": 3912,
+      "value": "SM_catapult4_attack1_2"
+    },
+    {
+      "offset": 3972,
+      "value": "SM_catapult4_attack1_1"
+    },
+    {
+      "offset": 4032,
+      "value": "SM_catapult3_run1_9"
+    },
+    {
+      "offset": 4088,
+      "value": "SM_catapult3_run1_8"
+    },
+    {
+      "offset": 4144,
+      "value": "SM_catapult3_run1_7"
+    },
+    {
+      "offset": 4200,
+      "value": "SM_catapult3_run1_6"
+    },
+    {
+      "offset": 4256,
+      "value": "SM_catapult3_run1_5"
+    },
+    {
+      "offset": 4312,
+      "value": "SM_catapult3_run1_4"
+    },
+    {
+      "offset": 4368,
+      "value": "SM_catapult3_run1_3"
+    },
+    {
+      "offset": 4424,
+      "value": "SM_catapult3_run1_2"
+    },
+    {
+      "offset": 4480,
+      "value": "SM_catapult3_run1_1"
+    },
+    {
+      "offset": 4536,
+      "value": "SM_catapult3_idle1_9"
+    },
+    {
+      "offset": 4596,
+      "value": "SM_catapult3_idle1_8"
+    },
+    {
+      "offset": 4656,
+      "value": "SM_catapult3_idle1_7"
+    },
+    {
+      "offset": 4716,
+      "value": "SM_catapult3_idle1_6"
+    },
+    {
+      "offset": 4776,
+      "value": "SM_catapult3_idle1_5"
+    },
+    {
+      "offset": 4836,
+      "value": "SM_catapult3_idle1_4"
+    },
+    {
+      "offset": 4896,
+      "value": "SM_catapult3_idle1_3"
+    },
+    {
+      "offset": 4956,
+      "value": "SM_catapult3_idle1_2"
+    },
+    {
+      "offset": 5016,
+      "value": "SM_catapult3_idle1_1"
+    },
+    {
+      "offset": 5076,
+      "value": "SM_catapult3_attack1_9"
+    },
+    {
+      "offset": 5136,
+      "value": "SM_catapult3_attack1_8"
+    },
+    {
+      "offset": 5196,
+      "value": "SM_catapult3_attack1_7"
+    },
+    {
+      "offset": 5256,
+      "value": "SM_catapult3_attack1_6"
+    },
+    {
+      "offset": 5316,
+      "value": "SM_catapult3_attack1_5"
+    },
+    {
+      "offset": 5376,
+      "value": "SM_catapult3_attack1_4"
+    },
+    {
+      "offset": 5436,
+      "value": "SM_catapult3_attack1_3"
+    },
+    {
+      "offset": 5496,
+      "value": "SM_catapult3_attack1_2"
+    },
+    {
+      "offset": 5556,
+      "value": "SM_catapult3_attack1_1"
+    },
+    {
+      "offset": 5616,
+      "value": "SM_catapult2_run1_9"
+    },
+    {
+      "offset": 5672,
+      "value": "SM_catapult2_run1_8"
+    },
+    {
+      "offset": 5728,
+      "value": "SM_catapult2_run1_7"
+    },
+    {
+      "offset": 5784,
+      "value": "SM_catapult2_run1_6"
+    },
+    {
+      "offset": 5840,
+      "value": "SM_catapult2_run1_5"
+    },
+    {
+      "offset": 5896,
+      "value": "SM_catapult2_run1_4"
+    },
+    {
+      "offset": 5952,
+      "value": "SM_catapult2_run1_3"
+    },
+    {
+      "offset": 6008,
+      "value": "SM_catapult2_run1_2"
+    },
+    {
+      "offset": 6064,
+      "value": "SM_catapult2_run1_1"
+    },
+    {
+      "offset": 6120,
+      "value": "SM_catapult2_idle1_9"
+    },
+    {
+      "offset": 6180,
+      "value": "SM_catapult2_idle1_8"
+    },
+    {
+      "offset": 6240,
+      "value": "SM_catapult2_idle1_7"
+    },
+    {
+      "offset": 6300,
+      "value": "SM_catapult2_idle1_6"
+    },
+    {
+      "offset": 6360,
+      "value": "SM_catapult2_idle1_5"
+    },
+    {
+      "offset": 6420,
+      "value": "SM_catapult2_idle1_4"
+    },
+    {
+      "offset": 6480,
+      "value": "SM_catapult2_idle1_3"
+    },
+    {
+      "offset": 6540,
+      "value": "SM_catapult2_idle1_2"
+    },
+    {
+      "offset": 6600,
+      "value": "SM_catapult2_idle1_1"
+    },
+    {
+      "offset": 6660,
+      "value": "SM_catapult2_attack1_9"
+    },
+    {
+      "offset": 6720,
+      "value": "SM_catapult2_attack1_8"
+    },
+    {
+      "offset": 6780,
+      "value": "SM_catapult2_attack1_7"
+    },
+    {
+      "offset": 6840,
+      "value": "SM_catapult2_attack1_6"
+    },
+    {
+      "offset": 6900,
+      "value": "SM_catapult2_attack1_5"
+    },
+    {
+      "offset": 6960,
+      "value": "SM_catapult2_attack1_4"
+    },
+    {
+      "offset": 7020,
+      "value": "SM_catapult2_attack1_3"
+    },
+    {
+      "offset": 7080,
+      "value": "SM_catapult2_attack1_2"
+    },
+    {
+      "offset": 7140,
+      "value": "SM_catapult2_attack1_1"
+    },
+    {
+      "offset": 7200,
+      "value": "SM_catapult1_run1_9"
+    },
+    {
+      "offset": 7256,
+      "value": "SM_catapult1_run1_8"
+    },
+    {
+      "offset": 7312,
+      "value": "SM_catapult1_run1_7"
+    },
+    {
+      "offset": 7368,
+      "value": "SM_catapult1_run1_6"
+    },
+    {
+      "offset": 7424,
+      "value": "SM_catapult1_run1_5"
+    },
+    {
+      "offset": 7480,
+      "value": "SM_catapult1_run1_4"
+    },
+    {
+      "offset": 7536,
+      "value": "SM_catapult1_run1_3"
+    },
+    {
+      "offset": 7592,
+      "value": "SM_catapult1_run1_2"
+    },
+    {
+      "offset": 7648,
+      "value": "SM_catapult1_run1_1"
+    },
+    {
+      "offset": 7704,
+      "value": "SM_catapult1_idle1_9"
+    },
+    {
+      "offset": 7764,
+      "value": "SM_catapult1_idle1_8"
+    },
+    {
+      "offset": 7824,
+      "value": "SM_catapult1_idle1_7"
+    },
+    {
+      "offset": 7884,
+      "value": "SM_catapult1_idle1_6"
+    },
+    {
+      "offset": 7944,
+      "value": "SM_catapult1_idle1_5"
+    },
+    {
+      "offset": 8004,
+      "value": "SM_catapult1_idle1_4"
+    },
+    {
+      "offset": 8064,
+      "value": "SM_catapult1_idle1_3"
+    },
+    {
+      "offset": 8124,
+      "value": "SM_catapult1_idle1_2"
+    },
+    {
+      "offset": 8184,
+      "value": "SM_catapult1_idle1_1"
+    },
+    {
+      "offset": 8244,
+      "value": "SM_catapult1_attack1_9"
+    },
+    {
+      "offset": 8304,
+      "value": "SM_catapult1_attack1_8"
+    },
+    {
+      "offset": 8364,
+      "value": "SM_catapult1_attack1_7"
+    },
+    {
+      "offset": 8424,
+      "value": "SM_catapult1_attack1_6"
+    },
+    {
+      "offset": 8484,
+      "value": "SM_catapult1_attack1_5"
+    },
+    {
+      "offset": 8544,
+      "value": "SM_catapult1_attack1_4"
+    },
+    {
+      "offset": 8604,
+      "value": "SM_catapult1_attack1_3"
+    },
+    {
+      "offset": 8664,
+      "value": "SM_catapult1_attack1_2"
+    },
+    {
+      "offset": 8732,
+      "value": "SM_catapult1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "firespirit_projectile1_3",
+    "firespirit_projectile1_2",
+    "firespirit_projectile1_1",
+    "SM_catapult5_run1_9",
+    "SM_catapult5_run1_8",
+    "SM_catapult5_run1_7",
+    "SM_catapult5_run1_6",
+    "SM_catapult5_run1_5",
+    "SM_catapult5_run1_4",
+    "SM_catapult5_run1_3",
+    "SM_catapult5_run1_2",
+    "SM_catapult5_run1_1",
+    "SM_catapult5_idle1_9",
+    "SM_catapult5_idle1_8",
+    "SM_catapult5_idle1_7",
+    "SM_catapult5_idle1_6",
+    "SM_catapult5_idle1_5",
+    "SM_catapult5_idle1_4",
+    "SM_catapult5_idle1_3",
+    "SM_catapult5_idle1_2",
+    "SM_catapult5_idle1_1",
+    "SM_catapult5_attack1_9",
+    "SM_catapult5_attack1_8",
+    "SM_catapult5_attack1_7",
+    "SM_catapult5_attack1_6",
+    "SM_catapult5_attack1_5",
+    "SM_catapult5_attack1_4",
+    "SM_catapult5_attack1_3",
+    "SM_catapult5_attack1_2",
+    "SM_catapult5_attack1_1",
+    "SM_catapult4_run1_9",
+    "SM_catapult4_run1_8",
+    "SM_catapult4_run1_7",
+    "SM_catapult4_run1_6",
+    "SM_catapult4_run1_5",
+    "SM_catapult4_run1_4",
+    "SM_catapult4_run1_3",
+    "SM_catapult4_run1_2",
+    "SM_catapult4_run1_1",
+    "SM_catapult4_idle1_9",
+    "SM_catapult4_idle1_8",
+    "SM_catapult4_idle1_7",
+    "SM_catapult4_idle1_6",
+    "SM_catapult4_idle1_5",
+    "SM_catapult4_idle1_4",
+    "SM_catapult4_idle1_3",
+    "SM_catapult4_idle1_2",
+    "SM_catapult4_idle1_1",
+    "SM_catapult4_attack1_9",
+    "SM_catapult4_attack1_8",
+    "SM_catapult4_attack1_7",
+    "SM_catapult4_attack1_6",
+    "SM_catapult4_attack1_5",
+    "SM_catapult4_attack1_4",
+    "SM_catapult4_attack1_3",
+    "SM_catapult4_attack1_2",
+    "SM_catapult4_attack1_1",
+    "SM_catapult3_run1_9",
+    "SM_catapult3_run1_8",
+    "SM_catapult3_run1_7",
+    "SM_catapult3_run1_6",
+    "SM_catapult3_run1_5",
+    "SM_catapult3_run1_4",
+    "SM_catapult3_run1_3",
+    "SM_catapult3_run1_2",
+    "SM_catapult3_run1_1",
+    "SM_catapult3_idle1_9",
+    "SM_catapult3_idle1_8",
+    "SM_catapult3_idle1_7",
+    "SM_catapult3_idle1_6",
+    "SM_catapult3_idle1_5",
+    "SM_catapult3_idle1_4",
+    "SM_catapult3_idle1_3",
+    "SM_catapult3_idle1_2",
+    "SM_catapult3_idle1_1",
+    "SM_catapult3_attack1_9",
+    "SM_catapult3_attack1_8",
+    "SM_catapult3_attack1_7",
+    "SM_catapult3_attack1_6",
+    "SM_catapult3_attack1_5",
+    "SM_catapult3_attack1_4",
+    "SM_catapult3_attack1_3",
+    "SM_catapult3_attack1_2",
+    "SM_catapult3_attack1_1",
+    "SM_catapult2_run1_9",
+    "SM_catapult2_run1_8",
+    "SM_catapult2_run1_7",
+    "SM_catapult2_run1_6",
+    "SM_catapult2_run1_5",
+    "SM_catapult2_run1_4",
+    "SM_catapult2_run1_3",
+    "SM_catapult2_run1_2",
+    "SM_catapult2_run1_1",
+    "SM_catapult2_idle1_9",
+    "SM_catapult2_idle1_8",
+    "SM_catapult2_idle1_7",
+    "SM_catapult2_idle1_6",
+    "SM_catapult2_idle1_5",
+    "SM_catapult2_idle1_4",
+    "SM_catapult2_idle1_3",
+    "SM_catapult2_idle1_2",
+    "SM_catapult2_idle1_1",
+    "SM_catapult2_attack1_9",
+    "SM_catapult2_attack1_8",
+    "SM_catapult2_attack1_7",
+    "SM_catapult2_attack1_6",
+    "SM_catapult2_attack1_5",
+    "SM_catapult2_attack1_4",
+    "SM_catapult2_attack1_3",
+    "SM_catapult2_attack1_2",
+    "SM_catapult2_attack1_1",
+    "SM_catapult1_run1_9",
+    "SM_catapult1_run1_8",
+    "SM_catapult1_run1_7",
+    "SM_catapult1_run1_6",
+    "SM_catapult1_run1_5",
+    "SM_catapult1_run1_4",
+    "SM_catapult1_run1_3",
+    "SM_catapult1_run1_2",
+    "SM_catapult1_run1_1",
+    "SM_catapult1_idle1_9",
+    "SM_catapult1_idle1_8",
+    "SM_catapult1_idle1_7",
+    "SM_catapult1_idle1_6",
+    "SM_catapult1_idle1_5",
+    "SM_catapult1_idle1_4",
+    "SM_catapult1_idle1_3",
+    "SM_catapult1_idle1_2",
+    "SM_catapult1_idle1_1",
+    "SM_catapult1_attack1_9",
+    "SM_catapult1_attack1_8",
+    "SM_catapult1_attack1_7",
+    "SM_catapult1_attack1_6",
+    "SM_catapult1_attack1_5",
+    "SM_catapult1_attack1_4",
+    "SM_catapult1_attack1_3",
+    "SM_catapult1_attack1_2",
+    "SM_catapult1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1513,
+      "value": "L.C"
+    },
+    {
+      "offset": 2976,
+      "value": "ffFA"
+    },
+    {
+      "offset": 6936,
+      "value": "ffbA"
+    },
+    {
+      "offset": 8855,
+      "value": "C334C"
+    },
+    {
+      "offset": 8881,
+      "value": "L3C"
+    },
+    {
+      "offset": 8905,
+      "value": "L0C"
+    },
+    {
+      "offset": 10941,
+      "value": "LXC"
+    },
+    {
+      "offset": 11057,
+      "value": "s \\"
+    },
+    {
+      "offset": 11203,
+      "value": "E33cC"
+    },
+    {
+      "offset": 11630,
+      "value": "gCEvUO"
+    },
+    {
+      "offset": 12067,
+      "value": "O33cC"
+    },
+    {
+      "offset": 12302,
+      "value": "jC1O6Q"
+    },
+    {
+      "offset": 12807,
+      "value": "CNE_H33cC"
+    },
+    {
+      "offset": 13185,
+      "value": "LsC"
+    },
+    {
+      "offset": 13581,
+      "value": "LXC"
+    },
+    {
+      "offset": 13773,
+      "value": "YdC"
+    },
+    {
+      "offset": 13941,
+      "value": "LXC"
+    },
+    {
+      "offset": 14037,
+      "value": "YXC"
+    },
+    {
+      "offset": 14217,
+      "value": "swC"
+    },
+    {
+      "offset": 14681,
+      "value": "a:1"
+    },
+    {
+      "offset": 14705,
+      "value": "e:1"
+    },
+    {
+      "offset": 15069,
+      "value": "sYC"
+    },
+    {
+      "offset": 15163,
+      "value": "i3shC"
+    },
+    {
+      "offset": 15397,
+      "value": "YGC"
+    },
+    {
+      "offset": 15670,
+      "value": "XCfflC"
+    },
+    {
+      "offset": 15753,
+      "value": "YzC"
+    },
+    {
+      "offset": 15933,
+      "value": "YXC"
+    },
+    {
+      "offset": 16053,
+      "value": "LXC"
+    },
+    {
+      "offset": 16737,
+      "value": "stC"
+    },
+    {
+      "offset": 16945,
+      "value": "YsC"
+    },
+    {
+      "offset": 17127,
+      "value": "CxN"
+    },
+    {
+      "offset": 17319,
+      "value": "Cgy"
+    },
+    {
+      "offset": 18110,
+      "value": "gCJZ"
+    },
+    {
+      "offset": 18135,
+      "value": "C0V"
+    },
+    {
+      "offset": 18164,
+      "value": "ff\\C"
+    },
+    {
+      "offset": 18188,
+      "value": "ff\\C"
+    },
+    {
+      "offset": 18381,
+      "value": "sQC"
+    },
+    {
+      "offset": 18729,
+      "value": "ssC"
+    },
+    {
+      "offset": 19520,
+      "value": "ffFC"
+    },
+    {
+      "offset": 19617,
+      "value": "sFC"
+    },
+    {
+      "offset": 20229,
+      "value": "LgC"
+    },
+    {
+      "offset": 20405,
+      "value": "r@\\"
+    },
+    {
+      "offset": 20889,
+      "value": "YsC"
+    },
+    {
+      "offset": 21069,
+      "value": "sFC"
+    },
+    {
+      "offset": 21093,
+      "value": "sFC"
+    },
+    {
+      "offset": 23085,
+      "value": "YdC"
+    },
+    {
+      "offset": 23193,
+      "value": "LsC"
+    },
+    {
+      "offset": 24221,
+      "value": "u0J"
+    },
+    {
+      "offset": 24681,
+      "value": "sdC"
+    },
+    {
+      "offset": 25098,
+      "value": "Et3sFC"
+    },
+    {
+      "offset": 26369,
+      "value": "qK2"
+    },
+    {
+      "offset": 26468,
+      "value": "ffIC"
+    },
+    {
+      "offset": 26492,
+      "value": "ffIC"
+    },
+    {
+      "offset": 27145,
+      "value": "LAC"
+    },
+    {
+      "offset": 27929,
+      "value": "pNH"
+    },
+    {
+      "offset": 27951,
+      "value": "CnvNH"
+    },
+    {
+      "offset": 28389,
+      "value": "shC"
+    },
+    {
+      "offset": 28880,
+      "value": "ff\\C"
+    },
+    {
+      "offset": 28905,
+      "value": "LzC"
+    },
+    {
+      "offset": 29719,
+      "value": "X33cC"
+    },
+    {
+      "offset": 29745,
+      "value": "YoC"
+    },
+    {
+      "offset": 29781,
+      "value": "L\\C"
+    },
+    {
+      "offset": 31409,
+      "value": "LyA"
+    },
+    {
+      "offset": 32121,
+      "value": "LXC"
+    },
+    {
+      "offset": 32217,
+      "value": "YXC"
+    },
+    {
+      "offset": 32517,
+      "value": "slC"
+    },
+    {
+      "offset": 32685,
+      "value": "LzC"
+    },
+    {
+      "offset": 32720,
+      "value": "ff\\C"
+    },
+    {
+      "offset": 32937,
+      "value": "L\\C"
+    },
+    {
+      "offset": 33105,
+      "value": "L\\C"
+    },
+    {
+      "offset": 33141,
+      "value": "LzC"
+    },
+    {
+      "offset": 33200,
+      "value": "ffoC"
+    },
+    {
+      "offset": 33320,
+      "value": "ff\\C"
+    },
+    {
+      "offset": 33393,
+      "value": "L\\C"
+    },
+    {
+      "offset": 33417,
+      "value": "L\\C"
+    },
+    {
+      "offset": 33475,
+      "value": "bffsC"
+    },
+    {
+      "offset": 33488,
+      "value": "ff\\C"
+    },
+    {
+      "offset": 33667,
+      "value": "rffoC"
+    },
+    {
+      "offset": 33753,
+      "value": "L\\C"
+    },
+    {
+      "offset": 33777,
+      "value": "L\\C"
+    },
+    {
+      "offset": 33921,
+      "value": "L\\C"
+    },
+    {
+      "offset": 33945,
+      "value": "L\\C"
+    },
+    {
+      "offset": 34089,
+      "value": "L\\C"
+    },
+    {
+      "offset": 34184,
+      "value": "ff\\C"
+    },
+    {
+      "offset": 34664,
+      "value": "ff\\C"
+    },
+    {
+      "offset": 34688,
+      "value": "ff\\C"
+    },
+    {
+      "offset": 34845,
+      "value": "LzC"
+    },
+    {
+      "offset": 35433,
+      "value": "LXC"
+    },
+    {
+      "offset": 36033,
+      "value": "LXC"
+    },
+    {
+      "offset": 36553,
+      "value": "LXC"
+    },
+    {
+      "offset": 36657,
+      "value": "LXC"
+    },
+    {
+      "offset": 37569,
+      "value": "LXC"
+    },
+    {
+      "offset": 38335,
+      "value": "lffQC"
+    },
+    {
+      "offset": 38745,
+      "value": "LXC"
+    },
+    {
+      "offset": 39536,
+      "value": "ffQC"
+    },
+    {
+      "offset": 40305,
+      "value": "LXC"
+    },
+    {
+      "offset": 40641,
+      "value": "YdC"
+    },
+    {
+      "offset": 40953,
+      "value": "YdC"
+    },
+    {
+      "offset": 41001,
+      "value": "L\\C"
+    },
+    {
+      "offset": 41265,
+      "value": "YdC"
+    },
+    {
+      "offset": 41613,
+      "value": "YdC"
+    },
+    {
+      "offset": 41889,
+      "value": "YdC"
+    },
+    {
+      "offset": 42201,
+      "value": "YdC"
+    },
+    {
+      "offset": 42513,
+      "value": "YdC"
+    },
+    {
+      "offset": 42825,
+      "value": "YdC"
+    },
+    {
+      "offset": 43449,
+      "value": "YdC"
+    },
+    {
+      "offset": 44073,
+      "value": "YdC"
+    },
+    {
+      "offset": 44385,
+      "value": "YdC"
+    },
+    {
+      "offset": 44697,
+      "value": "YdC"
+    },
+    {
+      "offset": 45321,
+      "value": "YdC"
+    },
+    {
+      "offset": 45633,
+      "value": "YdC"
+    },
+    {
+      "offset": 51833,
+      "value": "wta"
+    },
+    {
+      "offset": 52952,
+      "value": "fflC"
+    },
+    {
+      "offset": 53474,
+      "value": "_CNE"
+    },
+    {
+      "offset": 58010,
+      "value": "eCf"
+    },
+    {
+      "offset": 58019,
+      "value": "C33PC"
+    },
+    {
+      "offset": 59581,
+      "value": "YQC"
+    },
+    {
+      "offset": 60405,
+      "value": "LsC"
+    },
+    {
+      "offset": 71097,
+      "value": "YoC"
+    },
+    {
+      "offset": 71133,
+      "value": "L\\C"
+    },
+    {
+      "offset": 71397,
+      "value": "YoC"
+    },
+    {
+      "offset": 71709,
+      "value": "YoC"
+    },
+    {
+      "offset": 72009,
+      "value": "YoC"
+    },
+    {
+      "offset": 72309,
+      "value": "YoC"
+    },
+    {
+      "offset": 72609,
+      "value": "YoC"
+    },
+    {
+      "offset": 72921,
+      "value": "YoC"
+    },
+    {
+      "offset": 73221,
+      "value": "YoC"
+    },
+    {
+      "offset": 73521,
+      "value": "YoC"
+    },
+    {
+      "offset": 73557,
+      "value": "L\\C"
+    },
+    {
+      "offset": 73833,
+      "value": "YoC"
+    },
+    {
+      "offset": 73869,
+      "value": "L\\C"
+    },
+    {
+      "offset": 74133,
+      "value": "YoC"
+    },
+    {
+      "offset": 74445,
+      "value": "YoC"
+    },
+    {
+      "offset": 74745,
+      "value": "YoC"
+    },
+    {
+      "offset": 75045,
+      "value": "YoC"
+    },
+    {
+      "offset": 75345,
+      "value": "YoC"
+    },
+    {
+      "offset": 75381,
+      "value": "L\\C"
+    },
+    {
+      "offset": 75645,
+      "value": "YoC"
+    },
+    {
+      "offset": 75945,
+      "value": "YoC"
+    },
+    {
+      "offset": 76329,
+      "value": "L\\C"
+    },
+    {
+      "offset": 76461,
+      "value": "slC"
+    },
+    {
+      "offset": 76969,
+      "value": "LIC"
+    },
+    {
+      "offset": 76981,
+      "value": "YsC"
+    },
+    {
+      "offset": 77869,
+      "value": "YdC"
+    },
+    {
+      "offset": 78381,
+      "value": "slC"
+    },
+    {
+      "offset": 79581,
+      "value": "slC"
+    },
+    {
+      "offset": 80573,
+      "value": "s \\"
+    },
+    {
+      "offset": 80719,
+      "value": "E33cC"
+    },
+    {
+      "offset": 81146,
+      "value": "gCEvUO"
+    },
+    {
+      "offset": 81487,
+      "value": "O33cC"
+    },
+    {
+      "offset": 81722,
+      "value": "jC1O6Q"
+    },
+    {
+      "offset": 82227,
+      "value": "CNE_H33cC"
+    },
+    {
+      "offset": 82605,
+      "value": "LsC"
+    },
+    {
+      "offset": 82700,
+      "value": "ffpC"
+    },
+    {
+      "offset": 82833,
+      "value": "LXC"
+    },
+    {
+      "offset": 83573,
+      "value": "a:1"
+    },
+    {
+      "offset": 83597,
+      "value": "e:1"
+    },
+    {
+      "offset": 83961,
+      "value": "sYC"
+    },
+    {
+      "offset": 84562,
+      "value": "XCfflC"
+    },
+    {
+      "offset": 84945,
+      "value": "LXC"
+    },
+    {
+      "offset": 85125,
+      "value": "stC"
+    },
+    {
+      "offset": 85333,
+      "value": "YsC"
+    },
+    {
+      "offset": 85515,
+      "value": "CxN"
+    },
+    {
+      "offset": 85580,
+      "value": "fflC"
+    },
+    {
+      "offset": 85707,
+      "value": "Cgy"
+    },
+    {
+      "offset": 86498,
+      "value": "gCJZ"
+    },
+    {
+      "offset": 86523,
+      "value": "C0V"
+    },
+    {
+      "offset": 87117,
+      "value": "YdC"
+    },
+    {
+      "offset": 87404,
+      "value": "ffFC"
+    },
+    {
+      "offset": 87717,
+      "value": "spC"
+    },
+    {
+      "offset": 88773,
+      "value": "YsC"
+    },
+    {
+      "offset": 88953,
+      "value": "sFC"
+    },
+    {
+      "offset": 88977,
+      "value": "sFC"
+    },
+    {
+      "offset": 90465,
+      "value": "YdC"
+    },
+    {
+      "offset": 90541,
+      "value": "LXC"
+    },
+    {
+      "offset": 90597,
+      "value": "LsC"
+    },
+    {
+      "offset": 91817,
+      "value": "LCM"
+    },
+    {
+      "offset": 91979,
+      "value": "C33_CwuPn"
+    },
+    {
+      "offset": 92009,
+      "value": "rPn"
+    },
+    {
+      "offset": 92157,
+      "value": "YdC"
+    },
+    {
+      "offset": 92537,
+      "value": "ivu"
+    },
+    {
+      "offset": 92912,
+      "value": "fflC"
+    },
+    {
+      "offset": 93365,
+      "value": "qK2"
+    },
+    {
+      "offset": 94046,
+      "value": "qC1/Zg"
+    },
+    {
+      "offset": 94424,
+      "value": "ffQC"
+    },
+    {
+      "offset": 94493,
+      "value": "pNH"
+    },
+    {
+      "offset": 94515,
+      "value": "CnvNH"
+    },
+    {
+      "offset": 94611,
+      "value": "C1/lW"
+    },
+    {
+      "offset": 96075,
+      "value": "Cd.Xx"
+    },
+    {
+      "offset": 97541,
+      "value": "LyA"
+    },
+    {
+      "offset": 97749,
+      "value": "L\\C"
+    },
+    {
+      "offset": 98229,
+      "value": "LXC"
+    },
+    {
+      "offset": 98613,
+      "value": "L\\C"
+    },
+    {
+      "offset": 98661,
+      "value": "L\\C"
+    },
+    {
+      "offset": 98781,
+      "value": "L\\C"
+    },
+    {
+      "offset": 99021,
+      "value": "L\\C"
+    },
+    {
+      "offset": 99093,
+      "value": "L\\C"
+    },
+    {
+      "offset": 99117,
+      "value": "L\\C"
+    },
+    {
+      "offset": 99453,
+      "value": "L\\C"
+    },
+    {
+      "offset": 99477,
+      "value": "L\\C"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000058050000e60000000100000001000000",
+  "decoded_preview_hex": "106c040018000000000012001400040000000000000008000c001000120000001c5b0400980303008c28000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

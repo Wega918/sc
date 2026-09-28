@@ -1,0 +1,164 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_football_giant.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_football_giant.sc",
+  "sha256_container": "46b6f06f706d9930b6e076b87cc15606433f37b026e14bf55301ffb23a12fbab",
+  "sha256_descriptor": "21cb93f3c63c475169c68881b96b6ff20348cabec5bd059368384bd13bd798ef",
+  "sha256_decoded_payload": "348a50246c6cf69e675110ca176de876b342159bbd38319eedb709d4fca8e01e",
+  "version": 6,
+  "descriptor_bytes": 156,
+  "compressed_frame_bytes": 52202,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 94272,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 260
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 93752
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 52208
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 132,
+      "value": "unit_football_giant_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_football_giant_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 169,
+      "value": "s@C"
+    },
+    {
+      "offset": 191,
+      "value": "B3s@C"
+    },
+    {
+      "offset": 228,
+      "value": "unit_football_giant_big"
+    },
+    {
+      "offset": 4418,
+      "value": "_kL"
+    },
+    {
+      "offset": 10421,
+      "value": "KRK"
+    },
+    {
+      "offset": 19981,
+      "value": "yMe_"
+    },
+    {
+      "offset": 21785,
+      "value": "HiB"
+    },
+    {
+      "offset": 23566,
+      "value": "STo"
+    },
+    {
+      "offset": 30829,
+      "value": "rZUo"
+    },
+    {
+      "offset": 35629,
+      "value": "qcK_"
+    },
+    {
+      "offset": 37597,
+      "value": "IIJ_"
+    },
+    {
+      "offset": 41352,
+      "value": "Z-F"
+    },
+    {
+      "offset": 42190,
+      "value": "W5n"
+    },
+    {
+      "offset": 42814,
+      "value": "bN_"
+    },
+    {
+      "offset": 45187,
+      "value": "CDv"
+    },
+    {
+      "offset": 49965,
+      "value": "HJIo"
+    },
+    {
+      "offset": 52398,
+      "value": "ev_"
+    },
+    {
+      "offset": 52532,
+      "value": "y p"
+    },
+    {
+      "offset": 63820,
+      "value": "SH@"
+    },
+    {
+      "offset": 67300,
+      "value": "fvHV"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000010000000100000003000000",
+  "decoded_preview_hex": "0001000018000000000012001400040000000000000008000c00100012000000b4000000a40000003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

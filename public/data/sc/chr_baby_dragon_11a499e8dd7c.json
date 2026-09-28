@@ -1,0 +1,1299 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_baby_dragon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_baby_dragon.sc",
+  "sha256_container": "11a499e8dd7c262f2f6b20ce3bccb8a3a3305ced3a21c5df0af36185d2134943",
+  "sha256_descriptor": "d2964094132363749c4dbc08030ae9404fd3265e789347c283a890e72a818ce8",
+  "sha256_decoded_payload": "b3c6dac9929f17e160cb467c1368ba5e5a6f75a0347b67ca4491ae853eb85397",
+  "version": 6,
+  "descriptor_bytes": 5860,
+  "compressed_frame_bytes": 49135,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 298008,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 696
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 87
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 216188
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 40552
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 49136
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 452,
+      "value": "baby_dragon_lvl9_fly1_3"
+    },
+    {
+      "offset": 512,
+      "value": "baby_dragon_lvl9_fly1_2"
+    },
+    {
+      "offset": 572,
+      "value": "baby_dragon_lvl9_fly1_1"
+    },
+    {
+      "offset": 632,
+      "value": "baby_dragon_lvl9_attack1_3"
+    },
+    {
+      "offset": 696,
+      "value": "baby_dragon_lvl9_attack1_2"
+    },
+    {
+      "offset": 760,
+      "value": "baby_dragon_lvl9_attack1_1"
+    },
+    {
+      "offset": 824,
+      "value": "baby_dragon_lvl8_spitfire_attack1_3"
+    },
+    {
+      "offset": 896,
+      "value": "baby_dragon_lvl8_spitfire_attack1_2"
+    },
+    {
+      "offset": 968,
+      "value": "baby_dragon_lvl8_spitfire_attack1_1"
+    },
+    {
+      "offset": 1040,
+      "value": "baby_dragon_lvl8_fly1_3"
+    },
+    {
+      "offset": 1100,
+      "value": "baby_dragon_lvl8_fly1_2"
+    },
+    {
+      "offset": 1160,
+      "value": "baby_dragon_lvl8_fly1_1"
+    },
+    {
+      "offset": 1220,
+      "value": "baby_dragon_lvl8_attack1_3"
+    },
+    {
+      "offset": 1284,
+      "value": "baby_dragon_lvl8_attack1_2"
+    },
+    {
+      "offset": 1348,
+      "value": "baby_dragon_lvl8_attack1_1"
+    },
+    {
+      "offset": 1412,
+      "value": "baby_dragon_lvl7_fly1_3"
+    },
+    {
+      "offset": 1472,
+      "value": "baby_dragon_lvl7_fly1_2"
+    },
+    {
+      "offset": 1532,
+      "value": "baby_dragon_lvl7_fly1_1"
+    },
+    {
+      "offset": 1592,
+      "value": "baby_dragon_lvl7_attack1_3"
+    },
+    {
+      "offset": 1656,
+      "value": "baby_dragon_lvl7_attack1_2"
+    },
+    {
+      "offset": 1720,
+      "value": "baby_dragon_lvl7_attack1_1"
+    },
+    {
+      "offset": 1784,
+      "value": "baby_dragon_lvl5_spitfire_attack1_3"
+    },
+    {
+      "offset": 1856,
+      "value": "baby_dragon_lvl5_spitfire_attack1_2"
+    },
+    {
+      "offset": 1928,
+      "value": "baby_dragon_lvl5_spitfire_attack1_1"
+    },
+    {
+      "offset": 2000,
+      "value": "baby_dragon_lvl5_fly1_3"
+    },
+    {
+      "offset": 2060,
+      "value": "baby_dragon_lvl5_fly1_2"
+    },
+    {
+      "offset": 2120,
+      "value": "baby_dragon_lvl5_fly1_1"
+    },
+    {
+      "offset": 2180,
+      "value": "baby_dragon_lvl5_attack1_3"
+    },
+    {
+      "offset": 2244,
+      "value": "baby_dragon_lvl5_attack1_2"
+    },
+    {
+      "offset": 2308,
+      "value": "baby_dragon_lvl5_attack1_1"
+    },
+    {
+      "offset": 2372,
+      "value": "baby_dragon_lvl4_spitfire_attack1_3"
+    },
+    {
+      "offset": 2444,
+      "value": "baby_dragon_lvl4_spitfire_attack1_2"
+    },
+    {
+      "offset": 2516,
+      "value": "baby_dragon_lvl4_spitfire_attack1_1"
+    },
+    {
+      "offset": 2588,
+      "value": "baby_dragon_lvl4_fly1_3"
+    },
+    {
+      "offset": 2648,
+      "value": "baby_dragon_lvl4_fly1_2"
+    },
+    {
+      "offset": 2708,
+      "value": "baby_dragon_lvl4_fly1_1"
+    },
+    {
+      "offset": 2768,
+      "value": "baby_dragon_lvl4_attack1_3"
+    },
+    {
+      "offset": 2832,
+      "value": "baby_dragon_lvl4_attack1_2"
+    },
+    {
+      "offset": 2896,
+      "value": "baby_dragon_lvl4_attack1_1"
+    },
+    {
+      "offset": 2960,
+      "value": "baby_dragon_lvl3_fly1_3"
+    },
+    {
+      "offset": 3020,
+      "value": "baby_dragon_lvl3_fly1_2"
+    },
+    {
+      "offset": 3080,
+      "value": "baby_dragon_lvl3_fly1_1"
+    },
+    {
+      "offset": 3140,
+      "value": "baby_dragon_lvl3_attack1_3"
+    },
+    {
+      "offset": 3204,
+      "value": "baby_dragon_lvl3_attack1_2"
+    },
+    {
+      "offset": 3268,
+      "value": "baby_dragon_lvl3_attack1_1"
+    },
+    {
+      "offset": 3332,
+      "value": "baby_dragon_lvl2_spitfire_attack1_3"
+    },
+    {
+      "offset": 3404,
+      "value": "baby_dragon_lvl2_spitfire_attack1_2"
+    },
+    {
+      "offset": 3476,
+      "value": "baby_dragon_lvl2_spitfire_attack1_1"
+    },
+    {
+      "offset": 3548,
+      "value": "baby_dragon_lvl2_fly1_3"
+    },
+    {
+      "offset": 3608,
+      "value": "baby_dragon_lvl2_fly1_2"
+    },
+    {
+      "offset": 3668,
+      "value": "baby_dragon_lvl2_fly1_1"
+    },
+    {
+      "offset": 3728,
+      "value": "baby_dragon_lvl2_attack1_3"
+    },
+    {
+      "offset": 3792,
+      "value": "baby_dragon_lvl2_attack1_2"
+    },
+    {
+      "offset": 3856,
+      "value": "baby_dragon_lvl2_attack1_1"
+    },
+    {
+      "offset": 3920,
+      "value": "baby_dragon_lvl1_spitfire_attack1_3"
+    },
+    {
+      "offset": 3992,
+      "value": "baby_dragon_lvl1_spitfire_attack1_2"
+    },
+    {
+      "offset": 4064,
+      "value": "baby_dragon_lvl1_spitfire_attack1_1"
+    },
+    {
+      "offset": 4136,
+      "value": "baby_dragon_lvl1_fly1_3"
+    },
+    {
+      "offset": 4196,
+      "value": "baby_dragon_lvl1_fly1_2"
+    },
+    {
+      "offset": 4256,
+      "value": "baby_dragon_lvl1_fly1_1"
+    },
+    {
+      "offset": 4316,
+      "value": "baby_dragon_lvl1_attack1_3"
+    },
+    {
+      "offset": 4380,
+      "value": "baby_dragon_lvl1_attack1_2"
+    },
+    {
+      "offset": 4444,
+      "value": "baby_dragon_lvl1_attack1_1"
+    },
+    {
+      "offset": 4508,
+      "value": "baby_dragon_lvl12_spitfire_attack1_3"
+    },
+    {
+      "offset": 4584,
+      "value": "baby_dragon_lvl12_spitfire_attack1_2"
+    },
+    {
+      "offset": 4660,
+      "value": "baby_dragon_lvl12_spitfire_attack1_1"
+    },
+    {
+      "offset": 4736,
+      "value": "baby_dragon_lvl12_fly1_3"
+    },
+    {
+      "offset": 4800,
+      "value": "baby_dragon_lvl12_fly1_2"
+    },
+    {
+      "offset": 4864,
+      "value": "baby_dragon_lvl12_fly1_1"
+    },
+    {
+      "offset": 4928,
+      "value": "baby_dragon_lvl12_attack1_3"
+    },
+    {
+      "offset": 4992,
+      "value": "baby_dragon_lvl12_attack1_2"
+    },
+    {
+      "offset": 5056,
+      "value": "baby_dragon_lvl12_attack1_1"
+    },
+    {
+      "offset": 5120,
+      "value": "baby_dragon_lvl11_fly1_3"
+    },
+    {
+      "offset": 5184,
+      "value": "baby_dragon_lvl11_fly1_2"
+    },
+    {
+      "offset": 5248,
+      "value": "baby_dragon_lvl11_fly1_1"
+    },
+    {
+      "offset": 5312,
+      "value": "baby_dragon_lvl11_attack1_3"
+    },
+    {
+      "offset": 5376,
+      "value": "baby_dragon_lvl11_attack1_2"
+    },
+    {
+      "offset": 5440,
+      "value": "baby_dragon_lvl11_attack1_1"
+    },
+    {
+      "offset": 5504,
+      "value": "baby_dragon_lvl10_fly1_3"
+    },
+    {
+      "offset": 5568,
+      "value": "baby_dragon_lvl10_fly1_2"
+    },
+    {
+      "offset": 5632,
+      "value": "baby_dragon_lvl10_fly1_1"
+    },
+    {
+      "offset": 5696,
+      "value": "baby_dragon_lvl10_attack1_3"
+    },
+    {
+      "offset": 5760,
+      "value": "baby_dragon_lvl10_attack1_2"
+    },
+    {
+      "offset": 5832,
+      "value": "baby_dragon_lvl10_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "baby_dragon_lvl9_fly1_3",
+    "baby_dragon_lvl9_fly1_2",
+    "baby_dragon_lvl9_fly1_1",
+    "baby_dragon_lvl9_attack1_3",
+    "baby_dragon_lvl9_attack1_2",
+    "baby_dragon_lvl9_attack1_1",
+    "baby_dragon_lvl8_spitfire_attack1_3",
+    "baby_dragon_lvl8_spitfire_attack1_2",
+    "baby_dragon_lvl8_spitfire_attack1_1",
+    "baby_dragon_lvl8_fly1_3",
+    "baby_dragon_lvl8_fly1_2",
+    "baby_dragon_lvl8_fly1_1",
+    "baby_dragon_lvl8_attack1_3",
+    "baby_dragon_lvl8_attack1_2",
+    "baby_dragon_lvl8_attack1_1",
+    "baby_dragon_lvl7_fly1_3",
+    "baby_dragon_lvl7_fly1_2",
+    "baby_dragon_lvl7_fly1_1",
+    "baby_dragon_lvl7_attack1_3",
+    "baby_dragon_lvl7_attack1_2",
+    "baby_dragon_lvl7_attack1_1",
+    "baby_dragon_lvl5_spitfire_attack1_3",
+    "baby_dragon_lvl5_spitfire_attack1_2",
+    "baby_dragon_lvl5_spitfire_attack1_1",
+    "baby_dragon_lvl5_fly1_3",
+    "baby_dragon_lvl5_fly1_2",
+    "baby_dragon_lvl5_fly1_1",
+    "baby_dragon_lvl5_attack1_3",
+    "baby_dragon_lvl5_attack1_2",
+    "baby_dragon_lvl5_attack1_1",
+    "baby_dragon_lvl4_spitfire_attack1_3",
+    "baby_dragon_lvl4_spitfire_attack1_2",
+    "baby_dragon_lvl4_spitfire_attack1_1",
+    "baby_dragon_lvl4_fly1_3",
+    "baby_dragon_lvl4_fly1_2",
+    "baby_dragon_lvl4_fly1_1",
+    "baby_dragon_lvl4_attack1_3",
+    "baby_dragon_lvl4_attack1_2",
+    "baby_dragon_lvl4_attack1_1",
+    "baby_dragon_lvl3_fly1_3",
+    "baby_dragon_lvl3_fly1_2",
+    "baby_dragon_lvl3_fly1_1",
+    "baby_dragon_lvl3_attack1_3",
+    "baby_dragon_lvl3_attack1_2",
+    "baby_dragon_lvl3_attack1_1",
+    "baby_dragon_lvl2_spitfire_attack1_3",
+    "baby_dragon_lvl2_spitfire_attack1_2",
+    "baby_dragon_lvl2_spitfire_attack1_1",
+    "baby_dragon_lvl2_fly1_3",
+    "baby_dragon_lvl2_fly1_2",
+    "baby_dragon_lvl2_fly1_1",
+    "baby_dragon_lvl2_attack1_3",
+    "baby_dragon_lvl2_attack1_2",
+    "baby_dragon_lvl2_attack1_1",
+    "baby_dragon_lvl1_spitfire_attack1_3",
+    "baby_dragon_lvl1_spitfire_attack1_2",
+    "baby_dragon_lvl1_spitfire_attack1_1",
+    "baby_dragon_lvl1_fly1_3",
+    "baby_dragon_lvl1_fly1_2",
+    "baby_dragon_lvl1_fly1_1",
+    "baby_dragon_lvl1_attack1_3",
+    "baby_dragon_lvl1_attack1_2",
+    "baby_dragon_lvl1_attack1_1",
+    "baby_dragon_lvl12_spitfire_attack1_3",
+    "baby_dragon_lvl12_spitfire_attack1_2",
+    "baby_dragon_lvl12_spitfire_attack1_1",
+    "baby_dragon_lvl12_fly1_3",
+    "baby_dragon_lvl12_fly1_2",
+    "baby_dragon_lvl12_fly1_1",
+    "baby_dragon_lvl12_attack1_3",
+    "baby_dragon_lvl12_attack1_2",
+    "baby_dragon_lvl12_attack1_1",
+    "baby_dragon_lvl11_fly1_3",
+    "baby_dragon_lvl11_fly1_2",
+    "baby_dragon_lvl11_fly1_1",
+    "baby_dragon_lvl11_attack1_3",
+    "baby_dragon_lvl11_attack1_2",
+    "baby_dragon_lvl11_attack1_1",
+    "baby_dragon_lvl10_fly1_3",
+    "baby_dragon_lvl10_fly1_2",
+    "baby_dragon_lvl10_fly1_1",
+    "baby_dragon_lvl10_attack1_3",
+    "baby_dragon_lvl10_attack1_2",
+    "baby_dragon_lvl10_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1979,
+      "value": "Afff@"
+    },
+    {
+      "offset": 2676,
+      "value": "ffv@"
+    },
+    {
+      "offset": 8332,
+      "value": "Lg H"
+    },
+    {
+      "offset": 8357,
+      "value": "j H"
+    },
+    {
+      "offset": 10147,
+      "value": "c33OA"
+    },
+    {
+      "offset": 11444,
+      "value": "ff2A"
+    },
+    {
+      "offset": 13531,
+      "value": "R333A"
+    },
+    {
+      "offset": 14488,
+      "value": "h916"
+    },
+    {
+      "offset": 16901,
+      "value": "Vsr"
+    },
+    {
+      "offset": 17228,
+      "value": "ffFA"
+    },
+    {
+      "offset": 19384,
+      "value": "nL 4"
+    },
+    {
+      "offset": 21400,
+      "value": "zoIY"
+    },
+    {
+      "offset": 21424,
+      "value": "zoRZ"
+    },
+    {
+      "offset": 21450,
+      "value": "RZ33CA"
+    },
+    {
+      "offset": 22949,
+      "value": "Vsr"
+    },
+    {
+      "offset": 23216,
+      "value": "ffNA"
+    },
+    {
+      "offset": 23455,
+      "value": "O33OA"
+    },
+    {
+      "offset": 24307,
+      "value": "c33OA"
+    },
+    {
+      "offset": 24594,
+      "value": "b 33OA"
+    },
+    {
+      "offset": 25135,
+      "value": "U33OA"
+    },
+    {
+      "offset": 26072,
+      "value": "ffF@"
+    },
+    {
+      "offset": 26084,
+      "value": "ffF@"
+    },
+    {
+      "offset": 26108,
+      "value": "ffjA"
+    },
+    {
+      "offset": 27571,
+      "value": "WffF@"
+    },
+    {
+      "offset": 27595,
+      "value": "WffNA"
+    },
+    {
+      "offset": 29369,
+      "value": "ARZ"
+    },
+    {
+      "offset": 31723,
+      "value": "R333A"
+    },
+    {
+      "offset": 32093,
+      "value": "s16"
+    },
+    {
+      "offset": 32372,
+      "value": "ffjA"
+    },
+    {
+      "offset": 32680,
+      "value": "h916"
+    },
+    {
+      "offset": 33496,
+      "value": "zoIY"
+    },
+    {
+      "offset": 33520,
+      "value": "zoRZ"
+    },
+    {
+      "offset": 33546,
+      "value": "RZ333A"
+    },
+    {
+      "offset": 34588,
+      "value": "pR1:"
+    },
+    {
+      "offset": 35036,
+      "value": "ffjA"
+    },
+    {
+      "offset": 36545,
+      "value": "Vsr"
+    },
+    {
+      "offset": 36812,
+      "value": "ffNA"
+    },
+    {
+      "offset": 37051,
+      "value": "O33OA"
+    },
+    {
+      "offset": 37903,
+      "value": "c33OA"
+    },
+    {
+      "offset": 38588,
+      "value": "ffNA"
+    },
+    {
+      "offset": 43963,
+      "value": "R333A"
+    },
+    {
+      "offset": 44896,
+      "value": "h916"
+    },
+    {
+      "offset": 45860,
+      "value": "ffNA"
+    },
+    {
+      "offset": 46504,
+      "value": "zoIY"
+    },
+    {
+      "offset": 46528,
+      "value": "zoRZ"
+    },
+    {
+      "offset": 46554,
+      "value": "RZ333A"
+    },
+    {
+      "offset": 48172,
+      "value": "mHc"
+    },
+    {
+      "offset": 48668,
+      "value": "ffjA"
+    },
+    {
+      "offset": 49000,
+      "value": "zoIY"
+    },
+    {
+      "offset": 49024,
+      "value": "zoRZ"
+    },
+    {
+      "offset": 49050,
+      "value": "RZ33GA"
+    },
+    {
+      "offset": 50549,
+      "value": "Vsr"
+    },
+    {
+      "offset": 50816,
+      "value": "ffNA"
+    },
+    {
+      "offset": 51055,
+      "value": "O33OA"
+    },
+    {
+      "offset": 51907,
+      "value": "c33OA"
+    },
+    {
+      "offset": 52592,
+      "value": "ffNA"
+    },
+    {
+      "offset": 53371,
+      "value": "B33+A"
+    },
+    {
+      "offset": 57137,
+      "value": "ARZ"
+    },
+    {
+      "offset": 59299,
+      "value": "R333A"
+    },
+    {
+      "offset": 60232,
+      "value": "h916"
+    },
+    {
+      "offset": 61196,
+      "value": "ffNA"
+    },
+    {
+      "offset": 61816,
+      "value": "zoIY"
+    },
+    {
+      "offset": 61840,
+      "value": "zoRZ"
+    },
+    {
+      "offset": 61866,
+      "value": "RZ333A"
+    },
+    {
+      "offset": 63740,
+      "value": "ffjA"
+    },
+    {
+      "offset": 65909,
+      "value": "Vsr"
+    },
+    {
+      "offset": 67555,
+      "value": "c33OA"
+    },
+    {
+      "offset": 69223,
+      "value": "B33+A"
+    },
+    {
+      "offset": 72007,
+      "value": "J33sA"
+    },
+    {
+      "offset": 72544,
+      "value": "nM d"
+    },
+    {
+      "offset": 73109,
+      "value": "ARZ"
+    },
+    {
+      "offset": 73783,
+      "value": "X33+A"
+    },
+    {
+      "offset": 75319,
+      "value": "R333A"
+    },
+    {
+      "offset": 76324,
+      "value": "h916"
+    },
+    {
+      "offset": 80036,
+      "value": "ffjA"
+    },
+    {
+      "offset": 81377,
+      "value": "Vsr"
+    },
+    {
+      "offset": 82591,
+      "value": "c33OA"
+    },
+    {
+      "offset": 85387,
+      "value": "J33sA"
+    },
+    {
+      "offset": 85828,
+      "value": "nM d"
+    },
+    {
+      "offset": 86839,
+      "value": "S33OA"
+    },
+    {
+      "offset": 87331,
+      "value": "R333A"
+    },
+    {
+      "offset": 88072,
+      "value": "h916"
+    },
+    {
+      "offset": 92393,
+      "value": "Vsr"
+    },
+    {
+      "offset": 93319,
+      "value": "c33OA"
+    },
+    {
+      "offset": 96377,
+      "value": "ARZ"
+    },
+    {
+      "offset": 97891,
+      "value": "R333A"
+    },
+    {
+      "offset": 98488,
+      "value": "h916"
+    },
+    {
+      "offset": 102317,
+      "value": "Vsr"
+    },
+    {
+      "offset": 104645,
+      "value": "ARZ"
+    },
+    {
+      "offset": 105511,
+      "value": "R333A"
+    },
+    {
+      "offset": 105820,
+      "value": "h916"
+    },
+    {
+      "offset": 108522,
+      "value": "AxffFA"
+    },
+    {
+      "offset": 110452,
+      "value": "NlA0"
+    },
+    {
+      "offset": 112436,
+      "value": "ffv@"
+    },
+    {
+      "offset": 112936,
+      "value": "Lf1J"
+    },
+    {
+      "offset": 114496,
+      "value": "nKZ/"
+    },
+    {
+      "offset": 117056,
+      "value": "ffv@"
+    },
+    {
+      "offset": 117929,
+      "value": "Vsr"
+    },
+    {
+      "offset": 118604,
+      "value": "ffNA"
+    },
+    {
+      "offset": 118997,
+      "value": "GbT"
+    },
+    {
+      "offset": 119021,
+      "value": "BbT"
+    },
+    {
+      "offset": 120296,
+      "value": "ff.A"
+    },
+    {
+      "offset": 121121,
+      "value": "njy"
+    },
+    {
+      "offset": 121145,
+      "value": "nbx"
+    },
+    {
+      "offset": 121612,
+      "value": "xkJE"
+    },
+    {
+      "offset": 121685,
+      "value": "bZG"
+    },
+    {
+      "offset": 123679,
+      "value": "u33OA"
+    },
+    {
+      "offset": 124267,
+      "value": "R333A"
+    },
+    {
+      "offset": 124807,
+      "value": "i33C@"
+    },
+    {
+      "offset": 125248,
+      "value": "h916"
+    },
+    {
+      "offset": 128297,
+      "value": "kZo"
+    },
+    {
+      "offset": 128740,
+      "value": "xkJE"
+    },
+    {
+      "offset": 130627,
+      "value": "R333A"
+    },
+    {
+      "offset": 131608,
+      "value": "h916"
+    },
+    {
+      "offset": 213384,
+      "value": "attack_pivot"
+    },
+    {
+      "offset": 213404,
+      "value": "spitfire_flame"
+    },
+    {
+      "offset": 213424,
+      "value": "Arial"
+    },
+    {
+      "offset": 213436,
+      "value": "baby_dragon_lvl5_attack1_1"
+    },
+    {
+      "offset": 213468,
+      "value": "baby_dragon_lvl5_spitfire_attack1_1"
+    },
+    {
+      "offset": 213508,
+      "value": "baby_dragon_lvl4_fly1_2"
+    },
+    {
+      "offset": 213536,
+      "value": "baby_dragon_lvl4_fly1_1"
+    },
+    {
+      "offset": 213564,
+      "value": "baby_dragon_lvl5_fly1_2"
+    },
+    {
+      "offset": 213592,
+      "value": "baby_dragon_lvl5_attack1_2"
+    },
+    {
+      "offset": 213624,
+      "value": "baby_dragon_lvl4_attack1_2"
+    },
+    {
+      "offset": 213656,
+      "value": "baby_dragon_lvl5_spitfire_attack1_3"
+    },
+    {
+      "offset": 213696,
+      "value": "baby_dragon_lvl3_fly1_1"
+    },
+    {
+      "offset": 213724,
+      "value": "baby_dragon_lvl7_fly1_1"
+    },
+    {
+      "offset": 213752,
+      "value": "baby_dragon_lvl3_attack1_3"
+    },
+    {
+      "offset": 213784,
+      "value": "baby_dragon_lvl12_attack1_3"
+    },
+    {
+      "offset": 213816,
+      "value": "baby_dragon_lvl9_fly1_3"
+    },
+    {
+      "offset": 213844,
+      "value": "baby_dragon_lvl3_attack1_1"
+    },
+    {
+      "offset": 213876,
+      "value": "baby_dragon_lvl3_attack1_2"
+    },
+    {
+      "offset": 213908,
+      "value": "baby_dragon_lvl1_spitfire_attack1_2"
+    },
+    {
+      "offset": 213948,
+      "value": "baby_dragon_lvl2_spitfire_attack1_3"
+    },
+    {
+      "offset": 213988,
+      "value": "baby_dragon_lvl3_fly1_2"
+    },
+    {
+      "offset": 214016,
+      "value": "baby_dragon_lvl7_attack1_3"
+    },
+    {
+      "offset": 214048,
+      "value": "baby_dragon_lvl2_spitfire_attack1_2"
+    },
+    {
+      "offset": 214088,
+      "value": "baby_dragon_lvl1_fly1_1"
+    },
+    {
+      "offset": 214116,
+      "value": "baby_dragon_lvl4_spitfire_attack1_2"
+    },
+    {
+      "offset": 214156,
+      "value": "baby_dragon_lvl2_fly1_2"
+    },
+    {
+      "offset": 214184,
+      "value": "baby_dragon_lvl2_fly1_1"
+    },
+    {
+      "offset": 214212,
+      "value": "baby_dragon_lvl3_fly1_3"
+    },
+    {
+      "offset": 214240,
+      "value": "baby_dragon_lvl12_fly1_2"
+    },
+    {
+      "offset": 214272,
+      "value": "baby_dragon_lvl8_spitfire_attack1_2"
+    },
+    {
+      "offset": 214312,
+      "value": "baby_dragon_lvl2_attack1_2"
+    },
+    {
+      "offset": 214344,
+      "value": "baby_dragon_lvl2_attack1_1"
+    },
+    {
+      "offset": 214376,
+      "value": "baby_dragon_lvl2_attack1_3"
+    },
+    {
+      "offset": 214408,
+      "value": "baby_dragon_lvl1_spitfire_attack1_3"
+    },
+    {
+      "offset": 214448,
+      "value": "baby_dragon_lvl12_attack1_2"
+    },
+    {
+      "offset": 214480,
+      "value": "baby_dragon_lvl2_fly1_3"
+    },
+    {
+      "offset": 214508,
+      "value": "baby_dragon_lvl12_fly1_3"
+    },
+    {
+      "offset": 214540,
+      "value": "baby_dragon_lvl12_spitfire_attack1_1"
+    },
+    {
+      "offset": 214584,
+      "value": "baby_dragon_lvl9_fly1_1"
+    },
+    {
+      "offset": 214612,
+      "value": "baby_dragon_lvl11_fly1_1"
+    },
+    {
+      "offset": 214644,
+      "value": "baby_dragon_lvl7_fly1_3"
+    },
+    {
+      "offset": 214672,
+      "value": "baby_dragon_lvl11_fly1_3"
+    },
+    {
+      "offset": 214704,
+      "value": "baby_dragon_lvl11_attack1_3"
+    },
+    {
+      "offset": 214736,
+      "value": "baby_dragon_lvl8_fly1_1"
+    },
+    {
+      "offset": 214764,
+      "value": "baby_dragon_lvl12_attack1_1"
+    },
+    {
+      "offset": 214796,
+      "value": "baby_dragon_lvl9_fly1_2"
+    },
+    {
+      "offset": 214824,
+      "value": "baby_dragon_lvl4_fly1_3"
+    },
+    {
+      "offset": 214852,
+      "value": "baby_dragon_lvl12_spitfire_attack1_3"
+    },
+    {
+      "offset": 214896,
+      "value": "baby_dragon_lvl10_fly1_2"
+    },
+    {
+      "offset": 214928,
+      "value": "baby_dragon_lvl5_attack1_3"
+    },
+    {
+      "offset": 214960,
+      "value": "baby_dragon_lvl10_attack1_2"
+    },
+    {
+      "offset": 214992,
+      "value": "baby_dragon_lvl4_spitfire_attack1_3"
+    },
+    {
+      "offset": 215032,
+      "value": "baby_dragon_lvl5_spitfire_attack1_2"
+    },
+    {
+      "offset": 215072,
+      "value": "baby_dragon_lvl5_fly1_1"
+    },
+    {
+      "offset": 215100,
+      "value": "baby_dragon_lvl11_fly1_2"
+    },
+    {
+      "offset": 215132,
+      "value": "baby_dragon_lvl11_attack1_1"
+    },
+    {
+      "offset": 215164,
+      "value": "baby_dragon_lvl10_fly1_1"
+    },
+    {
+      "offset": 215196,
+      "value": "baby_dragon_lvl9_attack1_2"
+    },
+    {
+      "offset": 215228,
+      "value": "baby_dragon_lvl1_attack1_2"
+    },
+    {
+      "offset": 215260,
+      "value": "baby_dragon_lvl10_attack1_3"
+    },
+    {
+      "offset": 215292,
+      "value": "baby_dragon_lvl10_attack1_1"
+    },
+    {
+      "offset": 215324,
+      "value": "baby_dragon_lvl10_fly1_3"
+    },
+    {
+      "offset": 215356,
+      "value": "baby_dragon_lvl1_attack1_3"
+    },
+    {
+      "offset": 215388,
+      "value": "baby_dragon_lvl8_fly1_2"
+    },
+    {
+      "offset": 215416,
+      "value": "baby_dragon_lvl4_attack1_1"
+    },
+    {
+      "offset": 215448,
+      "value": "baby_dragon_lvl2_spitfire_attack1_1"
+    },
+    {
+      "offset": 215488,
+      "value": "baby_dragon_lvl12_spitfire_attack1_2"
+    },
+    {
+      "offset": 215532,
+      "value": "baby_dragon_lvl8_attack1_3"
+    },
+    {
+      "offset": 215564,
+      "value": "baby_dragon_lvl4_spitfire_attack1_1"
+    },
+    {
+      "offset": 215604,
+      "value": "baby_dragon_lvl1_attack1_1"
+    },
+    {
+      "offset": 215636,
+      "value": "baby_dragon_lvl1_fly1_3"
+    },
+    {
+      "offset": 215664,
+      "value": "baby_dragon_lvl1_spitfire_attack1_1"
+    },
+    {
+      "offset": 215704,
+      "value": "baby_dragon_lvl4_attack1_3"
+    },
+    {
+      "offset": 215736,
+      "value": "baby_dragon_lvl9_attack1_1"
+    },
+    {
+      "offset": 215768,
+      "value": "baby_dragon_lvl11_attack1_2"
+    },
+    {
+      "offset": 215800,
+      "value": "baby_dragon_lvl12_fly1_1"
+    },
+    {
+      "offset": 215832,
+      "value": "baby_dragon_lvl1_fly1_2"
+    },
+    {
+      "offset": 215860,
+      "value": "baby_dragon_lvl5_fly1_3"
+    },
+    {
+      "offset": 215888,
+      "value": "baby_dragon_lvl7_attack1_1"
+    },
+    {
+      "offset": 215920,
+      "value": "baby_dragon_lvl8_spitfire_attack1_3"
+    },
+    {
+      "offset": 215960,
+      "value": "baby_dragon_lvl7_attack1_2"
+    },
+    {
+      "offset": 215992,
+      "value": "baby_dragon_lvl7_fly1_2"
+    },
+    {
+      "offset": 216020,
+      "value": "baby_dragon_lvl8_attack1_1"
+    },
+    {
+      "offset": 216052,
+      "value": "baby_dragon_lvl8_attack1_2"
+    },
+    {
+      "offset": 216084,
+      "value": "baby_dragon_lvl8_fly1_3"
+    },
+    {
+      "offset": 216112,
+      "value": "baby_dragon_lvl8_spitfire_attack1_1"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000b80200005700000001000000010000007c4c0300",
+  "decoded_preview_hex": "784c030018000000000012001400040000000000000008000c0010001200000000400300f8160200981f000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

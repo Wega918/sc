@@ -1,0 +1,1379 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "ui_cc.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\ui_cc.sc",
+  "sha256_container": "2eeeb101b244cd83b1dad9322496783cd0a23bd637e9d635b9245a7fad2486f7",
+  "sha256_descriptor": "63523448083954e7d9422afcacc30cae1e08dfdd026b8a2a5272a905565df926",
+  "sha256_decoded_payload": "79ddea710879df4a25f159b79c6ac4b23aeef41f81f04dca7c08fc9226a5514a",
+  "version": 6,
+  "descriptor_bytes": 6360,
+  "compressed_frame_bytes": 520563,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 1126812,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 169
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 234
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 150
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 182792
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 878408
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 520564
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 512,
+      "value": "SMe"
+    },
+    {
+      "offset": 532,
+      "value": "xp_container"
+    },
+    {
+      "offset": 584,
+      "value": "victory_rating_star"
+    },
+    {
+      "offset": 640,
+      "value": "victory_points"
+    },
+    {
+      "offset": 692,
+      "value": "ui_top_cc"
+    },
+    {
+      "offset": 740,
+      "value": "type_in_field_extended"
+    },
+    {
+      "offset": 800,
+      "value": "training_screen"
+    },
+    {
+      "offset": 852,
+      "value": "scout_top_left_spectators"
+    },
+    {
+      "offset": 916,
+      "value": "replay_again"
+    },
+    {
+      "offset": 968,
+      "value": "rep_level_up"
+    },
+    {
+      "offset": 1020,
+      "value": "player_prioritize_animation"
+    },
+    {
+      "offset": 1084,
+      "value": "player_donated_animation"
+    },
+    {
+      "offset": 1148,
+      "value": "number_of_entrys"
+    },
+    {
+      "offset": 1204,
+      "value": "iphone_buildingbutton_walls"
+    },
+    {
+      "offset": 1268,
+      "value": "iphone_buildingbutton_shop"
+    },
+    {
+      "offset": 1326,
+      "value": "QV "
+    },
+    {
+      "offset": 1332,
+      "value": "iphone_buildingbutton_prioritize"
+    },
+    {
+      "offset": 1404,
+      "value": "iphone_buildingbutton_info"
+    },
+    {
+      "offset": 1468,
+      "value": "iphone_buildingbutton_gem_timer"
+    },
+    {
+      "offset": 1536,
+      "value": "iphone_buildingbutton_donate_ccresources"
+    },
+    {
+      "offset": 1616,
+      "value": "iphone_buildingbutton_customize"
+    },
+    {
+      "offset": 1684,
+      "value": "iphone_buildingbutton_cc_treasury"
+    },
+    {
+      "offset": 1756,
+      "value": "infobubble_ruin_02_progress_prio"
+    },
+    {
+      "offset": 1828,
+      "value": "infobubble_ruin_02_progress"
+    },
+    {
+      "offset": 1892,
+      "value": "infobubble_ruin_01_progress_prio"
+    },
+    {
+      "offset": 1964,
+      "value": "infobubble_ruin_01_progress"
+    },
+    {
+      "offset": 2028,
+      "value": "infobubble_container_value"
+    },
+    {
+      "offset": 2092,
+      "value": "infobubble_container_text_prio"
+    },
+    {
+      "offset": 2160,
+      "value": "infobubble_container_text"
+    },
+    {
+      "offset": 2224,
+      "value": "infobubble_container_key_value_arabic"
+    },
+    {
+      "offset": 2300,
+      "value": "infobubble_container_key_value"
+    },
+    {
+      "offset": 2368,
+      "value": "infobubble_capital_progress_prio"
+    },
+    {
+      "offset": 2440,
+      "value": "infobubble_capital_progress"
+    },
+    {
+      "offset": 2504,
+      "value": "infobubble_builder_title"
+    },
+    {
+      "offset": 2568,
+      "value": "infobubble_builder_item_ruin_02_prio"
+    },
+    {
+      "offset": 2644,
+      "value": "infobubble_builder_item_ruin_02"
+    },
+    {
+      "offset": 2712,
+      "value": "infobubble_builder_item_ruin_01_prio"
+    },
+    {
+      "offset": 2788,
+      "value": "infobubble_builder_item_ruin_01"
+    },
+    {
+      "offset": 2856,
+      "value": "infobubble_builder_item_gearingup"
+    },
+    {
+      "offset": 2928,
+      "value": "infobubble_builder_item_gear_up"
+    },
+    {
+      "offset": 2996,
+      "value": "infobubble_builder_item_free"
+    },
+    {
+      "offset": 3064,
+      "value": "infobubble_builder_item_available_prio"
+    },
+    {
+      "offset": 3140,
+      "value": "infobubble_builder_item_available"
+    },
+    {
+      "offset": 3212,
+      "value": "infobubble_builder_item"
+    },
+    {
+      "offset": 3272,
+      "value": "infobubble_builder"
+    },
+    {
+      "offset": 3328,
+      "value": "icon_ruin_02"
+    },
+    {
+      "offset": 3380,
+      "value": "icon_ruin_01"
+    },
+    {
+      "offset": 3432,
+      "value": "icon_reputation"
+    },
+    {
+      "offset": 3484,
+      "value": "icon_gold2"
+    },
+    {
+      "offset": 3532,
+      "value": "icon_gold1_small"
+    },
+    {
+      "offset": 3588,
+      "value": "icon_gold1"
+    },
+    {
+      "offset": 3636,
+      "value": "icon_gear_up_small"
+    },
+    {
+      "offset": 3692,
+      "value": "icon_gear_up"
+    },
+    {
+      "offset": 3744,
+      "value": "icon_elixir2"
+    },
+    {
+      "offset": 3796,
+      "value": "icon_elixir1"
+    },
+    {
+      "offset": 3848,
+      "value": "icon_capital_reward"
+    },
+    {
+      "offset": 3904,
+      "value": "icon_capital_resource_small"
+    },
+    {
+      "offset": 3968,
+      "value": "icon_capital_resource"
+    },
+    {
+      "offset": 4028,
+      "value": "house_piece_unlock"
+    },
+    {
+      "offset": 4084,
+      "value": "go_home_button"
+    },
+    {
+      "offset": 4136,
+      "value": "generic_district_icon"
+    },
+    {
+      "offset": 4196,
+      "value": "edit_mode_new"
+    },
+    {
+      "offset": 4248,
+      "value": "clan_wars_badge_attacks"
+    },
+    {
+      "offset": 4308,
+      "value": "cc_unlock_item"
+    },
+    {
+      "offset": 4360,
+      "value": "cc_ui_top_right_replay"
+    },
+    {
+      "offset": 4420,
+      "value": "cc_ui_top_right"
+    },
+    {
+      "offset": 4472,
+      "value": "cc_ui_top_left_replay"
+    },
+    {
+      "offset": 4532,
+      "value": "cc_ui_top_left_attacking"
+    },
+    {
+      "offset": 4596,
+      "value": "cc_ui_top_left"
+    },
+    {
+      "offset": 4648,
+      "value": "cc_ui_bottom_right"
+    },
+    {
+      "offset": 4704,
+      "value": "cc_ui_bottom_left"
+    },
+    {
+      "offset": 4760,
+      "value": "cc_troop_icon"
+    },
+    {
+      "offset": 4812,
+      "value": "cc_treasury_icon"
+    },
+    {
+      "offset": 4868,
+      "value": "cc_ruin_info"
+    },
+    {
+      "offset": 4920,
+      "value": "cc_reward_container"
+    },
+    {
+      "offset": 4976,
+      "value": "cc_resource_container"
+    },
+    {
+      "offset": 5036,
+      "value": "cc_play_again"
+    },
+    {
+      "offset": 5088,
+      "value": "cc_overview_menu"
+    },
+    {
+      "offset": 5144,
+      "value": "cc_next_replay"
+    },
+    {
+      "offset": 5196,
+      "value": "cc_map_ui_top_right"
+    },
+    {
+      "offset": 5252,
+      "value": "cc_info_field"
+    },
+    {
+      "offset": 5304,
+      "value": "cc_end_of_battle_screen"
+    },
+    {
+      "offset": 5364,
+      "value": "cc_customize_screen"
+    },
+    {
+      "offset": 5420,
+      "value": "cc_customize_item"
+    },
+    {
+      "offset": 5476,
+      "value": "cc_confirm"
+    },
+    {
+      "offset": 5524,
+      "value": "cc_building_info_screen"
+    },
+    {
+      "offset": 5584,
+      "value": "button_inactive_free"
+    },
+    {
+      "offset": 5644,
+      "value": "buildingbutton_walls"
+    },
+    {
+      "offset": 5704,
+      "value": "buildingbutton_shop"
+    },
+    {
+      "offset": 5760,
+      "value": "buildingbutton_prioritize"
+    },
+    {
+      "offset": 5824,
+      "value": "buildingbutton_info"
+    },
+    {
+      "offset": 5880,
+      "value": "buildingbutton_gem_timer"
+    },
+    {
+      "offset": 5944,
+      "value": "buildingbutton_donate_ccresources"
+    },
+    {
+      "offset": 6016,
+      "value": "buildingbutton_customize"
+    },
+    {
+      "offset": 6080,
+      "value": "buildingbutton_cc_treasury"
+    },
+    {
+      "offset": 6144,
+      "value": "building_donation_progress"
+    },
+    {
+      "offset": 6208,
+      "value": "boosted_training_arrow"
+    },
+    {
+      "offset": 6268,
+      "value": "big_bubble_prioritize"
+    },
+    {
+      "offset": 6336,
+      "value": "attack_confirm_spell"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "SMe",
+    "xp_container",
+    "victory_rating_star",
+    "victory_points",
+    "ui_top_cc",
+    "type_in_field_extended",
+    "training_screen",
+    "scout_top_left_spectators",
+    "replay_again",
+    "rep_level_up",
+    "player_prioritize_animation",
+    "player_donated_animation",
+    "number_of_entrys",
+    "iphone_buildingbutton_walls",
+    "iphone_buildingbutton_shop",
+    "QV ",
+    "iphone_buildingbutton_prioritize",
+    "iphone_buildingbutton_info",
+    "iphone_buildingbutton_gem_timer",
+    "iphone_buildingbutton_donate_ccresources",
+    "iphone_buildingbutton_customize",
+    "iphone_buildingbutton_cc_treasury",
+    "infobubble_ruin_02_progress_prio",
+    "infobubble_ruin_02_progress",
+    "infobubble_ruin_01_progress_prio",
+    "infobubble_ruin_01_progress",
+    "infobubble_container_value",
+    "infobubble_container_text_prio",
+    "infobubble_container_text",
+    "infobubble_container_key_value_arabic",
+    "infobubble_container_key_value",
+    "infobubble_capital_progress_prio",
+    "infobubble_capital_progress",
+    "infobubble_builder_title",
+    "infobubble_builder_item_ruin_02_prio",
+    "infobubble_builder_item_ruin_02",
+    "infobubble_builder_item_ruin_01_prio",
+    "infobubble_builder_item_ruin_01",
+    "infobubble_builder_item_gearingup",
+    "infobubble_builder_item_gear_up",
+    "infobubble_builder_item_free",
+    "infobubble_builder_item_available_prio",
+    "infobubble_builder_item_available",
+    "infobubble_builder_item",
+    "infobubble_builder",
+    "icon_ruin_02",
+    "icon_ruin_01",
+    "icon_reputation",
+    "icon_gold2",
+    "icon_gold1_small",
+    "icon_gold1",
+    "icon_gear_up_small",
+    "icon_gear_up",
+    "icon_elixir2",
+    "icon_elixir1",
+    "icon_capital_reward",
+    "icon_capital_resource_small",
+    "icon_capital_resource",
+    "house_piece_unlock",
+    "go_home_button",
+    "generic_district_icon",
+    "edit_mode_new",
+    "clan_wars_badge_attacks",
+    "cc_unlock_item",
+    "cc_ui_top_right_replay",
+    "cc_ui_top_right",
+    "cc_ui_top_left_replay",
+    "cc_ui_top_left_attacking",
+    "cc_ui_top_left",
+    "cc_ui_bottom_right",
+    "cc_ui_bottom_left",
+    "cc_troop_icon",
+    "cc_treasury_icon",
+    "cc_ruin_info",
+    "cc_reward_container",
+    "cc_resource_container",
+    "cc_play_again",
+    "cc_overview_menu",
+    "cc_next_replay",
+    "cc_map_ui_top_right",
+    "cc_info_field",
+    "cc_end_of_battle_screen",
+    "cc_customize_screen",
+    "cc_customize_item",
+    "cc_confirm",
+    "cc_building_info_screen",
+    "button_inactive_free",
+    "buildingbutton_walls",
+    "buildingbutton_shop",
+    "buildingbutton_prioritize",
+    "buildingbutton_info",
+    "buildingbutton_gem_timer",
+    "buildingbutton_donate_ccresources",
+    "buildingbutton_customize",
+    "buildingbutton_cc_treasury",
+    "building_donation_progress",
+    "boosted_training_arrow",
+    "big_bubble_prioritize",
+    "attack_confirm_spell"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1936,
+      "value": "D\\1"
+    },
+    {
+      "offset": 2034,
+      "value": "ddd"
+    },
+    {
+      "offset": 2090,
+      "value": "XXX"
+    },
+    {
+      "offset": 2111,
+      "value": "UUU"
+    },
+    {
+      "offset": 2132,
+      "value": "QQQ"
+    },
+    {
+      "offset": 2146,
+      "value": "MMM"
+    },
+    {
+      "offset": 2167,
+      "value": "JJJ"
+    },
+    {
+      "offset": 2181,
+      "value": "FFF"
+    },
+    {
+      "offset": 2202,
+      "value": "BBB"
+    },
+    {
+      "offset": 2264,
+      "value": "v333"
+    },
+    {
+      "offset": 2278,
+      "value": "l000"
+    },
+    {
+      "offset": 6540,
+      "value": "gffA"
+    },
+    {
+      "offset": 6756,
+      "value": "gfNA"
+    },
+    {
+      "offset": 6780,
+      "value": "gfrA"
+    },
+    {
+      "offset": 9804,
+      "value": "gffB"
+    },
+    {
+      "offset": 11509,
+      "value": "LAC"
+    },
+    {
+      "offset": 11941,
+      "value": "sLC"
+    },
+    {
+      "offset": 12252,
+      "value": "gfMC33CA"
+    },
+    {
+      "offset": 12278,
+      "value": "MCgfnA"
+    },
+    {
+      "offset": 12349,
+      "value": "sLC"
+    },
+    {
+      "offset": 12614,
+      "value": "FCgfQB"
+    },
+    {
+      "offset": 12662,
+      "value": "ECgffB"
+    },
+    {
+      "offset": 12781,
+      "value": "LAC"
+    },
+    {
+      "offset": 22239,
+      "value": "AgfVA"
+    },
+    {
+      "offset": 23505,
+      "value": "Pr@"
+    },
+    {
+      "offset": 23608,
+      "value": "gfbA"
+    },
+    {
+      "offset": 24921,
+      "value": "Pr@"
+    },
+    {
+      "offset": 27160,
+      "value": "gfvA"
+    },
+    {
+      "offset": 27304,
+      "value": "gfjA"
+    },
+    {
+      "offset": 27465,
+      "value": "PI@"
+    },
+    {
+      "offset": 27640,
+      "value": "gfNA"
+    },
+    {
+      "offset": 27952,
+      "value": "gf2A"
+    },
+    {
+      "offset": 28642,
+      "value": "z@gfV@"
+    },
+    {
+      "offset": 29580,
+      "value": "gff@"
+    },
+    {
+      "offset": 30617,
+      "value": "L8C"
+    },
+    {
+      "offset": 40005,
+      "value": "xGA"
+    },
+    {
+      "offset": 41560,
+      "value": "gfRA"
+    },
+    {
+      "offset": 41870,
+      "value": "uBgfyB"
+    },
+    {
+      "offset": 48204,
+      "value": "gfoB"
+    },
+    {
+      "offset": 49581,
+      "value": "d7A"
+    },
+    {
+      "offset": 49941,
+      "value": "dVA"
+    },
+    {
+      "offset": 50301,
+      "value": "duA"
+    },
+    {
+      "offset": 56895,
+      "value": "AgfJA"
+    },
+    {
+      "offset": 57374,
+      "value": "MAgfBA"
+    },
+    {
+      "offset": 57780,
+      "value": "gfRA"
+    },
+    {
+      "offset": 58647,
+      "value": "AgfBA"
+    },
+    {
+      "offset": 58719,
+      "value": "A33CA"
+    },
+    {
+      "offset": 59079,
+      "value": "A33KA"
+    },
+    {
+      "offset": 59151,
+      "value": "A33KA"
+    },
+    {
+      "offset": 59295,
+      "value": "A33OA"
+    },
+    {
+      "offset": 59463,
+      "value": "AgfRA"
+    },
+    {
+      "offset": 59607,
+      "value": "B33WA"
+    },
+    {
+      "offset": 59655,
+      "value": "B33WA"
+    },
+    {
+      "offset": 59871,
+      "value": "BgfZA"
+    },
+    {
+      "offset": 59919,
+      "value": "BgfZA"
+    },
+    {
+      "offset": 59991,
+      "value": "BgfZA"
+    },
+    {
+      "offset": 60039,
+      "value": "B33WA"
+    },
+    {
+      "offset": 60063,
+      "value": "BgfVA"
+    },
+    {
+      "offset": 60111,
+      "value": "B33SA"
+    },
+    {
+      "offset": 60183,
+      "value": "BgfJA"
+    },
+    {
+      "offset": 65368,
+      "value": "gfdB"
+    },
+    {
+      "offset": 65493,
+      "value": "p+@"
+    },
+    {
+      "offset": 69045,
+      "value": "pmA"
+    },
+    {
+      "offset": 70029,
+      "value": "t7A"
+    },
+    {
+      "offset": 70341,
+      "value": "DtA"
+    },
+    {
+      "offset": 70764,
+      "value": "gfZA"
+    },
+    {
+      "offset": 70983,
+      "value": "C33TC"
+    },
+    {
+      "offset": 71967,
+      "value": "AgfnA"
+    },
+    {
+      "offset": 73284,
+      "value": "gfjB"
+    },
+    {
+      "offset": 73572,
+      "value": "gfSB"
+    },
+    {
+      "offset": 75636,
+      "value": "gf:A"
+    },
+    {
+      "offset": 82167,
+      "value": "AgfzA"
+    },
+    {
+      "offset": 85504,
+      "value": "gf.A"
+    },
+    {
+      "offset": 87357,
+      "value": "h.A"
+    },
+    {
+      "offset": 94535,
+      "value": "n33SA"
+    },
+    {
+      "offset": 94583,
+      "value": "r33SA"
+    },
+    {
+      "offset": 97281,
+      "value": "FIN"
+    },
+    {
+      "offset": 97291,
+      "value": "BY3IN"
+    },
+    {
+      "offset": 97305,
+      "value": "FkN"
+    },
+    {
+      "offset": 97315,
+      "value": "BY3kN"
+    },
+    {
+      "offset": 104145,
+      "value": "rN3"
+    },
+    {
+      "offset": 104169,
+      "value": "wN3"
+    },
+    {
+      "offset": 106136,
+      "value": "jV1l"
+    },
+    {
+      "offset": 106147,
+      "value": "AjVrp"
+    },
+    {
+      "offset": 109309,
+      "value": "L.D"
+    },
+    {
+      "offset": 110000,
+      "value": "aCQn"
+    },
+    {
+      "offset": 110025,
+      "value": "KQn"
+    },
+    {
+      "offset": 112559,
+      "value": "v3ssC"
+    },
+    {
+      "offset": 114453,
+      "value": "xs/"
+    },
+    {
+      "offset": 176312,
+      "value": "star"
+    },
+    {
+      "offset": 176324,
+      "value": "TID_LEVEL_UP"
+    },
+    {
+      "offset": 176344,
+      "value": "house_part_animation"
+    },
+    {
+      "offset": 176372,
+      "value": "house_part"
+    },
+    {
+      "offset": 176388,
+      "value": "maintenance_timer"
+    },
+    {
+      "offset": 176412,
+      "value": "add_diamonds_button"
+    },
+    {
+      "offset": 176436,
+      "value": "diamond_bar"
+    },
+    {
+      "offset": 176452,
+      "value": "timeLeft"
+    },
+    {
+      "offset": 176468,
+      "value": "player_profile_info"
+    },
+    {
+      "offset": 176492,
+      "value": "cc_trophies"
+    },
+    {
+      "offset": 176508,
+      "value": "reputation"
+    },
+    {
+      "offset": 176524,
+      "value": "battle_log"
+    },
+    {
+      "offset": 176540,
+      "value": "league_icon"
+    },
+    {
+      "offset": 176556,
+      "value": "background"
+    },
+    {
+      "offset": 176572,
+      "value": "victory_points_bgr"
+    },
+    {
+      "offset": 176596,
+      "value": "inbox_challenge"
+    },
+    {
+      "offset": 176616,
+      "value": "inbox_idle"
+    },
+    {
+      "offset": 176632,
+      "value": "invitations_full"
+    },
+    {
+      "offset": 176656,
+      "value": "bubble"
+    },
+    {
+      "offset": 176668,
+      "value": "TID_INVITATIONS_FULL"
+    },
+    {
+      "offset": 176696,
+      "value": "Name"
+    },
+    {
+      "offset": 176708,
+      "value": "button_battle_pass"
+    },
+    {
+      "offset": 176732,
+      "value": "train_craft"
+    },
+    {
+      "offset": 176748,
+      "value": "button_cc_map"
+    },
+    {
+      "offset": 176768,
+      "value": "silver"
+    },
+    {
+      "offset": 176780,
+      "value": "discount_bubble"
+    },
+    {
+      "offset": 176800,
+      "value": "discount_text"
+    },
+    {
+      "offset": 176820,
+      "value": "train_notice"
+    },
+    {
+      "offset": 176840,
+      "value": "friends"
+    },
+    {
+      "offset": 176852,
+      "value": "TID_BUTTON_CAPITAL_MAP"
+    },
+    {
+      "offset": 176880,
+      "value": "button_shop"
+    },
+    {
+      "offset": 176896,
+      "value": "boombox"
+    },
+    {
+      "offset": 176908,
+      "value": "button_edit"
+    },
+    {
+      "offset": 176924,
+      "value": "button_settings"
+    },
+    {
+      "offset": 176944,
+      "value": "locked"
+    },
+    {
+      "offset": 176956,
+      "value": "worker"
+    },
+    {
+      "offset": 176968,
+      "value": "worker_button"
+    },
+    {
+      "offset": 176988,
+      "value": "button_customize"
+    },
+    {
+      "offset": 177012,
+      "value": "button_okay"
+    },
+    {
+      "offset": 177028,
+      "value": "building_info_part"
+    },
+    {
+      "offset": 177052,
+      "value": "ruin_info_part"
+    },
+    {
+      "offset": 177072,
+      "value": "warning"
+    },
+    {
+      "offset": 177084,
+      "value": "troop_icon"
+    },
+    {
+      "offset": 177100,
+      "value": "troop_text"
+    },
+    {
+      "offset": 177116,
+      "value": "district_upgrade_area"
+    },
+    {
+      "offset": 177144,
+      "value": "info_field_area"
+    },
+    {
+      "offset": 177164,
+      "value": "district_upgrade_text"
+    },
+    {
+      "offset": 177192,
+      "value": "info_text_when_no_fields"
+    },
+    {
+      "offset": 177224,
+      "value": "unlock_text"
+    },
+    {
+      "offset": 177240,
+      "value": "info_text"
+    },
+    {
+      "offset": 177256,
+      "value": "cc_bar_fill"
+    },
+    {
+      "offset": 177272,
+      "value": "info"
+    },
+    {
+      "offset": 177284,
+      "value": "troop_icon_area"
+    },
+    {
+      "offset": 177304,
+      "value": "bonus_attack_earned"
+    },
+    {
+      "offset": 177328,
+      "value": "star3"
+    },
+    {
+      "offset": 177340,
+      "value": "star2"
+    },
+    {
+      "offset": 177352,
+      "value": "star1"
+    },
+    {
+      "offset": 177364,
+      "value": "damage_bar_green"
+    },
+    {
+      "offset": 177388,
+      "value": "damage_bar"
+    },
+    {
+      "offset": 177404,
+      "value": "loot_cc_resource"
+    },
+    {
+      "offset": 177428,
+      "value": "TID_WHAT_YOU_GOT"
+    },
+    {
+      "offset": 177452,
+      "value": "TID_TOTAL_DAMAGE"
+    },
+    {
+      "offset": 177476,
+      "value": "damage"
+    },
+    {
+      "offset": 177488,
+      "value": "troop_area"
+    },
+    {
+      "offset": 177504,
+      "value": "TID_TROOPS_USED"
+    },
+    {
+      "offset": 177524,
+      "value": "buttons"
+    },
+    {
+      "offset": 177536,
+      "value": "grass"
+    },
+    {
+      "offset": 177556,
+      "value": "glow_part"
+    },
+    {
+      "offset": 177572,
+      "value": "percent_bubble"
+    },
+    {
+      "offset": 177592,
+      "value": "percent"
+    },
+    {
+      "offset": 177604,
+      "value": "amount_league_bonus"
+    },
+    {
+      "offset": 177628,
+      "value": "one_button"
+    },
+    {
+      "offset": 177644,
+      "value": "two_buttons"
+    },
+    {
+      "offset": 177660,
+      "value": "home_button"
+    },
+    {
+      "offset": 177676,
+      "value": "try_again_button"
+    },
+    {
+      "offset": 177700,
+      "value": "map_button"
+    },
+    {
+      "offset": 177716,
+      "value": "TID_BUTTON_TRY_AGAIN"
+    },
+    {
+      "offset": 177744,
+      "value": "next_button"
+    },
+    {
+      "offset": 177760,
+      "value": "TID_HUD_DEFENDER"
+    },
+    {
+      "offset": 177784,
+      "value": "player_name"
+    },
+    {
+      "offset": 177800,
+      "value": "TID_LOOT_GAINED"
+    },
+    {
+      "offset": 177820,
+      "value": "TID_HUD_ATTACKER"
+    },
+    {
+      "offset": 177844,
+      "value": "spectators"
+    },
+    {
+      "offset": 177860,
+      "value": "clan_badge"
+    },
+    {
+      "offset": 177876,
+      "value": "TID_AVAILABLE_LOOT"
+    },
+    {
+      "offset": 177900,
+      "value": "district_name"
+    },
+    {
+      "offset": 177920,
+      "value": "clan_name"
+    },
+    {
+      "offset": 177936,
+      "value": "capital_gold"
+    },
+    {
+      "offset": 177956,
+      "value": "TID_UI_TOP_VIEWERS_TITLE"
+    },
+    {
+      "offset": 177988,
+      "value": "icon_viewers"
+    },
+    {
+      "offset": 178008,
+      "value": "viewers"
+    },
+    {
+      "offset": 178020,
+      "value": "raid_info"
+    },
+    {
+      "offset": 178036,
+      "value": "cc_bar_resources"
+    },
+    {
+      "offset": 178060,
+      "value": "cc_bar_reward"
+    },
+    {
+      "offset": 178080,
+      "value": "max_amount"
+    },
+    {
+      "offset": 178096,
+      "value": "icon_prioritize"
+    },
+    {
+      "offset": 178116,
+      "value": "player_name_donated"
+    },
+    {
+      "offset": 178140,
+      "value": "cancel_icon"
+    },
+    {
+      "offset": 178156,
+      "value": "player_donated_content"
+    },
+    {
+      "offset": 178184,
+      "value": "player_name_prioritized"
+    },
+    {
+      "offset": 178212,
+      "value": "button_save"
+    },
+    {
+      "offset": 178228,
+      "value": "info_video"
+    },
+    {
+      "offset": 178244,
+      "value": "scroll_area"
+    },
+    {
+      "offset": 178260,
+      "value": "tab_04"
+    },
+    {
+      "offset": 178272,
+      "value": "tab_03"
+    },
+    {
+      "offset": 178284,
+      "value": "tab_02"
+    },
+    {
+      "offset": 178296,
+      "value": "tab_01"
+    },
+    {
+      "offset": 178308,
+      "value": "video_field"
+    },
+    {
+      "offset": 178324,
+      "value": "deselected"
+    },
+    {
+      "offset": 178340,
+      "value": "selected"
+    },
+    {
+      "offset": 178356,
+      "value": "category"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000bfe426bc476206acfcd8a6a26fdf0bef2d56c3bd1c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "04ca02001800000000001200180004000000000008000c0010001400120000008cab0200b4a9020090c70100e867010004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

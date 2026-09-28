@@ -1,0 +1,187 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_zappies.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_zappies.sc",
+  "sha256_container": "15707899735e64f28c428e444712486331d2039fca8acfbe1f91a45170a2a884",
+  "sha256_descriptor": "e69900409180a74189e9ddf5347eb3430427751a53f65f6e5efa69620fb427bc",
+  "sha256_decoded_payload": "460620c3cc60331e35928c33afdc8e6699fce6fb1b8c23a5f8a44614c9a148b1",
+  "version": 6,
+  "descriptor_bytes": 636,
+  "compressed_frame_bytes": 2497,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 13864,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 25
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 18
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 8820
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 3864
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 2504
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 148,
+      "value": "zappie_blue_run1_3"
+    },
+    {
+      "offset": 204,
+      "value": "zappie_blue_run1_2"
+    },
+    {
+      "offset": 260,
+      "value": "zappie_blue_run1_1"
+    },
+    {
+      "offset": 316,
+      "value": "zappie_blue_idle1_3"
+    },
+    {
+      "offset": 372,
+      "value": "zappie_blue_idle1_2"
+    },
+    {
+      "offset": 428,
+      "value": "zappie_blue_idle1_1"
+    },
+    {
+      "offset": 484,
+      "value": "zappie_blue_attack1_3"
+    },
+    {
+      "offset": 544,
+      "value": "zappie_blue_attack1_2"
+    },
+    {
+      "offset": 612,
+      "value": "zappie_blue_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "zappie_blue_run1_3",
+    "zappie_blue_run1_2",
+    "zappie_blue_run1_1",
+    "zappie_blue_idle1_3",
+    "zappie_blue_idle1_2",
+    "zappie_blue_idle1_1",
+    "zappie_blue_attack1_3",
+    "zappie_blue_attack1_2",
+    "zappie_blue_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 807,
+      "value": "vffJA"
+    },
+    {
+      "offset": 1119,
+      "value": "C33"
+    },
+    {
+      "offset": 1720,
+      "value": "ffOB"
+    },
+    {
+      "offset": 8520,
+      "value": "action_frame2"
+    },
+    {
+      "offset": 8540,
+      "value": "action_frame1"
+    },
+    {
+      "offset": 8560,
+      "value": "load_weapon"
+    },
+    {
+      "offset": 8576,
+      "value": "load1"
+    },
+    {
+      "offset": 8588,
+      "value": "zappie_blue_run1_1"
+    },
+    {
+      "offset": 8612,
+      "value": "zappie_blue_idle1_3"
+    },
+    {
+      "offset": 8636,
+      "value": "zappie_blue_run1_2"
+    },
+    {
+      "offset": 8660,
+      "value": "zappie_blue_attack1_3"
+    },
+    {
+      "offset": 8688,
+      "value": "zappie_blue_run1_3"
+    },
+    {
+      "offset": 8712,
+      "value": "zappie_blue_idle1_2"
+    },
+    {
+      "offset": 8736,
+      "value": "zappie_blue_attack1_2"
+    },
+    {
+      "offset": 8764,
+      "value": "zappie_blue_idle1_1"
+    },
+    {
+      "offset": 8788,
+      "value": "zappie_blue_attack1_1"
+    },
+    {
+      "offset": 13844,
+      "value": "chr_zappies_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c000000010000000100000019000000120000000100000074220000180f0000",
+  "decoded_preview_hex": "7022000018000000000012001400040000000000000008000c00100012000000e8200000ac0900008402000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

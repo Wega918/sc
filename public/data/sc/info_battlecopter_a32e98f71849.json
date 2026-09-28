@@ -1,0 +1,326 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_battlecopter.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_battlecopter.sc",
+  "sha256_container": "a32e98f71849ccff9cf9cbd4cf0420fe9365d7b8d0ea41afe293ec51fa90b3b4",
+  "sha256_descriptor": "a59fb03982aa67a3ae83fae692744f84d27fe9a8dbef1d1d38c2dc975cd79c2c",
+  "sha256_decoded_payload": "22b11c6456b65b564ddd75b176133e8cb25a89d164a3c490f23bb71dc708a858",
+  "version": 6,
+  "descriptor_bytes": 228,
+  "compressed_frame_bytes": 121255,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 253712,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 544
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 252600
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 121256
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "unit_battlecopter_big"
+    },
+    {
+      "offset": 196,
+      "value": "unit_battlecopter_ability_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_battlecopter_big",
+    "unit_battlecopter_ability_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 456,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 476,
+      "value": "unit_battlecopter_big"
+    },
+    {
+      "offset": 504,
+      "value": "unit_battlecopter_ability_big"
+    },
+    {
+      "offset": 3649,
+      "value": "CYH8"
+    },
+    {
+      "offset": 6684,
+      "value": "Z7l"
+    },
+    {
+      "offset": 18174,
+      "value": "DuO"
+    },
+    {
+      "offset": 18826,
+      "value": "NJI"
+    },
+    {
+      "offset": 36707,
+      "value": "ATL"
+    },
+    {
+      "offset": 38232,
+      "value": "EBF"
+    },
+    {
+      "offset": 39350,
+      "value": "zzT"
+    },
+    {
+      "offset": 42405,
+      "value": "pU3"
+    },
+    {
+      "offset": 53258,
+      "value": "e@J"
+    },
+    {
+      "offset": 55127,
+      "value": "fIE"
+    },
+    {
+      "offset": 55235,
+      "value": "LkEgw@"
+    },
+    {
+      "offset": 60326,
+      "value": "j@a"
+    },
+    {
+      "offset": 65857,
+      "value": "BWs"
+    },
+    {
+      "offset": 67354,
+      "value": "ip@"
+    },
+    {
+      "offset": 72810,
+      "value": "BIR"
+    },
+    {
+      "offset": 73906,
+      "value": "fcB"
+    },
+    {
+      "offset": 128941,
+      "value": "DODo"
+    },
+    {
+      "offset": 135505,
+      "value": "FS7"
+    },
+    {
+      "offset": 141347,
+      "value": "AM+"
+    },
+    {
+      "offset": 153489,
+      "value": "CYn"
+    },
+    {
+      "offset": 154472,
+      "value": "y9+"
+    },
+    {
+      "offset": 155652,
+      "value": "BnLf"
+    },
+    {
+      "offset": 162880,
+      "value": "ACYs"
+    },
+    {
+      "offset": 167000,
+      "value": "cTD"
+    },
+    {
+      "offset": 169174,
+      "value": "j5@"
+    },
+    {
+      "offset": 179423,
+      "value": "gb1E"
+    },
+    {
+      "offset": 180995,
+      "value": "RXD"
+    },
+    {
+      "offset": 182624,
+      "value": "riT"
+    },
+    {
+      "offset": 182722,
+      "value": "hcgQ"
+    },
+    {
+      "offset": 183707,
+      "value": "MUJB"
+    },
+    {
+      "offset": 187264,
+      "value": "oHk"
+    },
+    {
+      "offset": 191818,
+      "value": "Tp6C"
+    },
+    {
+      "offset": 194554,
+      "value": "p@C"
+    },
+    {
+      "offset": 195054,
+      "value": "KIo"
+    },
+    {
+      "offset": 195201,
+      "value": "CuL."
+    },
+    {
+      "offset": 199667,
+      "value": "AEP"
+    },
+    {
+      "offset": 201698,
+      "value": "ltpx"
+    },
+    {
+      "offset": 203868,
+      "value": "WtO2O"
+    },
+    {
+      "offset": 214556,
+      "value": "NPN"
+    },
+    {
+      "offset": 215396,
+      "value": "Nf:B"
+    },
+    {
+      "offset": 221790,
+      "value": "L8_"
+    },
+    {
+      "offset": 221854,
+      "value": "p3O"
+    },
+    {
+      "offset": 224277,
+      "value": "j46"
+    },
+    {
+      "offset": 225886,
+      "value": "L0O"
+    },
+    {
+      "offset": 226718,
+      "value": "Ce_"
+    },
+    {
+      "offset": 227697,
+      "value": "B3Jh"
+    },
+    {
+      "offset": 227713,
+      "value": "B9Rt"
+    },
+    {
+      "offset": 228158,
+      "value": "KI_"
+    },
+    {
+      "offset": 235818,
+      "value": "N/ "
+    },
+    {
+      "offset": 236567,
+      "value": "vxp@"
+    },
+    {
+      "offset": 236913,
+      "value": "CmF."
+    },
+    {
+      "offset": 236930,
+      "value": "fSa "
+    },
+    {
+      "offset": 241262,
+      "value": "wzO"
+    },
+    {
+      "offset": 242798,
+      "value": "N O"
+    },
+    {
+      "offset": 247875,
+      "value": "JPAT"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c003000040008000c0010001400180000001c002000240028002c001c00000001000000010000000200000002000000010000000400000003000000",
+  "decoded_preview_hex": "1c02000018000000000012001400040000000000000008000c00100012000000900100004c0100008400000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

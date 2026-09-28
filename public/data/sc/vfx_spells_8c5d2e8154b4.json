@@ -1,0 +1,657 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "vfx_spells.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\vfx_spells.sc",
+  "sha256_container": "8c5d2e8154b4bd762df73a2d056bc76d730527e391a0822521d4cd078c0ac907",
+  "sha256_descriptor": "51ebb7a99cd01ce580a95a17567fdf2f2b3dd5974541e199e4f75cc8e3b1bd8b",
+  "sha256_decoded_payload": "8ed999d48c32ef44284ad1bc79e6ea805af382884467aa8c76d934eff39d90f5",
+  "version": 6,
+  "descriptor_bytes": 3988,
+  "compressed_frame_bytes": 25470,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 81508,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 215
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 59
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 5
+    },
+    {
+      "field_index": 8,
+      "offset": 80,
+      "raw_u32": 56908
+    },
+    {
+      "field_index": 9,
+      "offset": 84,
+      "raw_u32": 14400
+    },
+    {
+      "field_index": 10,
+      "offset": 88,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 92,
+      "raw_u32": 25472
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 356,
+      "value": "vfx_spells_totem_shockwave"
+    },
+    {
+      "offset": 420,
+      "value": "vfx_spells_totem_ring"
+    },
+    {
+      "offset": 480,
+      "value": "vfx_spells_totem_explosion_smoke_01"
+    },
+    {
+      "offset": 552,
+      "value": "vfx_spells_tiny_totem_shockwave"
+    },
+    {
+      "offset": 620,
+      "value": "vfx_spells_tiny_totem_ring"
+    },
+    {
+      "offset": 684,
+      "value": "vfx_spells_tiny_totem_explosion_smoke"
+    },
+    {
+      "offset": 760,
+      "value": "vfx_spell_totem_rubble"
+    },
+    {
+      "offset": 820,
+      "value": "vfx_spell_totem_rock_02"
+    },
+    {
+      "offset": 880,
+      "value": "vfx_spell_totem_rock_01"
+    },
+    {
+      "offset": 940,
+      "value": "vfx_spell_totem_drop"
+    },
+    {
+      "offset": 1000,
+      "value": "vfx_spell_meteor_totem_spawn"
+    },
+    {
+      "offset": 1068,
+      "value": "vfx_spell_meteor_totem"
+    },
+    {
+      "offset": 1128,
+      "value": "vfx_spell_icegolem_freeze_Surface"
+    },
+    {
+      "offset": 1200,
+      "value": "vfx_spell_icegolem_freeze_CloudC"
+    },
+    {
+      "offset": 1272,
+      "value": "vfx_spell_icegolem_freeze_CloudB"
+    },
+    {
+      "offset": 1344,
+      "value": "vfx_spell_icegolem_freeze_CloudA"
+    },
+    {
+      "offset": 1416,
+      "value": "vfx_spell_icegolem_Freeze_SurfaceErode"
+    },
+    {
+      "offset": 1492,
+      "value": "vfx_spell_iceblock_debris02"
+    },
+    {
+      "offset": 1556,
+      "value": "vfx_spell_iceblock_Spawn"
+    },
+    {
+      "offset": 1620,
+      "value": "vfx_spell_iceblock_SnowSurface"
+    },
+    {
+      "offset": 1688,
+      "value": "vfx_spell_iceblock_SnowMelt"
+    },
+    {
+      "offset": 1752,
+      "value": "vfx_spell_iceblock_Shard"
+    },
+    {
+      "offset": 1816,
+      "value": "vfx_spell_iceblock_Glow"
+    },
+    {
+      "offset": 1876,
+      "value": "vfx_spell_iceblock_FloatingRock_EdgeWindB"
+    },
+    {
+      "offset": 1956,
+      "value": "vfx_spell_iceblock_FloatingRock_EdgeWindA"
+    },
+    {
+      "offset": 2036,
+      "value": "vfx_spell_iceblock_FloatingRockSpawn"
+    },
+    {
+      "offset": 2112,
+      "value": "vfx_spell_iceblock_FloatingRock"
+    },
+    {
+      "offset": 2180,
+      "value": "vfx_spell_iceblock_ExplodeMark"
+    },
+    {
+      "offset": 2248,
+      "value": "vfx_spell_iceblock_Despawn"
+    },
+    {
+      "offset": 2312,
+      "value": "vfx_spell_iceblock_CloudC"
+    },
+    {
+      "offset": 2376,
+      "value": "vfx_spell_iceblock_CloudB"
+    },
+    {
+      "offset": 2440,
+      "value": "vfx_spell_iceblock_CloudA"
+    },
+    {
+      "offset": 2504,
+      "value": "vfx_spell_freeze_SurfaceShrink"
+    },
+    {
+      "offset": 2572,
+      "value": "vfx_spell_freeze_SurfaceErode"
+    },
+    {
+      "offset": 2640,
+      "value": "vfx_spell_freeze_GlowGround"
+    },
+    {
+      "offset": 2704,
+      "value": "vfx_spell_brainwash_drop"
+    },
+    {
+      "offset": 2768,
+      "value": "vfx_spell_IceBlock_StaticSurface"
+    },
+    {
+      "offset": 2840,
+      "value": "vfx_brainwashspell_splat_centre"
+    },
+    {
+      "offset": 2908,
+      "value": "vfx_brainwashspell_splash"
+    },
+    {
+      "offset": 2972,
+      "value": "vfx_brainwashspell_spat_growth"
+    },
+    {
+      "offset": 3040,
+      "value": "vfx_brainwashspell_spat_grown_01"
+    },
+    {
+      "offset": 3112,
+      "value": "vfx_brainwashspell_ringdistort_02"
+    },
+    {
+      "offset": 3184,
+      "value": "vfx_brainwashspell_ringdistort_01"
+    },
+    {
+      "offset": 3256,
+      "value": "vfx_brainwashspell_fresnel"
+    },
+    {
+      "offset": 3320,
+      "value": "vfx_brainwashspell_flash"
+    },
+    {
+      "offset": 3384,
+      "value": "vfx_brainwashspell_bubblepop"
+    },
+    {
+      "offset": 3452,
+      "value": "vfx_brainwashspell_bubble_03"
+    },
+    {
+      "offset": 3520,
+      "value": "vfx_brainwashspell_bubble_02"
+    },
+    {
+      "offset": 3588,
+      "value": "vfx_brainwashspell_bubble"
+    },
+    {
+      "offset": 3652,
+      "value": "fx_spell_Freeze_Surface"
+    },
+    {
+      "offset": 3712,
+      "value": "fx_spell_Freeze_Splinter"
+    },
+    {
+      "offset": 3776,
+      "value": "fx_spell_Freeze_Smoke"
+    },
+    {
+      "offset": 3836,
+      "value": "fx_spell_Freeze_Shard"
+    },
+    {
+      "offset": 3896,
+      "value": "fx_spell_Freeze_Radius"
+    },
+    {
+      "offset": 3964,
+      "value": "fx_spell_Freeze_Cloud"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "vfx_spells_totem_shockwave",
+    "vfx_spells_totem_ring",
+    "vfx_spells_totem_explosion_smoke_01",
+    "vfx_spells_tiny_totem_shockwave",
+    "vfx_spells_tiny_totem_ring",
+    "vfx_spells_tiny_totem_explosion_smoke",
+    "vfx_spell_totem_rubble",
+    "vfx_spell_totem_rock_02",
+    "vfx_spell_totem_rock_01",
+    "vfx_spell_totem_drop",
+    "vfx_spell_meteor_totem_spawn",
+    "vfx_spell_meteor_totem",
+    "vfx_spell_icegolem_freeze_Surface",
+    "vfx_spell_icegolem_freeze_CloudC",
+    "vfx_spell_icegolem_freeze_CloudB",
+    "vfx_spell_icegolem_freeze_CloudA",
+    "vfx_spell_icegolem_Freeze_SurfaceErode",
+    "vfx_spell_iceblock_debris02",
+    "vfx_spell_iceblock_Spawn",
+    "vfx_spell_iceblock_SnowSurface",
+    "vfx_spell_iceblock_SnowMelt",
+    "vfx_spell_iceblock_Shard",
+    "vfx_spell_iceblock_Glow",
+    "vfx_spell_iceblock_FloatingRock_EdgeWindB",
+    "vfx_spell_iceblock_FloatingRock_EdgeWindA",
+    "vfx_spell_iceblock_FloatingRockSpawn",
+    "vfx_spell_iceblock_FloatingRock",
+    "vfx_spell_iceblock_ExplodeMark",
+    "vfx_spell_iceblock_Despawn",
+    "vfx_spell_iceblock_CloudC",
+    "vfx_spell_iceblock_CloudB",
+    "vfx_spell_iceblock_CloudA",
+    "vfx_spell_freeze_SurfaceShrink",
+    "vfx_spell_freeze_SurfaceErode",
+    "vfx_spell_freeze_GlowGround",
+    "vfx_spell_brainwash_drop",
+    "vfx_spell_IceBlock_StaticSurface",
+    "vfx_brainwashspell_splat_centre",
+    "vfx_brainwashspell_splash",
+    "vfx_brainwashspell_spat_growth",
+    "vfx_brainwashspell_spat_grown_01",
+    "vfx_brainwashspell_ringdistort_02",
+    "vfx_brainwashspell_ringdistort_01",
+    "vfx_brainwashspell_fresnel",
+    "vfx_brainwashspell_flash",
+    "vfx_brainwashspell_bubblepop",
+    "vfx_brainwashspell_bubble_03",
+    "vfx_brainwashspell_bubble_02",
+    "vfx_brainwashspell_bubble",
+    "fx_spell_Freeze_Surface",
+    "fx_spell_Freeze_Splinter",
+    "fx_spell_Freeze_Smoke",
+    "fx_spell_Freeze_Shard",
+    "fx_spell_Freeze_Radius",
+    "fx_spell_Freeze_Cloud"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 7036,
+      "value": "gfzA"
+    },
+    {
+      "offset": 12256,
+      "value": "ffKB"
+    },
+    {
+      "offset": 15100,
+      "value": "ff1B"
+    },
+    {
+      "offset": 19720,
+      "value": "ffFB"
+    },
+    {
+      "offset": 19744,
+      "value": "ffFB"
+    },
+    {
+      "offset": 22876,
+      "value": "ffpB"
+    },
+    {
+      "offset": 23116,
+      "value": "ffVB"
+    },
+    {
+      "offset": 25575,
+      "value": "Off"
+    },
+    {
+      "offset": 27301,
+      "value": "I q"
+    },
+    {
+      "offset": 28889,
+      "value": "Y0C"
+    },
+    {
+      "offset": 29965,
+      "value": "Lf@"
+    },
+    {
+      "offset": 30313,
+      "value": "e3/"
+    },
+    {
+      "offset": 31300,
+      "value": "ffRA"
+    },
+    {
+      "offset": 31600,
+      "value": "ffWB"
+    },
+    {
+      "offset": 32716,
+      "value": "ffnA"
+    },
+    {
+      "offset": 35080,
+      "value": "ffnC"
+    },
+    {
+      "offset": 35315,
+      "value": "CWn"
+    },
+    {
+      "offset": 55004,
+      "value": "vfx_spell_iceblock_FloatingRock_EdgeWindA"
+    },
+    {
+      "offset": 55052,
+      "value": "vfx_brainwashspell_bubble"
+    },
+    {
+      "offset": 55084,
+      "value": "vfx_spell_iceblock_Spawn"
+    },
+    {
+      "offset": 55116,
+      "value": "vfx_spell_brainwash_drop"
+    },
+    {
+      "offset": 55148,
+      "value": "vfx_spell_iceblock_SnowSurface"
+    },
+    {
+      "offset": 55184,
+      "value": "vfx_spell_iceblock_ExplodeMark"
+    },
+    {
+      "offset": 55220,
+      "value": "vfx_spells_totem_ring"
+    },
+    {
+      "offset": 55248,
+      "value": "vfx_spell_iceblock_Shard"
+    },
+    {
+      "offset": 55280,
+      "value": "vfx_spell_iceblock_Glow"
+    },
+    {
+      "offset": 55308,
+      "value": "vfx_spell_iceblock_CloudC"
+    },
+    {
+      "offset": 55340,
+      "value": "vfx_spell_totem_drop"
+    },
+    {
+      "offset": 55368,
+      "value": "vfx_spell_iceblock_SnowMelt"
+    },
+    {
+      "offset": 55400,
+      "value": "vfx_spell_iceblock_CloudB"
+    },
+    {
+      "offset": 55432,
+      "value": "vfx_brainwashspell_fresnel"
+    },
+    {
+      "offset": 55464,
+      "value": "vfx_spell_totem_rubble"
+    },
+    {
+      "offset": 55492,
+      "value": "vfx_spells_totem_explosion_smoke_01"
+    },
+    {
+      "offset": 55532,
+      "value": "fx_spell_Freeze_Surface"
+    },
+    {
+      "offset": 55560,
+      "value": "vfx_spell_iceblock_FloatingRock"
+    },
+    {
+      "offset": 55596,
+      "value": "fx_spell_Freeze_Radius"
+    },
+    {
+      "offset": 55624,
+      "value": "vfx_spell_iceblock_debris02"
+    },
+    {
+      "offset": 55656,
+      "value": "fx_spell_Freeze_Shard"
+    },
+    {
+      "offset": 55684,
+      "value": "vfx_spell_iceblock_CloudA"
+    },
+    {
+      "offset": 55716,
+      "value": "vfx_spell_iceblock_FloatingRock_EdgeWindB"
+    },
+    {
+      "offset": 55764,
+      "value": "vfx_brainwashspell_splat_centre"
+    },
+    {
+      "offset": 55800,
+      "value": "vfx_spell_icegolem_Freeze_SurfaceErode"
+    },
+    {
+      "offset": 55844,
+      "value": "vfx_spell_meteor_totem_spawn"
+    },
+    {
+      "offset": 55880,
+      "value": "vfx_spell_freeze_SurfaceShrink"
+    },
+    {
+      "offset": 55916,
+      "value": "fx_spell_Freeze_Cloud"
+    },
+    {
+      "offset": 55944,
+      "value": "vfx_spell_iceblock_Despawn"
+    },
+    {
+      "offset": 55976,
+      "value": "fx_spell_Freeze_Splinter"
+    },
+    {
+      "offset": 56008,
+      "value": "vfx_brainwashspell_ringdistort_02"
+    },
+    {
+      "offset": 56048,
+      "value": "vfx_spell_freeze_SurfaceErode"
+    },
+    {
+      "offset": 56084,
+      "value": "vfx_spell_icegolem_freeze_Surface"
+    },
+    {
+      "offset": 56124,
+      "value": "vfx_spell_iceblock_FloatingRockSpawn"
+    },
+    {
+      "offset": 56168,
+      "value": "vfx_brainwashspell_bubblepop"
+    },
+    {
+      "offset": 56204,
+      "value": "vfx_spell_IceBlock_StaticSurface"
+    },
+    {
+      "offset": 56244,
+      "value": "fx_spell_Freeze_Smoke"
+    },
+    {
+      "offset": 56272,
+      "value": "vfx_spells_totem_shockwave"
+    },
+    {
+      "offset": 56304,
+      "value": "vfx_spell_icegolem_freeze_CloudB"
+    },
+    {
+      "offset": 56344,
+      "value": "vfx_brainwashspell_spat_growth"
+    },
+    {
+      "offset": 56380,
+      "value": "vfx_spell_icegolem_freeze_CloudA"
+    },
+    {
+      "offset": 56420,
+      "value": "vfx_spell_icegolem_freeze_CloudC"
+    },
+    {
+      "offset": 56460,
+      "value": "vfx_spell_totem_rock_01"
+    },
+    {
+      "offset": 56488,
+      "value": "vfx_spell_freeze_GlowGround"
+    },
+    {
+      "offset": 56520,
+      "value": "vfx_spell_meteor_totem"
+    },
+    {
+      "offset": 56548,
+      "value": "vfx_brainwashspell_bubble_03"
+    },
+    {
+      "offset": 56584,
+      "value": "vfx_brainwashspell_bubble_02"
+    },
+    {
+      "offset": 56620,
+      "value": "vfx_brainwashspell_splash"
+    },
+    {
+      "offset": 56652,
+      "value": "vfx_brainwashspell_spat_grown_01"
+    },
+    {
+      "offset": 56692,
+      "value": "vfx_brainwashspell_flash"
+    },
+    {
+      "offset": 56724,
+      "value": "vfx_brainwashspell_ringdistort_01"
+    },
+    {
+      "offset": 56764,
+      "value": "vfx_spell_totem_rock_02"
+    },
+    {
+      "offset": 56792,
+      "value": "vfx_spells_tiny_totem_explosion_smoke"
+    },
+    {
+      "offset": 56836,
+      "value": "vfx_spells_tiny_totem_ring"
+    },
+    {
+      "offset": 56868,
+      "value": "vfx_spells_tiny_totem_shockwave"
+    },
+    {
+      "offset": 81288,
+      "value": "vfx_spells_4.sctx"
+    },
+    {
+      "offset": 81332,
+      "value": "vfx_spells_3.sctx"
+    },
+    {
+      "offset": 81376,
+      "value": "vfx_spells_2.sctx"
+    },
+    {
+      "offset": 81420,
+      "value": "vfx_spells_1.sctx"
+    },
+    {
+      "offset": 81488,
+      "value": "vfx_spells_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000f75ef6f932e3f6dfa9c528269dc84ea07f8fc80e1c002800040008000c001000140000000000000018001c00200024001c00000001000000",
+  "decoded_preview_hex": "48de000018000000000012001400040000000000000008000c00100012000000d4d50000b08c0000842c000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

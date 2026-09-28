@@ -1,0 +1,306 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_goblin_builder.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_goblin_builder.sc",
+  "sha256_container": "eabfab4ad639e21feb4eb67c76a1566511c257cb488a930bf967681f0964c3f6",
+  "sha256_descriptor": "8b334ef45190a557b880c15f6360fa3f72e997ab0bfbcff4564da3b4e5fdd3df",
+  "sha256_decoded_payload": "a92bd54bdd21b015c5467586648827b65b3652c55ad2876a62ee75a4f4808e8a",
+  "version": 6,
+  "descriptor_bytes": 1036,
+  "compressed_frame_bytes": 20584,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 90828,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 119
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 18
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 74324
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 11380
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 20584
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 180,
+      "value": "spark_2"
+    },
+    {
+      "offset": 224,
+      "value": "goblin_hustler_idle"
+    },
+    {
+      "offset": 280,
+      "value": "goblin_builder_heroUpgrade1"
+    },
+    {
+      "offset": 344,
+      "value": "builder_goblin_walk1_3"
+    },
+    {
+      "offset": 404,
+      "value": "builder_goblin_walk1_2"
+    },
+    {
+      "offset": 464,
+      "value": "builder_goblin_walk1_1"
+    },
+    {
+      "offset": 524,
+      "value": "builder_goblin_idle1_3"
+    },
+    {
+      "offset": 584,
+      "value": "builder_goblin_idle1_2"
+    },
+    {
+      "offset": 644,
+      "value": "builder_goblin_idle1_1"
+    },
+    {
+      "offset": 704,
+      "value": "builder_goblin_build2_3"
+    },
+    {
+      "offset": 764,
+      "value": "builder_goblin_build2_2"
+    },
+    {
+      "offset": 824,
+      "value": "builder_goblin_build2_1"
+    },
+    {
+      "offset": 884,
+      "value": "builder_goblin_build1_3"
+    },
+    {
+      "offset": 944,
+      "value": "builder_goblin_build1_2"
+    },
+    {
+      "offset": 1012,
+      "value": "builder_goblin_build1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "spark_2",
+    "goblin_hustler_idle",
+    "goblin_builder_heroUpgrade1",
+    "builder_goblin_walk1_3",
+    "builder_goblin_walk1_2",
+    "builder_goblin_walk1_1",
+    "builder_goblin_idle1_3",
+    "builder_goblin_idle1_2",
+    "builder_goblin_idle1_1",
+    "builder_goblin_build2_3",
+    "builder_goblin_build2_2",
+    "builder_goblin_build2_1",
+    "builder_goblin_build1_3",
+    "builder_goblin_build1_2",
+    "builder_goblin_build1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2720,
+      "value": "ffbA"
+    },
+    {
+      "offset": 6011,
+      "value": "A33"
+    },
+    {
+      "offset": 6944,
+      "value": "fff@"
+    },
+    {
+      "offset": 11363,
+      "value": "A33"
+    },
+    {
+      "offset": 13856,
+      "value": "ff:A"
+    },
+    {
+      "offset": 18848,
+      "value": "ffvA"
+    },
+    {
+      "offset": 22572,
+      "value": "ffjA"
+    },
+    {
+      "offset": 22889,
+      "value": "pF@"
+    },
+    {
+      "offset": 23699,
+      "value": "A333@"
+    },
+    {
+      "offset": 25115,
+      "value": "B33S@"
+    },
+    {
+      "offset": 25476,
+      "value": "ffzA"
+    },
+    {
+      "offset": 31865,
+      "value": "SOZ"
+    },
+    {
+      "offset": 31889,
+      "value": "KwP"
+    },
+    {
+      "offset": 32165,
+      "value": "Xub"
+    },
+    {
+      "offset": 32177,
+      "value": "Uyu"
+    },
+    {
+      "offset": 33124,
+      "value": "VYmN"
+    },
+    {
+      "offset": 33185,
+      "value": "He:"
+    },
+    {
+      "offset": 33820,
+      "value": "jrUI"
+    },
+    {
+      "offset": 73860,
+      "value": "bubble"
+    },
+    {
+      "offset": 73872,
+      "value": "Icon"
+    },
+    {
+      "offset": 73884,
+      "value": "shadow"
+    },
+    {
+      "offset": 73896,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 73916,
+      "value": "goblin_hustler_idle"
+    },
+    {
+      "offset": 73940,
+      "value": "builder_goblin_build1_2"
+    },
+    {
+      "offset": 73968,
+      "value": "builder_goblin_walk1_3"
+    },
+    {
+      "offset": 73996,
+      "value": "builder_goblin_walk1_2"
+    },
+    {
+      "offset": 74024,
+      "value": "spark_2"
+    },
+    {
+      "offset": 74036,
+      "value": "builder_goblin_build2_3"
+    },
+    {
+      "offset": 74064,
+      "value": "builder_goblin_build1_1"
+    },
+    {
+      "offset": 74092,
+      "value": "goblin_builder_heroUpgrade1"
+    },
+    {
+      "offset": 74124,
+      "value": "builder_goblin_build2_2"
+    },
+    {
+      "offset": 74152,
+      "value": "builder_goblin_build2_1"
+    },
+    {
+      "offset": 74180,
+      "value": "builder_goblin_walk1_1"
+    },
+    {
+      "offset": 74208,
+      "value": "builder_goblin_build1_3"
+    },
+    {
+      "offset": 74236,
+      "value": "builder_goblin_idle1_3"
+    },
+    {
+      "offset": 74264,
+      "value": "builder_goblin_idle1_1"
+    },
+    {
+      "offset": 74292,
+      "value": "builder_goblin_idle1_2"
+    },
+    {
+      "offset": 90800,
+      "value": "chr_goblin_builder_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000077000000120000000100000001000000",
+  "decoded_preview_hex": "5022010018000000000012001400040000000000000008000c001000120000000c200100388a0000d863000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

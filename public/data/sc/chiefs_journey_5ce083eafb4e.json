@@ -1,0 +1,1024 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chiefs_journey.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chiefs_journey.sc",
+  "sha256_container": "5ce083eafb4e31e506c8619bc6e5c2d2e365e3cae26b458085d81af0b9d9b255",
+  "sha256_descriptor": "a54612590df67f5b9c2bb4ba9bbb520755c4dea9bce283d30f252703739037af",
+  "sha256_decoded_payload": "88ed68fdb2ceb4ab43dd817255b64809aaf134a806327efc329795191078ab87",
+  "version": 6,
+  "descriptor_bytes": 1780,
+  "compressed_frame_bytes": 3105156,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 4392540,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 46
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 44
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 22
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 9672
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 4376024
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 3105160
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 232,
+      "value": "icon_cj_trader"
+    },
+    {
+      "offset": 284,
+      "value": "icon_cj_supertroops"
+    },
+    {
+      "offset": 340,
+      "value": "icon_cj_spells"
+    },
+    {
+      "offset": 392,
+      "value": "icon_cj_sieges"
+    },
+    {
+      "offset": 444,
+      "value": "icon_cj_second_stage"
+    },
+    {
+      "offset": 504,
+      "value": "icon_cj_pets"
+    },
+    {
+      "offset": 556,
+      "value": "icon_cj_otto"
+    },
+    {
+      "offset": 608,
+      "value": "icon_cj_laboratory"
+    },
+    {
+      "offset": 664,
+      "value": "icon_cj_lab_assistant"
+    },
+    {
+      "offset": 724,
+      "value": "icon_cj_heroes"
+    },
+    {
+      "offset": 776,
+      "value": "icon_cj_hero_gear"
+    },
+    {
+      "offset": 832,
+      "value": "icon_cj_guardians"
+    },
+    {
+      "offset": 888,
+      "value": "icon_cj_goldpass"
+    },
+    {
+      "offset": 944,
+      "value": "icon_cj_dark_elixir"
+    },
+    {
+      "offset": 1000,
+      "value": "icon_cj_clan_wars"
+    },
+    {
+      "offset": 1056,
+      "value": "icon_cj_clan_games"
+    },
+    {
+      "offset": 1112,
+      "value": "icon_cj_clan_capital"
+    },
+    {
+      "offset": 1172,
+      "value": "icon_cj_clan"
+    },
+    {
+      "offset": 1224,
+      "value": "icon_cj_builderbase"
+    },
+    {
+      "offset": 1280,
+      "value": "icon_cj_builder_assistant"
+    },
+    {
+      "offset": 1344,
+      "value": "icon_cj_bob"
+    },
+    {
+      "offset": 1392,
+      "value": "icon_cj_battle_builders"
+    },
+    {
+      "offset": 1452,
+      "value": "icon_cj_alchemist"
+    },
+    {
+      "offset": 1508,
+      "value": "chiefs_journey_townhall_item"
+    },
+    {
+      "offset": 1576,
+      "value": "chiefs_journey_th_item"
+    },
+    {
+      "offset": 1636,
+      "value": "chiefs_journey_item"
+    },
+    {
+      "offset": 1692,
+      "value": "chiefs_journey_feature_item"
+    },
+    {
+      "offset": 1764,
+      "value": "chiefs_journey"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "icon_cj_trader",
+    "icon_cj_supertroops",
+    "icon_cj_spells",
+    "icon_cj_sieges",
+    "icon_cj_second_stage",
+    "icon_cj_pets",
+    "icon_cj_otto",
+    "icon_cj_laboratory",
+    "icon_cj_lab_assistant",
+    "icon_cj_heroes",
+    "icon_cj_hero_gear",
+    "icon_cj_guardians",
+    "icon_cj_goldpass",
+    "icon_cj_dark_elixir",
+    "icon_cj_clan_wars",
+    "icon_cj_clan_games",
+    "icon_cj_clan_capital",
+    "icon_cj_clan",
+    "icon_cj_builderbase",
+    "icon_cj_builder_assistant",
+    "icon_cj_bob",
+    "icon_cj_battle_builders",
+    "icon_cj_alchemist",
+    "chiefs_journey_townhall_item",
+    "chiefs_journey_th_item",
+    "chiefs_journey_item",
+    "chiefs_journey_feature_item",
+    "chiefs_journey"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3196,
+      "value": "ffNA"
+    },
+    {
+      "offset": 3268,
+      "value": "ff6B"
+    },
+    {
+      "offset": 3629,
+      "value": "L/C"
+    },
+    {
+      "offset": 8440,
+      "value": "th_indicator"
+    },
+    {
+      "offset": 8460,
+      "value": "townhall_switch"
+    },
+    {
+      "offset": 8480,
+      "value": "title"
+    },
+    {
+      "offset": 8492,
+      "value": "scroll_area"
+    },
+    {
+      "offset": 8508,
+      "value": "close_button"
+    },
+    {
+      "offset": 8528,
+      "value": "cj_image_bb"
+    },
+    {
+      "offset": 8544,
+      "value": "cj_image"
+    },
+    {
+      "offset": 8560,
+      "value": "th_area"
+    },
+    {
+      "offset": 8572,
+      "value": "arrow_left"
+    },
+    {
+      "offset": 8588,
+      "value": "arrow_right"
+    },
+    {
+      "offset": 8604,
+      "value": "townhall_level"
+    },
+    {
+      "offset": 8624,
+      "value": "category_color"
+    },
+    {
+      "offset": 8644,
+      "value": "new_tag"
+    },
+    {
+      "offset": 8656,
+      "value": "locked"
+    },
+    {
+      "offset": 8668,
+      "value": "image_area"
+    },
+    {
+      "offset": 8684,
+      "value": "description"
+    },
+    {
+      "offset": 8700,
+      "value": "feature_name"
+    },
+    {
+      "offset": 8720,
+      "value": "connector_left"
+    },
+    {
+      "offset": 8740,
+      "value": "connector_right"
+    },
+    {
+      "offset": 8760,
+      "value": "boost"
+    },
+    {
+      "offset": 8772,
+      "value": "trap"
+    },
+    {
+      "offset": 8784,
+      "value": "siege_machine"
+    },
+    {
+      "offset": 8804,
+      "value": "pet"
+    },
+    {
+      "offset": 8812,
+      "value": "feature"
+    },
+    {
+      "offset": 8824,
+      "value": "townhall"
+    },
+    {
+      "offset": 8840,
+      "value": "hero"
+    },
+    {
+      "offset": 8852,
+      "value": "building"
+    },
+    {
+      "offset": 8868,
+      "value": "spell"
+    },
+    {
+      "offset": 8880,
+      "value": "troop"
+    },
+    {
+      "offset": 8892,
+      "value": "text"
+    },
+    {
+      "offset": 8904,
+      "value": "level"
+    },
+    {
+      "offset": 8916,
+      "value": "current_th"
+    },
+    {
+      "offset": 8932,
+      "value": "icon"
+    },
+    {
+      "offset": 8944,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 8968,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 8988,
+      "value": "icon_cj_clan_games"
+    },
+    {
+      "offset": 9012,
+      "value": "icon_cj_trader"
+    },
+    {
+      "offset": 9032,
+      "value": "icon_cj_hero_gear"
+    },
+    {
+      "offset": 9056,
+      "value": "icon_cj_builderbase"
+    },
+    {
+      "offset": 9080,
+      "value": "icon_cj_pets"
+    },
+    {
+      "offset": 9100,
+      "value": "icon_cj_bob"
+    },
+    {
+      "offset": 9116,
+      "value": "icon_cj_heroes"
+    },
+    {
+      "offset": 9136,
+      "value": "icon_cj_supertroops"
+    },
+    {
+      "offset": 9160,
+      "value": "icon_cj_lab_assistant"
+    },
+    {
+      "offset": 9188,
+      "value": "icon_cj_spells"
+    },
+    {
+      "offset": 9208,
+      "value": "chiefs_journey_townhall_item"
+    },
+    {
+      "offset": 9244,
+      "value": "icon_cj_clan_wars"
+    },
+    {
+      "offset": 9268,
+      "value": "icon_cj_clan"
+    },
+    {
+      "offset": 9288,
+      "value": "icon_cj_sieges"
+    },
+    {
+      "offset": 9308,
+      "value": "icon_cj_laboratory"
+    },
+    {
+      "offset": 9332,
+      "value": "chiefs_journey_feature_item"
+    },
+    {
+      "offset": 9364,
+      "value": "chiefs_journey"
+    },
+    {
+      "offset": 9384,
+      "value": "icon_cj_battle_builders"
+    },
+    {
+      "offset": 9412,
+      "value": "icon_cj_goldpass"
+    },
+    {
+      "offset": 9436,
+      "value": "icon_cj_clan_capital"
+    },
+    {
+      "offset": 9464,
+      "value": "icon_cj_dark_elixir"
+    },
+    {
+      "offset": 9488,
+      "value": "icon_cj_otto"
+    },
+    {
+      "offset": 9508,
+      "value": "icon_cj_second_stage"
+    },
+    {
+      "offset": 9536,
+      "value": "icon_cj_builder_assistant"
+    },
+    {
+      "offset": 9568,
+      "value": "icon_cj_alchemist"
+    },
+    {
+      "offset": 9592,
+      "value": "icon_cj_guardians"
+    },
+    {
+      "offset": 9616,
+      "value": "chiefs_journey_item"
+    },
+    {
+      "offset": 9640,
+      "value": "chiefs_journey_th_item"
+    },
+    {
+      "offset": 21390,
+      "value": "gSv"
+    },
+    {
+      "offset": 27498,
+      "value": "GNO"
+    },
+    {
+      "offset": 47690,
+      "value": "L8O"
+    },
+    {
+      "offset": 48549,
+      "value": "VC@"
+    },
+    {
+      "offset": 50684,
+      "value": "nph"
+    },
+    {
+      "offset": 52554,
+      "value": "YWn"
+    },
+    {
+      "offset": 60730,
+      "value": "M.n"
+    },
+    {
+      "offset": 66950,
+      "value": "feu"
+    },
+    {
+      "offset": 68169,
+      "value": "lcen"
+    },
+    {
+      "offset": 72857,
+      "value": "I8IO"
+    },
+    {
+      "offset": 75530,
+      "value": "N.n"
+    },
+    {
+      "offset": 77863,
+      "value": "rX@"
+    },
+    {
+      "offset": 82308,
+      "value": "QCtFP "
+    },
+    {
+      "offset": 84696,
+      "value": "rX@"
+    },
+    {
+      "offset": 87416,
+      "value": "ECcfn"
+    },
+    {
+      "offset": 89318,
+      "value": "RL@"
+    },
+    {
+      "offset": 92410,
+      "value": "Emn"
+    },
+    {
+      "offset": 105190,
+      "value": "rs242"
+    },
+    {
+      "offset": 107338,
+      "value": "uXn"
+    },
+    {
+      "offset": 108154,
+      "value": "Vgn"
+    },
+    {
+      "offset": 114760,
+      "value": "D\\2"
+    },
+    {
+      "offset": 116362,
+      "value": "RXn"
+    },
+    {
+      "offset": 119450,
+      "value": "u_n"
+    },
+    {
+      "offset": 122458,
+      "value": "RsO"
+    },
+    {
+      "offset": 123882,
+      "value": "ISs"
+    },
+    {
+      "offset": 125801,
+      "value": "BHis"
+    },
+    {
+      "offset": 126793,
+      "value": "Qeqn"
+    },
+    {
+      "offset": 128666,
+      "value": "dyn"
+    },
+    {
+      "offset": 136010,
+      "value": "Fjn"
+    },
+    {
+      "offset": 139228,
+      "value": "b1w"
+    },
+    {
+      "offset": 140042,
+      "value": "m_n"
+    },
+    {
+      "offset": 147274,
+      "value": "GLn"
+    },
+    {
+      "offset": 149322,
+      "value": "Zjn"
+    },
+    {
+      "offset": 150058,
+      "value": "Afn"
+    },
+    {
+      "offset": 150842,
+      "value": "Sxs"
+    },
+    {
+      "offset": 151411,
+      "value": "AFg"
+    },
+    {
+      "offset": 151801,
+      "value": "zhJ_"
+    },
+    {
+      "offset": 155732,
+      "value": "Z00J"
+    },
+    {
+      "offset": 159644,
+      "value": "b1e"
+    },
+    {
+      "offset": 165958,
+      "value": "BP@"
+    },
+    {
+      "offset": 167082,
+      "value": "eon"
+    },
+    {
+      "offset": 167767,
+      "value": "sa:"
+    },
+    {
+      "offset": 168346,
+      "value": "uqn"
+    },
+    {
+      "offset": 169642,
+      "value": "lFn"
+    },
+    {
+      "offset": 170105,
+      "value": "R+Rn"
+    },
+    {
+      "offset": 170746,
+      "value": "S\\n"
+    },
+    {
+      "offset": 182377,
+      "value": "OCpn"
+    },
+    {
+      "offset": 182872,
+      "value": "VQJLn"
+    },
+    {
+      "offset": 190810,
+      "value": "DHn"
+    },
+    {
+      "offset": 190889,
+      "value": "I4bn"
+    },
+    {
+      "offset": 190938,
+      "value": "iQn"
+    },
+    {
+      "offset": 192955,
+      "value": "hqI"
+    },
+    {
+      "offset": 193928,
+      "value": "PdWjO"
+    },
+    {
+      "offset": 197478,
+      "value": "J  "
+    },
+    {
+      "offset": 201481,
+      "value": "wsnn"
+    },
+    {
+      "offset": 202361,
+      "value": "M.-n"
+    },
+    {
+      "offset": 203802,
+      "value": "Zan"
+    },
+    {
+      "offset": 211434,
+      "value": "AMn"
+    },
+    {
+      "offset": 221193,
+      "value": "QO_n"
+    },
+    {
+      "offset": 224281,
+      "value": "a.0O"
+    },
+    {
+      "offset": 240850,
+      "value": "xPT"
+    },
+    {
+      "offset": 243786,
+      "value": "Rxn"
+    },
+    {
+      "offset": 249338,
+      "value": "OLn"
+    },
+    {
+      "offset": 262969,
+      "value": "JKJn"
+    },
+    {
+      "offset": 264454,
+      "value": "uUUU"
+    },
+    {
+      "offset": 272266,
+      "value": "SeO"
+    },
+    {
+      "offset": 273937,
+      "value": "jdZ"
+    },
+    {
+      "offset": 278841,
+      "value": "JBQn"
+    },
+    {
+      "offset": 284666,
+      "value": "wmn"
+    },
+    {
+      "offset": 292473,
+      "value": "OCNn"
+    },
+    {
+      "offset": 304950,
+      "value": "DRH Z"
+    },
+    {
+      "offset": 306294,
+      "value": "SL5B"
+    },
+    {
+      "offset": 313093,
+      "value": "zPiPA"
+    },
+    {
+      "offset": 321811,
+      "value": "_1U"
+    },
+    {
+      "offset": 325063,
+      "value": "HdM"
+    },
+    {
+      "offset": 328470,
+      "value": "bQaT"
+    },
+    {
+      "offset": 328855,
+      "value": "N4 "
+    },
+    {
+      "offset": 331306,
+      "value": "Zin"
+    },
+    {
+      "offset": 334138,
+      "value": "mhO"
+    },
+    {
+      "offset": 336177,
+      "value": "t@ "
+    },
+    {
+      "offset": 345541,
+      "value": "oL1"
+    },
+    {
+      "offset": 347654,
+      "value": "fWU"
+    },
+    {
+      "offset": 349424,
+      "value": "RVln"
+    },
+    {
+      "offset": 352758,
+      "value": "p2ppz_c"
+    },
+    {
+      "offset": 358122,
+      "value": "vXn"
+    },
+    {
+      "offset": 361254,
+      "value": "ijK"
+    },
+    {
+      "offset": 363006,
+      "value": "cpXdfr"
+    },
+    {
+      "offset": 364922,
+      "value": "nfn"
+    },
+    {
+      "offset": 369596,
+      "value": "O@YB:"
+    },
+    {
+      "offset": 378298,
+      "value": "Gin"
+    },
+    {
+      "offset": 378330,
+      "value": "Vfn"
+    },
+    {
+      "offset": 380058,
+      "value": "Qus"
+    },
+    {
+      "offset": 380298,
+      "value": "_xO"
+    },
+    {
+      "offset": 381288,
+      "value": "mTCYn"
+    },
+    {
+      "offset": 381578,
+      "value": "qvO"
+    },
+    {
+      "offset": 382710,
+      "value": "_LD"
+    },
+    {
+      "offset": 383649,
+      "value": "z6l"
+    },
+    {
+      "offset": 387400,
+      "value": "KkjIn"
+    },
+    {
+      "offset": 388327,
+      "value": "X@0"
+    },
+    {
+      "offset": 390732,
+      "value": "o@-J"
+    },
+    {
+      "offset": 391962,
+      "value": "Yun"
+    },
+    {
+      "offset": 392873,
+      "value": "BQpn"
+    },
+    {
+      "offset": 394058,
+      "value": "YBn"
+    },
+    {
+      "offset": 396298,
+      "value": "_uO"
+    },
+    {
+      "offset": 399032,
+      "value": "TIc4n"
+    },
+    {
+      "offset": 399626,
+      "value": "jMO"
+    },
+    {
+      "offset": 406981,
+      "value": "u i"
+    },
+    {
+      "offset": 410912,
+      "value": "XlJL"
+    },
+    {
+      "offset": 414662,
+      "value": "WUTP@"
+    },
+    {
+      "offset": 416602,
+      "value": "pEn"
+    },
+    {
+      "offset": 417568,
+      "value": "PXFH"
+    },
+    {
+      "offset": 417744,
+      "value": "PdFH"
+    },
+    {
+      "offset": 419892,
+      "value": "VZf"
+    },
+    {
+      "offset": 419994,
+      "value": "MLs"
+    },
+    {
+      "offset": 420250,
+      "value": "HRO"
+    },
+    {
+      "offset": 431376,
+      "value": "XvHN"
+    },
+    {
+      "offset": 437959,
+      "value": "bQ@@"
+    },
+    {
+      "offset": 438112,
+      "value": "BtJp"
+    },
+    {
+      "offset": 441370,
+      "value": "SAn"
+    },
+    {
+      "offset": 441722,
+      "value": "YZn"
+    },
+    {
+      "offset": 443098,
+      "value": "_wn"
+    },
+    {
+      "offset": 446522,
+      "value": "zHn"
+    },
+    {
+      "offset": 449193,
+      "value": "i Ln"
+    },
+    {
+      "offset": 449238,
+      "value": "Z@Z"
+    },
+    {
+      "offset": 450346,
+      "value": "_Un"
+    },
+    {
+      "offset": 460026,
+      "value": "DXO"
+    },
+    {
+      "offset": 474807,
+      "value": "H@A"
+    },
+    {
+      "offset": 476883,
+      "value": "W8X"
+    },
+    {
+      "offset": 480628,
+      "value": "PzVH"
+    },
+    {
+      "offset": 487514,
+      "value": "NDn"
+    },
+    {
+      "offset": 487785,
+      "value": "fL.n"
+    },
+    {
+      "offset": 489686,
+      "value": "nJ@"
+    },
+    {
+      "offset": 489818,
+      "value": "MDs"
+    },
+    {
+      "offset": 491385,
+      "value": "koYO"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c003000040008000c0010001400180000001c002000240028002c001c00000001000000010000002e0000002c000000010000001600000003000000",
+  "decoded_preview_hex": "c42500001800000000001200180004000000000008000c001000140012000000d01f0000781f0000981c00000406000004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_apprentice.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_apprentice.sc",
+  "sha256_container": "ed00f5a3e76658acb372e643b142da3da321630eebb68e2a4e9e798d293d25c9",
+  "sha256_descriptor": "ccdafac206cce3bd6b715c1f646b78da978e60f105dd5e4d9fd4df8ac7cfd859",
+  "sha256_decoded_payload": "f67a5983f07c4583e5b31ad0a59e63a248027fc52a23bfa5beb5725cbc5e9cdb",
+  "version": 6,
+  "descriptor_bytes": 236,
+  "compressed_frame_bytes": 51567,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 79012,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 360
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 78232
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 51568
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "unit_apprentice_big"
+    },
+    {
+      "offset": 216,
+      "value": "card_apprentice_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_apprentice_big",
+    "card_apprentice_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 95,
+      "value": "C3s@C"
+    },
+    {
+      "offset": 276,
+      "value": "bounds"
+    },
+    {
+      "offset": 288,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 308,
+      "value": "unit_apprentice_big"
+    },
+    {
+      "offset": 332,
+      "value": "card_apprentice_big"
+    },
+    {
+      "offset": 3927,
+      "value": "g t"
+    },
+    {
+      "offset": 4662,
+      "value": "o+m@"
+    },
+    {
+      "offset": 9815,
+      "value": "_ xA"
+    },
+    {
+      "offset": 10188,
+      "value": "IMD"
+    },
+    {
+      "offset": 14206,
+      "value": "B x8"
+    },
+    {
+      "offset": 20756,
+      "value": "cAIe"
+    },
+    {
+      "offset": 40651,
+      "value": "a4p8"
+    },
+    {
+      "offset": 41393,
+      "value": "Up_n"
+    },
+    {
+      "offset": 41506,
+      "value": "L:o"
+    },
+    {
+      "offset": 48040,
+      "value": "Xn1"
+    },
+    {
+      "offset": 53304,
+      "value": "ufci"
+    },
+    {
+      "offset": 69970,
+      "value": "a6o"
+    },
+    {
+      "offset": 70034,
+      "value": "ZOO"
+    },
+    {
+      "offset": 74664,
+      "value": "Zn0:"
+    },
+    {
+      "offset": 74745,
+      "value": "j.8"
+    },
+    {
+      "offset": 76697,
+      "value": "f06"
+    }
+  ],
+  "descriptor_preview_hex": "380000001400000024b31be338eb10da60ec689dba10dfa04faaefab1c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "6401000018000000000012001400040000000000000008000c00100012000000d8000000bc0000005400000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

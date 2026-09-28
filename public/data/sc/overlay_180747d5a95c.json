@@ -1,0 +1,289 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "overlay.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\overlay.sc",
+  "sha256_container": "180747d5a95c73d457964e3a8dff57f44f2582ef020d2cbc18902eea4dc48594",
+  "sha256_descriptor": "452b0eed74a81eb93b4da84d91ca2f8670a003125ff066200d2a78e7b61c4258",
+  "sha256_decoded_payload": "c65b12e6bfb6f2a7098970a55bd5035736bf8de6580f8eca8080720d216dabd4",
+  "version": 6,
+  "descriptor_bytes": 212,
+  "compressed_frame_bytes": 17238,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 43440,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 9536
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 30872
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 17240
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 124,
+      "value": "screen_overlay"
+    },
+    {
+      "offset": 184,
+      "value": "overlay_additive_SnowEffect"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "screen_overlay",
+    "overlay_additive_SnowEffect"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2345,
+      "value": "d A"
+    },
+    {
+      "offset": 2777,
+      "value": "X+A"
+    },
+    {
+      "offset": 2897,
+      "value": "d.A"
+    },
+    {
+      "offset": 3017,
+      "value": "p1A"
+    },
+    {
+      "offset": 3089,
+      "value": "D3A"
+    },
+    {
+      "offset": 3209,
+      "value": "P6A"
+    },
+    {
+      "offset": 3329,
+      "value": "X9A"
+    },
+    {
+      "offset": 3641,
+      "value": "DAA"
+    },
+    {
+      "offset": 3689,
+      "value": "xBA"
+    },
+    {
+      "offset": 3761,
+      "value": "LDA"
+    },
+    {
+      "offset": 3881,
+      "value": "XGA"
+    },
+    {
+      "offset": 4001,
+      "value": "dJA"
+    },
+    {
+      "offset": 4121,
+      "value": "pMA"
+    },
+    {
+      "offset": 4241,
+      "value": "xPA"
+    },
+    {
+      "offset": 4313,
+      "value": "LRA"
+    },
+    {
+      "offset": 4433,
+      "value": "XUA"
+    },
+    {
+      "offset": 4553,
+      "value": "dXA"
+    },
+    {
+      "offset": 4985,
+      "value": "XcA"
+    },
+    {
+      "offset": 5105,
+      "value": "dfA"
+    },
+    {
+      "offset": 5225,
+      "value": "liA"
+    },
+    {
+      "offset": 5345,
+      "value": "xlA"
+    },
+    {
+      "offset": 5417,
+      "value": "LnA"
+    },
+    {
+      "offset": 5537,
+      "value": "XqA"
+    },
+    {
+      "offset": 5777,
+      "value": "lwA"
+    },
+    {
+      "offset": 5897,
+      "value": "xzA"
+    },
+    {
+      "offset": 9448,
+      "value": "multiply"
+    },
+    {
+      "offset": 9464,
+      "value": "additive"
+    },
+    {
+      "offset": 9480,
+      "value": "overlay_additive_SnowEffect"
+    },
+    {
+      "offset": 9512,
+      "value": "screen_overlay"
+    },
+    {
+      "offset": 17227,
+      "value": "U Z"
+    },
+    {
+      "offset": 17602,
+      "value": "GP:B2:"
+    },
+    {
+      "offset": 20114,
+      "value": "IP:B2:"
+    },
+    {
+      "offset": 20162,
+      "value": "IP:B2:"
+    },
+    {
+      "offset": 29110,
+      "value": "DZ "
+    },
+    {
+      "offset": 29126,
+      "value": "DZ "
+    },
+    {
+      "offset": 29142,
+      "value": "DZ "
+    },
+    {
+      "offset": 29222,
+      "value": "DZ "
+    },
+    {
+      "offset": 29334,
+      "value": "DZ "
+    },
+    {
+      "offset": 29350,
+      "value": "DZ "
+    },
+    {
+      "offset": 29414,
+      "value": "DZ "
+    },
+    {
+      "offset": 29446,
+      "value": "DZ "
+    },
+    {
+      "offset": 29478,
+      "value": "DZ "
+    },
+    {
+      "offset": 29526,
+      "value": "DZ "
+    },
+    {
+      "offset": 29558,
+      "value": "DZ "
+    },
+    {
+      "offset": 29574,
+      "value": "DZ "
+    },
+    {
+      "offset": 29590,
+      "value": "DZ "
+    },
+    {
+      "offset": 31228,
+      "value": "Ezv"
+    },
+    {
+      "offset": 33642,
+      "value": "wes_"
+    },
+    {
+      "offset": 38318,
+      "value": "ZsB"
+    },
+    {
+      "offset": 40540,
+      "value": "a72"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c00000001000000010000000300000004000000010000000300000040250000",
+  "decoded_preview_hex": "3c25000018000000000012001400040000000000000008000c00100012000000ac240000841d00005c1c000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,1222 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_furnace.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_furnace.sc",
+  "sha256_container": "85d6cb909e0ce8abc7eb7d7e984497778078a975c49d639ec0c49402c767a6e9",
+  "sha256_descriptor": "f433d215cec66d61175656f71fae1a42b4fbc1e4287f81e29a7df08090d24967",
+  "sha256_decoded_payload": "c5c2178c07623dad5b07ce03d9053020df2e7529a2dd971058e6a3784f5bffa5",
+  "version": 6,
+  "descriptor_bytes": 7140,
+  "compressed_frame_bytes": 17300,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 158052,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 127
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 262
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 106984
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 44928
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 17304
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 580,
+      "value": "spark"
+    },
+    {
+      "offset": 624,
+      "value": "furnace_lvl5_run1_9"
+    },
+    {
+      "offset": 680,
+      "value": "furnace_lvl5_run1_8"
+    },
+    {
+      "offset": 736,
+      "value": "furnace_lvl5_run1_7"
+    },
+    {
+      "offset": 792,
+      "value": "furnace_lvl5_run1_6"
+    },
+    {
+      "offset": 848,
+      "value": "furnace_lvl5_run1_5"
+    },
+    {
+      "offset": 904,
+      "value": "furnace_lvl5_run1_4"
+    },
+    {
+      "offset": 960,
+      "value": "furnace_lvl5_run1_3"
+    },
+    {
+      "offset": 1016,
+      "value": "furnace_lvl5_run1_2"
+    },
+    {
+      "offset": 1072,
+      "value": "furnace_lvl5_run1_1"
+    },
+    {
+      "offset": 1128,
+      "value": "furnace_lvl5_idle1_5"
+    },
+    {
+      "offset": 1188,
+      "value": "furnace_lvl5_idle1_4"
+    },
+    {
+      "offset": 1248,
+      "value": "furnace_lvl5_idle1_3"
+    },
+    {
+      "offset": 1308,
+      "value": "furnace_lvl5_idle1_2"
+    },
+    {
+      "offset": 1368,
+      "value": "furnace_lvl5_idle1_1"
+    },
+    {
+      "offset": 1428,
+      "value": "furnace_lvl5_attack1_5"
+    },
+    {
+      "offset": 1488,
+      "value": "furnace_lvl5_attack1_4"
+    },
+    {
+      "offset": 1548,
+      "value": "furnace_lvl5_attack1_3"
+    },
+    {
+      "offset": 1608,
+      "value": "furnace_lvl5_attack1_2"
+    },
+    {
+      "offset": 1668,
+      "value": "furnace_lvl5_attack1_1"
+    },
+    {
+      "offset": 1728,
+      "value": "furnace_lvl4_run1_9"
+    },
+    {
+      "offset": 1784,
+      "value": "furnace_lvl4_run1_8"
+    },
+    {
+      "offset": 1840,
+      "value": "furnace_lvl4_run1_7"
+    },
+    {
+      "offset": 1896,
+      "value": "furnace_lvl4_run1_6"
+    },
+    {
+      "offset": 1952,
+      "value": "furnace_lvl4_run1_5"
+    },
+    {
+      "offset": 2008,
+      "value": "furnace_lvl4_run1_4"
+    },
+    {
+      "offset": 2064,
+      "value": "furnace_lvl4_run1_3"
+    },
+    {
+      "offset": 2120,
+      "value": "furnace_lvl4_run1_2"
+    },
+    {
+      "offset": 2176,
+      "value": "furnace_lvl4_run1_1"
+    },
+    {
+      "offset": 2232,
+      "value": "furnace_lvl4_idle1_5"
+    },
+    {
+      "offset": 2292,
+      "value": "furnace_lvl4_idle1_4"
+    },
+    {
+      "offset": 2352,
+      "value": "furnace_lvl4_idle1_3"
+    },
+    {
+      "offset": 2412,
+      "value": "furnace_lvl4_idle1_2"
+    },
+    {
+      "offset": 2472,
+      "value": "furnace_lvl4_idle1_1"
+    },
+    {
+      "offset": 2532,
+      "value": "furnace_lvl4_attack1_5"
+    },
+    {
+      "offset": 2592,
+      "value": "furnace_lvl4_attack1_4"
+    },
+    {
+      "offset": 2652,
+      "value": "furnace_lvl4_attack1_3"
+    },
+    {
+      "offset": 2712,
+      "value": "furnace_lvl4_attack1_2"
+    },
+    {
+      "offset": 2772,
+      "value": "furnace_lvl4_attack1_1"
+    },
+    {
+      "offset": 2832,
+      "value": "furnace_lvl3_run1_9"
+    },
+    {
+      "offset": 2888,
+      "value": "furnace_lvl3_run1_8"
+    },
+    {
+      "offset": 2944,
+      "value": "furnace_lvl3_run1_7"
+    },
+    {
+      "offset": 3000,
+      "value": "furnace_lvl3_run1_6"
+    },
+    {
+      "offset": 3056,
+      "value": "furnace_lvl3_run1_5"
+    },
+    {
+      "offset": 3112,
+      "value": "furnace_lvl3_run1_4"
+    },
+    {
+      "offset": 3168,
+      "value": "furnace_lvl3_run1_3"
+    },
+    {
+      "offset": 3224,
+      "value": "furnace_lvl3_run1_2"
+    },
+    {
+      "offset": 3280,
+      "value": "furnace_lvl3_run1_1"
+    },
+    {
+      "offset": 3336,
+      "value": "furnace_lvl3_idle1_5"
+    },
+    {
+      "offset": 3396,
+      "value": "furnace_lvl3_idle1_4"
+    },
+    {
+      "offset": 3456,
+      "value": "furnace_lvl3_idle1_3"
+    },
+    {
+      "offset": 3516,
+      "value": "furnace_lvl3_idle1_2"
+    },
+    {
+      "offset": 3576,
+      "value": "furnace_lvl3_idle1_1"
+    },
+    {
+      "offset": 3636,
+      "value": "furnace_lvl3_attack1_5"
+    },
+    {
+      "offset": 3696,
+      "value": "furnace_lvl3_attack1_4"
+    },
+    {
+      "offset": 3756,
+      "value": "furnace_lvl3_attack1_3"
+    },
+    {
+      "offset": 3816,
+      "value": "furnace_lvl3_attack1_2"
+    },
+    {
+      "offset": 3876,
+      "value": "furnace_lvl3_attack1_1"
+    },
+    {
+      "offset": 3936,
+      "value": "furnace_lvl2_run1_9"
+    },
+    {
+      "offset": 3992,
+      "value": "furnace_lvl2_run1_8"
+    },
+    {
+      "offset": 4048,
+      "value": "furnace_lvl2_run1_7"
+    },
+    {
+      "offset": 4104,
+      "value": "furnace_lvl2_run1_6"
+    },
+    {
+      "offset": 4160,
+      "value": "furnace_lvl2_run1_5"
+    },
+    {
+      "offset": 4216,
+      "value": "furnace_lvl2_run1_4"
+    },
+    {
+      "offset": 4272,
+      "value": "furnace_lvl2_run1_3"
+    },
+    {
+      "offset": 4328,
+      "value": "furnace_lvl2_run1_2"
+    },
+    {
+      "offset": 4384,
+      "value": "furnace_lvl2_run1_1"
+    },
+    {
+      "offset": 4440,
+      "value": "furnace_lvl2_idle1_5"
+    },
+    {
+      "offset": 4500,
+      "value": "furnace_lvl2_idle1_4"
+    },
+    {
+      "offset": 4560,
+      "value": "furnace_lvl2_idle1_3"
+    },
+    {
+      "offset": 4620,
+      "value": "furnace_lvl2_idle1_2"
+    },
+    {
+      "offset": 4680,
+      "value": "furnace_lvl2_idle1_1"
+    },
+    {
+      "offset": 4740,
+      "value": "furnace_lvl2_attack1_5"
+    },
+    {
+      "offset": 4800,
+      "value": "furnace_lvl2_attack1_4"
+    },
+    {
+      "offset": 4860,
+      "value": "furnace_lvl2_attack1_3"
+    },
+    {
+      "offset": 4920,
+      "value": "furnace_lvl2_attack1_2"
+    },
+    {
+      "offset": 4980,
+      "value": "furnace_lvl2_attack1_1"
+    },
+    {
+      "offset": 5040,
+      "value": "furnace_lvl1_run1_9"
+    },
+    {
+      "offset": 5096,
+      "value": "furnace_lvl1_run1_8"
+    },
+    {
+      "offset": 5152,
+      "value": "furnace_lvl1_run1_7"
+    },
+    {
+      "offset": 5208,
+      "value": "furnace_lvl1_run1_6"
+    },
+    {
+      "offset": 5264,
+      "value": "furnace_lvl1_run1_5"
+    },
+    {
+      "offset": 5320,
+      "value": "furnace_lvl1_run1_4"
+    },
+    {
+      "offset": 5376,
+      "value": "furnace_lvl1_run1_3"
+    },
+    {
+      "offset": 5432,
+      "value": "furnace_lvl1_run1_2"
+    },
+    {
+      "offset": 5488,
+      "value": "furnace_lvl1_run1_1"
+    },
+    {
+      "offset": 5544,
+      "value": "furnace_lvl1_idle1_5"
+    },
+    {
+      "offset": 5604,
+      "value": "furnace_lvl1_idle1_4"
+    },
+    {
+      "offset": 5664,
+      "value": "furnace_lvl1_idle1_3"
+    },
+    {
+      "offset": 5724,
+      "value": "furnace_lvl1_idle1_2"
+    },
+    {
+      "offset": 5784,
+      "value": "furnace_lvl1_idle1_1"
+    },
+    {
+      "offset": 5844,
+      "value": "furnace_lvl1_attack1_5"
+    },
+    {
+      "offset": 5904,
+      "value": "furnace_lvl1_attack1_4"
+    },
+    {
+      "offset": 5964,
+      "value": "furnace_lvl1_attack1_3"
+    },
+    {
+      "offset": 6024,
+      "value": "furnace_lvl1_attack1_2"
+    },
+    {
+      "offset": 6084,
+      "value": "furnace_lvl1_attack1_1"
+    },
+    {
+      "offset": 6144,
+      "value": "firemite_run1_9"
+    },
+    {
+      "offset": 6196,
+      "value": "firemite_run1_8"
+    },
+    {
+      "offset": 6248,
+      "value": "firemite_run1_7"
+    },
+    {
+      "offset": 6300,
+      "value": "firemite_run1_6"
+    },
+    {
+      "offset": 6352,
+      "value": "firemite_run1_5"
+    },
+    {
+      "offset": 6404,
+      "value": "firemite_run1_4"
+    },
+    {
+      "offset": 6456,
+      "value": "firemite_run1_3"
+    },
+    {
+      "offset": 6508,
+      "value": "firemite_run1_2"
+    },
+    {
+      "offset": 6560,
+      "value": "firemite_run1_1"
+    },
+    {
+      "offset": 6612,
+      "value": "firemite_idle1_9"
+    },
+    {
+      "offset": 6668,
+      "value": "firemite_idle1_8"
+    },
+    {
+      "offset": 6724,
+      "value": "firemite_idle1_7"
+    },
+    {
+      "offset": 6780,
+      "value": "firemite_idle1_6"
+    },
+    {
+      "offset": 6836,
+      "value": "firemite_idle1_5"
+    },
+    {
+      "offset": 6892,
+      "value": "firemite_idle1_4"
+    },
+    {
+      "offset": 6948,
+      "value": "firemite_idle1_3"
+    },
+    {
+      "offset": 7004,
+      "value": "firemite_idle1_2"
+    },
+    {
+      "offset": 7060,
+      "value": "firemite_idle1_1"
+    },
+    {
+      "offset": 7124,
+      "value": "builder_spark"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "spark",
+    "furnace_lvl5_run1_9",
+    "furnace_lvl5_run1_8",
+    "furnace_lvl5_run1_7",
+    "furnace_lvl5_run1_6",
+    "furnace_lvl5_run1_5",
+    "furnace_lvl5_run1_4",
+    "furnace_lvl5_run1_3",
+    "furnace_lvl5_run1_2",
+    "furnace_lvl5_run1_1",
+    "furnace_lvl5_idle1_5",
+    "furnace_lvl5_idle1_4",
+    "furnace_lvl5_idle1_3",
+    "furnace_lvl5_idle1_2",
+    "furnace_lvl5_idle1_1",
+    "furnace_lvl5_attack1_5",
+    "furnace_lvl5_attack1_4",
+    "furnace_lvl5_attack1_3",
+    "furnace_lvl5_attack1_2",
+    "furnace_lvl5_attack1_1",
+    "furnace_lvl4_run1_9",
+    "furnace_lvl4_run1_8",
+    "furnace_lvl4_run1_7",
+    "furnace_lvl4_run1_6",
+    "furnace_lvl4_run1_5",
+    "furnace_lvl4_run1_4",
+    "furnace_lvl4_run1_3",
+    "furnace_lvl4_run1_2",
+    "furnace_lvl4_run1_1",
+    "furnace_lvl4_idle1_5",
+    "furnace_lvl4_idle1_4",
+    "furnace_lvl4_idle1_3",
+    "furnace_lvl4_idle1_2",
+    "furnace_lvl4_idle1_1",
+    "furnace_lvl4_attack1_5",
+    "furnace_lvl4_attack1_4",
+    "furnace_lvl4_attack1_3",
+    "furnace_lvl4_attack1_2",
+    "furnace_lvl4_attack1_1",
+    "furnace_lvl3_run1_9",
+    "furnace_lvl3_run1_8",
+    "furnace_lvl3_run1_7",
+    "furnace_lvl3_run1_6",
+    "furnace_lvl3_run1_5",
+    "furnace_lvl3_run1_4",
+    "furnace_lvl3_run1_3",
+    "furnace_lvl3_run1_2",
+    "furnace_lvl3_run1_1",
+    "furnace_lvl3_idle1_5",
+    "furnace_lvl3_idle1_4",
+    "furnace_lvl3_idle1_3",
+    "furnace_lvl3_idle1_2",
+    "furnace_lvl3_idle1_1",
+    "furnace_lvl3_attack1_5",
+    "furnace_lvl3_attack1_4",
+    "furnace_lvl3_attack1_3",
+    "furnace_lvl3_attack1_2",
+    "furnace_lvl3_attack1_1",
+    "furnace_lvl2_run1_9",
+    "furnace_lvl2_run1_8",
+    "furnace_lvl2_run1_7",
+    "furnace_lvl2_run1_6",
+    "furnace_lvl2_run1_5",
+    "furnace_lvl2_run1_4",
+    "furnace_lvl2_run1_3",
+    "furnace_lvl2_run1_2",
+    "furnace_lvl2_run1_1",
+    "furnace_lvl2_idle1_5",
+    "furnace_lvl2_idle1_4",
+    "furnace_lvl2_idle1_3",
+    "furnace_lvl2_idle1_2",
+    "furnace_lvl2_idle1_1",
+    "furnace_lvl2_attack1_5",
+    "furnace_lvl2_attack1_4",
+    "furnace_lvl2_attack1_3",
+    "furnace_lvl2_attack1_2",
+    "furnace_lvl2_attack1_1",
+    "furnace_lvl1_run1_9",
+    "furnace_lvl1_run1_8",
+    "furnace_lvl1_run1_7",
+    "furnace_lvl1_run1_6",
+    "furnace_lvl1_run1_5",
+    "furnace_lvl1_run1_4",
+    "furnace_lvl1_run1_3",
+    "furnace_lvl1_run1_2",
+    "furnace_lvl1_run1_1",
+    "furnace_lvl1_idle1_5",
+    "furnace_lvl1_idle1_4",
+    "furnace_lvl1_idle1_3",
+    "furnace_lvl1_idle1_2",
+    "furnace_lvl1_idle1_1",
+    "furnace_lvl1_attack1_5",
+    "furnace_lvl1_attack1_4",
+    "furnace_lvl1_attack1_3",
+    "furnace_lvl1_attack1_2",
+    "furnace_lvl1_attack1_1",
+    "firemite_run1_9",
+    "firemite_run1_8",
+    "firemite_run1_7",
+    "firemite_run1_6",
+    "firemite_run1_5",
+    "firemite_run1_4",
+    "firemite_run1_3",
+    "firemite_run1_2",
+    "firemite_run1_1",
+    "firemite_idle1_9",
+    "firemite_idle1_8",
+    "firemite_idle1_7",
+    "firemite_idle1_6",
+    "firemite_idle1_5",
+    "firemite_idle1_4",
+    "firemite_idle1_3",
+    "firemite_idle1_2",
+    "firemite_idle1_1",
+    "builder_spark"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 4681,
+      "value": "p9@"
+    },
+    {
+      "offset": 11560,
+      "value": "fffA"
+    },
+    {
+      "offset": 11608,
+      "value": "ffJA"
+    },
+    {
+      "offset": 11700,
+      "value": "yO k"
+    },
+    {
+      "offset": 12520,
+      "value": "ff:B"
+    },
+    {
+      "offset": 12637,
+      "value": "u5y"
+    },
+    {
+      "offset": 12805,
+      "value": "v+H"
+    },
+    {
+      "offset": 12903,
+      "value": "S33HB"
+    },
+    {
+      "offset": 13240,
+      "value": "ff:B"
+    },
+    {
+      "offset": 14968,
+      "value": "ffJA"
+    },
+    {
+      "offset": 15060,
+      "value": "yO k"
+    },
+    {
+      "offset": 15400,
+      "value": "ff:B"
+    },
+    {
+      "offset": 15567,
+      "value": "S33HB"
+    },
+    {
+      "offset": 15688,
+      "value": "ff:B"
+    },
+    {
+      "offset": 21239,
+      "value": "Akz3M"
+    },
+    {
+      "offset": 21615,
+      "value": "fffKB"
+    },
+    {
+      "offset": 21948,
+      "value": "UUSb"
+    },
+    {
+      "offset": 22276,
+      "value": "ffVA"
+    },
+    {
+      "offset": 22984,
+      "value": "ffJA"
+    },
+    {
+      "offset": 23224,
+      "value": "ff:B"
+    },
+    {
+      "offset": 23295,
+      "value": "S33HB"
+    },
+    {
+      "offset": 23368,
+      "value": "ff:B"
+    },
+    {
+      "offset": 103980,
+      "value": "effect_firemite_burn"
+    },
+    {
+      "offset": 104008,
+      "value": "effect_furnace_smoke"
+    },
+    {
+      "offset": 104036,
+      "value": "Arial Bold"
+    },
+    {
+      "offset": 104052,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 104072,
+      "value": "furnace_lvl2_attack1_2"
+    },
+    {
+      "offset": 104100,
+      "value": "firemite_idle1_4"
+    },
+    {
+      "offset": 104124,
+      "value": "firemite_run1_9"
+    },
+    {
+      "offset": 104144,
+      "value": "furnace_lvl1_attack1_1"
+    },
+    {
+      "offset": 104172,
+      "value": "furnace_lvl5_idle1_5"
+    },
+    {
+      "offset": 104200,
+      "value": "furnace_lvl3_run1_9"
+    },
+    {
+      "offset": 104224,
+      "value": "furnace_lvl2_attack1_1"
+    },
+    {
+      "offset": 104252,
+      "value": "spark"
+    },
+    {
+      "offset": 104264,
+      "value": "furnace_lvl2_attack1_3"
+    },
+    {
+      "offset": 104292,
+      "value": "furnace_lvl5_run1_1"
+    },
+    {
+      "offset": 104316,
+      "value": "furnace_lvl3_attack1_2"
+    },
+    {
+      "offset": 104344,
+      "value": "firemite_run1_7"
+    },
+    {
+      "offset": 104364,
+      "value": "furnace_lvl3_attack1_5"
+    },
+    {
+      "offset": 104392,
+      "value": "firemite_run1_1"
+    },
+    {
+      "offset": 104412,
+      "value": "furnace_lvl2_idle1_3"
+    },
+    {
+      "offset": 104440,
+      "value": "furnace_lvl3_run1_4"
+    },
+    {
+      "offset": 104464,
+      "value": "furnace_lvl4_attack1_4"
+    },
+    {
+      "offset": 104492,
+      "value": "furnace_lvl4_run1_8"
+    },
+    {
+      "offset": 104516,
+      "value": "firemite_idle1_9"
+    },
+    {
+      "offset": 104540,
+      "value": "furnace_lvl3_run1_5"
+    },
+    {
+      "offset": 104564,
+      "value": "firemite_idle1_8"
+    },
+    {
+      "offset": 104588,
+      "value": "furnace_lvl2_idle1_4"
+    },
+    {
+      "offset": 104616,
+      "value": "firemite_idle1_7"
+    },
+    {
+      "offset": 104640,
+      "value": "firemite_idle1_5"
+    },
+    {
+      "offset": 104664,
+      "value": "firemite_idle1_1"
+    },
+    {
+      "offset": 104688,
+      "value": "furnace_lvl5_attack1_4"
+    },
+    {
+      "offset": 104716,
+      "value": "furnace_lvl5_attack1_2"
+    },
+    {
+      "offset": 104744,
+      "value": "furnace_lvl1_run1_3"
+    },
+    {
+      "offset": 104768,
+      "value": "firemite_idle1_6"
+    },
+    {
+      "offset": 104792,
+      "value": "furnace_lvl1_run1_2"
+    },
+    {
+      "offset": 104816,
+      "value": "firemite_run1_3"
+    },
+    {
+      "offset": 104836,
+      "value": "firemite_idle1_2"
+    },
+    {
+      "offset": 104860,
+      "value": "furnace_lvl1_run1_6"
+    },
+    {
+      "offset": 104884,
+      "value": "furnace_lvl1_attack1_4"
+    },
+    {
+      "offset": 104912,
+      "value": "furnace_lvl3_idle1_5"
+    },
+    {
+      "offset": 104940,
+      "value": "furnace_lvl1_idle1_4"
+    },
+    {
+      "offset": 104968,
+      "value": "furnace_lvl2_run1_8"
+    },
+    {
+      "offset": 104992,
+      "value": "furnace_lvl5_run1_6"
+    },
+    {
+      "offset": 105016,
+      "value": "furnace_lvl1_attack1_5"
+    },
+    {
+      "offset": 105044,
+      "value": "firemite_run1_8"
+    },
+    {
+      "offset": 105064,
+      "value": "furnace_lvl5_attack1_5"
+    },
+    {
+      "offset": 105092,
+      "value": "furnace_lvl4_run1_5"
+    },
+    {
+      "offset": 105116,
+      "value": "furnace_lvl4_run1_7"
+    },
+    {
+      "offset": 105140,
+      "value": "furnace_lvl5_idle1_4"
+    },
+    {
+      "offset": 105168,
+      "value": "furnace_lvl3_idle1_2"
+    },
+    {
+      "offset": 105196,
+      "value": "furnace_lvl1_idle1_1"
+    },
+    {
+      "offset": 105224,
+      "value": "firemite_run1_5"
+    },
+    {
+      "offset": 105244,
+      "value": "furnace_lvl1_run1_1"
+    },
+    {
+      "offset": 105268,
+      "value": "furnace_lvl1_attack1_3"
+    },
+    {
+      "offset": 105296,
+      "value": "furnace_lvl4_run1_9"
+    },
+    {
+      "offset": 105320,
+      "value": "furnace_lvl1_attack1_2"
+    },
+    {
+      "offset": 105348,
+      "value": "furnace_lvl1_run1_4"
+    },
+    {
+      "offset": 105372,
+      "value": "furnace_lvl4_run1_6"
+    },
+    {
+      "offset": 105396,
+      "value": "furnace_lvl5_idle1_1"
+    },
+    {
+      "offset": 105424,
+      "value": "furnace_lvl3_run1_8"
+    },
+    {
+      "offset": 105448,
+      "value": "furnace_lvl4_idle1_3"
+    },
+    {
+      "offset": 105476,
+      "value": "furnace_lvl5_attack1_3"
+    },
+    {
+      "offset": 105504,
+      "value": "furnace_lvl5_run1_2"
+    },
+    {
+      "offset": 105528,
+      "value": "firemite_idle1_3"
+    },
+    {
+      "offset": 105552,
+      "value": "furnace_lvl5_run1_7"
+    },
+    {
+      "offset": 105576,
+      "value": "furnace_lvl5_run1_5"
+    },
+    {
+      "offset": 105600,
+      "value": "furnace_lvl4_run1_3"
+    },
+    {
+      "offset": 105624,
+      "value": "furnace_lvl1_run1_5"
+    },
+    {
+      "offset": 105648,
+      "value": "furnace_lvl4_attack1_1"
+    },
+    {
+      "offset": 105676,
+      "value": "furnace_lvl5_run1_8"
+    },
+    {
+      "offset": 105700,
+      "value": "furnace_lvl5_attack1_1"
+    },
+    {
+      "offset": 105728,
+      "value": "furnace_lvl1_idle1_3"
+    },
+    {
+      "offset": 105756,
+      "value": "furnace_lvl1_idle1_2"
+    },
+    {
+      "offset": 105784,
+      "value": "furnace_lvl3_idle1_4"
+    },
+    {
+      "offset": 105812,
+      "value": "furnace_lvl1_run1_7"
+    },
+    {
+      "offset": 105836,
+      "value": "furnace_lvl2_attack1_4"
+    },
+    {
+      "offset": 105864,
+      "value": "firemite_run1_2"
+    },
+    {
+      "offset": 105884,
+      "value": "furnace_lvl1_idle1_5"
+    },
+    {
+      "offset": 105912,
+      "value": "furnace_lvl5_run1_3"
+    },
+    {
+      "offset": 105936,
+      "value": "firemite_run1_4"
+    },
+    {
+      "offset": 105956,
+      "value": "furnace_lvl2_idle1_1"
+    },
+    {
+      "offset": 105984,
+      "value": "furnace_lvl5_run1_9"
+    },
+    {
+      "offset": 106008,
+      "value": "furnace_lvl1_run1_8"
+    },
+    {
+      "offset": 106032,
+      "value": "furnace_lvl1_run1_9"
+    },
+    {
+      "offset": 106056,
+      "value": "firemite_run1_6"
+    },
+    {
+      "offset": 106076,
+      "value": "furnace_lvl5_idle1_2"
+    },
+    {
+      "offset": 106104,
+      "value": "furnace_lvl5_idle1_3"
+    },
+    {
+      "offset": 106132,
+      "value": "furnace_lvl5_run1_4"
+    },
+    {
+      "offset": 106156,
+      "value": "furnace_lvl2_attack1_5"
+    },
+    {
+      "offset": 106184,
+      "value": "furnace_lvl3_run1_6"
+    },
+    {
+      "offset": 106208,
+      "value": "furnace_lvl4_run1_1"
+    },
+    {
+      "offset": 106232,
+      "value": "furnace_lvl2_idle1_2"
+    },
+    {
+      "offset": 106260,
+      "value": "furnace_lvl2_idle1_5"
+    },
+    {
+      "offset": 106288,
+      "value": "furnace_lvl2_run1_1"
+    },
+    {
+      "offset": 106312,
+      "value": "furnace_lvl2_run1_5"
+    },
+    {
+      "offset": 106336,
+      "value": "furnace_lvl3_attack1_3"
+    },
+    {
+      "offset": 106364,
+      "value": "furnace_lvl2_run1_2"
+    },
+    {
+      "offset": 106388,
+      "value": "builder_spark"
+    },
+    {
+      "offset": 106408,
+      "value": "furnace_lvl2_run1_3"
+    },
+    {
+      "offset": 106432,
+      "value": "furnace_lvl2_run1_4"
+    },
+    {
+      "offset": 106456,
+      "value": "furnace_lvl4_run1_4"
+    },
+    {
+      "offset": 106480,
+      "value": "furnace_lvl2_run1_6"
+    },
+    {
+      "offset": 106504,
+      "value": "furnace_lvl2_run1_7"
+    },
+    {
+      "offset": 106528,
+      "value": "furnace_lvl2_run1_9"
+    },
+    {
+      "offset": 106552,
+      "value": "furnace_lvl3_attack1_1"
+    },
+    {
+      "offset": 106580,
+      "value": "furnace_lvl3_attack1_4"
+    },
+    {
+      "offset": 106608,
+      "value": "furnace_lvl3_idle1_1"
+    },
+    {
+      "offset": 106636,
+      "value": "furnace_lvl3_idle1_3"
+    },
+    {
+      "offset": 106664,
+      "value": "furnace_lvl3_run1_1"
+    },
+    {
+      "offset": 106688,
+      "value": "furnace_lvl3_run1_2"
+    },
+    {
+      "offset": 106712,
+      "value": "furnace_lvl3_run1_3"
+    },
+    {
+      "offset": 106736,
+      "value": "furnace_lvl3_run1_7"
+    },
+    {
+      "offset": 106760,
+      "value": "furnace_lvl4_attack1_2"
+    },
+    {
+      "offset": 106788,
+      "value": "furnace_lvl4_attack1_3"
+    },
+    {
+      "offset": 106816,
+      "value": "furnace_lvl4_attack1_5"
+    },
+    {
+      "offset": 106844,
+      "value": "furnace_lvl4_idle1_1"
+    },
+    {
+      "offset": 106872,
+      "value": "furnace_lvl4_idle1_2"
+    },
+    {
+      "offset": 106900,
+      "value": "furnace_lvl4_idle1_4"
+    },
+    {
+      "offset": 106928,
+      "value": "furnace_lvl4_idle1_5"
+    },
+    {
+      "offset": 106956,
+      "value": "furnace_lvl4_run1_2"
+    },
+    {
+      "offset": 158032,
+      "value": "chr_furnace_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000007f000000060100000100000002000000",
+  "decoded_preview_hex": "e4a1010018000000000012001400040000000000000008000c00100012000000249401005c5c0000ec2a000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,1384 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_hog_rider.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_hog_rider.sc",
+  "sha256_container": "bc153dc15254b7b43c28c17a1338c3c5bbf77ac1a1c50be7f2ce1bfb2dbfb843",
+  "sha256_descriptor": "2c5cf456c158edd0bf3fea68996d2444efcdc52e5e619e25692ce5f6d23b9471",
+  "sha256_decoded_payload": "95009aab6f39e3feddd71277ef9dc2a807c8a56f8c9ac0687258cf7de8dcc6c4",
+  "version": 6,
+  "descriptor_bytes": 6364,
+  "compressed_frame_bytes": 51277,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 275624,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 841
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 107
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 193920
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 58748
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 51280
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 524,
+      "value": "BoarRider9_Run1_3"
+    },
+    {
+      "offset": 580,
+      "value": "BoarRider9_Run1_2"
+    },
+    {
+      "offset": 636,
+      "value": "BoarRider9_Run1_1"
+    },
+    {
+      "offset": 692,
+      "value": "BoarRider9_Idle1_3"
+    },
+    {
+      "offset": 748,
+      "value": "BoarRider9_Attack1_3"
+    },
+    {
+      "offset": 808,
+      "value": "BoarRider9_Attack1_2"
+    },
+    {
+      "offset": 868,
+      "value": "BoarRider9_Attack1_1"
+    },
+    {
+      "offset": 928,
+      "value": "BoarRider8_Run1_3"
+    },
+    {
+      "offset": 984,
+      "value": "BoarRider8_Run1_2"
+    },
+    {
+      "offset": 1040,
+      "value": "BoarRider8_Run1_1"
+    },
+    {
+      "offset": 1096,
+      "value": "BoarRider8_Idle1_3"
+    },
+    {
+      "offset": 1152,
+      "value": "BoarRider8_Attack1_3"
+    },
+    {
+      "offset": 1212,
+      "value": "BoarRider8_Attack1_2"
+    },
+    {
+      "offset": 1272,
+      "value": "BoarRider8_Attack1_1"
+    },
+    {
+      "offset": 1332,
+      "value": "BoarRider7_Run1_3"
+    },
+    {
+      "offset": 1388,
+      "value": "BoarRider7_Run1_2"
+    },
+    {
+      "offset": 1444,
+      "value": "BoarRider7_Run1_1"
+    },
+    {
+      "offset": 1500,
+      "value": "BoarRider7_Idle1_3"
+    },
+    {
+      "offset": 1556,
+      "value": "BoarRider7_Attack1_3"
+    },
+    {
+      "offset": 1616,
+      "value": "BoarRider7_Attack1_2"
+    },
+    {
+      "offset": 1676,
+      "value": "BoarRider7_Attack1_1"
+    },
+    {
+      "offset": 1736,
+      "value": "BoarRider6_Run1_3"
+    },
+    {
+      "offset": 1792,
+      "value": "BoarRider6_Run1_2"
+    },
+    {
+      "offset": 1848,
+      "value": "BoarRider6_Run1_1"
+    },
+    {
+      "offset": 1904,
+      "value": "BoarRider6_Idle1_3"
+    },
+    {
+      "offset": 1960,
+      "value": "BoarRider6_Attack1_3"
+    },
+    {
+      "offset": 2020,
+      "value": "BoarRider6_Attack1_2"
+    },
+    {
+      "offset": 2080,
+      "value": "BoarRider6_Attack1_1"
+    },
+    {
+      "offset": 2140,
+      "value": "BoarRider5_Run1_3"
+    },
+    {
+      "offset": 2196,
+      "value": "BoarRider5_Run1_2"
+    },
+    {
+      "offset": 2252,
+      "value": "BoarRider5_Run1_1"
+    },
+    {
+      "offset": 2308,
+      "value": "BoarRider5_Idle1_3"
+    },
+    {
+      "offset": 2364,
+      "value": "BoarRider5_Attack1_3"
+    },
+    {
+      "offset": 2424,
+      "value": "BoarRider5_Attack1_2"
+    },
+    {
+      "offset": 2484,
+      "value": "BoarRider5_Attack1_1"
+    },
+    {
+      "offset": 2544,
+      "value": "BoarRider4_Run1_3"
+    },
+    {
+      "offset": 2600,
+      "value": "BoarRider4_Run1_2"
+    },
+    {
+      "offset": 2656,
+      "value": "BoarRider4_Run1_1"
+    },
+    {
+      "offset": 2712,
+      "value": "BoarRider4_Idle1_3"
+    },
+    {
+      "offset": 2768,
+      "value": "BoarRider4_Idle1_1"
+    },
+    {
+      "offset": 2824,
+      "value": "BoarRider4_Idle1_0"
+    },
+    {
+      "offset": 2880,
+      "value": "BoarRider4_Attack1_3"
+    },
+    {
+      "offset": 2940,
+      "value": "BoarRider4_Attack1_2"
+    },
+    {
+      "offset": 3000,
+      "value": "BoarRider4_Attack1_1"
+    },
+    {
+      "offset": 3060,
+      "value": "BoarRider3_Run1_3"
+    },
+    {
+      "offset": 3116,
+      "value": "BoarRider3_Run1_2"
+    },
+    {
+      "offset": 3172,
+      "value": "BoarRider3_Run1_1"
+    },
+    {
+      "offset": 3228,
+      "value": "BoarRider3_Idle1_3"
+    },
+    {
+      "offset": 3284,
+      "value": "BoarRider3_Idle1_1"
+    },
+    {
+      "offset": 3340,
+      "value": "BoarRider3_Idle1_0"
+    },
+    {
+      "offset": 3396,
+      "value": "BoarRider3_Attack1_3"
+    },
+    {
+      "offset": 3456,
+      "value": "BoarRider3_Attack1_2"
+    },
+    {
+      "offset": 3516,
+      "value": "BoarRider3_Attack1_1"
+    },
+    {
+      "offset": 3576,
+      "value": "BoarRider2_Run1_3"
+    },
+    {
+      "offset": 3632,
+      "value": "BoarRider2_Run1_2"
+    },
+    {
+      "offset": 3688,
+      "value": "BoarRider2_Run1_1"
+    },
+    {
+      "offset": 3744,
+      "value": "BoarRider2_Idle1_3"
+    },
+    {
+      "offset": 3800,
+      "value": "BoarRider2_Idle1_1"
+    },
+    {
+      "offset": 3856,
+      "value": "BoarRider2_Idle1_0"
+    },
+    {
+      "offset": 3912,
+      "value": "BoarRider2_Attack1_3"
+    },
+    {
+      "offset": 3972,
+      "value": "BoarRider2_Attack1_2"
+    },
+    {
+      "offset": 4032,
+      "value": "BoarRider2_Attack1_1"
+    },
+    {
+      "offset": 4092,
+      "value": "BoarRider1_Run1_3"
+    },
+    {
+      "offset": 4148,
+      "value": "BoarRider1_Run1_2"
+    },
+    {
+      "offset": 4204,
+      "value": "BoarRider1_Run1_1"
+    },
+    {
+      "offset": 4260,
+      "value": "BoarRider1_Idle1_3"
+    },
+    {
+      "offset": 4316,
+      "value": "BoarRider1_Idle1_1"
+    },
+    {
+      "offset": 4372,
+      "value": "BoarRider1_Idle1_0"
+    },
+    {
+      "offset": 4428,
+      "value": "BoarRider1_Attack1_3"
+    },
+    {
+      "offset": 4488,
+      "value": "BoarRider1_Attack1_2"
+    },
+    {
+      "offset": 4548,
+      "value": "BoarRider1_Attack1_1"
+    },
+    {
+      "offset": 4608,
+      "value": "BoarRider15_Run1_3"
+    },
+    {
+      "offset": 4664,
+      "value": "BoarRider15_Run1_2"
+    },
+    {
+      "offset": 4720,
+      "value": "BoarRider15_Run1_1"
+    },
+    {
+      "offset": 4776,
+      "value": "BoarRider15_Idle1_3"
+    },
+    {
+      "offset": 4832,
+      "value": "BoarRider15_Idle1_1"
+    },
+    {
+      "offset": 4888,
+      "value": "BoarRider15_Idle1_0"
+    },
+    {
+      "offset": 4944,
+      "value": "BoarRider15_Attack1_3"
+    },
+    {
+      "offset": 5004,
+      "value": "BoarRider15_Attack1_2"
+    },
+    {
+      "offset": 5064,
+      "value": "BoarRider15_Attack1_1"
+    },
+    {
+      "offset": 5124,
+      "value": "BoarRider14_Run1_3"
+    },
+    {
+      "offset": 5180,
+      "value": "BoarRider14_Run1_2"
+    },
+    {
+      "offset": 5236,
+      "value": "BoarRider14_Run1_1"
+    },
+    {
+      "offset": 5292,
+      "value": "BoarRider14_Idle1_3"
+    },
+    {
+      "offset": 5348,
+      "value": "BoarRider14_Idle1_0"
+    },
+    {
+      "offset": 5404,
+      "value": "BoarRider14_Attack1_3"
+    },
+    {
+      "offset": 5464,
+      "value": "BoarRider14_Attack1_2"
+    },
+    {
+      "offset": 5524,
+      "value": "BoarRider14_Attack1_1"
+    },
+    {
+      "offset": 5584,
+      "value": "BoarRider11_Run1_3"
+    },
+    {
+      "offset": 5640,
+      "value": "BoarRider11_Run1_2"
+    },
+    {
+      "offset": 5696,
+      "value": "BoarRider11_Run1_1"
+    },
+    {
+      "offset": 5752,
+      "value": "BoarRider11_Idle1_3"
+    },
+    {
+      "offset": 5808,
+      "value": "BoarRider11_Attack1_3"
+    },
+    {
+      "offset": 5868,
+      "value": "BoarRider11_Attack1_2"
+    },
+    {
+      "offset": 5928,
+      "value": "BoarRider11_Attack1_1"
+    },
+    {
+      "offset": 5988,
+      "value": "BoarRider10_Run1_3"
+    },
+    {
+      "offset": 6044,
+      "value": "BoarRider10_Run1_2"
+    },
+    {
+      "offset": 6100,
+      "value": "BoarRider10_Run1_1"
+    },
+    {
+      "offset": 6156,
+      "value": "BoarRider10_Idle1_3"
+    },
+    {
+      "offset": 6212,
+      "value": "BoarRider10_Attack1_3"
+    },
+    {
+      "offset": 6272,
+      "value": "BoarRider10_Attack1_2"
+    },
+    {
+      "offset": 6340,
+      "value": "BoarRider10_Attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "BoarRider9_Run1_3",
+    "BoarRider9_Run1_2",
+    "BoarRider9_Run1_1",
+    "BoarRider9_Idle1_3",
+    "BoarRider9_Attack1_3",
+    "BoarRider9_Attack1_2",
+    "BoarRider9_Attack1_1",
+    "BoarRider8_Run1_3",
+    "BoarRider8_Run1_2",
+    "BoarRider8_Run1_1",
+    "BoarRider8_Idle1_3",
+    "BoarRider8_Attack1_3",
+    "BoarRider8_Attack1_2",
+    "BoarRider8_Attack1_1",
+    "BoarRider7_Run1_3",
+    "BoarRider7_Run1_2",
+    "BoarRider7_Run1_1",
+    "BoarRider7_Idle1_3",
+    "BoarRider7_Attack1_3",
+    "BoarRider7_Attack1_2",
+    "BoarRider7_Attack1_1",
+    "BoarRider6_Run1_3",
+    "BoarRider6_Run1_2",
+    "BoarRider6_Run1_1",
+    "BoarRider6_Idle1_3",
+    "BoarRider6_Attack1_3",
+    "BoarRider6_Attack1_2",
+    "BoarRider6_Attack1_1",
+    "BoarRider5_Run1_3",
+    "BoarRider5_Run1_2",
+    "BoarRider5_Run1_1",
+    "BoarRider5_Idle1_3",
+    "BoarRider5_Attack1_3",
+    "BoarRider5_Attack1_2",
+    "BoarRider5_Attack1_1",
+    "BoarRider4_Run1_3",
+    "BoarRider4_Run1_2",
+    "BoarRider4_Run1_1",
+    "BoarRider4_Idle1_3",
+    "BoarRider4_Idle1_1",
+    "BoarRider4_Idle1_0",
+    "BoarRider4_Attack1_3",
+    "BoarRider4_Attack1_2",
+    "BoarRider4_Attack1_1",
+    "BoarRider3_Run1_3",
+    "BoarRider3_Run1_2",
+    "BoarRider3_Run1_1",
+    "BoarRider3_Idle1_3",
+    "BoarRider3_Idle1_1",
+    "BoarRider3_Idle1_0",
+    "BoarRider3_Attack1_3",
+    "BoarRider3_Attack1_2",
+    "BoarRider3_Attack1_1",
+    "BoarRider2_Run1_3",
+    "BoarRider2_Run1_2",
+    "BoarRider2_Run1_1",
+    "BoarRider2_Idle1_3",
+    "BoarRider2_Idle1_1",
+    "BoarRider2_Idle1_0",
+    "BoarRider2_Attack1_3",
+    "BoarRider2_Attack1_2",
+    "BoarRider2_Attack1_1",
+    "BoarRider1_Run1_3",
+    "BoarRider1_Run1_2",
+    "BoarRider1_Run1_1",
+    "BoarRider1_Idle1_3",
+    "BoarRider1_Idle1_1",
+    "BoarRider1_Idle1_0",
+    "BoarRider1_Attack1_3",
+    "BoarRider1_Attack1_2",
+    "BoarRider1_Attack1_1",
+    "BoarRider15_Run1_3",
+    "BoarRider15_Run1_2",
+    "BoarRider15_Run1_1",
+    "BoarRider15_Idle1_3",
+    "BoarRider15_Idle1_1",
+    "BoarRider15_Idle1_0",
+    "BoarRider15_Attack1_3",
+    "BoarRider15_Attack1_2",
+    "BoarRider15_Attack1_1",
+    "BoarRider14_Run1_3",
+    "BoarRider14_Run1_2",
+    "BoarRider14_Run1_1",
+    "BoarRider14_Idle1_3",
+    "BoarRider14_Idle1_0",
+    "BoarRider14_Attack1_3",
+    "BoarRider14_Attack1_2",
+    "BoarRider14_Attack1_1",
+    "BoarRider11_Run1_3",
+    "BoarRider11_Run1_2",
+    "BoarRider11_Run1_1",
+    "BoarRider11_Idle1_3",
+    "BoarRider11_Attack1_3",
+    "BoarRider11_Attack1_2",
+    "BoarRider11_Attack1_1",
+    "BoarRider10_Run1_3",
+    "BoarRider10_Run1_2",
+    "BoarRider10_Run1_1",
+    "BoarRider10_Idle1_3",
+    "BoarRider10_Attack1_3",
+    "BoarRider10_Attack1_2",
+    "BoarRider10_Attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3828,
+      "value": "wtKl"
+    },
+    {
+      "offset": 3852,
+      "value": "ivKl"
+    },
+    {
+      "offset": 4045,
+      "value": "J7X"
+    },
+    {
+      "offset": 4897,
+      "value": "jvv"
+    },
+    {
+      "offset": 5395,
+      "value": "Aff2A"
+    },
+    {
+      "offset": 6984,
+      "value": "z_gg"
+    },
+    {
+      "offset": 7009,
+      "value": "cPq"
+    },
+    {
+      "offset": 7140,
+      "value": "r7DD"
+    },
+    {
+      "offset": 7585,
+      "value": "cy9"
+    },
+    {
+      "offset": 8680,
+      "value": "ff.A"
+    },
+    {
+      "offset": 9013,
+      "value": "Paa"
+    },
+    {
+      "offset": 12229,
+      "value": "UV6"
+    },
+    {
+      "offset": 13069,
+      "value": "ODe"
+    },
+    {
+      "offset": 13093,
+      "value": "QDe"
+    },
+    {
+      "offset": 15484,
+      "value": "ffAB"
+    },
+    {
+      "offset": 16297,
+      "value": "cUU"
+    },
+    {
+      "offset": 16308,
+      "value": "khXX"
+    },
+    {
+      "offset": 20388,
+      "value": "wtKl"
+    },
+    {
+      "offset": 20412,
+      "value": "ivKl"
+    },
+    {
+      "offset": 21361,
+      "value": "jvv"
+    },
+    {
+      "offset": 23460,
+      "value": "r7DD"
+    },
+    {
+      "offset": 23881,
+      "value": "cy9"
+    },
+    {
+      "offset": 24976,
+      "value": "ff.A"
+    },
+    {
+      "offset": 25309,
+      "value": "Paa"
+    },
+    {
+      "offset": 29149,
+      "value": "ODe"
+    },
+    {
+      "offset": 29173,
+      "value": "QDe"
+    },
+    {
+      "offset": 30304,
+      "value": "ff:A"
+    },
+    {
+      "offset": 31420,
+      "value": "ffAB"
+    },
+    {
+      "offset": 32209,
+      "value": "cUU"
+    },
+    {
+      "offset": 32220,
+      "value": "khXX"
+    },
+    {
+      "offset": 36204,
+      "value": "wtKl"
+    },
+    {
+      "offset": 36228,
+      "value": "ivKl"
+    },
+    {
+      "offset": 37201,
+      "value": "jvv"
+    },
+    {
+      "offset": 39204,
+      "value": "r7DD"
+    },
+    {
+      "offset": 39625,
+      "value": "cy9"
+    },
+    {
+      "offset": 40720,
+      "value": "ff.A"
+    },
+    {
+      "offset": 41125,
+      "value": "Paa"
+    },
+    {
+      "offset": 44676,
+      "value": "wtKl"
+    },
+    {
+      "offset": 44700,
+      "value": "ivKl"
+    },
+    {
+      "offset": 45673,
+      "value": "jvv"
+    },
+    {
+      "offset": 47676,
+      "value": "r7DD"
+    },
+    {
+      "offset": 48097,
+      "value": "cy9"
+    },
+    {
+      "offset": 49192,
+      "value": "ff.A"
+    },
+    {
+      "offset": 49597,
+      "value": "Paa"
+    },
+    {
+      "offset": 53389,
+      "value": "ODe"
+    },
+    {
+      "offset": 53413,
+      "value": "QDe"
+    },
+    {
+      "offset": 53620,
+      "value": "ffbA"
+    },
+    {
+      "offset": 55684,
+      "value": "ffAB"
+    },
+    {
+      "offset": 56497,
+      "value": "cUU"
+    },
+    {
+      "offset": 56508,
+      "value": "khXX"
+    },
+    {
+      "offset": 56824,
+      "value": "ffVA"
+    },
+    {
+      "offset": 60924,
+      "value": "wtKl"
+    },
+    {
+      "offset": 60948,
+      "value": "ivKl"
+    },
+    {
+      "offset": 62161,
+      "value": "jvv"
+    },
+    {
+      "offset": 64668,
+      "value": "r7DD"
+    },
+    {
+      "offset": 65137,
+      "value": "cy9"
+    },
+    {
+      "offset": 66424,
+      "value": "ff.A"
+    },
+    {
+      "offset": 66925,
+      "value": "Paa"
+    },
+    {
+      "offset": 70453,
+      "value": "Qk+"
+    },
+    {
+      "offset": 71581,
+      "value": "ODe"
+    },
+    {
+      "offset": 71605,
+      "value": "QDe"
+    },
+    {
+      "offset": 72292,
+      "value": "ff.A"
+    },
+    {
+      "offset": 72304,
+      "value": "ff.A"
+    },
+    {
+      "offset": 73321,
+      "value": "VYY"
+    },
+    {
+      "offset": 74404,
+      "value": "ffAB"
+    },
+    {
+      "offset": 75004,
+      "value": "ff.A"
+    },
+    {
+      "offset": 75016,
+      "value": "ff.A"
+    },
+    {
+      "offset": 75409,
+      "value": "cUU"
+    },
+    {
+      "offset": 75420,
+      "value": "khXX"
+    },
+    {
+      "offset": 76672,
+      "value": "ffbA"
+    },
+    {
+      "offset": 80100,
+      "value": "wtKl"
+    },
+    {
+      "offset": 80124,
+      "value": "ivKl"
+    },
+    {
+      "offset": 81193,
+      "value": "jvv"
+    },
+    {
+      "offset": 83604,
+      "value": "r7DD"
+    },
+    {
+      "offset": 84049,
+      "value": "cy9"
+    },
+    {
+      "offset": 85240,
+      "value": "ff.A"
+    },
+    {
+      "offset": 85693,
+      "value": "Paa"
+    },
+    {
+      "offset": 88837,
+      "value": "Qk+"
+    },
+    {
+      "offset": 89869,
+      "value": "ODe"
+    },
+    {
+      "offset": 89893,
+      "value": "QDe"
+    },
+    {
+      "offset": 90484,
+      "value": "ff.A"
+    },
+    {
+      "offset": 90496,
+      "value": "ff.A"
+    },
+    {
+      "offset": 90579,
+      "value": "lff.A"
+    },
+    {
+      "offset": 90592,
+      "value": "ff.A"
+    },
+    {
+      "offset": 92500,
+      "value": "ffAB"
+    },
+    {
+      "offset": 92644,
+      "value": "ff_B"
+    },
+    {
+      "offset": 93052,
+      "value": "ff.A"
+    },
+    {
+      "offset": 93064,
+      "value": "ff.A"
+    },
+    {
+      "offset": 93147,
+      "value": "lff.A"
+    },
+    {
+      "offset": 93160,
+      "value": "ff.A"
+    },
+    {
+      "offset": 93481,
+      "value": "cUU"
+    },
+    {
+      "offset": 93492,
+      "value": "khXX"
+    },
+    {
+      "offset": 97548,
+      "value": "wtKl"
+    },
+    {
+      "offset": 97572,
+      "value": "ivKl"
+    },
+    {
+      "offset": 98449,
+      "value": "jvv"
+    },
+    {
+      "offset": 100476,
+      "value": "r7DD"
+    },
+    {
+      "offset": 100825,
+      "value": "cy9"
+    },
+    {
+      "offset": 101824,
+      "value": "ff.A"
+    },
+    {
+      "offset": 104797,
+      "value": "Qk+"
+    },
+    {
+      "offset": 105661,
+      "value": "ODe"
+    },
+    {
+      "offset": 105685,
+      "value": "QDe"
+    },
+    {
+      "offset": 105964,
+      "value": "ff.A"
+    },
+    {
+      "offset": 105976,
+      "value": "ff.A"
+    },
+    {
+      "offset": 107596,
+      "value": "ffAB"
+    },
+    {
+      "offset": 107740,
+      "value": "ff_B"
+    },
+    {
+      "offset": 111468,
+      "value": "wtKl"
+    },
+    {
+      "offset": 111492,
+      "value": "ivKl"
+    },
+    {
+      "offset": 112177,
+      "value": "jvv"
+    },
+    {
+      "offset": 113820,
+      "value": "r7DD"
+    },
+    {
+      "offset": 114073,
+      "value": "cy9"
+    },
+    {
+      "offset": 114880,
+      "value": "ff.A"
+    },
+    {
+      "offset": 117373,
+      "value": "Qk+"
+    },
+    {
+      "offset": 118021,
+      "value": "ODe"
+    },
+    {
+      "offset": 118045,
+      "value": "QDe"
+    },
+    {
+      "offset": 118276,
+      "value": "ff.A"
+    },
+    {
+      "offset": 118288,
+      "value": "ff.A"
+    },
+    {
+      "offset": 119572,
+      "value": "ffAB"
+    },
+    {
+      "offset": 122364,
+      "value": "wtKl"
+    },
+    {
+      "offset": 122388,
+      "value": "ivKl"
+    },
+    {
+      "offset": 122881,
+      "value": "jvv"
+    },
+    {
+      "offset": 124297,
+      "value": "cy9"
+    },
+    {
+      "offset": 124912,
+      "value": "ff.A"
+    },
+    {
+      "offset": 126637,
+      "value": "Qk+"
+    },
+    {
+      "offset": 127093,
+      "value": "ODe"
+    },
+    {
+      "offset": 127117,
+      "value": "QDe"
+    },
+    {
+      "offset": 127300,
+      "value": "ff.A"
+    },
+    {
+      "offset": 127312,
+      "value": "ff.A"
+    },
+    {
+      "offset": 128260,
+      "value": "ffAB"
+    },
+    {
+      "offset": 130188,
+      "value": "wtKl"
+    },
+    {
+      "offset": 130212,
+      "value": "ivKl"
+    },
+    {
+      "offset": 130513,
+      "value": "jvv"
+    },
+    {
+      "offset": 131449,
+      "value": "cy9"
+    },
+    {
+      "offset": 131872,
+      "value": "ff.A"
+    },
+    {
+      "offset": 133237,
+      "value": "ODe"
+    },
+    {
+      "offset": 133261,
+      "value": "QDe"
+    },
+    {
+      "offset": 133900,
+      "value": "ffAB"
+    },
+    {
+      "offset": 136263,
+      "value": "VffjA"
+    },
+    {
+      "offset": 136357,
+      "value": "CjJ"
+    },
+    {
+      "offset": 137569,
+      "value": "UVw"
+    },
+    {
+      "offset": 138013,
+      "value": "N0Q"
+    },
+    {
+      "offset": 138418,
+      "value": "qBdY"
+    },
+    {
+      "offset": 138889,
+      "value": "tN."
+    },
+    {
+      "offset": 141505,
+      "value": "cUU"
+    },
+    {
+      "offset": 141516,
+      "value": "khXX"
+    },
+    {
+      "offset": 141529,
+      "value": "cXX"
+    },
+    {
+      "offset": 144892,
+      "value": "ffAB"
+    },
+    {
+      "offset": 146327,
+      "value": "AWMv6"
+    },
+    {
+      "offset": 146400,
+      "value": "LZo/"
+    },
+    {
+      "offset": 147109,
+      "value": "ODe"
+    },
+    {
+      "offset": 147133,
+      "value": "QDe"
+    },
+    {
+      "offset": 147793,
+      "value": "cy9"
+    },
+    {
+      "offset": 148696,
+      "value": "ff.A"
+    },
+    {
+      "offset": 148933,
+      "value": "Paa"
+    },
+    {
+      "offset": 149905,
+      "value": "jvv"
+    },
+    {
+      "offset": 155929,
+      "value": "Ltt"
+    },
+    {
+      "offset": 158988,
+      "value": "wtKl"
+    },
+    {
+      "offset": 159012,
+      "value": "ivKl"
+    },
+    {
+      "offset": 161460,
+      "value": "_ueE"
+    },
+    {
+      "offset": 161484,
+      "value": "ByeE"
+    },
+    {
+      "offset": 162541,
+      "value": "ODe"
+    },
+    {
+      "offset": 162565,
+      "value": "QDe"
+    },
+    {
+      "offset": 162772,
+      "value": "ffbA"
+    },
+    {
+      "offset": 164836,
+      "value": "ffAB"
+    },
+    {
+      "offset": 165721,
+      "value": "cUU"
+    },
+    {
+      "offset": 165732,
+      "value": "khXX"
+    },
+    {
+      "offset": 165928,
+      "value": "ffVA"
+    },
+    {
+      "offset": 191312,
+      "value": "BoarRider4_Attack1_3"
+    },
+    {
+      "offset": 191340,
+      "value": "BoarRider4_Attack1_2"
+    },
+    {
+      "offset": 191368,
+      "value": "BoarRider6_Attack1_3"
+    },
+    {
+      "offset": 191396,
+      "value": "BoarRider3_Idle1_0"
+    },
+    {
+      "offset": 191420,
+      "value": "BoarRider3_Attack1_3"
+    },
+    {
+      "offset": 191448,
+      "value": "BoarRider3_Run1_2"
+    },
+    {
+      "offset": 191472,
+      "value": "BoarRider7_Run1_1"
+    },
+    {
+      "offset": 191496,
+      "value": "BoarRider3_Attack1_1"
+    },
+    {
+      "offset": 191524,
+      "value": "BoarRider2_Run1_3"
+    },
+    {
+      "offset": 191548,
+      "value": "BoarRider14_Run1_1"
+    },
+    {
+      "offset": 191572,
+      "value": "BoarRider2_Run1_1"
+    },
+    {
+      "offset": 191596,
+      "value": "BoarRider4_Run1_3"
+    },
+    {
+      "offset": 191620,
+      "value": "BoarRider2_Idle1_3"
+    },
+    {
+      "offset": 191644,
+      "value": "BoarRider3_Run1_1"
+    },
+    {
+      "offset": 191668,
+      "value": "BoarRider2_Idle1_1"
+    },
+    {
+      "offset": 191692,
+      "value": "BoarRider4_Run1_2"
+    },
+    {
+      "offset": 191716,
+      "value": "BoarRider5_Run1_3"
+    },
+    {
+      "offset": 191740,
+      "value": "BoarRider3_Attack1_2"
+    },
+    {
+      "offset": 191768,
+      "value": "BoarRider2_Attack1_1"
+    },
+    {
+      "offset": 191796,
+      "value": "BoarRider11_Attack1_1"
+    },
+    {
+      "offset": 191824,
+      "value": "BoarRider1_Run1_3"
+    },
+    {
+      "offset": 191848,
+      "value": "BoarRider1_Run1_2"
+    },
+    {
+      "offset": 191872,
+      "value": "BoarRider6_Run1_2"
+    },
+    {
+      "offset": 191896,
+      "value": "BoarRider9_Run1_3"
+    },
+    {
+      "offset": 191920,
+      "value": "BoarRider4_Attack1_1"
+    },
+    {
+      "offset": 191948,
+      "value": "BoarRider2_Idle1_0"
+    },
+    {
+      "offset": 191972,
+      "value": "BoarRider8_Run1_1"
+    },
+    {
+      "offset": 191996,
+      "value": "BoarRider1_Idle1_1"
+    },
+    {
+      "offset": 192020,
+      "value": "BoarRider1_Idle1_0"
+    },
+    {
+      "offset": 192044,
+      "value": "BoarRider1_Attack1_2"
+    },
+    {
+      "offset": 192072,
+      "value": "BoarRider3_Idle1_1"
+    },
+    {
+      "offset": 192096,
+      "value": "BoarRider15_Run1_1"
+    },
+    {
+      "offset": 192120,
+      "value": "BoarRider2_Attack1_3"
+    },
+    {
+      "offset": 192148,
+      "value": "BoarRider14_Idle1_3"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000490300006b0000000100000080f50200",
+  "decoded_preview_hex": "7cf5020018000000000012001400040000000000000008000c001000120000008ce90200c08f0200f806000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

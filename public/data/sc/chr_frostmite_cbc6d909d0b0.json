@@ -1,0 +1,136 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_frostmite.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_frostmite.sc",
+  "sha256_container": "cbc6d909d0b0c0db561af0802c85edd479e19fabcc534debb1e3b99063f1ded4",
+  "sha256_descriptor": "cc8209753b468e3c5b21349535d9c7ce33775f0f7d9b0b511d1bb65ddf9f4acd",
+  "sha256_decoded_payload": "b461110ebb495f4e527974cff291909e5d8d2222a90c597c04c905c3b423bbcf",
+  "version": 6,
+  "descriptor_bytes": 468,
+  "compressed_frame_bytes": 1307,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 4584,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 22
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 9
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 2280
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 1264
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 1312
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 136,
+      "value": "frostmite_lvl1_run1_3"
+    },
+    {
+      "offset": 196,
+      "value": "frostmite_lvl1_run1_2"
+    },
+    {
+      "offset": 256,
+      "value": "frostmite_lvl1_run1_1"
+    },
+    {
+      "offset": 316,
+      "value": "frostmite_lvl1_idle1_3"
+    },
+    {
+      "offset": 376,
+      "value": "frostmite_lvl1_idle1_2"
+    },
+    {
+      "offset": 444,
+      "value": "frostmite_lvl1_idle1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "frostmite_lvl1_run1_3",
+    "frostmite_lvl1_run1_2",
+    "frostmite_lvl1_run1_1",
+    "frostmite_lvl1_idle1_3",
+    "frostmite_lvl1_idle1_2",
+    "frostmite_lvl1_idle1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1277,
+      "value": "W6k"
+    },
+    {
+      "offset": 2108,
+      "value": "frostmite_lvl1_idle1_2"
+    },
+    {
+      "offset": 2136,
+      "value": "frostmite_lvl1_idle1_3"
+    },
+    {
+      "offset": 2164,
+      "value": "frostmite_lvl1_run1_1"
+    },
+    {
+      "offset": 2192,
+      "value": "frostmite_lvl1_run1_2"
+    },
+    {
+      "offset": 2220,
+      "value": "frostmite_lvl1_idle1_1"
+    },
+    {
+      "offset": 2248,
+      "value": "frostmite_lvl1_run1_3"
+    },
+    {
+      "offset": 4560,
+      "value": "chr_frostmite_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000160000000900000001000000e8080000f0040000",
+  "decoded_preview_hex": "e408000018000000000012001400040000000000000008000c00100012000000f80700000c050000e400000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_bomber.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_bomber.sc",
+  "sha256_container": "14beb0b0cdac348b8b2c8b49adee650e3e46c50204cec9b1ef696de0c29bce6b",
+  "sha256_descriptor": "d132c8daff2ee6c608b0780c3608273ccbc75adc50febeb28bb0acfd06842a89",
+  "sha256_decoded_payload": "62c43a697a78d281a4bec0a48226fda8d0c10ccfb0d5f4a0db1ca543f49dc4bc",
+  "version": 6,
+  "descriptor_bytes": 228,
+  "compressed_frame_bytes": 34430,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 79120,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 424
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 78232
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 34432
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "unit_bomber_big"
+    },
+    {
+      "offset": 212,
+      "value": "card_bomber_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_bomber_big",
+    "card_bomber_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 348,
+      "value": "bounds"
+    },
+    {
+      "offset": 360,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 380,
+      "value": "card_bomber_big"
+    },
+    {
+      "offset": 400,
+      "value": "unit_bomber_big"
+    },
+    {
+      "offset": 9521,
+      "value": "BOm"
+    },
+    {
+      "offset": 19793,
+      "value": "Bqvv"
+    },
+    {
+      "offset": 27143,
+      "value": "c d"
+    },
+    {
+      "offset": 41455,
+      "value": "RMBI9"
+    },
+    {
+      "offset": 48522,
+      "value": "Ph "
+    },
+    {
+      "offset": 52078,
+      "value": "uO_"
+    },
+    {
+      "offset": 56198,
+      "value": "jU "
+    },
+    {
+      "offset": 57116,
+      "value": "pYWWs"
+    },
+    {
+      "offset": 61355,
+      "value": "Yq "
+    },
+    {
+      "offset": 70125,
+      "value": "c/q_"
+    },
+    {
+      "offset": 70837,
+      "value": "P94"
+    },
+    {
+      "offset": 71347,
+      "value": "Sc8"
+    },
+    {
+      "offset": 73477,
+      "value": "l4@"
+    },
+    {
+      "offset": 75350,
+      "value": "Q.M"
+    },
+    {
+      "offset": 77768,
+      "value": "h/ "
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000d40a1775b3e6ac6b1d1c43502625f519c971cf891c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "a401000018000000000012001400040000000000000008000c0010001200000020010000040100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

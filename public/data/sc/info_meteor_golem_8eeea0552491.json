@@ -1,0 +1,415 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_meteor_golem.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_meteor_golem.sc",
+  "sha256_container": "8eeea05524917c65925ad2327a7f453cb6d139ef455777c83ea90dd9eb8a9031",
+  "sha256_descriptor": "de7d96d3b473ebfb5fea4f73ba4c0ec971b90e7827d5ca81f9d6c00f6f162490",
+  "sha256_decoded_payload": "1f50339896680f72329ab42a177416bdc89897adade95418733fa672d05b3f9b",
+  "version": 6,
+  "descriptor_bytes": 308,
+  "compressed_frame_bytes": 178750,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 375824,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 572
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 374680
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 178752
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 156,
+      "value": "unit_meteorgolem_small"
+    },
+    {
+      "offset": 216,
+      "value": "unit_meteorgolem_big"
+    },
+    {
+      "offset": 284,
+      "value": "card_meteorgolem_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_meteorgolem_small",
+    "unit_meteorgolem_big",
+    "card_meteorgolem_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 452,
+      "value": "bounds"
+    },
+    {
+      "offset": 464,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 484,
+      "value": "unit_meteorgolem_big"
+    },
+    {
+      "offset": 512,
+      "value": "unit_meteorgolem_small"
+    },
+    {
+      "offset": 540,
+      "value": "card_meteorgolem_big"
+    },
+    {
+      "offset": 3433,
+      "value": "Epd "
+    },
+    {
+      "offset": 8149,
+      "value": "t:F"
+    },
+    {
+      "offset": 12304,
+      "value": "O@eH0"
+    },
+    {
+      "offset": 12530,
+      "value": "ivFX4D"
+    },
+    {
+      "offset": 17172,
+      "value": "Px2L"
+    },
+    {
+      "offset": 17317,
+      "value": "N0B"
+    },
+    {
+      "offset": 17765,
+      "value": "pNX"
+    },
+    {
+      "offset": 19573,
+      "value": "J 6"
+    },
+    {
+      "offset": 21545,
+      "value": "PV "
+    },
+    {
+      "offset": 32670,
+      "value": "rWo"
+    },
+    {
+      "offset": 37565,
+      "value": "qIN_"
+    },
+    {
+      "offset": 46028,
+      "value": "YJxT_"
+    },
+    {
+      "offset": 47773,
+      "value": "OMvo"
+    },
+    {
+      "offset": 52292,
+      "value": "Xv0"
+    },
+    {
+      "offset": 54061,
+      "value": "fm-_"
+    },
+    {
+      "offset": 66002,
+      "value": "QS0 "
+    },
+    {
+      "offset": 66273,
+      "value": "B1Tx"
+    },
+    {
+      "offset": 73553,
+      "value": "C58F"
+    },
+    {
+      "offset": 77022,
+      "value": "dP_"
+    },
+    {
+      "offset": 81846,
+      "value": "G4A"
+    },
+    {
+      "offset": 88122,
+      "value": "kWd6"
+    },
+    {
+      "offset": 95241,
+      "value": "gkjZ"
+    },
+    {
+      "offset": 101985,
+      "value": "B+Hh"
+    },
+    {
+      "offset": 106318,
+      "value": "Pfo"
+    },
+    {
+      "offset": 107470,
+      "value": "yM_"
+    },
+    {
+      "offset": 108257,
+      "value": "AsE"
+    },
+    {
+      "offset": 109745,
+      "value": "C/Rx"
+    },
+    {
+      "offset": 112399,
+      "value": "RqI"
+    },
+    {
+      "offset": 114903,
+      "value": "geA"
+    },
+    {
+      "offset": 116523,
+      "value": "FbgF"
+    },
+    {
+      "offset": 120259,
+      "value": "SL "
+    },
+    {
+      "offset": 122497,
+      "value": "C+Hd"
+    },
+    {
+      "offset": 124403,
+      "value": "s@ "
+    },
+    {
+      "offset": 137951,
+      "value": "W2I"
+    },
+    {
+      "offset": 138142,
+      "value": "beo"
+    },
+    {
+      "offset": 142046,
+      "value": "DiO"
+    },
+    {
+      "offset": 172421,
+      "value": "ah3L1"
+    },
+    {
+      "offset": 176063,
+      "value": "MBI"
+    },
+    {
+      "offset": 198638,
+      "value": "o.o"
+    },
+    {
+      "offset": 199342,
+      "value": "kao"
+    },
+    {
+      "offset": 200721,
+      "value": "A9A"
+    },
+    {
+      "offset": 204352,
+      "value": "cAOC"
+    },
+    {
+      "offset": 209190,
+      "value": "wd "
+    },
+    {
+      "offset": 210628,
+      "value": "jrJR"
+    },
+    {
+      "offset": 210790,
+      "value": "V@ "
+    },
+    {
+      "offset": 213044,
+      "value": "Pl6F"
+    },
+    {
+      "offset": 213138,
+      "value": "Ih2N B"
+    },
+    {
+      "offset": 215669,
+      "value": "Mu3"
+    },
+    {
+      "offset": 215989,
+      "value": "lHR"
+    },
+    {
+      "offset": 220305,
+      "value": "BcH2"
+    },
+    {
+      "offset": 221633,
+      "value": "BWX\\"
+    },
+    {
+      "offset": 222901,
+      "value": "qtNq"
+    },
+    {
+      "offset": 222930,
+      "value": "cL8"
+    },
+    {
+      "offset": 239294,
+      "value": "fE_"
+    },
+    {
+      "offset": 240858,
+      "value": "DPA"
+    },
+    {
+      "offset": 246420,
+      "value": "NFD"
+    },
+    {
+      "offset": 250942,
+      "value": "uTn"
+    },
+    {
+      "offset": 250990,
+      "value": "MWo"
+    },
+    {
+      "offset": 251282,
+      "value": "_lNVFH"
+    },
+    {
+      "offset": 251630,
+      "value": "Bv_"
+    },
+    {
+      "offset": 253948,
+      "value": "I@ "
+    },
+    {
+      "offset": 256082,
+      "value": "_fNTFL"
+    },
+    {
+      "offset": 268283,
+      "value": "AA@"
+    },
+    {
+      "offset": 282542,
+      "value": "YVCH"
+    },
+    {
+      "offset": 307524,
+      "value": "HTDT"
+    },
+    {
+      "offset": 309890,
+      "value": "QdJRDR"
+    },
+    {
+      "offset": 321518,
+      "value": "Kf_"
+    },
+    {
+      "offset": 321630,
+      "value": "HbN"
+    },
+    {
+      "offset": 321634,
+      "value": "IL@D:B"
+    },
+    {
+      "offset": 345634,
+      "value": "QjJ\\FX"
+    },
+    {
+      "offset": 346353,
+      "value": "BGHH"
+    },
+    {
+      "offset": 348409,
+      "value": "yIR"
+    },
+    {
+      "offset": 365089,
+      "value": "C_bf"
+    },
+    {
+      "offset": 370065,
+      "value": "Bmrv"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000024cc704573c77782b0c6144421486ffb428a1e71c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "3802000018000000000012001400040000000000000008000c0010001200000084010000640100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

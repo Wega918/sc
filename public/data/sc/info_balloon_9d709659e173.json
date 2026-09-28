@@ -1,0 +1,166 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_balloon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_balloon.sc",
+  "sha256_container": "9d709659e173b50a68212326e2f2351be52579f68709e3656e7fdd560f72e5ec",
+  "sha256_descriptor": "fcbd386551a6b03e7c9a4f40b0b9213e3f6b4ca02324b979b968027ccace5094",
+  "sha256_decoded_payload": "60b2a87130d27691b60b777a3967509a7f115f2fe6fe74a04160af7b9c093ed6",
+  "version": 6,
+  "descriptor_bytes": 236,
+  "compressed_frame_bytes": 48770,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 72280,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 432
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 71384
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 48772
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "unit_balloon_big"
+    },
+    {
+      "offset": 216,
+      "value": "card_balloon_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_balloon_big",
+    "card_balloon_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 348,
+      "value": "bounds"
+    },
+    {
+      "offset": 360,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 380,
+      "value": "unit_balloon_big"
+    },
+    {
+      "offset": 404,
+      "value": "card_balloon_big"
+    },
+    {
+      "offset": 10652,
+      "value": "Xhbt"
+    },
+    {
+      "offset": 15931,
+      "value": "IenNX"
+    },
+    {
+      "offset": 18019,
+      "value": "LiPA"
+    },
+    {
+      "offset": 19020,
+      "value": "PZN\\"
+    },
+    {
+      "offset": 19763,
+      "value": "OiXD"
+    },
+    {
+      "offset": 20171,
+      "value": "AajJR"
+    },
+    {
+      "offset": 20212,
+      "value": "SoQeO"
+    },
+    {
+      "offset": 24373,
+      "value": "MXMqI"
+    },
+    {
+      "offset": 48044,
+      "value": "fp1"
+    },
+    {
+      "offset": 51287,
+      "value": "bRAk\\\\"
+    },
+    {
+      "offset": 53075,
+      "value": "f.hd"
+    },
+    {
+      "offset": 54899,
+      "value": "PIl"
+    },
+    {
+      "offset": 57352,
+      "value": "oH4"
+    },
+    {
+      "offset": 65903,
+      "value": "RoQ"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000005eb86005adfe8fafb4bb920d81de365d554f91a01c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "ac01000018000000000012001400040000000000000008000c0010001200000020010000040100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,1094 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "ui_bb2.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\ui_bb2.sc",
+  "sha256_container": "2e72ae4d9d861b1e8a21a739f2a6ce8e33b8271a2b6c41dc6370f30be6e8c8fe",
+  "sha256_descriptor": "860125466d5b5a533287a390d73a928193c4ec5b9e8a407eed96a2369dfbe695",
+  "sha256_decoded_payload": "55b5f934cf2446f00cfde8338ebc05c37cecbeb1da7130874dc64a48638028f4",
+  "version": 6,
+  "descriptor_bytes": 2668,
+  "compressed_frame_bytes": 790171,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 1739412,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 157
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 186
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 155
+    },
+    {
+      "field_index": 7,
+      "offset": 64,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 68,
+      "raw_u32": 219956
+    },
+    {
+      "field_index": 9,
+      "offset": 72,
+      "raw_u32": 1456904
+    },
+    {
+      "field_index": 10,
+      "offset": 76,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 80,
+      "raw_u32": 790176
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 292,
+      "value": "victory_rating_star"
+    },
+    {
+      "offset": 348,
+      "value": "star_icon"
+    },
+    {
+      "offset": 396,
+      "value": "profile_info_button"
+    },
+    {
+      "offset": 452,
+      "value": "league_upgrade"
+    },
+    {
+      "offset": 504,
+      "value": "icon_gold2"
+    },
+    {
+      "offset": 552,
+      "value": "icon_capital_reward"
+    },
+    {
+      "offset": 608,
+      "value": "icon_capital_resource"
+    },
+    {
+      "offset": 668,
+      "value": "go_home_button"
+    },
+    {
+      "offset": 720,
+      "value": "generic_health_bar"
+    },
+    {
+      "offset": 776,
+      "value": "elixir_cart_full"
+    },
+    {
+      "offset": 832,
+      "value": "currently_attacked"
+    },
+    {
+      "offset": 888,
+      "value": "bb2_troop_slot_locked"
+    },
+    {
+      "offset": 948,
+      "value": "bb2_troop_slot"
+    },
+    {
+      "offset": 1000,
+      "value": "bb2_troop_card_animation"
+    },
+    {
+      "offset": 1064,
+      "value": "bb2_troop_card_03"
+    },
+    {
+      "offset": 1120,
+      "value": "bb2_troop_card_02"
+    },
+    {
+      "offset": 1176,
+      "value": "bb2_troop_card"
+    },
+    {
+      "offset": 1228,
+      "value": "bb2_trained_item"
+    },
+    {
+      "offset": 1284,
+      "value": "bb2_stars"
+    },
+    {
+      "offset": 1332,
+      "value": "bb2_star_bonus_window"
+    },
+    {
+      "offset": 1392,
+      "value": "bb2_star_big"
+    },
+    {
+      "offset": 1444,
+      "value": "bb2_silver_star_separated"
+    },
+    {
+      "offset": 1508,
+      "value": "bb2_reward_details_small"
+    },
+    {
+      "offset": 1572,
+      "value": "bb2_reward_details"
+    },
+    {
+      "offset": 1628,
+      "value": "bb2_overall_damage"
+    },
+    {
+      "offset": 1684,
+      "value": "bb2_outer_circle_timer"
+    },
+    {
+      "offset": 1744,
+      "value": "bb2_matchmaking_ui"
+    },
+    {
+      "offset": 1800,
+      "value": "bb2_leaderboard_rank_item"
+    },
+    {
+      "offset": 1864,
+      "value": "bb2_leaderboard_player_item"
+    },
+    {
+      "offset": 1928,
+      "value": "bb2_leaderboard_clan_item"
+    },
+    {
+      "offset": 1992,
+      "value": "bb2_leaderboard"
+    },
+    {
+      "offset": 2044,
+      "value": "bb2_inner_circle_timer"
+    },
+    {
+      "offset": 2104,
+      "value": "bb2_health_bar_03"
+    },
+    {
+      "offset": 2160,
+      "value": "bb2_health_bar_02"
+    },
+    {
+      "offset": 2216,
+      "value": "bb2_health_bar"
+    },
+    {
+      "offset": 2268,
+      "value": "bb2_end_of_replay_screen"
+    },
+    {
+      "offset": 2332,
+      "value": "bb2_end_of_battle_screen"
+    },
+    {
+      "offset": 2396,
+      "value": "bb2_defence_reward_ui"
+    },
+    {
+      "offset": 2456,
+      "value": "bb2_bronze_star_separated"
+    },
+    {
+      "offset": 2520,
+      "value": "bb2_battlelog_item_small"
+    },
+    {
+      "offset": 2584,
+      "value": "bb2_battlelog_item"
+    },
+    {
+      "offset": 2648,
+      "value": "bb2_army_training"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "victory_rating_star",
+    "star_icon",
+    "profile_info_button",
+    "league_upgrade",
+    "icon_gold2",
+    "icon_capital_reward",
+    "icon_capital_resource",
+    "go_home_button",
+    "generic_health_bar",
+    "elixir_cart_full",
+    "currently_attacked",
+    "bb2_troop_slot_locked",
+    "bb2_troop_slot",
+    "bb2_troop_card_animation",
+    "bb2_troop_card_03",
+    "bb2_troop_card_02",
+    "bb2_troop_card",
+    "bb2_trained_item",
+    "bb2_stars",
+    "bb2_star_bonus_window",
+    "bb2_star_big",
+    "bb2_silver_star_separated",
+    "bb2_reward_details_small",
+    "bb2_reward_details",
+    "bb2_overall_damage",
+    "bb2_outer_circle_timer",
+    "bb2_matchmaking_ui",
+    "bb2_leaderboard_rank_item",
+    "bb2_leaderboard_player_item",
+    "bb2_leaderboard_clan_item",
+    "bb2_leaderboard",
+    "bb2_inner_circle_timer",
+    "bb2_health_bar_03",
+    "bb2_health_bar_02",
+    "bb2_health_bar",
+    "bb2_end_of_replay_screen",
+    "bb2_end_of_battle_screen",
+    "bb2_defence_reward_ui",
+    "bb2_bronze_star_separated",
+    "bb2_battlelog_item_small",
+    "bb2_battlelog_item",
+    "bb2_army_training"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 4125,
+      "value": "p5@"
+    },
+    {
+      "offset": 4245,
+      "value": "pQ@"
+    },
+    {
+      "offset": 5301,
+      "value": "pL@"
+    },
+    {
+      "offset": 6837,
+      "value": "P3@"
+    },
+    {
+      "offset": 11484,
+      "value": "ffnBffrA"
+    },
+    {
+      "offset": 11508,
+      "value": "ffCDff.A"
+    },
+    {
+      "offset": 12357,
+      "value": "po@"
+    },
+    {
+      "offset": 14037,
+      "value": "PC@"
+    },
+    {
+      "offset": 14109,
+      "value": "pM@"
+    },
+    {
+      "offset": 15561,
+      "value": "Pr@"
+    },
+    {
+      "offset": 15664,
+      "value": "ffbA"
+    },
+    {
+      "offset": 16977,
+      "value": "Pr@"
+    },
+    {
+      "offset": 17776,
+      "value": "ffV@"
+    },
+    {
+      "offset": 19216,
+      "value": "ffvA"
+    },
+    {
+      "offset": 19360,
+      "value": "ffjA"
+    },
+    {
+      "offset": 19521,
+      "value": "PI@"
+    },
+    {
+      "offset": 19696,
+      "value": "ffNA"
+    },
+    {
+      "offset": 20008,
+      "value": "ff2A"
+    },
+    {
+      "offset": 20698,
+      "value": "z@ffV@"
+    },
+    {
+      "offset": 21636,
+      "value": "fff@"
+    },
+    {
+      "offset": 24492,
+      "value": "fffB"
+    },
+    {
+      "offset": 26197,
+      "value": "LAC"
+    },
+    {
+      "offset": 26629,
+      "value": "sLC"
+    },
+    {
+      "offset": 26940,
+      "value": "ffMC33CA"
+    },
+    {
+      "offset": 26966,
+      "value": "MCffnA"
+    },
+    {
+      "offset": 27037,
+      "value": "sLC"
+    },
+    {
+      "offset": 27302,
+      "value": "FCffQB"
+    },
+    {
+      "offset": 27350,
+      "value": "ECfffB"
+    },
+    {
+      "offset": 27469,
+      "value": "LAC"
+    },
+    {
+      "offset": 28912,
+      "value": "ff.A"
+    },
+    {
+      "offset": 31454,
+      "value": "C@33s@"
+    },
+    {
+      "offset": 31478,
+      "value": "C@ff6@"
+    },
+    {
+      "offset": 32781,
+      "value": "p9@"
+    },
+    {
+      "offset": 32853,
+      "value": "P_@"
+    },
+    {
+      "offset": 34005,
+      "value": "TOA"
+    },
+    {
+      "offset": 34149,
+      "value": "DbA"
+    },
+    {
+      "offset": 34173,
+      "value": "leA"
+    },
+    {
+      "offset": 38968,
+      "value": "ff3B"
+    },
+    {
+      "offset": 43576,
+      "value": "ffZA"
+    },
+    {
+      "offset": 44196,
+      "value": "ffMB"
+    },
+    {
+      "offset": 44869,
+      "value": "LJC"
+    },
+    {
+      "offset": 44941,
+      "value": "LJC"
+    },
+    {
+      "offset": 50853,
+      "value": "pQ@"
+    },
+    {
+      "offset": 51909,
+      "value": "l/A"
+    },
+    {
+      "offset": 52149,
+      "value": "dKA"
+    },
+    {
+      "offset": 53157,
+      "value": "pR@"
+    },
+    {
+      "offset": 54231,
+      "value": "BffFA"
+    },
+    {
+      "offset": 54421,
+      "value": "LAC"
+    },
+    {
+      "offset": 55095,
+      "value": "C33vB"
+    },
+    {
+      "offset": 55599,
+      "value": "C33vB"
+    },
+    {
+      "offset": 55982,
+      "value": "ZC33.B"
+    },
+    {
+      "offset": 57180,
+      "value": "ff8C"
+    },
+    {
+      "offset": 57591,
+      "value": "C33c@"
+    },
+    {
+      "offset": 57948,
+      "value": "ffv@"
+    },
+    {
+      "offset": 60684,
+      "value": "ff B"
+    },
+    {
+      "offset": 62533,
+      "value": "s2C"
+    },
+    {
+      "offset": 62557,
+      "value": "L1C"
+    },
+    {
+      "offset": 62821,
+      "value": "L5C"
+    },
+    {
+      "offset": 62845,
+      "value": "s1C"
+    },
+    {
+      "offset": 63084,
+      "value": "ff B"
+    },
+    {
+      "offset": 63324,
+      "value": "ff1C"
+    },
+    {
+      "offset": 63421,
+      "value": "Y1C"
+    },
+    {
+      "offset": 65004,
+      "value": "ffFA"
+    },
+    {
+      "offset": 65413,
+      "value": "Y.C"
+    },
+    {
+      "offset": 65679,
+      "value": "B33"
+    },
+    {
+      "offset": 65749,
+      "value": "YDC"
+    },
+    {
+      "offset": 65916,
+      "value": "ffEB"
+    },
+    {
+      "offset": 66445,
+      "value": "YEC"
+    },
+    {
+      "offset": 66637,
+      "value": "sEC33"
+    },
+    {
+      "offset": 67020,
+      "value": "ffrA"
+    },
+    {
+      "offset": 67524,
+      "value": "ffnA"
+    },
+    {
+      "offset": 68388,
+      "value": "ffNA"
+    },
+    {
+      "offset": 70764,
+      "value": "ff8C"
+    },
+    {
+      "offset": 71892,
+      "value": "ff8C"
+    },
+    {
+      "offset": 72037,
+      "value": "Y9C"
+    },
+    {
+      "offset": 72517,
+      "value": "sBC"
+    },
+    {
+      "offset": 72996,
+      "value": "ffSC"
+    },
+    {
+      "offset": 73719,
+      "value": "AffvA"
+    },
+    {
+      "offset": 74757,
+      "value": "HkA"
+    },
+    {
+      "offset": 74921,
+      "value": "L\\C"
+    },
+    {
+      "offset": 87489,
+      "value": "nuk"
+    },
+    {
+      "offset": 87513,
+      "value": "ouk"
+    },
+    {
+      "offset": 87537,
+      "value": "ouk"
+    },
+    {
+      "offset": 87561,
+      "value": "ruk"
+    },
+    {
+      "offset": 87585,
+      "value": "ruk"
+    },
+    {
+      "offset": 87609,
+      "value": "tuk"
+    },
+    {
+      "offset": 87789,
+      "value": "n7p"
+    },
+    {
+      "offset": 87813,
+      "value": "o7p"
+    },
+    {
+      "offset": 87837,
+      "value": "o7p"
+    },
+    {
+      "offset": 87861,
+      "value": "r7p"
+    },
+    {
+      "offset": 87885,
+      "value": "r7p"
+    },
+    {
+      "offset": 87909,
+      "value": "t7p"
+    },
+    {
+      "offset": 93596,
+      "value": "zx@"
+    },
+    {
+      "offset": 93620,
+      "value": "zx@"
+    },
+    {
+      "offset": 93728,
+      "value": "zx@"
+    },
+    {
+      "offset": 93752,
+      "value": "zx@"
+    },
+    {
+      "offset": 94216,
+      "value": "ff0B"
+    },
+    {
+      "offset": 94293,
+      "value": "eXq"
+    },
+    {
+      "offset": 94317,
+      "value": "yXq"
+    },
+    {
+      "offset": 97305,
+      "value": "Kpa"
+    },
+    {
+      "offset": 97353,
+      "value": "E+X"
+    },
+    {
+      "offset": 97365,
+      "value": "C+X"
+    },
+    {
+      "offset": 98972,
+      "value": "Gu3g"
+    },
+    {
+      "offset": 98995,
+      "value": "AGu5k"
+    },
+    {
+      "offset": 99525,
+      "value": "d7o"
+    },
+    {
+      "offset": 99549,
+      "value": "aXr"
+    },
+    {
+      "offset": 99561,
+      "value": "Wwo"
+    },
+    {
+      "offset": 102858,
+      "value": "LBp9Vn"
+    },
+    {
+      "offset": 102882,
+      "value": "LBp9Vn"
+    },
+    {
+      "offset": 102909,
+      "value": "WVn"
+    },
+    {
+      "offset": 102990,
+      "value": "LBp9Vn"
+    },
+    {
+      "offset": 103002,
+      "value": "lBp97p"
+    },
+    {
+      "offset": 103014,
+      "value": "LBp9Vn"
+    },
+    {
+      "offset": 103026,
+      "value": "lBp97p"
+    },
+    {
+      "offset": 103041,
+      "value": "WVn"
+    },
+    {
+      "offset": 103053,
+      "value": "W7p"
+    },
+    {
+      "offset": 103134,
+      "value": "lBp97p"
+    },
+    {
+      "offset": 103158,
+      "value": "lBp97p"
+    },
+    {
+      "offset": 103185,
+      "value": "W7p"
+    },
+    {
+      "offset": 107605,
+      "value": "L.D"
+    },
+    {
+      "offset": 108153,
+      "value": "zW0"
+    },
+    {
+      "offset": 110448,
+      "value": "ffVB"
+    },
+    {
+      "offset": 110460,
+      "value": "ffVB"
+    },
+    {
+      "offset": 110592,
+      "value": "ffVB"
+    },
+    {
+      "offset": 110604,
+      "value": "ffVB"
+    },
+    {
+      "offset": 110736,
+      "value": "ffVB"
+    },
+    {
+      "offset": 112770,
+      "value": "GB2k"
+    },
+    {
+      "offset": 112842,
+      "value": "GB2k"
+    },
+    {
+      "offset": 112912,
+      "value": "ff@B2k"
+    },
+    {
+      "offset": 112983,
+      "value": "Bff@B2k"
+    },
+    {
+      "offset": 214672,
+      "value": "heal_ability"
+    },
+    {
+      "offset": 214692,
+      "value": "big"
+    },
+    {
+      "offset": 214700,
+      "value": "small"
+    },
+    {
+      "offset": 214712,
+      "value": "ability_ready"
+    },
+    {
+      "offset": 214732,
+      "value": "troop_06_deployed"
+    },
+    {
+      "offset": 214756,
+      "value": "troop_05_deployed"
+    },
+    {
+      "offset": 214780,
+      "value": "troop_04_deployed"
+    },
+    {
+      "offset": 214804,
+      "value": "troop_03_deployed"
+    },
+    {
+      "offset": 214828,
+      "value": "troop_02_deployed"
+    },
+    {
+      "offset": 214852,
+      "value": "troop_01_deployed"
+    },
+    {
+      "offset": 214876,
+      "value": "bg1"
+    },
+    {
+      "offset": 214884,
+      "value": "trophy_range"
+    },
+    {
+      "offset": 214904,
+      "value": "star_amount"
+    },
+    {
+      "offset": 214920,
+      "value": "required_stars_text"
+    },
+    {
+      "offset": 214944,
+      "value": "current_rank_bg"
+    },
+    {
+      "offset": 214964,
+      "value": "rank_bg"
+    },
+    {
+      "offset": 214976,
+      "value": "player_rank"
+    },
+    {
+      "offset": 214992,
+      "value": "cc_leaderboard_top_clans"
+    },
+    {
+      "offset": 215024,
+      "value": "cc_leaderboard_current_rank"
+    },
+    {
+      "offset": 215056,
+      "value": "tab_03"
+    },
+    {
+      "offset": 215068,
+      "value": "tab_02"
+    },
+    {
+      "offset": 215080,
+      "value": "tab_01"
+    },
+    {
+      "offset": 215092,
+      "value": "unable_to_locate_country"
+    },
+    {
+      "offset": 215124,
+      "value": "button_02"
+    },
+    {
+      "offset": 215140,
+      "value": "button_01"
+    },
+    {
+      "offset": 215156,
+      "value": "not_pressed"
+    },
+    {
+      "offset": 215172,
+      "value": "pressed"
+    },
+    {
+      "offset": 215184,
+      "value": "inactive"
+    },
+    {
+      "offset": 215200,
+      "value": "active"
+    },
+    {
+      "offset": 215212,
+      "value": "challenge_troop_segment"
+    },
+    {
+      "offset": 215240,
+      "value": "reward_segment"
+    },
+    {
+      "offset": 215260,
+      "value": "troop_segment"
+    },
+    {
+      "offset": 215280,
+      "value": "challenge_buttons"
+    },
+    {
+      "offset": 215304,
+      "value": "grass"
+    },
+    {
+      "offset": 215316,
+      "value": "reward_02"
+    },
+    {
+      "offset": 215332,
+      "value": "reward_01"
+    },
+    {
+      "offset": 215348,
+      "value": "rewards_text"
+    },
+    {
+      "offset": 215368,
+      "value": "button_watch_replay"
+    },
+    {
+      "offset": 215392,
+      "value": "try_again_button"
+    },
+    {
+      "offset": 215416,
+      "value": "home_button"
+    },
+    {
+      "offset": 215432,
+      "value": "TID_BUTTON_TRY_AGAIN"
+    },
+    {
+      "offset": 215460,
+      "value": "damage_text"
+    },
+    {
+      "offset": 215476,
+      "value": "TID_OVERALL_DAMAGE"
+    },
+    {
+      "offset": 215500,
+      "value": "button_share_replay"
+    },
+    {
+      "offset": 215524,
+      "value": "trophy_amount"
+    },
+    {
+      "offset": 215544,
+      "value": "star_bonus_info_text"
+    },
+    {
+      "offset": 215572,
+      "value": "star_bonus_text"
+    },
+    {
+      "offset": 215592,
+      "value": "gold_amount"
+    },
+    {
+      "offset": 215608,
+      "value": "button_starbonus_boost"
+    },
+    {
+      "offset": 215636,
+      "value": "starbonus_text"
+    },
+    {
+      "offset": 215656,
+      "value": "text2"
+    },
+    {
+      "offset": 215668,
+      "value": "star_bonus_info"
+    },
+    {
+      "offset": 215688,
+      "value": "all_buildings_ready"
+    },
+    {
+      "offset": 215712,
+      "value": "TID_TRAIN_TROOPS_HINT"
+    },
+    {
+      "offset": 215740,
+      "value": "points"
+    },
+    {
+      "offset": 215752,
+      "value": "TID_BUILDING_STATUS"
+    },
+    {
+      "offset": 215776,
+      "value": "TID_YOUR_TROOPS"
+    },
+    {
+      "offset": 215796,
+      "value": "building_broken_4"
+    },
+    {
+      "offset": 215820,
+      "value": "building_broken_3"
+    },
+    {
+      "offset": 215844,
+      "value": "building_broken_2"
+    },
+    {
+      "offset": 215868,
+      "value": "building_broken"
+    },
+    {
+      "offset": 215888,
+      "value": "buildings_check"
+    },
+    {
+      "offset": 215908,
+      "value": "troops_check"
+    },
+    {
+      "offset": 215928,
+      "value": "button_attack_cooldown"
+    },
+    {
+      "offset": 215956,
+      "value": "button_attack"
+    },
+    {
+      "offset": 215976,
+      "value": "troops"
+    },
+    {
+      "offset": 215988,
+      "value": "upgrading"
+    },
+    {
+      "offset": 216004,
+      "value": "info"
+    },
+    {
+      "offset": 216016,
+      "value": "TID_BUTTON_ATTACK_COOLDOWN"
+    },
+    {
+      "offset": 216048,
+      "value": "disclaimer"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c003000040008000c0010001400180000001c002000240028002c001c00000001000000010000009d000000ba000000010000009b000000",
+  "decoded_preview_hex": "305b03001800000000001200180004000000000008000c00100014001200000018420300403f030010ba0100b84c010004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

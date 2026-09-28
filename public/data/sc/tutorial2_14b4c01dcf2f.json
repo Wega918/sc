@@ -1,0 +1,314 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "tutorial2.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\tutorial2.sc",
+  "sha256_container": "14b4c01dcf2fd0b0bcea4273113bb53ee8c9fcb3bff2c9dd32107e614a9e2c08",
+  "sha256_descriptor": "9e6cb0ec944c48e0d77d86d8eff0e56bb2920ea65b748b3af945574651a3237b",
+  "sha256_decoded_payload": "c54ea6669ec6a90b3ba1559bdf1daee91af2067d595ca82836c71e937af6b213",
+  "version": 6,
+  "descriptor_bytes": 476,
+  "compressed_frame_bytes": 47661,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 102804,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 30
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 10
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 36836
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 59624
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 47664
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 144,
+      "value": "wizard1_run1_1"
+    },
+    {
+      "offset": 196,
+      "value": "tutorial_hand_hold"
+    },
+    {
+      "offset": 252,
+      "value": "tutorial_hand"
+    },
+    {
+      "offset": 304,
+      "value": "tap_guide"
+    },
+    {
+      "offset": 352,
+      "value": "hold_guide"
+    },
+    {
+      "offset": 400,
+      "value": "duel_guide"
+    },
+    {
+      "offset": 456,
+      "value": "barbarian1_run_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "wizard1_run1_1",
+    "tutorial_hand_hold",
+    "tutorial_hand",
+    "tap_guide",
+    "hold_guide",
+    "duel_guide",
+    "barbarian1_run_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3215,
+      "value": "A33GB"
+    },
+    {
+      "offset": 3289,
+      "value": "YCC"
+    },
+    {
+      "offset": 4296,
+      "value": "ff@B"
+    },
+    {
+      "offset": 4368,
+      "value": "ffOB"
+    },
+    {
+      "offset": 4776,
+      "value": "ffnA"
+    },
+    {
+      "offset": 4848,
+      "value": "ffFA"
+    },
+    {
+      "offset": 5184,
+      "value": "ffOB"
+    },
+    {
+      "offset": 5256,
+      "value": "ffDB"
+    },
+    {
+      "offset": 5376,
+      "value": "ffVB"
+    },
+    {
+      "offset": 6695,
+      "value": "CffVB"
+    },
+    {
+      "offset": 7628,
+      "value": "ff6B"
+    },
+    {
+      "offset": 9598,
+      "value": "YB33"
+    },
+    {
+      "offset": 10777,
+      "value": "sJC"
+    },
+    {
+      "offset": 12192,
+      "value": "ffZB"
+    },
+    {
+      "offset": 12936,
+      "value": "ffnB"
+    },
+    {
+      "offset": 13104,
+      "value": "ff4B"
+    },
+    {
+      "offset": 13128,
+      "value": "ffiB"
+    },
+    {
+      "offset": 13176,
+      "value": "ff1B"
+    },
+    {
+      "offset": 13248,
+      "value": "ff.B"
+    },
+    {
+      "offset": 13368,
+      "value": "ffdB"
+    },
+    {
+      "offset": 13632,
+      "value": "ffXB"
+    },
+    {
+      "offset": 13776,
+      "value": "ffSB"
+    },
+    {
+      "offset": 13920,
+      "value": "ffNB"
+    },
+    {
+      "offset": 14592,
+      "value": "ff8B"
+    },
+    {
+      "offset": 18744,
+      "value": "ffcB"
+    },
+    {
+      "offset": 24848,
+      "value": "ffzA"
+    },
+    {
+      "offset": 36696,
+      "value": "duel_guide"
+    },
+    {
+      "offset": 36712,
+      "value": "tutorial_hand_hold"
+    },
+    {
+      "offset": 36736,
+      "value": "hold_guide"
+    },
+    {
+      "offset": 36752,
+      "value": "barbarian1_run_1"
+    },
+    {
+      "offset": 36776,
+      "value": "wizard1_run1_1"
+    },
+    {
+      "offset": 36796,
+      "value": "tap_guide"
+    },
+    {
+      "offset": 36812,
+      "value": "tutorial_hand"
+    },
+    {
+      "offset": 46378,
+      "value": "_Dj"
+    },
+    {
+      "offset": 51292,
+      "value": "f@9"
+    },
+    {
+      "offset": 51577,
+      "value": "HLPf"
+    },
+    {
+      "offset": 58534,
+      "value": "wNv"
+    },
+    {
+      "offset": 60906,
+      "value": "B/B"
+    },
+    {
+      "offset": 61725,
+      "value": "Z5j"
+    },
+    {
+      "offset": 68839,
+      "value": "sg5"
+    },
+    {
+      "offset": 78997,
+      "value": "A-00"
+    },
+    {
+      "offset": 82414,
+      "value": "rf89"
+    },
+    {
+      "offset": 83371,
+      "value": "Xx@"
+    },
+    {
+      "offset": 83546,
+      "value": "dX "
+    },
+    {
+      "offset": 86219,
+      "value": "Cz."
+    },
+    {
+      "offset": 87342,
+      "value": "srtP"
+    },
+    {
+      "offset": 91033,
+      "value": "LA@"
+    },
+    {
+      "offset": 92954,
+      "value": "I@ "
+    },
+    {
+      "offset": 95921,
+      "value": "Vvso"
+    },
+    {
+      "offset": 96130,
+      "value": "tBo"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c00000001000000010000001e0000000a0000000100000003000000e48f0000",
+  "decoded_preview_hex": "e08f000018000000000012001400040000000000000008000c00100012000000108f000024680000d45e000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_pet_mightyyak.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_mightyyak.sc",
+  "sha256_container": "f26fa7d892aee4e65dcb67473059b719c2bb6bf71381be000962442f8ec93a2c",
+  "sha256_descriptor": "4bb4d1f245cc6bc6734ab85a7b4ae237cc47a34f70ee5c925a842b57e5b04b0a",
+  "sha256_decoded_payload": "93c5a58b82befa1d2c20d6fe0ba627f2edf3639fa6bf7ea59e4aacba8d4726f3",
+  "version": 6,
+  "descriptor_bytes": 156,
+  "compressed_frame_bytes": 63950,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 93596,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 224
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 93112
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 63952
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 132,
+      "value": "unit_pet_mightyyak_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_pet_mightyyak_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 192,
+      "value": "unit_pet_mightyyak_big"
+    },
+    {
+      "offset": 7472,
+      "value": "jtBL"
+    },
+    {
+      "offset": 11022,
+      "value": "dkJ"
+    },
+    {
+      "offset": 16537,
+      "value": "hIMo"
+    },
+    {
+      "offset": 17496,
+      "value": "j3p"
+    },
+    {
+      "offset": 21082,
+      "value": "Ymo"
+    },
+    {
+      "offset": 22026,
+      "value": "e9O"
+    },
+    {
+      "offset": 23152,
+      "value": "Zf4:"
+    },
+    {
+      "offset": 25431,
+      "value": "Pqvq"
+    },
+    {
+      "offset": 29146,
+      "value": "ySO"
+    },
+    {
+      "offset": 30312,
+      "value": "i0A"
+    },
+    {
+      "offset": 31114,
+      "value": "_mo"
+    },
+    {
+      "offset": 31416,
+      "value": "ACe8n"
+    },
+    {
+      "offset": 32218,
+      "value": "m2_"
+    },
+    {
+      "offset": 33690,
+      "value": "ahO"
+    },
+    {
+      "offset": 35599,
+      "value": "q4-"
+    },
+    {
+      "offset": 41683,
+      "value": "_S4"
+    },
+    {
+      "offset": 41959,
+      "value": "jSJJ"
+    },
+    {
+      "offset": 44632,
+      "value": "KBr"
+    },
+    {
+      "offset": 45193,
+      "value": "H90s"
+    },
+    {
+      "offset": 48394,
+      "value": "hzo"
+    },
+    {
+      "offset": 49201,
+      "value": "v0B"
+    },
+    {
+      "offset": 50705,
+      "value": "GA "
+    },
+    {
+      "offset": 55431,
+      "value": "tqU"
+    },
+    {
+      "offset": 57477,
+      "value": "aAFH"
+    },
+    {
+      "offset": 57866,
+      "value": "K-_"
+    },
+    {
+      "offset": 57883,
+      "value": "InH"
+    },
+    {
+      "offset": 61584,
+      "value": "hp2:"
+    },
+    {
+      "offset": 61930,
+      "value": "g@_"
+    },
+    {
+      "offset": 62543,
+      "value": "vg1a"
+    },
+    {
+      "offset": 64584,
+      "value": "DDDDo"
+    },
+    {
+      "offset": 67386,
+      "value": "le_"
+    },
+    {
+      "offset": 72906,
+      "value": "CMn"
+    },
+    {
+      "offset": 81594,
+      "value": "Flo"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000010000000100000003000000",
+  "decoded_preview_hex": "dc00000018000000000012001400040000000000000008000c001000120000009000000080000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

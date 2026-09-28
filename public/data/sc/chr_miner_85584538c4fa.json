@@ -1,0 +1,1294 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_miner.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_miner.sc",
+  "sha256_container": "85584538c4fae264d8c0145684249b75e4904ff622708405a9ae3a7fc1d01a80",
+  "sha256_descriptor": "9f535433283bf72663f7af38cbc7486beb2d0d109da2bc33f92ecebe28daa7c0",
+  "sha256_decoded_payload": "00db0ee6015e48729c86681d8e208fbe7b836fcfc469d7b62a90c8564d7dc1f4",
+  "version": 6,
+  "descriptor_bytes": 6676,
+  "compressed_frame_bytes": 44143,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 203268,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 511
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 127
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 148444
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 27284
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 44144
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 548,
+      "value": "miner_lvl6_run1_3"
+    },
+    {
+      "offset": 604,
+      "value": "miner_lvl6_run1_2"
+    },
+    {
+      "offset": 660,
+      "value": "miner_lvl6_run1_1"
+    },
+    {
+      "offset": 716,
+      "value": "miner_lvl6_idle1_3"
+    },
+    {
+      "offset": 772,
+      "value": "miner_lvl6_idle1_2"
+    },
+    {
+      "offset": 828,
+      "value": "miner_lvl6_idle1_1"
+    },
+    {
+      "offset": 884,
+      "value": "miner_lvl6_dig1_3"
+    },
+    {
+      "offset": 940,
+      "value": "miner_lvl6_dig1_2"
+    },
+    {
+      "offset": 996,
+      "value": "miner_lvl6_dig1_1"
+    },
+    {
+      "offset": 1052,
+      "value": "miner_lvl6_attack1_3"
+    },
+    {
+      "offset": 1112,
+      "value": "miner_lvl6_attack1_2"
+    },
+    {
+      "offset": 1172,
+      "value": "miner_lvl6_attack1_1"
+    },
+    {
+      "offset": 1232,
+      "value": "miner_lvl5_run1_3"
+    },
+    {
+      "offset": 1288,
+      "value": "miner_lvl5_run1_2"
+    },
+    {
+      "offset": 1344,
+      "value": "miner_lvl5_run1_1"
+    },
+    {
+      "offset": 1400,
+      "value": "miner_lvl5_idle1_3"
+    },
+    {
+      "offset": 1456,
+      "value": "miner_lvl5_idle1_2"
+    },
+    {
+      "offset": 1512,
+      "value": "miner_lvl5_idle1_1"
+    },
+    {
+      "offset": 1568,
+      "value": "miner_lvl5_dig1_3"
+    },
+    {
+      "offset": 1624,
+      "value": "miner_lvl5_dig1_2"
+    },
+    {
+      "offset": 1680,
+      "value": "miner_lvl5_dig1_1"
+    },
+    {
+      "offset": 1736,
+      "value": "miner_lvl5_attack1_3"
+    },
+    {
+      "offset": 1796,
+      "value": "miner_lvl5_attack1_2"
+    },
+    {
+      "offset": 1856,
+      "value": "miner_lvl5_attack1_1"
+    },
+    {
+      "offset": 1916,
+      "value": "miner_lvl4_run1_3"
+    },
+    {
+      "offset": 1972,
+      "value": "miner_lvl4_run1_2"
+    },
+    {
+      "offset": 2028,
+      "value": "miner_lvl4_run1_1"
+    },
+    {
+      "offset": 2084,
+      "value": "miner_lvl4_idle1_3"
+    },
+    {
+      "offset": 2140,
+      "value": "miner_lvl4_idle1_2"
+    },
+    {
+      "offset": 2196,
+      "value": "miner_lvl4_idle1_1"
+    },
+    {
+      "offset": 2252,
+      "value": "miner_lvl4_dig1_3"
+    },
+    {
+      "offset": 2308,
+      "value": "miner_lvl4_dig1_2"
+    },
+    {
+      "offset": 2364,
+      "value": "miner_lvl4_dig1_1"
+    },
+    {
+      "offset": 2420,
+      "value": "miner_lvl4_attack1_3"
+    },
+    {
+      "offset": 2480,
+      "value": "miner_lvl4_attack1_2"
+    },
+    {
+      "offset": 2540,
+      "value": "miner_lvl4_attack1_1"
+    },
+    {
+      "offset": 2600,
+      "value": "miner_lvl3_run1_3"
+    },
+    {
+      "offset": 2656,
+      "value": "miner_lvl3_run1_2"
+    },
+    {
+      "offset": 2712,
+      "value": "miner_lvl3_run1_1"
+    },
+    {
+      "offset": 2768,
+      "value": "miner_lvl3_idle1_3"
+    },
+    {
+      "offset": 2824,
+      "value": "miner_lvl3_idle1_2"
+    },
+    {
+      "offset": 2880,
+      "value": "miner_lvl3_idle1_1"
+    },
+    {
+      "offset": 2936,
+      "value": "miner_lvl3_dig1_3"
+    },
+    {
+      "offset": 2992,
+      "value": "miner_lvl3_dig1_2"
+    },
+    {
+      "offset": 3048,
+      "value": "miner_lvl3_dig1_1"
+    },
+    {
+      "offset": 3104,
+      "value": "miner_lvl3_attack1_3"
+    },
+    {
+      "offset": 3164,
+      "value": "miner_lvl3_attack1_2"
+    },
+    {
+      "offset": 3224,
+      "value": "miner_lvl3_attack1_1"
+    },
+    {
+      "offset": 3284,
+      "value": "miner_lvl2_run1_3"
+    },
+    {
+      "offset": 3340,
+      "value": "miner_lvl2_run1_2"
+    },
+    {
+      "offset": 3396,
+      "value": "miner_lvl2_run1_1"
+    },
+    {
+      "offset": 3452,
+      "value": "miner_lvl2_idle1_3"
+    },
+    {
+      "offset": 3508,
+      "value": "miner_lvl2_idle1_2"
+    },
+    {
+      "offset": 3564,
+      "value": "miner_lvl2_idle1_1"
+    },
+    {
+      "offset": 3620,
+      "value": "miner_lvl2_dig1_3"
+    },
+    {
+      "offset": 3676,
+      "value": "miner_lvl2_dig1_2"
+    },
+    {
+      "offset": 3732,
+      "value": "miner_lvl2_dig1_1"
+    },
+    {
+      "offset": 3788,
+      "value": "miner_lvl2_attack1_3"
+    },
+    {
+      "offset": 3848,
+      "value": "miner_lvl2_attack1_2"
+    },
+    {
+      "offset": 3908,
+      "value": "miner_lvl2_attack1_1"
+    },
+    {
+      "offset": 3968,
+      "value": "miner_lvl1_run1_3"
+    },
+    {
+      "offset": 4024,
+      "value": "miner_lvl1_run1_2"
+    },
+    {
+      "offset": 4080,
+      "value": "miner_lvl1_run1_1"
+    },
+    {
+      "offset": 4136,
+      "value": "miner_lvl1_idle1_3"
+    },
+    {
+      "offset": 4192,
+      "value": "miner_lvl1_idle1_2"
+    },
+    {
+      "offset": 4248,
+      "value": "miner_lvl1_idle1_1"
+    },
+    {
+      "offset": 4304,
+      "value": "miner_lvl1_dig1_3"
+    },
+    {
+      "offset": 4360,
+      "value": "miner_lvl1_dig1_2"
+    },
+    {
+      "offset": 4416,
+      "value": "miner_lvl1_dig1_1"
+    },
+    {
+      "offset": 4472,
+      "value": "miner_lvl1_attack1_3"
+    },
+    {
+      "offset": 4532,
+      "value": "miner_lvl1_attack1_2"
+    },
+    {
+      "offset": 4592,
+      "value": "miner_lvl1_attack1_1"
+    },
+    {
+      "offset": 4652,
+      "value": "miner_lvl12_run1_3"
+    },
+    {
+      "offset": 4708,
+      "value": "miner_lvl12_run1_2"
+    },
+    {
+      "offset": 4764,
+      "value": "miner_lvl12_run1_1"
+    },
+    {
+      "offset": 4820,
+      "value": "miner_lvl12_idle1_3"
+    },
+    {
+      "offset": 4876,
+      "value": "miner_lvl12_idle1_2"
+    },
+    {
+      "offset": 4932,
+      "value": "miner_lvl12_idle1_1"
+    },
+    {
+      "offset": 4988,
+      "value": "miner_lvl12_dig1_3"
+    },
+    {
+      "offset": 5044,
+      "value": "miner_lvl12_dig1_2"
+    },
+    {
+      "offset": 5100,
+      "value": "miner_lvl12_dig1_1"
+    },
+    {
+      "offset": 5156,
+      "value": "miner_lvl12_attack1_3"
+    },
+    {
+      "offset": 5216,
+      "value": "miner_lvl12_attack1_2"
+    },
+    {
+      "offset": 5276,
+      "value": "miner_lvl12_attack1_1"
+    },
+    {
+      "offset": 5336,
+      "value": "miner_lvl11_run1_3"
+    },
+    {
+      "offset": 5392,
+      "value": "miner_lvl11_run1_2"
+    },
+    {
+      "offset": 5448,
+      "value": "miner_lvl11_run1_1"
+    },
+    {
+      "offset": 5504,
+      "value": "miner_lvl11_idle1_3"
+    },
+    {
+      "offset": 5560,
+      "value": "miner_lvl11_idle1_2"
+    },
+    {
+      "offset": 5616,
+      "value": "miner_lvl11_idle1_1"
+    },
+    {
+      "offset": 5672,
+      "value": "miner_lvl11_dig1_3"
+    },
+    {
+      "offset": 5728,
+      "value": "miner_lvl11_dig1_2"
+    },
+    {
+      "offset": 5784,
+      "value": "miner_lvl11_dig1_1"
+    },
+    {
+      "offset": 5840,
+      "value": "miner_lvl11_attack1_3"
+    },
+    {
+      "offset": 5900,
+      "value": "miner_lvl11_attack1_2"
+    },
+    {
+      "offset": 5960,
+      "value": "miner_lvl11_attack1_1"
+    },
+    {
+      "offset": 6020,
+      "value": "miner_lvl10_run1_3"
+    },
+    {
+      "offset": 6076,
+      "value": "miner_lvl10_run1_2"
+    },
+    {
+      "offset": 6132,
+      "value": "miner_lvl10_run1_1"
+    },
+    {
+      "offset": 6188,
+      "value": "miner_lvl10_idle1_3"
+    },
+    {
+      "offset": 6244,
+      "value": "miner_lvl10_idle1_2"
+    },
+    {
+      "offset": 6300,
+      "value": "miner_lvl10_idle1_1"
+    },
+    {
+      "offset": 6356,
+      "value": "miner_lvl10_dig1_3"
+    },
+    {
+      "offset": 6412,
+      "value": "miner_lvl10_dig1_2"
+    },
+    {
+      "offset": 6468,
+      "value": "miner_lvl10_dig1_1"
+    },
+    {
+      "offset": 6524,
+      "value": "miner_lvl10_attack1_3"
+    },
+    {
+      "offset": 6584,
+      "value": "miner_lvl10_attack1_2"
+    },
+    {
+      "offset": 6652,
+      "value": "miner_lvl10_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "miner_lvl6_run1_3",
+    "miner_lvl6_run1_2",
+    "miner_lvl6_run1_1",
+    "miner_lvl6_idle1_3",
+    "miner_lvl6_idle1_2",
+    "miner_lvl6_idle1_1",
+    "miner_lvl6_dig1_3",
+    "miner_lvl6_dig1_2",
+    "miner_lvl6_dig1_1",
+    "miner_lvl6_attack1_3",
+    "miner_lvl6_attack1_2",
+    "miner_lvl6_attack1_1",
+    "miner_lvl5_run1_3",
+    "miner_lvl5_run1_2",
+    "miner_lvl5_run1_1",
+    "miner_lvl5_idle1_3",
+    "miner_lvl5_idle1_2",
+    "miner_lvl5_idle1_1",
+    "miner_lvl5_dig1_3",
+    "miner_lvl5_dig1_2",
+    "miner_lvl5_dig1_1",
+    "miner_lvl5_attack1_3",
+    "miner_lvl5_attack1_2",
+    "miner_lvl5_attack1_1",
+    "miner_lvl4_run1_3",
+    "miner_lvl4_run1_2",
+    "miner_lvl4_run1_1",
+    "miner_lvl4_idle1_3",
+    "miner_lvl4_idle1_2",
+    "miner_lvl4_idle1_1",
+    "miner_lvl4_dig1_3",
+    "miner_lvl4_dig1_2",
+    "miner_lvl4_dig1_1",
+    "miner_lvl4_attack1_3",
+    "miner_lvl4_attack1_2",
+    "miner_lvl4_attack1_1",
+    "miner_lvl3_run1_3",
+    "miner_lvl3_run1_2",
+    "miner_lvl3_run1_1",
+    "miner_lvl3_idle1_3",
+    "miner_lvl3_idle1_2",
+    "miner_lvl3_idle1_1",
+    "miner_lvl3_dig1_3",
+    "miner_lvl3_dig1_2",
+    "miner_lvl3_dig1_1",
+    "miner_lvl3_attack1_3",
+    "miner_lvl3_attack1_2",
+    "miner_lvl3_attack1_1",
+    "miner_lvl2_run1_3",
+    "miner_lvl2_run1_2",
+    "miner_lvl2_run1_1",
+    "miner_lvl2_idle1_3",
+    "miner_lvl2_idle1_2",
+    "miner_lvl2_idle1_1",
+    "miner_lvl2_dig1_3",
+    "miner_lvl2_dig1_2",
+    "miner_lvl2_dig1_1",
+    "miner_lvl2_attack1_3",
+    "miner_lvl2_attack1_2",
+    "miner_lvl2_attack1_1",
+    "miner_lvl1_run1_3",
+    "miner_lvl1_run1_2",
+    "miner_lvl1_run1_1",
+    "miner_lvl1_idle1_3",
+    "miner_lvl1_idle1_2",
+    "miner_lvl1_idle1_1",
+    "miner_lvl1_dig1_3",
+    "miner_lvl1_dig1_2",
+    "miner_lvl1_dig1_1",
+    "miner_lvl1_attack1_3",
+    "miner_lvl1_attack1_2",
+    "miner_lvl1_attack1_1",
+    "miner_lvl12_run1_3",
+    "miner_lvl12_run1_2",
+    "miner_lvl12_run1_1",
+    "miner_lvl12_idle1_3",
+    "miner_lvl12_idle1_2",
+    "miner_lvl12_idle1_1",
+    "miner_lvl12_dig1_3",
+    "miner_lvl12_dig1_2",
+    "miner_lvl12_dig1_1",
+    "miner_lvl12_attack1_3",
+    "miner_lvl12_attack1_2",
+    "miner_lvl12_attack1_1",
+    "miner_lvl11_run1_3",
+    "miner_lvl11_run1_2",
+    "miner_lvl11_run1_1",
+    "miner_lvl11_idle1_3",
+    "miner_lvl11_idle1_2",
+    "miner_lvl11_idle1_1",
+    "miner_lvl11_dig1_3",
+    "miner_lvl11_dig1_2",
+    "miner_lvl11_dig1_1",
+    "miner_lvl11_attack1_3",
+    "miner_lvl11_attack1_2",
+    "miner_lvl11_attack1_1",
+    "miner_lvl10_run1_3",
+    "miner_lvl10_run1_2",
+    "miner_lvl10_run1_1",
+    "miner_lvl10_idle1_3",
+    "miner_lvl10_idle1_2",
+    "miner_lvl10_idle1_1",
+    "miner_lvl10_dig1_3",
+    "miner_lvl10_dig1_2",
+    "miner_lvl10_dig1_1",
+    "miner_lvl10_attack1_3",
+    "miner_lvl10_attack1_2",
+    "miner_lvl10_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2672,
+      "value": "ffrA"
+    },
+    {
+      "offset": 3324,
+      "value": "ffzA"
+    },
+    {
+      "offset": 3708,
+      "value": "ffbA"
+    },
+    {
+      "offset": 5748,
+      "value": "ffZA"
+    },
+    {
+      "offset": 9060,
+      "value": "ffZA"
+    },
+    {
+      "offset": 10260,
+      "value": "fffA"
+    },
+    {
+      "offset": 10332,
+      "value": "fffA"
+    },
+    {
+      "offset": 14484,
+      "value": "ff6@"
+    },
+    {
+      "offset": 17580,
+      "value": "ffV@"
+    },
+    {
+      "offset": 17676,
+      "value": "ffjA"
+    },
+    {
+      "offset": 18516,
+      "value": "ffF@"
+    },
+    {
+      "offset": 20412,
+      "value": "ff.A"
+    },
+    {
+      "offset": 23580,
+      "value": "ff.A"
+    },
+    {
+      "offset": 28620,
+      "value": "ff2A"
+    },
+    {
+      "offset": 28784,
+      "value": "ffv@"
+    },
+    {
+      "offset": 29412,
+      "value": "ffNA"
+    },
+    {
+      "offset": 29532,
+      "value": "ffzA"
+    },
+    {
+      "offset": 36955,
+      "value": "VffFA"
+    },
+    {
+      "offset": 38681,
+      "value": "rTV"
+    },
+    {
+      "offset": 39140,
+      "value": "ffNA"
+    },
+    {
+      "offset": 46760,
+      "value": "ffNA"
+    },
+    {
+      "offset": 48127,
+      "value": "VffFA"
+    },
+    {
+      "offset": 50597,
+      "value": "rTV"
+    },
+    {
+      "offset": 51176,
+      "value": "ffNA"
+    },
+    {
+      "offset": 51248,
+      "value": "ffNA"
+    },
+    {
+      "offset": 51824,
+      "value": "ffNA"
+    },
+    {
+      "offset": 58052,
+      "value": "ffNA"
+    },
+    {
+      "offset": 58987,
+      "value": "VffFA"
+    },
+    {
+      "offset": 60761,
+      "value": "rTV"
+    },
+    {
+      "offset": 61220,
+      "value": "ffNA"
+    },
+    {
+      "offset": 61676,
+      "value": "ffNA"
+    },
+    {
+      "offset": 68455,
+      "value": "VffFA"
+    },
+    {
+      "offset": 70952,
+      "value": "ffNA"
+    },
+    {
+      "offset": 78319,
+      "value": "VffFA"
+    },
+    {
+      "offset": 80816,
+      "value": "ffNA"
+    },
+    {
+      "offset": 81104,
+      "value": "ffFA"
+    },
+    {
+      "offset": 82829,
+      "value": "fUR33sA"
+    },
+    {
+      "offset": 87103,
+      "value": "VffFA"
+    },
+    {
+      "offset": 87893,
+      "value": "yTw"
+    },
+    {
+      "offset": 88760,
+      "value": "ffNA"
+    },
+    {
+      "offset": 89000,
+      "value": "ffFA"
+    },
+    {
+      "offset": 90149,
+      "value": "fUR"
+    },
+    {
+      "offset": 91207,
+      "value": "e33sA"
+    },
+    {
+      "offset": 91384,
+      "value": "Y UL"
+    },
+    {
+      "offset": 100519,
+      "value": "VffFA"
+    },
+    {
+      "offset": 100591,
+      "value": "kff.A"
+    },
+    {
+      "offset": 100615,
+      "value": "cff.A"
+    },
+    {
+      "offset": 102149,
+      "value": "rTV"
+    },
+    {
+      "offset": 102656,
+      "value": "ffNA"
+    },
+    {
+      "offset": 103195,
+      "value": "lff"
+    },
+    {
+      "offset": 104693,
+      "value": "gUR"
+    },
+    {
+      "offset": 104729,
+      "value": "tUN"
+    },
+    {
+      "offset": 106145,
+      "value": "SU5"
+    },
+    {
+      "offset": 106169,
+      "value": "RU5"
+    },
+    {
+      "offset": 106855,
+      "value": "H331B"
+    },
+    {
+      "offset": 109460,
+      "value": "ff6@"
+    },
+    {
+      "offset": 109676,
+      "value": "ff6@"
+    },
+    {
+      "offset": 109892,
+      "value": "ff6@"
+    },
+    {
+      "offset": 110156,
+      "value": "ff6@"
+    },
+    {
+      "offset": 110372,
+      "value": "ff6@"
+    },
+    {
+      "offset": 110564,
+      "value": "ff6@"
+    },
+    {
+      "offset": 145740,
+      "value": "miner_lvl2_dig1_1"
+    },
+    {
+      "offset": 145764,
+      "value": "miner_lvl2_attack1_1"
+    },
+    {
+      "offset": 145792,
+      "value": "miner_lvl5_idle1_1"
+    },
+    {
+      "offset": 145816,
+      "value": "miner_lvl1_run1_1"
+    },
+    {
+      "offset": 145840,
+      "value": "miner_lvl3_attack1_2"
+    },
+    {
+      "offset": 145868,
+      "value": "miner_lvl1_attack1_1"
+    },
+    {
+      "offset": 145896,
+      "value": "miner_lvl5_run1_2"
+    },
+    {
+      "offset": 145920,
+      "value": "miner_lvl1_attack1_3"
+    },
+    {
+      "offset": 145948,
+      "value": "miner_lvl11_dig1_2"
+    },
+    {
+      "offset": 145972,
+      "value": "miner_lvl12_run1_2"
+    },
+    {
+      "offset": 145996,
+      "value": "miner_lvl1_idle1_2"
+    },
+    {
+      "offset": 146020,
+      "value": "miner_lvl4_attack1_3"
+    },
+    {
+      "offset": 146048,
+      "value": "miner_lvl12_run1_3"
+    },
+    {
+      "offset": 146072,
+      "value": "miner_lvl12_idle1_3"
+    },
+    {
+      "offset": 146096,
+      "value": "miner_lvl12_dig1_1"
+    },
+    {
+      "offset": 146120,
+      "value": "miner_lvl3_idle1_1"
+    },
+    {
+      "offset": 146144,
+      "value": "miner_lvl2_attack1_2"
+    },
+    {
+      "offset": 146172,
+      "value": "miner_lvl12_attack1_3"
+    },
+    {
+      "offset": 146200,
+      "value": "miner_lvl12_attack1_1"
+    },
+    {
+      "offset": 146228,
+      "value": "miner_lvl2_dig1_3"
+    },
+    {
+      "offset": 146252,
+      "value": "miner_lvl2_dig1_2"
+    },
+    {
+      "offset": 146276,
+      "value": "miner_lvl1_run1_3"
+    },
+    {
+      "offset": 146300,
+      "value": "miner_lvl11_dig1_3"
+    },
+    {
+      "offset": 146324,
+      "value": "miner_lvl10_idle1_2"
+    },
+    {
+      "offset": 146348,
+      "value": "miner_lvl11_dig1_1"
+    },
+    {
+      "offset": 146372,
+      "value": "miner_lvl11_run1_2"
+    },
+    {
+      "offset": 146396,
+      "value": "miner_lvl5_attack1_3"
+    },
+    {
+      "offset": 146424,
+      "value": "miner_lvl12_idle1_2"
+    },
+    {
+      "offset": 146448,
+      "value": "miner_lvl10_dig1_3"
+    },
+    {
+      "offset": 146472,
+      "value": "miner_lvl11_idle1_3"
+    },
+    {
+      "offset": 146496,
+      "value": "miner_lvl11_attack1_3"
+    },
+    {
+      "offset": 146524,
+      "value": "miner_lvl10_run1_1"
+    },
+    {
+      "offset": 146548,
+      "value": "miner_lvl3_run1_2"
+    },
+    {
+      "offset": 146572,
+      "value": "miner_lvl10_idle1_3"
+    },
+    {
+      "offset": 146596,
+      "value": "miner_lvl11_attack1_2"
+    },
+    {
+      "offset": 146624,
+      "value": "miner_lvl1_dig1_3"
+    },
+    {
+      "offset": 146648,
+      "value": "miner_lvl2_attack1_3"
+    },
+    {
+      "offset": 146676,
+      "value": "miner_lvl1_idle1_1"
+    },
+    {
+      "offset": 146700,
+      "value": "miner_lvl10_attack1_2"
+    },
+    {
+      "offset": 146728,
+      "value": "miner_lvl6_idle1_3"
+    },
+    {
+      "offset": 146752,
+      "value": "miner_lvl5_idle1_3"
+    },
+    {
+      "offset": 146776,
+      "value": "miner_lvl2_run1_3"
+    },
+    {
+      "offset": 146800,
+      "value": "miner_lvl1_idle1_3"
+    },
+    {
+      "offset": 146824,
+      "value": "miner_lvl4_run1_3"
+    },
+    {
+      "offset": 146848,
+      "value": "miner_lvl11_idle1_1"
+    },
+    {
+      "offset": 146872,
+      "value": "miner_lvl1_dig1_2"
+    },
+    {
+      "offset": 146896,
+      "value": "miner_lvl4_attack1_2"
+    },
+    {
+      "offset": 146924,
+      "value": "miner_lvl3_idle1_3"
+    },
+    {
+      "offset": 146948,
+      "value": "miner_lvl1_dig1_1"
+    },
+    {
+      "offset": 146972,
+      "value": "miner_lvl10_dig1_2"
+    },
+    {
+      "offset": 146996,
+      "value": "miner_lvl11_attack1_1"
+    },
+    {
+      "offset": 147024,
+      "value": "miner_lvl11_idle1_2"
+    },
+    {
+      "offset": 147048,
+      "value": "miner_lvl4_idle1_3"
+    },
+    {
+      "offset": 147072,
+      "value": "miner_lvl10_dig1_1"
+    },
+    {
+      "offset": 147096,
+      "value": "miner_lvl12_dig1_2"
+    },
+    {
+      "offset": 147120,
+      "value": "miner_lvl6_dig1_2"
+    },
+    {
+      "offset": 147144,
+      "value": "miner_lvl11_run1_1"
+    },
+    {
+      "offset": 147168,
+      "value": "miner_lvl1_attack1_2"
+    },
+    {
+      "offset": 147196,
+      "value": "miner_lvl4_run1_1"
+    },
+    {
+      "offset": 147220,
+      "value": "miner_lvl12_run1_1"
+    },
+    {
+      "offset": 147244,
+      "value": "miner_lvl2_idle1_3"
+    },
+    {
+      "offset": 147268,
+      "value": "miner_lvl5_attack1_1"
+    },
+    {
+      "offset": 147296,
+      "value": "miner_lvl10_run1_2"
+    },
+    {
+      "offset": 147320,
+      "value": "miner_lvl3_dig1_3"
+    },
+    {
+      "offset": 147344,
+      "value": "miner_lvl6_attack1_3"
+    },
+    {
+      "offset": 147372,
+      "value": "miner_lvl10_run1_3"
+    },
+    {
+      "offset": 147396,
+      "value": "miner_lvl10_attack1_1"
+    },
+    {
+      "offset": 147424,
+      "value": "miner_lvl1_run1_2"
+    },
+    {
+      "offset": 147448,
+      "value": "miner_lvl11_run1_3"
+    },
+    {
+      "offset": 147472,
+      "value": "miner_lvl3_attack1_3"
+    },
+    {
+      "offset": 147500,
+      "value": "miner_lvl12_dig1_3"
+    },
+    {
+      "offset": 147524,
+      "value": "miner_lvl4_idle1_1"
+    },
+    {
+      "offset": 147548,
+      "value": "miner_lvl10_attack1_3"
+    },
+    {
+      "offset": 147576,
+      "value": "miner_lvl12_attack1_2"
+    },
+    {
+      "offset": 147604,
+      "value": "miner_lvl10_idle1_1"
+    },
+    {
+      "offset": 147628,
+      "value": "miner_lvl12_idle1_1"
+    },
+    {
+      "offset": 147652,
+      "value": "miner_lvl2_idle1_1"
+    },
+    {
+      "offset": 147676,
+      "value": "miner_lvl3_run1_3"
+    },
+    {
+      "offset": 147700,
+      "value": "miner_lvl2_idle1_2"
+    },
+    {
+      "offset": 147724,
+      "value": "miner_lvl2_run1_1"
+    },
+    {
+      "offset": 147748,
+      "value": "miner_lvl2_run1_2"
+    },
+    {
+      "offset": 147772,
+      "value": "miner_lvl3_attack1_1"
+    },
+    {
+      "offset": 147800,
+      "value": "miner_lvl5_run1_3"
+    },
+    {
+      "offset": 147824,
+      "value": "miner_lvl6_idle1_2"
+    },
+    {
+      "offset": 147848,
+      "value": "miner_lvl3_dig1_1"
+    },
+    {
+      "offset": 147872,
+      "value": "miner_lvl6_run1_2"
+    },
+    {
+      "offset": 147896,
+      "value": "miner_lvl3_dig1_2"
+    },
+    {
+      "offset": 147920,
+      "value": "miner_lvl3_idle1_2"
+    },
+    {
+      "offset": 147944,
+      "value": "miner_lvl3_run1_1"
+    },
+    {
+      "offset": 147968,
+      "value": "miner_lvl4_attack1_1"
+    },
+    {
+      "offset": 147996,
+      "value": "miner_lvl6_dig1_1"
+    },
+    {
+      "offset": 148020,
+      "value": "miner_lvl4_dig1_1"
+    },
+    {
+      "offset": 148044,
+      "value": "miner_lvl4_dig1_2"
+    },
+    {
+      "offset": 148068,
+      "value": "miner_lvl4_dig1_3"
+    },
+    {
+      "offset": 148092,
+      "value": "miner_lvl4_idle1_2"
+    },
+    {
+      "offset": 148116,
+      "value": "miner_lvl4_run1_2"
+    },
+    {
+      "offset": 148140,
+      "value": "miner_lvl5_attack1_2"
+    },
+    {
+      "offset": 148168,
+      "value": "miner_lvl5_dig1_1"
+    },
+    {
+      "offset": 148192,
+      "value": "miner_lvl5_dig1_2"
+    },
+    {
+      "offset": 148216,
+      "value": "miner_lvl5_dig1_3"
+    },
+    {
+      "offset": 148240,
+      "value": "miner_lvl5_idle1_2"
+    },
+    {
+      "offset": 148264,
+      "value": "miner_lvl5_run1_1"
+    },
+    {
+      "offset": 148288,
+      "value": "miner_lvl6_attack1_1"
+    },
+    {
+      "offset": 148316,
+      "value": "miner_lvl6_attack1_2"
+    },
+    {
+      "offset": 148344,
+      "value": "miner_lvl6_dig1_3"
+    },
+    {
+      "offset": 148368,
+      "value": "miner_lvl6_idle1_1"
+    },
+    {
+      "offset": 148392,
+      "value": "miner_lvl6_run1_1"
+    },
+    {
+      "offset": 148416,
+      "value": "miner_lvl6_run1_3"
+    },
+    {
+      "offset": 203248,
+      "value": "chr_miner_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000ff0100007f00000001000000dc430200",
+  "decoded_preview_hex": "d843020018000000000012001400040000000000000008000c00100012000000703702002cb00100c879000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

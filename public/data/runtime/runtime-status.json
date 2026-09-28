@@ -1,0 +1,7 @@
+{
+  "format": "sc_battle_runtime_status_v1",
+  "catalog_units": 108,
+  "runtime_installed": 108,
+  "missing_runtime": [],
+  "file_mode": "lazy JavaScript wrappers; fetch/local server not required"
+}

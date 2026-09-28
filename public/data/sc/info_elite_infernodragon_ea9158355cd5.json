@@ -1,0 +1,146 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_elite_infernodragon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_infernodragon.sc",
+  "sha256_container": "ea9158355cd541c4a95681077759db163f1ae287bacc01dc4b32725b66d4dd5a",
+  "sha256_descriptor": "98a09845476762b501d9465f8b2d9ef49cb1f50a7cf0c45e5fc4feeaf68b06cf",
+  "sha256_decoded_payload": "68a826932858bd29fa6de3f941d80434bee684b88ee36e83f84b9f41fd63cbe2",
+  "version": 6,
+  "descriptor_bytes": 260,
+  "compressed_frame_bytes": 28389,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 37936,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 456
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 37016
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 28392
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "unit_elite_infernodragon_big"
+    },
+    {
+      "offset": 228,
+      "value": "card_elite_infernodragon_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_elite_infernodragon_big",
+    "card_elite_infernodragon_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 348,
+      "value": "bounds"
+    },
+    {
+      "offset": 360,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 380,
+      "value": "unit_elite_infernodragon_big"
+    },
+    {
+      "offset": 416,
+      "value": "card_elite_infernodragon_big"
+    },
+    {
+      "offset": 3164,
+      "value": "UkF"
+    },
+    {
+      "offset": 18494,
+      "value": "z5_"
+    },
+    {
+      "offset": 19634,
+      "value": "YfLZ2B"
+    },
+    {
+      "offset": 21330,
+      "value": "GRZp ."
+    },
+    {
+      "offset": 24457,
+      "value": "YDVA"
+    },
+    {
+      "offset": 26130,
+      "value": "CX6B08"
+    },
+    {
+      "offset": 27587,
+      "value": "F2D2H"
+    },
+    {
+      "offset": 30722,
+      "value": "KD@D@F"
+    },
+    {
+      "offset": 32733,
+      "value": "IRIo"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000fa7ab15ac1440e33edbb7aba627387818fa6f7ea1c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "c401000018000000000012001400040000000000000008000c0010001200000020010000040100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

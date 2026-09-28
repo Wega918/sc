@@ -1,0 +1,487 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "tutorial_characters_v2.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\tutorial_characters_v2.sc",
+  "sha256_container": "8716e2cdc66a09c87e11f02781456aef9baa17a742d6139b80cbead9f2f2b7f2",
+  "sha256_descriptor": "d662097329273a5ba4c9c5e6eb30bf5b21b1f51b29b1e2f71fc1d2fae41e0361",
+  "sha256_decoded_payload": "479d92b79810013d50ee35802c193e76d578e78f1e8d11299f4dfaee86142ad0",
+  "version": 6,
+  "descriptor_bytes": 612,
+  "compressed_frame_bytes": 161960,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 288924,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 7
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 12488
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 266168
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 161960
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 148,
+      "value": "character_otto_right"
+    },
+    {
+      "offset": 208,
+      "value": "character_otto_left"
+    },
+    {
+      "offset": 264,
+      "value": "character_builder_talking"
+    },
+    {
+      "offset": 328,
+      "value": "character_builder_talk_to_sleep"
+    },
+    {
+      "offset": 396,
+      "value": "character_builder_sleeping"
+    },
+    {
+      "offset": 460,
+      "value": "character_builder_sleep_to_talk"
+    },
+    {
+      "offset": 528,
+      "value": "character_bob_right"
+    },
+    {
+      "offset": 592,
+      "value": "character_bob_left"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "character_otto_right",
+    "character_otto_left",
+    "character_builder_talking",
+    "character_builder_talk_to_sleep",
+    "character_builder_sleeping",
+    "character_builder_sleep_to_talk",
+    "character_bob_right",
+    "character_bob_left"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1772,
+      "value": "ffJA"
+    },
+    {
+      "offset": 3284,
+      "value": "ff:A"
+    },
+    {
+      "offset": 4232,
+      "value": "ffeB"
+    },
+    {
+      "offset": 12220,
+      "value": "SleepLoop"
+    },
+    {
+      "offset": 12236,
+      "value": "Start"
+    },
+    {
+      "offset": 12248,
+      "value": "character_bob_left"
+    },
+    {
+      "offset": 12272,
+      "value": "character_builder_sleeping"
+    },
+    {
+      "offset": 12304,
+      "value": "character_otto_right"
+    },
+    {
+      "offset": 12332,
+      "value": "character_bob_right"
+    },
+    {
+      "offset": 12356,
+      "value": "character_builder_sleep_to_talk"
+    },
+    {
+      "offset": 12392,
+      "value": "character_builder_talking"
+    },
+    {
+      "offset": 12424,
+      "value": "character_builder_talk_to_sleep"
+    },
+    {
+      "offset": 12460,
+      "value": "character_otto_left"
+    },
+    {
+      "offset": 36883,
+      "value": "BpU"
+    },
+    {
+      "offset": 37328,
+      "value": "HN.6"
+    },
+    {
+      "offset": 42096,
+      "value": "HP.6"
+    },
+    {
+      "offset": 43696,
+      "value": "BD24"
+    },
+    {
+      "offset": 43920,
+      "value": "JL.0"
+    },
+    {
+      "offset": 43936,
+      "value": "JJ.0"
+    },
+    {
+      "offset": 45392,
+      "value": "NR48"
+    },
+    {
+      "offset": 45488,
+      "value": "JN.0"
+    },
+    {
+      "offset": 45536,
+      "value": "HJ.."
+    },
+    {
+      "offset": 47136,
+      "value": "JL.2"
+    },
+    {
+      "offset": 48480,
+      "value": "lp2"
+    },
+    {
+      "offset": 48752,
+      "value": "JL.0"
+    },
+    {
+      "offset": 50342,
+      "value": "_sG"
+    },
+    {
+      "offset": 50368,
+      "value": "JN.4"
+    },
+    {
+      "offset": 50560,
+      "value": "JT.4"
+    },
+    {
+      "offset": 51968,
+      "value": "NP46"
+    },
+    {
+      "offset": 51984,
+      "value": "JR.6"
+    },
+    {
+      "offset": 53600,
+      "value": "LP06"
+    },
+    {
+      "offset": 53616,
+      "value": "JN.2"
+    },
+    {
+      "offset": 55232,
+      "value": "JP.6"
+    },
+    {
+      "offset": 56848,
+      "value": "LN24"
+    },
+    {
+      "offset": 56864,
+      "value": "JN.4"
+    },
+    {
+      "offset": 57424,
+      "value": "THjY"
+    },
+    {
+      "offset": 58464,
+      "value": "JN.4"
+    },
+    {
+      "offset": 58496,
+      "value": "JP.6"
+    },
+    {
+      "offset": 58752,
+      "value": "JZ.8"
+    },
+    {
+      "offset": 64769,
+      "value": "v6F"
+    },
+    {
+      "offset": 66752,
+      "value": "HJ.."
+    },
+    {
+      "offset": 67014,
+      "value": "vbQN"
+    },
+    {
+      "offset": 68528,
+      "value": "JL.0"
+    },
+    {
+      "offset": 68544,
+      "value": "JL.0"
+    },
+    {
+      "offset": 72784,
+      "value": "Vv.V"
+    },
+    {
+      "offset": 72832,
+      "value": "T\\.2"
+    },
+    {
+      "offset": 74169,
+      "value": "snWo"
+    },
+    {
+      "offset": 79932,
+      "value": "cAkk"
+    },
+    {
+      "offset": 81418,
+      "value": "GB_"
+    },
+    {
+      "offset": 82331,
+      "value": "FQI"
+    },
+    {
+      "offset": 86766,
+      "value": "sko"
+    },
+    {
+      "offset": 95263,
+      "value": "wja"
+    },
+    {
+      "offset": 96972,
+      "value": "cAoF"
+    },
+    {
+      "offset": 97434,
+      "value": "p/n"
+    },
+    {
+      "offset": 99194,
+      "value": "v:O"
+    },
+    {
+      "offset": 100327,
+      "value": "tP@"
+    },
+    {
+      "offset": 103922,
+      "value": "_B:s"
+    },
+    {
+      "offset": 117799,
+      "value": "TQ@@"
+    },
+    {
+      "offset": 118144,
+      "value": "JlVt"
+    },
+    {
+      "offset": 123007,
+      "value": "tTo"
+    },
+    {
+      "offset": 150026,
+      "value": "Ywn"
+    },
+    {
+      "offset": 157712,
+      "value": "DH06"
+    },
+    {
+      "offset": 162986,
+      "value": "KTn"
+    },
+    {
+      "offset": 165130,
+      "value": "kYO"
+    },
+    {
+      "offset": 173660,
+      "value": "o@kk"
+    },
+    {
+      "offset": 174675,
+      "value": "TZW"
+    },
+    {
+      "offset": 175728,
+      "value": "pP4X"
+    },
+    {
+      "offset": 194480,
+      "value": "LN02"
+    },
+    {
+      "offset": 198042,
+      "value": "Vzn"
+    },
+    {
+      "offset": 198576,
+      "value": "NZ.8"
+    },
+    {
+      "offset": 198673,
+      "value": "N 0"
+    },
+    {
+      "offset": 199440,
+      "value": "LP26"
+    },
+    {
+      "offset": 201290,
+      "value": "eqO"
+    },
+    {
+      "offset": 202656,
+      "value": "LP28"
+    },
+    {
+      "offset": 205969,
+      "value": "aMZ"
+    },
+    {
+      "offset": 206539,
+      "value": "McAai"
+    },
+    {
+      "offset": 209296,
+      "value": "ltNT"
+    },
+    {
+      "offset": 209812,
+      "value": "TYl"
+    },
+    {
+      "offset": 217504,
+      "value": "rzBH"
+    },
+    {
+      "offset": 220736,
+      "value": "Xf08"
+    },
+    {
+      "offset": 222304,
+      "value": "SaB"
+    },
+    {
+      "offset": 227384,
+      "value": "E@L"
+    },
+    {
+      "offset": 230496,
+      "value": "RV.:"
+    },
+    {
+      "offset": 230512,
+      "value": "RV.8"
+    },
+    {
+      "offset": 243377,
+      "value": "uL5 "
+    },
+    {
+      "offset": 255653,
+      "value": "j76"
+    },
+    {
+      "offset": 260898,
+      "value": "PJG0 "
+    },
+    {
+      "offset": 266344,
+      "value": "Kin"
+    },
+    {
+      "offset": 272872,
+      "value": "ZY5"
+    },
+    {
+      "offset": 273752,
+      "value": "o+o"
+    },
+    {
+      "offset": 275058,
+      "value": "mCt"
+    },
+    {
+      "offset": 282128,
+      "value": "uFn"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000007000000080000000100000003000000c8300000",
+  "decoded_preview_hex": "c430000018000000000012001400040000000000000008000c00100012000000682f000014120000240f000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

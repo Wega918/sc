@@ -1,0 +1,505 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "background_cc_gamearea.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_cc_gamearea.sc",
+  "sha256_container": "11dde223184b4b39e05ed3aaeec8d41512d30297cff88733bade5f44506a3dbd",
+  "sha256_descriptor": "0cc37030922cb629e1390db112b52d015540898b621cf4914d4bb0cc971b4c5b",
+  "sha256_decoded_payload": "77ac31710b687e88b8e10b86e94ce6cd8d5e38ee9d7c35eac1fc3714e10c4070",
+  "version": 6,
+  "descriptor_bytes": 156,
+  "compressed_frame_bytes": 823155,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 1970928,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 64,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 68,
+      "raw_u32": 472
+    },
+    {
+      "field_index": 9,
+      "offset": 72,
+      "raw_u32": 1970072
+    },
+    {
+      "field_index": 10,
+      "offset": 76,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 80,
+      "raw_u32": 823160
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 136,
+      "value": "Player_village_bg"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "Player_village_bg"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 368,
+      "value": "Chronos_BG_Foreground"
+    },
+    {
+      "offset": 396,
+      "value": "Chronos_BG_Background"
+    },
+    {
+      "offset": 424,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 444,
+      "value": "Player_village_bg"
+    },
+    {
+      "offset": 8278,
+      "value": "H18"
+    },
+    {
+      "offset": 125067,
+      "value": "muj"
+    },
+    {
+      "offset": 246347,
+      "value": "AyO"
+    },
+    {
+      "offset": 328654,
+      "value": "iNO"
+    },
+    {
+      "offset": 373999,
+      "value": "mNH"
+    },
+    {
+      "offset": 378896,
+      "value": "ACWT"
+    },
+    {
+      "offset": 382414,
+      "value": "EV_"
+    },
+    {
+      "offset": 416046,
+      "value": "S-n"
+    },
+    {
+      "offset": 480830,
+      "value": "oEO"
+    },
+    {
+      "offset": 499854,
+      "value": "CNn"
+    },
+    {
+      "offset": 503226,
+      "value": "XVQ"
+    },
+    {
+      "offset": 504744,
+      "value": "UKs"
+    },
+    {
+      "offset": 512990,
+      "value": "Uf_"
+    },
+    {
+      "offset": 539149,
+      "value": "kIwO"
+    },
+    {
+      "offset": 553037,
+      "value": "K_N_"
+    },
+    {
+      "offset": 553268,
+      "value": "gFK"
+    },
+    {
+      "offset": 554414,
+      "value": "xMO"
+    },
+    {
+      "offset": 586597,
+      "value": "WPme"
+    },
+    {
+      "offset": 595981,
+      "value": "VeWo"
+    },
+    {
+      "offset": 636804,
+      "value": "gBI"
+    },
+    {
+      "offset": 644990,
+      "value": "l-O"
+    },
+    {
+      "offset": 646286,
+      "value": "Xn_"
+    },
+    {
+      "offset": 693449,
+      "value": "OKK"
+    },
+    {
+      "offset": 693892,
+      "value": "gfI"
+    },
+    {
+      "offset": 711981,
+      "value": "vczO"
+    },
+    {
+      "offset": 719886,
+      "value": "BLo"
+    },
+    {
+      "offset": 751470,
+      "value": "jM_"
+    },
+    {
+      "offset": 751693,
+      "value": "nUM_"
+    },
+    {
+      "offset": 761038,
+      "value": "Ri_"
+    },
+    {
+      "offset": 778736,
+      "value": "ACWT"
+    },
+    {
+      "offset": 801870,
+      "value": "mcn"
+    },
+    {
+      "offset": 814477,
+      "value": "wggO"
+    },
+    {
+      "offset": 831133,
+      "value": "yiEO"
+    },
+    {
+      "offset": 833493,
+      "value": "SPJeZ"
+    },
+    {
+      "offset": 844670,
+      "value": "Lmn"
+    },
+    {
+      "offset": 884376,
+      "value": "jB\\"
+    },
+    {
+      "offset": 894843,
+      "value": "PHaj1n"
+    },
+    {
+      "offset": 901572,
+      "value": "gNK"
+    },
+    {
+      "offset": 913188,
+      "value": "ffI"
+    },
+    {
+      "offset": 915607,
+      "value": "bDY"
+    },
+    {
+      "offset": 915822,
+      "value": "QBn"
+    },
+    {
+      "offset": 922326,
+      "value": "ybRFj"
+    },
+    {
+      "offset": 924014,
+      "value": "JHO"
+    },
+    {
+      "offset": 943939,
+      "value": "DT\\"
+    },
+    {
+      "offset": 954283,
+      "value": "Da0"
+    },
+    {
+      "offset": 957754,
+      "value": "EMH"
+    },
+    {
+      "offset": 977406,
+      "value": "fYn"
+    },
+    {
+      "offset": 978174,
+      "value": "UWO"
+    },
+    {
+      "offset": 984093,
+      "value": "vm4n"
+    },
+    {
+      "offset": 991260,
+      "value": "Pb9go"
+    },
+    {
+      "offset": 995994,
+      "value": "EoV"
+    },
+    {
+      "offset": 1012787,
+      "value": "Ts1"
+    },
+    {
+      "offset": 1014991,
+      "value": "yo k"
+    },
+    {
+      "offset": 1025296,
+      "value": "o k"
+    },
+    {
+      "offset": 1034462,
+      "value": "Myn"
+    },
+    {
+      "offset": 1040724,
+      "value": "gFK"
+    },
+    {
+      "offset": 1048459,
+      "value": "JBIi"
+    },
+    {
+      "offset": 1056845,
+      "value": "x/J_"
+    },
+    {
+      "offset": 1066032,
+      "value": "MBWT"
+    },
+    {
+      "offset": 1098846,
+      "value": "ilO"
+    },
+    {
+      "offset": 1101003,
+      "value": "XET"
+    },
+    {
+      "offset": 1104848,
+      "value": "MBYT"
+    },
+    {
+      "offset": 1108078,
+      "value": "_kn"
+    },
+    {
+      "offset": 1108636,
+      "value": "Kj+"
+    },
+    {
+      "offset": 1113757,
+      "value": "UZeo"
+    },
+    {
+      "offset": 1122110,
+      "value": "fSn"
+    },
+    {
+      "offset": 1130004,
+      "value": "v.K"
+    },
+    {
+      "offset": 1136334,
+      "value": "mN_"
+    },
+    {
+      "offset": 1140974,
+      "value": "i_O"
+    },
+    {
+      "offset": 1142727,
+      "value": "axe"
+    },
+    {
+      "offset": 1159828,
+      "value": "f.K"
+    },
+    {
+      "offset": 1200990,
+      "value": "U_O"
+    },
+    {
+      "offset": 1202944,
+      "value": "MBWT"
+    },
+    {
+      "offset": 1210332,
+      "value": "T+ L_"
+    },
+    {
+      "offset": 1228132,
+      "value": "WYy"
+    },
+    {
+      "offset": 1230999,
+      "value": "m P"
+    },
+    {
+      "offset": 1233548,
+      "value": "RR/"
+    },
+    {
+      "offset": 1240542,
+      "value": "PM_"
+    },
+    {
+      "offset": 1297580,
+      "value": "K1jIn"
+    },
+    {
+      "offset": 1300596,
+      "value": "vFI"
+    },
+    {
+      "offset": 1300910,
+      "value": "XYNH"
+    },
+    {
+      "offset": 1303723,
+      "value": "v_oUUn"
+    },
+    {
+      "offset": 1368980,
+      "value": "fFI"
+    },
+    {
+      "offset": 1380478,
+      "value": "jxn"
+    },
+    {
+      "offset": 1388445,
+      "value": "ejXO"
+    },
+    {
+      "offset": 1408580,
+      "value": "g.K"
+    },
+    {
+      "offset": 1415367,
+      "value": "sjR"
+    },
+    {
+      "offset": 1438029,
+      "value": "R-T_"
+    },
+    {
+      "offset": 1446942,
+      "value": "zM_"
+    },
+    {
+      "offset": 1456990,
+      "value": "ek_"
+    },
+    {
+      "offset": 1501054,
+      "value": "m/_"
+    },
+    {
+      "offset": 1599657,
+      "value": "JCPNKx"
+    },
+    {
+      "offset": 1643150,
+      "value": "RvO"
+    },
+    {
+      "offset": 1661678,
+      "value": "N/O"
+    },
+    {
+      "offset": 1807571,
+      "value": "Tq0"
+    },
+    {
+      "offset": 1808173,
+      "value": "oEa_"
+    },
+    {
+      "offset": 1837144,
+      "value": "UL/"
+    },
+    {
+      "offset": 1876286,
+      "value": "vk_"
+    },
+    {
+      "offset": 1934510,
+      "value": "Il_"
+    },
+    {
+      "offset": 1948982,
+      "value": "wH8"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c003000040008000c0010001400180000001c002000240028002c001c000000010000000100000002000000010000000100000001000000",
+  "decoded_preview_hex": "d401000018000000000012001400040000000000000008000c0010001200000034010000140100007c00000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

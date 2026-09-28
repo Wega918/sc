@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>SC Battle Lab</title>
+  <link rel="stylesheet" href="src/css/app.css?v=7">
+  <link rel="stylesheet" href="src/css/unit-previews.css?v=3">
+  <link rel="stylesheet" href="src/css/layout-fix.css?v=3">
+</head>
+<body>
+  <main class="game-shell">
+    <header class="topbar">
+      <div><strong>SC Battle Lab</strong><span class="sub">оригинальные SC-анимации</span></div>
+      <div class="stats"><span id="unitCount">0 бойцов</span><span id="targetCount">0 целей</span><button id="resetBtn">Заново</button><button id="soundBtn" aria-pressed="true">Звук: вкл</button></div>
+    </header>
+    <section class="battle-wrap">
+      <canvas id="battle" aria-label="Поле боя"></canvas>
+      <div class="hint" id="hint">Выберите юнита снизу и нажмите на свободное место поля</div>
+      <div class="toast" id="toast"></div>
+    </section>
+    <section class="army-panel">
+      <div class="army-title"><span>Армия</span><span id="selectedName">Варвар</span></div>
+      <div class="cards" id="cards"></div>
+    </section>
+  </main>
+  <script src="public/data/runtime/unit-catalog.js?v=3"></script>
+  <script src="public/data/runtime/effect-catalog.js?v=7"></script>
+  <script src="src/js/sc-renderer.js?v=7"></script>
+  <script src="src/js/app.js?v=7"></script>
+</body>
+</html>

@@ -1,0 +1,181 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "pet_crow_default.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\pet_crow_default.sc",
+  "sha256_container": "ddb1d5f7a4967b881a50c4e6089675150224c91cd97093d5cc199a3610e14cdb",
+  "sha256_descriptor": "b5153247ddbd31b18cedae72573da057085298720cc5d0f0904c8764d3621ad3",
+  "sha256_decoded_payload": "a441da6ae5d28fff3d618bf6c910e78e1184ba2284fc4df7c057a5c7638817b9",
+  "version": 6,
+  "descriptor_bytes": 596,
+  "compressed_frame_bytes": 31775,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 65216,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 13
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 11
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 3444
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 59224
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 31776
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 144,
+      "value": "vfx_crow_defaultskin_ember_01"
+    },
+    {
+      "offset": 212,
+      "value": "vfx_crow_defaultskin_Spike"
+    },
+    {
+      "offset": 276,
+      "value": "vfx_crow_defaultskin_Projectile"
+    },
+    {
+      "offset": 344,
+      "value": "vfx_crow_defaultskin_HitShockwave_02"
+    },
+    {
+      "offset": 420,
+      "value": "vfx_crow_defaultskin_HitShockwave"
+    },
+    {
+      "offset": 492,
+      "value": "vfx_crow_defaultskin_HitFlare"
+    },
+    {
+      "offset": 568,
+      "value": "vfx_crow_defaultskin_Glow"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "vfx_crow_defaultskin_ember_01",
+    "vfx_crow_defaultskin_Spike",
+    "vfx_crow_defaultskin_Projectile",
+    "vfx_crow_defaultskin_HitShockwave_02",
+    "vfx_crow_defaultskin_HitShockwave",
+    "vfx_crow_defaultskin_HitFlare",
+    "vfx_crow_defaultskin_Glow"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 168,
+      "value": "H0w"
+    },
+    {
+      "offset": 1459,
+      "value": "AOH"
+    },
+    {
+      "offset": 3184,
+      "value": "vfx_crow_defaultskin_HitShockwave"
+    },
+    {
+      "offset": 3224,
+      "value": "vfx_crow_defaultskin_HitShockwave_02"
+    },
+    {
+      "offset": 3268,
+      "value": "vfx_crow_defaultskin_ember_01"
+    },
+    {
+      "offset": 3304,
+      "value": "vfx_crow_defaultskin_HitFlare"
+    },
+    {
+      "offset": 3340,
+      "value": "vfx_crow_defaultskin_Spike"
+    },
+    {
+      "offset": 3372,
+      "value": "vfx_crow_defaultskin_Glow"
+    },
+    {
+      "offset": 3404,
+      "value": "vfx_crow_defaultskin_Projectile"
+    },
+    {
+      "offset": 13289,
+      "value": "TR@@"
+    },
+    {
+      "offset": 14801,
+      "value": "G1S"
+    },
+    {
+      "offset": 35084,
+      "value": "DHD"
+    },
+    {
+      "offset": 39654,
+      "value": "dmA"
+    },
+    {
+      "offset": 40673,
+      "value": "CMv"
+    },
+    {
+      "offset": 41505,
+      "value": "CMv"
+    },
+    {
+      "offset": 42949,
+      "value": "_f/"
+    },
+    {
+      "offset": 49751,
+      "value": "DBr"
+    },
+    {
+      "offset": 59569,
+      "value": "HZA"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000d0000000b00000001000000740d0000",
+  "decoded_preview_hex": "700d000018000000000012001400040000000000000008000c00100012000000280c0000980700007804000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

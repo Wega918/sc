@@ -1,0 +1,934 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "background_player_2_cave.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_player_2_cave.sc",
+  "sha256_container": "f777b2146c3c1c659e7ec9e8b586142081786ebb1400db1bbbfb2452d0f6c1f5",
+  "sha256_descriptor": "415e5c613c9c0575c00e368d9f4ed2d5a02d89b094cb4ec43b227a860b3904ad",
+  "sha256_decoded_payload": "38667b433edda2c9dfb461ab1ad1f67c9f41a36b0c92804cffb12dcf480197a1",
+  "version": 6,
+  "descriptor_bytes": 732,
+  "compressed_frame_bytes": 2207507,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 4944728,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 70
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 49
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 7,
+      "offset": 64,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 68,
+      "raw_u32": 98156
+    },
+    {
+      "field_index": 9,
+      "offset": 72,
+      "raw_u32": 4814596
+    },
+    {
+      "field_index": 10,
+      "offset": 76,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 80,
+      "raw_u32": 2207512
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 164,
+      "value": "stage_gate_prev"
+    },
+    {
+      "offset": 216,
+      "value": "stage_gate_next_open_anim"
+    },
+    {
+      "offset": 280,
+      "value": "stage_gate_next_open"
+    },
+    {
+      "offset": 340,
+      "value": "stage_gate_next_closed"
+    },
+    {
+      "offset": 400,
+      "value": "stage_gate_next_broken"
+    },
+    {
+      "offset": 460,
+      "value": "fireflies_above"
+    },
+    {
+      "offset": 512,
+      "value": "env_sharpstone_2_base"
+    },
+    {
+      "offset": 572,
+      "value": "bb_harbor"
+    },
+    {
+      "offset": 620,
+      "value": "assets_atlasgenerator_texture_rgba5655"
+    },
+    {
+      "offset": 704,
+      "value": "Builders_base_second_env"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "stage_gate_prev",
+    "stage_gate_next_open_anim",
+    "stage_gate_next_open",
+    "stage_gate_next_closed",
+    "stage_gate_next_broken",
+    "fireflies_above",
+    "env_sharpstone_2_base",
+    "bb_harbor",
+    "assets_atlasgenerator_texture_rgba5655",
+    "Builders_base_second_env"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 654,
+      "value": "fffJ"
+    },
+    {
+      "offset": 9447,
+      "value": "B33hB"
+    },
+    {
+      "offset": 9687,
+      "value": "A33sA"
+    },
+    {
+      "offset": 9735,
+      "value": "AffbA"
+    },
+    {
+      "offset": 9759,
+      "value": "AffZA"
+    },
+    {
+      "offset": 10284,
+      "value": "fff@"
+    },
+    {
+      "offset": 12088,
+      "value": "fff@"
+    },
+    {
+      "offset": 12352,
+      "value": "ff:A"
+    },
+    {
+      "offset": 12376,
+      "value": "ffBA"
+    },
+    {
+      "offset": 12520,
+      "value": "ffrA"
+    },
+    {
+      "offset": 12544,
+      "value": "ffzA"
+    },
+    {
+      "offset": 13840,
+      "value": "fffA"
+    },
+    {
+      "offset": 13912,
+      "value": "ffNA"
+    },
+    {
+      "offset": 14008,
+      "value": "ff.A"
+    },
+    {
+      "offset": 14294,
+      "value": "S@33s@"
+    },
+    {
+      "offset": 14318,
+      "value": "l@33C@"
+    },
+    {
+      "offset": 16116,
+      "value": "ff5B"
+    },
+    {
+      "offset": 16164,
+      "value": "ff:B"
+    },
+    {
+      "offset": 16500,
+      "value": "ffYB"
+    },
+    {
+      "offset": 17172,
+      "value": "ffnB"
+    },
+    {
+      "offset": 17292,
+      "value": "ffjB"
+    },
+    {
+      "offset": 17580,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 17750,
+      "value": "PBfffA"
+    },
+    {
+      "offset": 18638,
+      "value": "PBfffA"
+    },
+    {
+      "offset": 19599,
+      "value": "A33sA"
+    },
+    {
+      "offset": 19623,
+      "value": "AffjA"
+    },
+    {
+      "offset": 19718,
+      "value": "tA33GA"
+    },
+    {
+      "offset": 19788,
+      "value": "ffRA33+A"
+    },
+    {
+      "offset": 19836,
+      "value": "ffV@33s@"
+    },
+    {
+      "offset": 19862,
+      "value": "l@33C@"
+    },
+    {
+      "offset": 27880,
+      "value": "ffV@"
+    },
+    {
+      "offset": 28072,
+      "value": "ffv@"
+    },
+    {
+      "offset": 29320,
+      "value": "ffV@"
+    },
+    {
+      "offset": 30761,
+      "value": "sAC"
+    },
+    {
+      "offset": 30977,
+      "value": "LQC"
+    },
+    {
+      "offset": 31217,
+      "value": "Y4C"
+    },
+    {
+      "offset": 31289,
+      "value": "LeD"
+    },
+    {
+      "offset": 32464,
+      "value": "ff6@"
+    },
+    {
+      "offset": 32512,
+      "value": "ff6@"
+    },
+    {
+      "offset": 32560,
+      "value": "ff6@"
+    },
+    {
+      "offset": 33040,
+      "value": "ffF@"
+    },
+    {
+      "offset": 33088,
+      "value": "ffF@"
+    },
+    {
+      "offset": 33496,
+      "value": "ff6@"
+    },
+    {
+      "offset": 33616,
+      "value": "ffV@"
+    },
+    {
+      "offset": 33664,
+      "value": "ffV@"
+    },
+    {
+      "offset": 33832,
+      "value": "ffF@"
+    },
+    {
+      "offset": 33880,
+      "value": "ffF@"
+    },
+    {
+      "offset": 34120,
+      "value": "ffV@"
+    },
+    {
+      "offset": 34144,
+      "value": "ffV@"
+    },
+    {
+      "offset": 34336,
+      "value": "fff@"
+    },
+    {
+      "offset": 34360,
+      "value": "fff@"
+    },
+    {
+      "offset": 34552,
+      "value": "ffv@"
+    },
+    {
+      "offset": 34576,
+      "value": "ffv@"
+    },
+    {
+      "offset": 35656,
+      "value": "ff6@"
+    },
+    {
+      "offset": 35680,
+      "value": "ff6@"
+    },
+    {
+      "offset": 35920,
+      "value": "ffF@"
+    },
+    {
+      "offset": 35944,
+      "value": "ffF@"
+    },
+    {
+      "offset": 36184,
+      "value": "ffV@"
+    },
+    {
+      "offset": 36208,
+      "value": "ffV@"
+    },
+    {
+      "offset": 36448,
+      "value": "fff@"
+    },
+    {
+      "offset": 36472,
+      "value": "fff@"
+    },
+    {
+      "offset": 39424,
+      "value": "ff6@"
+    },
+    {
+      "offset": 39448,
+      "value": "ff6@"
+    },
+    {
+      "offset": 39472,
+      "value": "ff6@"
+    },
+    {
+      "offset": 39736,
+      "value": "ffF@"
+    },
+    {
+      "offset": 39760,
+      "value": "ffF@"
+    },
+    {
+      "offset": 39952,
+      "value": "ffV@"
+    },
+    {
+      "offset": 39976,
+      "value": "ffV@"
+    },
+    {
+      "offset": 40000,
+      "value": "ffV@"
+    },
+    {
+      "offset": 44846,
+      "value": "PB33WB"
+    },
+    {
+      "offset": 45713,
+      "value": "YBC"
+    },
+    {
+      "offset": 46865,
+      "value": "I6D"
+    },
+    {
+      "offset": 47013,
+      "value": "D6A"
+    },
+    {
+      "offset": 47157,
+      "value": "pC@"
+    },
+    {
+      "offset": 47457,
+      "value": "P4@"
+    },
+    {
+      "offset": 47640,
+      "value": "ffYB"
+    },
+    {
+      "offset": 47887,
+      "value": "Ck6"
+    },
+    {
+      "offset": 48703,
+      "value": "CUxni"
+    },
+    {
+      "offset": 48729,
+      "value": "vni"
+    },
+    {
+      "offset": 50248,
+      "value": "ff7B"
+    },
+    {
+      "offset": 50689,
+      "value": "S3E"
+    },
+    {
+      "offset": 51846,
+      "value": "EDBi"
+    },
+    {
+      "offset": 51943,
+      "value": "DBi"
+    },
+    {
+      "offset": 52039,
+      "value": "DBi"
+    },
+    {
+      "offset": 52135,
+      "value": "DBi"
+    },
+    {
+      "offset": 52249,
+      "value": "PuE"
+    },
+    {
+      "offset": 52273,
+      "value": "PuE"
+    },
+    {
+      "offset": 52968,
+      "value": "ffRA"
+    },
+    {
+      "offset": 97392,
+      "value": "camera_bounds"
+    },
+    {
+      "offset": 97412,
+      "value": "light_11"
+    },
+    {
+      "offset": 97428,
+      "value": "light_09"
+    },
+    {
+      "offset": 97444,
+      "value": "light_08"
+    },
+    {
+      "offset": 97460,
+      "value": "light_10"
+    },
+    {
+      "offset": 97476,
+      "value": "light_07"
+    },
+    {
+      "offset": 97492,
+      "value": "light_06"
+    },
+    {
+      "offset": 97508,
+      "value": "light_05"
+    },
+    {
+      "offset": 97524,
+      "value": "light_04"
+    },
+    {
+      "offset": 97540,
+      "value": "light_03"
+    },
+    {
+      "offset": 97556,
+      "value": "light_02"
+    },
+    {
+      "offset": 97572,
+      "value": "light_01"
+    },
+    {
+      "offset": 97588,
+      "value": "loot_cart_bb_location"
+    },
+    {
+      "offset": 97616,
+      "value": "harbor_location"
+    },
+    {
+      "offset": 97636,
+      "value": "boat_location"
+    },
+    {
+      "offset": 97656,
+      "value": "ship_location"
+    },
+    {
+      "offset": 97676,
+      "value": "gate_prev_location"
+    },
+    {
+      "offset": 97700,
+      "value": "gate_next_location"
+    },
+    {
+      "offset": 97724,
+      "value": "foreground_3"
+    },
+    {
+      "offset": 97744,
+      "value": "foreground_4"
+    },
+    {
+      "offset": 97764,
+      "value": "foreground_2"
+    },
+    {
+      "offset": 97784,
+      "value": "foreground_1"
+    },
+    {
+      "offset": 97804,
+      "value": "extension_part"
+    },
+    {
+      "offset": 97824,
+      "value": "base"
+    },
+    {
+      "offset": 97836,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 97856,
+      "value": "SC CCBackBeat"
+    },
+    {
+      "offset": 97876,
+      "value": "Builders_base_second_env"
+    },
+    {
+      "offset": 97908,
+      "value": "env_sharpstone_2_base"
+    },
+    {
+      "offset": 97936,
+      "value": "fireflies_above"
+    },
+    {
+      "offset": 97956,
+      "value": "assets_atlasgenerator_texture_rgba5655"
+    },
+    {
+      "offset": 98000,
+      "value": "stage_gate_next_broken"
+    },
+    {
+      "offset": 98028,
+      "value": "bb_harbor"
+    },
+    {
+      "offset": 98044,
+      "value": "stage_gate_next_open"
+    },
+    {
+      "offset": 98072,
+      "value": "stage_gate_prev"
+    },
+    {
+      "offset": 98092,
+      "value": "stage_gate_next_open_anim"
+    },
+    {
+      "offset": 98124,
+      "value": "stage_gate_next_closed"
+    },
+    {
+      "offset": 134465,
+      "value": "CI2"
+    },
+    {
+      "offset": 136505,
+      "value": "ZD4"
+    },
+    {
+      "offset": 140401,
+      "value": "BQE"
+    },
+    {
+      "offset": 140546,
+      "value": "PS1"
+    },
+    {
+      "offset": 148582,
+      "value": "D64"
+    },
+    {
+      "offset": 152560,
+      "value": "SA94"
+    },
+    {
+      "offset": 157490,
+      "value": "E3P8"
+    },
+    {
+      "offset": 160748,
+      "value": "HzB"
+    },
+    {
+      "offset": 164831,
+      "value": "maI9T"
+    },
+    {
+      "offset": 170726,
+      "value": "Y0R"
+    },
+    {
+      "offset": 172800,
+      "value": "NGI"
+    },
+    {
+      "offset": 184220,
+      "value": "TTP"
+    },
+    {
+      "offset": 194106,
+      "value": "UUUUA"
+    },
+    {
+      "offset": 196485,
+      "value": "v1@"
+    },
+    {
+      "offset": 201008,
+      "value": "bA1"
+    },
+    {
+      "offset": 207057,
+      "value": "CAJ"
+    },
+    {
+      "offset": 211468,
+      "value": "c7Y"
+    },
+    {
+      "offset": 217797,
+      "value": "lCX"
+    },
+    {
+      "offset": 226756,
+      "value": "HPPPpp"
+    },
+    {
+      "offset": 232805,
+      "value": "F@Ppp"
+    },
+    {
+      "offset": 236131,
+      "value": "Chm"
+    },
+    {
+      "offset": 238869,
+      "value": "B@Ppp"
+    },
+    {
+      "offset": 238887,
+      "value": "Ppp"
+    },
+    {
+      "offset": 242211,
+      "value": "Chm"
+    },
+    {
+      "offset": 257157,
+      "value": "B@Ppp"
+    },
+    {
+      "offset": 281035,
+      "value": "KOli"
+    },
+    {
+      "offset": 281431,
+      "value": "Ppp"
+    },
+    {
+      "offset": 285495,
+      "value": "bHR"
+    },
+    {
+      "offset": 308907,
+      "value": "RBJJ"
+    },
+    {
+      "offset": 334839,
+      "value": "sh/C"
+    },
+    {
+      "offset": 338215,
+      "value": "DTp"
+    },
+    {
+      "offset": 346910,
+      "value": "Z:_"
+    },
+    {
+      "offset": 405413,
+      "value": "PNp"
+    },
+    {
+      "offset": 411083,
+      "value": "FP@"
+    },
+    {
+      "offset": 445381,
+      "value": "B0@Pr"
+    },
+    {
+      "offset": 460987,
+      "value": "Uda"
+    },
+    {
+      "offset": 462055,
+      "value": "QA@F"
+    },
+    {
+      "offset": 465860,
+      "value": "kfg"
+    },
+    {
+      "offset": 467071,
+      "value": "lqI"
+    },
+    {
+      "offset": 468140,
+      "value": "tTD"
+    },
+    {
+      "offset": 474926,
+      "value": "UVO"
+    },
+    {
+      "offset": 480291,
+      "value": "jGjy"
+    },
+    {
+      "offset": 491013,
+      "value": "HBl"
+    },
+    {
+      "offset": 492404,
+      "value": "Wjy"
+    },
+    {
+      "offset": 505546,
+      "value": "B@2v"
+    },
+    {
+      "offset": 507751,
+      "value": "FTh"
+    },
+    {
+      "offset": 507755,
+      "value": "oD@D"
+    },
+    {
+      "offset": 535530,
+      "value": "_h2"
+    },
+    {
+      "offset": 546222,
+      "value": "f0O"
+    },
+    {
+      "offset": 546998,
+      "value": "S@ "
+    },
+    {
+      "offset": 550183,
+      "value": "Ppp"
+    },
+    {
+      "offset": 556821,
+      "value": "LPp"
+    },
+    {
+      "offset": 557390,
+      "value": "hgo"
+    },
+    {
+      "offset": 564628,
+      "value": "WFq"
+    },
+    {
+      "offset": 564725,
+      "value": "BRb"
+    },
+    {
+      "offset": 574407,
+      "value": "Ppp"
+    },
+    {
+      "offset": 592732,
+      "value": "pP@"
+    },
+    {
+      "offset": 599235,
+      "value": "U6qE"
+    },
+    {
+      "offset": 602367,
+      "value": "oaE/"
+    },
+    {
+      "offset": 608448,
+      "value": "mD1"
+    },
+    {
+      "offset": 612634,
+      "value": "k8@"
+    },
+    {
+      "offset": 622586,
+      "value": "UUU"
+    },
+    {
+      "offset": 622780,
+      "value": "WWQ"
+    },
+    {
+      "offset": 629746,
+      "value": "dU4Uj"
+    },
+    {
+      "offset": 634442,
+      "value": "wUUU"
+    },
+    {
+      "offset": 635685,
+      "value": "LPp"
+    },
+    {
+      "offset": 635701,
+      "value": "LPp"
+    },
+    {
+      "offset": 637740,
+      "value": "X@B"
+    },
+    {
+      "offset": 638960,
+      "value": "aE/"
+    },
+    {
+      "offset": 640715,
+      "value": "TDD"
+    },
+    {
+      "offset": 640731,
+      "value": "DD@"
+    },
+    {
+      "offset": 640938,
+      "value": "WUUUE"
+    },
+    {
+      "offset": 641259,
+      "value": "rpP@"
+    },
+    {
+      "offset": 641797,
+      "value": "LPp"
+    },
+    {
+      "offset": 644992,
+      "value": "mD1"
+    },
+    {
+      "offset": 645008,
+      "value": "aE1"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c003000040008000c0010001400180000001c002000240028002c001c000000010000000100000046000000310000000200000008000000",
+  "decoded_preview_hex": "687f010018000000000012001400040000000000000008000c00100012000000b47b01006ccf0000d4b9000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,1024 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "loading.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\loading.sc",
+  "sha256_container": "5e2b50e1a49aa4cf4991fc8bc8ce04d8a2f07cbec3689c9743c6005f36a594e1",
+  "sha256_descriptor": "b669ee9b22979d8cc6766811cf9ece1d97a0dd2bd0a19a6b37e775eed50313c9",
+  "sha256_decoded_payload": "354ff8630ec7502fe4abe68d5d60fac673b2ecf6e37b33ec3238d621efcf3737",
+  "version": 6,
+  "descriptor_bytes": 1788,
+  "compressed_frame_bytes": 625365,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 814840,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 36
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 61
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 22
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 20960
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 782512
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 625368
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 256,
+      "value": "tencent_kf_symbol"
+    },
+    {
+      "offset": 312,
+      "value": "sc_intro"
+    },
+    {
+      "offset": 360,
+      "value": "question_popup"
+    },
+    {
+      "offset": 412,
+      "value": "question_dolphin_popup"
+    },
+    {
+      "offset": 472,
+      "value": "master_logo"
+    },
+    {
+      "offset": 520,
+      "value": "login_help_button"
+    },
+    {
+      "offset": 576,
+      "value": "login_buttons_supercell_id"
+    },
+    {
+      "offset": 640,
+      "value": "login_buttons_ch"
+    },
+    {
+      "offset": 696,
+      "value": "login_buttons_2"
+    },
+    {
+      "offset": 748,
+      "value": "login_buttons"
+    },
+    {
+      "offset": 800,
+      "value": "loading_screen_noBitDropping"
+    },
+    {
+      "offset": 868,
+      "value": "loading_screen"
+    },
+    {
+      "offset": 920,
+      "value": "kunlun_message"
+    },
+    {
+      "offset": 972,
+      "value": "iphone_sc_intro"
+    },
+    {
+      "offset": 1024,
+      "value": "iphone_loading_screen"
+    },
+    {
+      "offset": 1084,
+      "value": "iphone5_sc_intro"
+    },
+    {
+      "offset": 1140,
+      "value": "iphone5_loading_screen"
+    },
+    {
+      "offset": 1200,
+      "value": "iphone5_attack_menu_corner"
+    },
+    {
+      "offset": 1264,
+      "value": "icon_gold1"
+    },
+    {
+      "offset": 1312,
+      "value": "icon_elixir1"
+    },
+    {
+      "offset": 1364,
+      "value": "hud_print"
+    },
+    {
+      "offset": 1412,
+      "value": "darkener"
+    },
+    {
+      "offset": 1460,
+      "value": "contact_support_button"
+    },
+    {
+      "offset": 1520,
+      "value": "cadpa_popup"
+    },
+    {
+      "offset": 1568,
+      "value": "cadpa_image"
+    },
+    {
+      "offset": 1616,
+      "value": "button_animation"
+    },
+    {
+      "offset": 1672,
+      "value": "atlasgenerator_texture_rgb565"
+    },
+    {
+      "offset": 1748,
+      "value": "atlasgenerator_texture_luminance_alpha"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "tencent_kf_symbol",
+    "sc_intro",
+    "question_popup",
+    "question_dolphin_popup",
+    "master_logo",
+    "login_help_button",
+    "login_buttons_supercell_id",
+    "login_buttons_ch",
+    "login_buttons_2",
+    "login_buttons",
+    "loading_screen_noBitDropping",
+    "loading_screen",
+    "kunlun_message",
+    "iphone_sc_intro",
+    "iphone_loading_screen",
+    "iphone5_sc_intro",
+    "iphone5_loading_screen",
+    "iphone5_attack_menu_corner",
+    "icon_gold1",
+    "icon_elixir1",
+    "hud_print",
+    "darkener",
+    "contact_support_button",
+    "cadpa_popup",
+    "cadpa_image",
+    "button_animation",
+    "atlasgenerator_texture_rgb565",
+    "atlasgenerator_texture_luminance_alpha"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 797,
+      "value": "V-B"
+    },
+    {
+      "offset": 5591,
+      "value": "C33kB"
+    },
+    {
+      "offset": 6119,
+      "value": "C3sXC"
+    },
+    {
+      "offset": 6191,
+      "value": "C3sYC"
+    },
+    {
+      "offset": 6263,
+      "value": "C3sZC"
+    },
+    {
+      "offset": 6407,
+      "value": "C3s\\C"
+    },
+    {
+      "offset": 6551,
+      "value": "C3sXC"
+    },
+    {
+      "offset": 6623,
+      "value": "C3sYC"
+    },
+    {
+      "offset": 6695,
+      "value": "C3sZC"
+    },
+    {
+      "offset": 6839,
+      "value": "C3s\\C"
+    },
+    {
+      "offset": 19588,
+      "value": "sc_intro_bg"
+    },
+    {
+      "offset": 19604,
+      "value": "guest_login_button"
+    },
+    {
+      "offset": 19628,
+      "value": "new_game"
+    },
+    {
+      "offset": 19644,
+      "value": "login"
+    },
+    {
+      "offset": 19656,
+      "value": "downloading_txt"
+    },
+    {
+      "offset": 19676,
+      "value": "downloading_bar_instance"
+    },
+    {
+      "offset": 19708,
+      "value": "checkbox"
+    },
+    {
+      "offset": 19724,
+      "value": "spinner"
+    },
+    {
+      "offset": 19736,
+      "value": "qq_login_button"
+    },
+    {
+      "offset": 19756,
+      "value": "wechat_login_button"
+    },
+    {
+      "offset": 19780,
+      "value": "enabled"
+    },
+    {
+      "offset": 19792,
+      "value": "disabled"
+    },
+    {
+      "offset": 19808,
+      "value": "qq_icon"
+    },
+    {
+      "offset": 19820,
+      "value": "wechat_icon"
+    },
+    {
+      "offset": 19836,
+      "value": "DownEnd"
+    },
+    {
+      "offset": 19848,
+      "value": "Down"
+    },
+    {
+      "offset": 19860,
+      "value": "ClickedEnd"
+    },
+    {
+      "offset": 19876,
+      "value": "Clicked"
+    },
+    {
+      "offset": 19888,
+      "value": "IdleEnd"
+    },
+    {
+      "offset": 19900,
+      "value": "Idle"
+    },
+    {
+      "offset": 19912,
+      "value": "close"
+    },
+    {
+      "offset": 19924,
+      "value": "coc_master_logo"
+    },
+    {
+      "offset": 19944,
+      "value": "loading_section"
+    },
+    {
+      "offset": 19964,
+      "value": "chronos_placeholder"
+    },
+    {
+      "offset": 19988,
+      "value": "background"
+    },
+    {
+      "offset": 20004,
+      "value": "original_logo"
+    },
+    {
+      "offset": 20024,
+      "value": "japan_extra"
+    },
+    {
+      "offset": 20040,
+      "value": "korea_logo"
+    },
+    {
+      "offset": 20056,
+      "value": "china_logo"
+    },
+    {
+      "offset": 20072,
+      "value": "loading_bar"
+    },
+    {
+      "offset": 20088,
+      "value": "loading_ch"
+    },
+    {
+      "offset": 20104,
+      "value": "hint_bar"
+    },
+    {
+      "offset": 20120,
+      "value": "TID_LOADING_CHINA"
+    },
+    {
+      "offset": 20144,
+      "value": "hint"
+    },
+    {
+      "offset": 20156,
+      "value": "chronos_background"
+    },
+    {
+      "offset": 20180,
+      "value": "text"
+    },
+    {
+      "offset": 20192,
+      "value": "title"
+    },
+    {
+      "offset": 20204,
+      "value": "button_no"
+    },
+    {
+      "offset": 20220,
+      "value": "button_yes"
+    },
+    {
+      "offset": 20236,
+      "value": "Text"
+    },
+    {
+      "offset": 20248,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 20272,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 20292,
+      "value": "contact_support_button"
+    },
+    {
+      "offset": 20320,
+      "value": "hud_print"
+    },
+    {
+      "offset": 20336,
+      "value": "cadpa_popup"
+    },
+    {
+      "offset": 20352,
+      "value": "sc_intro"
+    },
+    {
+      "offset": 20368,
+      "value": "loading_screen_noBitDropping"
+    },
+    {
+      "offset": 20404,
+      "value": "iphone_sc_intro"
+    },
+    {
+      "offset": 20424,
+      "value": "question_dolphin_popup"
+    },
+    {
+      "offset": 20452,
+      "value": "cadpa_image"
+    },
+    {
+      "offset": 20468,
+      "value": "button_animation"
+    },
+    {
+      "offset": 20492,
+      "value": "question_popup"
+    },
+    {
+      "offset": 20512,
+      "value": "login_buttons_supercell_id"
+    },
+    {
+      "offset": 20544,
+      "value": "login_buttons"
+    },
+    {
+      "offset": 20564,
+      "value": "tencent_kf_symbol"
+    },
+    {
+      "offset": 20588,
+      "value": "login_buttons_2"
+    },
+    {
+      "offset": 20608,
+      "value": "iphone5_attack_menu_corner"
+    },
+    {
+      "offset": 20640,
+      "value": "login_buttons_ch"
+    },
+    {
+      "offset": 20664,
+      "value": "login_help_button"
+    },
+    {
+      "offset": 20688,
+      "value": "loading_screen"
+    },
+    {
+      "offset": 20708,
+      "value": "icon_elixir1"
+    },
+    {
+      "offset": 20728,
+      "value": "kunlun_message"
+    },
+    {
+      "offset": 20748,
+      "value": "icon_gold1"
+    },
+    {
+      "offset": 20764,
+      "value": "iphone5_loading_screen"
+    },
+    {
+      "offset": 20792,
+      "value": "atlasgenerator_texture_rgb565"
+    },
+    {
+      "offset": 20828,
+      "value": "darkener"
+    },
+    {
+      "offset": 20844,
+      "value": "iphone_loading_screen"
+    },
+    {
+      "offset": 20872,
+      "value": "master_logo"
+    },
+    {
+      "offset": 20888,
+      "value": "atlasgenerator_texture_luminance_alpha"
+    },
+    {
+      "offset": 20932,
+      "value": "iphone5_sc_intro"
+    },
+    {
+      "offset": 59836,
+      "value": "fzhl"
+    },
+    {
+      "offset": 59997,
+      "value": "lbb"
+    },
+    {
+      "offset": 60202,
+      "value": "QRDFHJ"
+    },
+    {
+      "offset": 60234,
+      "value": "OR@DBF"
+    },
+    {
+      "offset": 60468,
+      "value": "p7e2n"
+    },
+    {
+      "offset": 60522,
+      "value": "ozNRFH"
+    },
+    {
+      "offset": 61924,
+      "value": "YCmO_"
+    },
+    {
+      "offset": 62634,
+      "value": "ObFZNT"
+    },
+    {
+      "offset": 62794,
+      "value": "SZBFBF"
+    },
+    {
+      "offset": 62906,
+      "value": "cjFL@F"
+    },
+    {
+      "offset": 63020,
+      "value": "RZHN"
+    },
+    {
+      "offset": 63759,
+      "value": "q6B"
+    },
+    {
+      "offset": 65004,
+      "value": "TpTb"
+    },
+    {
+      "offset": 65101,
+      "value": "dbh"
+    },
+    {
+      "offset": 65146,
+      "value": "WbLPRT"
+    },
+    {
+      "offset": 65382,
+      "value": "l_n"
+    },
+    {
+      "offset": 65430,
+      "value": "MYO"
+    },
+    {
+      "offset": 65444,
+      "value": "WBC"
+    },
+    {
+      "offset": 65461,
+      "value": "Jjin"
+    },
+    {
+      "offset": 65602,
+      "value": "B@a"
+    },
+    {
+      "offset": 66892,
+      "value": "DX.2"
+    },
+    {
+      "offset": 67530,
+      "value": "W\\NXRX"
+    },
+    {
+      "offset": 67690,
+      "value": "KVBRLT"
+    },
+    {
+      "offset": 67722,
+      "value": "KTDHNN"
+    },
+    {
+      "offset": 68166,
+      "value": "lx_"
+    },
+    {
+      "offset": 68461,
+      "value": "BHJ"
+    },
+    {
+      "offset": 69962,
+      "value": "sxdlhn"
+    },
+    {
+      "offset": 70187,
+      "value": "dNTTZ"
+    },
+    {
+      "offset": 70234,
+      "value": "GVBHNL"
+    },
+    {
+      "offset": 70460,
+      "value": "rp8"
+    },
+    {
+      "offset": 72509,
+      "value": "fbj"
+    },
+    {
+      "offset": 72636,
+      "value": "Zl\\n"
+    },
+    {
+      "offset": 72918,
+      "value": "q4O"
+    },
+    {
+      "offset": 72986,
+      "value": "otPRJL"
+    },
+    {
+      "offset": 73117,
+      "value": "dPT"
+    },
+    {
+      "offset": 73133,
+      "value": "jNV"
+    },
+    {
+      "offset": 73532,
+      "value": "BDHL"
+    },
+    {
+      "offset": 74613,
+      "value": "UYU_"
+    },
+    {
+      "offset": 74805,
+      "value": "rYN_"
+    },
+    {
+      "offset": 75243,
+      "value": "bLRTX"
+    },
+    {
+      "offset": 75274,
+      "value": "KLBDLL"
+    },
+    {
+      "offset": 75573,
+      "value": "pj/O"
+    },
+    {
+      "offset": 77548,
+      "value": "hpjr"
+    },
+    {
+      "offset": 77861,
+      "value": "lkEs"
+    },
+    {
+      "offset": 78570,
+      "value": "EHJNPT"
+    },
+    {
+      "offset": 78602,
+      "value": "HLR"
+    },
+    {
+      "offset": 80339,
+      "value": "tse"
+    },
+    {
+      "offset": 85146,
+      "value": "enZf\\d@"
+    },
+    {
+      "offset": 86139,
+      "value": "HJNTT"
+    },
+    {
+      "offset": 87691,
+      "value": "bR\\VZ@"
+    },
+    {
+      "offset": 87901,
+      "value": "PLP"
+    },
+    {
+      "offset": 88278,
+      "value": "H1O"
+    },
+    {
+      "offset": 88634,
+      "value": "IHNPVV"
+    },
+    {
+      "offset": 88650,
+      "value": "IHNNTV"
+    },
+    {
+      "offset": 90364,
+      "value": "K I"
+    },
+    {
+      "offset": 91098,
+      "value": "IJPRZ\\"
+    },
+    {
+      "offset": 91114,
+      "value": "IHPRZ\\"
+    },
+    {
+      "offset": 91130,
+      "value": "IHPPXZ"
+    },
+    {
+      "offset": 91162,
+      "value": "IHPPVX"
+    },
+    {
+      "offset": 92954,
+      "value": "EL@JJN"
+    },
+    {
+      "offset": 93658,
+      "value": "IHPPXZ"
+    },
+    {
+      "offset": 96186,
+      "value": "IHPPXZ"
+    },
+    {
+      "offset": 97946,
+      "value": "K\\JXLV"
+    },
+    {
+      "offset": 101948,
+      "value": "bhBR"
+    },
+    {
+      "offset": 101994,
+      "value": "OHjx6@"
+    },
+    {
+      "offset": 103274,
+      "value": "SZHXNb"
+    },
+    {
+      "offset": 105685,
+      "value": "jmI_"
+    },
+    {
+      "offset": 111800,
+      "value": "mxBcoi"
+    },
+    {
+      "offset": 112620,
+      "value": "fvjn"
+    },
+    {
+      "offset": 113100,
+      "value": "fjjr"
+    },
+    {
+      "offset": 113165,
+      "value": "fdn"
+    },
+    {
+      "offset": 113786,
+      "value": "QPXZdd"
+    },
+    {
+      "offset": 113831,
+      "value": "iCI"
+    },
+    {
+      "offset": 113905,
+      "value": "NND"
+    },
+    {
+      "offset": 115328,
+      "value": "B.WYm "
+    },
+    {
+      "offset": 115718,
+      "value": "DBs"
+    },
+    {
+      "offset": 118236,
+      "value": "hnlp"
+    },
+    {
+      "offset": 120870,
+      "value": "Ug_"
+    },
+    {
+      "offset": 123261,
+      "value": "dhl"
+    },
+    {
+      "offset": 123293,
+      "value": "dfjH"
+    },
+    {
+      "offset": 124587,
+      "value": "qx8p"
+    },
+    {
+      "offset": 125934,
+      "value": "jn@"
+    },
+    {
+      "offset": 127373,
+      "value": "F3X"
+    },
+    {
+      "offset": 128638,
+      "value": "SN11"
+    },
+    {
+      "offset": 133420,
+      "value": "Xdbf"
+    },
+    {
+      "offset": 137722,
+      "value": "IHDFBL"
+    },
+    {
+      "offset": 139948,
+      "value": "lg3Z"
+    },
+    {
+      "offset": 143034,
+      "value": "ITFTPd "
+    },
+    {
+      "offset": 147579,
+      "value": "N.D.BpS"
+    },
+    {
+      "offset": 147974,
+      "value": "Qx_"
+    },
+    {
+      "offset": 148354,
+      "value": "w5V@@"
+    },
+    {
+      "offset": 152829,
+      "value": "dPV"
+    },
+    {
+      "offset": 153921,
+      "value": "q Y"
+    },
+    {
+      "offset": 156449,
+      "value": "q w q"
+    },
+    {
+      "offset": 156559,
+      "value": "Z1-d"
+    },
+    {
+      "offset": 157926,
+      "value": "X7o"
+    },
+    {
+      "offset": 161300,
+      "value": "PUZI_"
+    },
+    {
+      "offset": 165834,
+      "value": "CF@DLV"
+    },
+    {
+      "offset": 166282,
+      "value": "glLVJT "
+    },
+    {
+      "offset": 168070,
+      "value": "Xvo"
+    },
+    {
+      "offset": 168550,
+      "value": "ytn"
+    },
+    {
+      "offset": 168701,
+      "value": "L2H"
+    },
+    {
+      "offset": 168714,
+      "value": "_f@L6H"
+    },
+    {
+      "offset": 168762,
+      "value": "adBJ:D"
+    },
+    {
+      "offset": 168778,
+      "value": "afDH:B"
+    },
+    {
+      "offset": 169806,
+      "value": "ke/"
+    },
+    {
+      "offset": 173030,
+      "value": "hLo"
+    },
+    {
+      "offset": 174483,
+      "value": "XPP"
+    },
+    {
+      "offset": 174999,
+      "value": "caY"
+    },
+    {
+      "offset": 175450,
+      "value": "IZ2H2H"
+    },
+    {
+      "offset": 175605,
+      "value": "LBzo"
+    },
+    {
+      "offset": 177294,
+      "value": "WF "
+    },
+    {
+      "offset": 178466,
+      "value": "KJiiHiO"
+    },
+    {
+      "offset": 183254,
+      "value": "Dco"
+    },
+    {
+      "offset": 184353,
+      "value": "s s u"
+    },
+    {
+      "offset": 190822,
+      "value": "v o"
+    },
+    {
+      "offset": 192186,
+      "value": "UXbdxx "
+    },
+    {
+      "offset": 193803,
+      "value": "F48:H"
+    },
+    {
+      "offset": 194724,
+      "value": "XP "
+    },
+    {
+      "offset": 197838,
+      "value": "b\\@"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000007f859b903aa28dec6a2c72304506e56f63ad935d1c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "dc5100001800000000001200180004000000000008000c001000140012000000404b0000084b0000742f0000f01a000004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

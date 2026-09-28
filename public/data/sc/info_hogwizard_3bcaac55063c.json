@@ -1,0 +1,381 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_hogwizard.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_hogwizard.sc",
+  "sha256_container": "3bcaac55063cb3b767c8b02a372819527c28ce84f3574c59e64914ba51a0ae44",
+  "sha256_descriptor": "34e1a62efe8bec16b11eced077252aab2dcfbbc2fa5ab2cb8d2f3b6091eba06c",
+  "sha256_decoded_payload": "8e0ea00102e674a418828aa16de930f4b1cfc91134827dbd4f0e9b971debf9c3",
+  "version": 6,
+  "descriptor_bytes": 204,
+  "compressed_frame_bytes": 127451,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 304168,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 380
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 303416
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 127456
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 124,
+      "value": "unit_hogwizard_big"
+    },
+    {
+      "offset": 188,
+      "value": "unit_archer_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_hogwizard_big",
+    "unit_archer_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 332,
+      "value": "unit_hogwizard_big"
+    },
+    {
+      "offset": 356,
+      "value": "unit_archer_big"
+    },
+    {
+      "offset": 3019,
+      "value": "SEA@"
+    },
+    {
+      "offset": 17145,
+      "value": "BIDn"
+    },
+    {
+      "offset": 26521,
+      "value": "B30N"
+    },
+    {
+      "offset": 28505,
+      "value": "B30N"
+    },
+    {
+      "offset": 32216,
+      "value": "MBUr"
+    },
+    {
+      "offset": 55382,
+      "value": "Px_"
+    },
+    {
+      "offset": 55948,
+      "value": "jjpv"
+    },
+    {
+      "offset": 61791,
+      "value": "H06B"
+    },
+    {
+      "offset": 63024,
+      "value": "uMr"
+    },
+    {
+      "offset": 63299,
+      "value": "uSW"
+    },
+    {
+      "offset": 66693,
+      "value": "Mjy_"
+    },
+    {
+      "offset": 67379,
+      "value": "rp A"
+    },
+    {
+      "offset": 74698,
+      "value": "BSd"
+    },
+    {
+      "offset": 76568,
+      "value": "ACG9"
+    },
+    {
+      "offset": 78762,
+      "value": "AFNVnv"
+    },
+    {
+      "offset": 81284,
+      "value": "SI@"
+    },
+    {
+      "offset": 82284,
+      "value": "Vfhx"
+    },
+    {
+      "offset": 88155,
+      "value": "v8xDR"
+    },
+    {
+      "offset": 89715,
+      "value": "R5Jt"
+    },
+    {
+      "offset": 90515,
+      "value": "jRE+c_"
+    },
+    {
+      "offset": 90770,
+      "value": "OC4 "
+    },
+    {
+      "offset": 91589,
+      "value": "M3v_"
+    },
+    {
+      "offset": 94111,
+      "value": "nUN"
+    },
+    {
+      "offset": 95125,
+      "value": "CF0s"
+    },
+    {
+      "offset": 95197,
+      "value": "tXp"
+    },
+    {
+      "offset": 97616,
+      "value": "iKA"
+    },
+    {
+      "offset": 98618,
+      "value": "SndzNf"
+    },
+    {
+      "offset": 105435,
+      "value": "J2@RfVj"
+    },
+    {
+      "offset": 106112,
+      "value": "L_8k"
+    },
+    {
+      "offset": 111467,
+      "value": "sAq"
+    },
+    {
+      "offset": 123988,
+      "value": "IjI"
+    },
+    {
+      "offset": 138967,
+      "value": "nCI"
+    },
+    {
+      "offset": 145312,
+      "value": "_sYC"
+    },
+    {
+      "offset": 156488,
+      "value": "ACUV"
+    },
+    {
+      "offset": 156504,
+      "value": "ACUV"
+    },
+    {
+      "offset": 165731,
+      "value": "RM2"
+    },
+    {
+      "offset": 169484,
+      "value": "tzNN"
+    },
+    {
+      "offset": 176988,
+      "value": "tzFJ"
+    },
+    {
+      "offset": 178804,
+      "value": "I3p"
+    },
+    {
+      "offset": 180732,
+      "value": "rt@L"
+    },
+    {
+      "offset": 186316,
+      "value": "lz@N"
+    },
+    {
+      "offset": 191964,
+      "value": "rzBJ"
+    },
+    {
+      "offset": 195692,
+      "value": "lt@H"
+    },
+    {
+      "offset": 201324,
+      "value": "hp6@"
+    },
+    {
+      "offset": 203132,
+      "value": "hn6B"
+    },
+    {
+      "offset": 212524,
+      "value": "bx.J"
+    },
+    {
+      "offset": 213608,
+      "value": "cAWZ"
+    },
+    {
+      "offset": 215518,
+      "value": "MORP"
+    },
+    {
+      "offset": 217174,
+      "value": "Xf_"
+    },
+    {
+      "offset": 226463,
+      "value": "NCL"
+    },
+    {
+      "offset": 228061,
+      "value": "QCt"
+    },
+    {
+      "offset": 229404,
+      "value": "jt8@"
+    },
+    {
+      "offset": 235971,
+      "value": "sWsH"
+    },
+    {
+      "offset": 237435,
+      "value": "A2u"
+    },
+    {
+      "offset": 246172,
+      "value": "pv@F"
+    },
+    {
+      "offset": 246204,
+      "value": "txBJ"
+    },
+    {
+      "offset": 246758,
+      "value": "O@s"
+    },
+    {
+      "offset": 246923,
+      "value": "ufx"
+    },
+    {
+      "offset": 247358,
+      "value": "z7@"
+    },
+    {
+      "offset": 248060,
+      "value": "tvDF"
+    },
+    {
+      "offset": 249304,
+      "value": "MBsL"
+    },
+    {
+      "offset": 250196,
+      "value": "lhdX_"
+    },
+    {
+      "offset": 250872,
+      "value": "AC+L"
+    },
+    {
+      "offset": 253724,
+      "value": "lt4B"
+    },
+    {
+      "offset": 256747,
+      "value": "Sq "
+    },
+    {
+      "offset": 258474,
+      "value": "zS+"
+    },
+    {
+      "offset": 266902,
+      "value": "NV_"
+    },
+    {
+      "offset": 268918,
+      "value": "rKO"
+    },
+    {
+      "offset": 273320,
+      "value": "MBi3"
+    },
+    {
+      "offset": 276952,
+      "value": "MBsL"
+    },
+    {
+      "offset": 278091,
+      "value": "O:A"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c0000000100000001000000020000000200000001000000030000007c010000",
+  "decoded_preview_hex": "7801000018000000000012001400040000000000000008000c0010001200000018010000040100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

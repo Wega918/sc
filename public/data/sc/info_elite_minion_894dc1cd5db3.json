@@ -1,0 +1,100 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_elite_minion.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_minion.sc",
+  "sha256_container": "894dc1cd5db3b140d672574cb5b7dd20d6dbeb26c28c9159cc8ba7c8cda11471",
+  "sha256_descriptor": "b4151c2fbc3629c3bf58c07524a8bfb075cb7888149cf17b57bb3a282355109c",
+  "sha256_decoded_payload": "442fcf0a8dab37323f754bc288af797bf1857d863c3cd368241f4c4151ea016c",
+  "version": 6,
+  "descriptor_bytes": 156,
+  "compressed_frame_bytes": 15571,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 25564,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 224
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 25080
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 15576
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 132,
+      "value": "unit_elite_minion_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_elite_minion_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 192,
+      "value": "unit_elite_minion_big"
+    },
+    {
+      "offset": 5178,
+      "value": "DIo"
+    },
+    {
+      "offset": 10207,
+      "value": "c4t"
+    },
+    {
+      "offset": 22810,
+      "value": "C0_"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000010000000100000003000000",
+  "decoded_preview_hex": "dc00000018000000000012001400040000000000000008000c001000120000009000000080000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

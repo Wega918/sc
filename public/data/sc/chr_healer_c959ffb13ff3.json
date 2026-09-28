@@ -1,0 +1,923 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_healer.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_healer.sc",
+  "sha256_container": "c959ffb13ff3a23f570e13cd2c7b57c4601da984c886f1878a305d4e03fb34af",
+  "sha256_descriptor": "37b21e512a59b03c117c6609a55377730ba762e97ac8eadf6a72a32adae7c3cb",
+  "sha256_decoded_payload": "e556e39b2c20a748565d257477834c69223d8b57ae5ce131f659d82a372daa37",
+  "version": 6,
+  "descriptor_bytes": 4756,
+  "compressed_frame_bytes": 26956,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 158724,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 388
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 83
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 112800
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 22812
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 26960
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 440,
+      "value": "healer7_run1_3"
+    },
+    {
+      "offset": 492,
+      "value": "healer7_run1_2"
+    },
+    {
+      "offset": 544,
+      "value": "healer7_run1_1"
+    },
+    {
+      "offset": 596,
+      "value": "healer7_idle1_3"
+    },
+    {
+      "offset": 648,
+      "value": "healer7_idle1_2"
+    },
+    {
+      "offset": 700,
+      "value": "healer7_idle1_1"
+    },
+    {
+      "offset": 752,
+      "value": "healer7_attack1_3"
+    },
+    {
+      "offset": 808,
+      "value": "healer7_attack1_2"
+    },
+    {
+      "offset": 864,
+      "value": "healer7_attack1_1"
+    },
+    {
+      "offset": 920,
+      "value": "healer6_run1_3"
+    },
+    {
+      "offset": 972,
+      "value": "healer6_run1_2"
+    },
+    {
+      "offset": 1024,
+      "value": "healer6_run1_1"
+    },
+    {
+      "offset": 1076,
+      "value": "healer6_idle1_3"
+    },
+    {
+      "offset": 1128,
+      "value": "healer6_idle1_2"
+    },
+    {
+      "offset": 1180,
+      "value": "healer6_idle1_1"
+    },
+    {
+      "offset": 1232,
+      "value": "healer6_attack1_3"
+    },
+    {
+      "offset": 1288,
+      "value": "healer6_attack1_2"
+    },
+    {
+      "offset": 1344,
+      "value": "healer6_attack1_1"
+    },
+    {
+      "offset": 1400,
+      "value": "healer5_run1_3"
+    },
+    {
+      "offset": 1452,
+      "value": "healer5_run1_2"
+    },
+    {
+      "offset": 1504,
+      "value": "healer5_run1_1"
+    },
+    {
+      "offset": 1556,
+      "value": "healer5_idle1_3"
+    },
+    {
+      "offset": 1608,
+      "value": "healer5_idle1_2"
+    },
+    {
+      "offset": 1660,
+      "value": "healer5_idle1_1"
+    },
+    {
+      "offset": 1712,
+      "value": "healer5_attack1_3"
+    },
+    {
+      "offset": 1768,
+      "value": "healer5_attack1_2"
+    },
+    {
+      "offset": 1824,
+      "value": "healer5_attack1_1"
+    },
+    {
+      "offset": 1880,
+      "value": "healer4_run1_3"
+    },
+    {
+      "offset": 1932,
+      "value": "healer4_run1_2"
+    },
+    {
+      "offset": 1984,
+      "value": "healer4_run1_1"
+    },
+    {
+      "offset": 2036,
+      "value": "healer4_idle1_3"
+    },
+    {
+      "offset": 2088,
+      "value": "healer4_idle1_2"
+    },
+    {
+      "offset": 2140,
+      "value": "healer4_idle1_1"
+    },
+    {
+      "offset": 2192,
+      "value": "healer4_attack1_3"
+    },
+    {
+      "offset": 2248,
+      "value": "healer4_attack1_2"
+    },
+    {
+      "offset": 2304,
+      "value": "healer4_attack1_1"
+    },
+    {
+      "offset": 2360,
+      "value": "healer3_run1_3"
+    },
+    {
+      "offset": 2412,
+      "value": "healer3_run1_2"
+    },
+    {
+      "offset": 2464,
+      "value": "healer3_run1_1"
+    },
+    {
+      "offset": 2516,
+      "value": "healer3_idle1_3"
+    },
+    {
+      "offset": 2568,
+      "value": "healer3_idle1_2"
+    },
+    {
+      "offset": 2620,
+      "value": "healer3_idle1_1"
+    },
+    {
+      "offset": 2672,
+      "value": "healer3_attack1_3"
+    },
+    {
+      "offset": 2728,
+      "value": "healer3_attack1_2"
+    },
+    {
+      "offset": 2784,
+      "value": "healer3_attack1_1"
+    },
+    {
+      "offset": 2840,
+      "value": "healer2_run1_3"
+    },
+    {
+      "offset": 2892,
+      "value": "healer2_run1_2"
+    },
+    {
+      "offset": 2944,
+      "value": "healer2_run1_1"
+    },
+    {
+      "offset": 2996,
+      "value": "healer2_idle1_3"
+    },
+    {
+      "offset": 3048,
+      "value": "healer2_idle1_2"
+    },
+    {
+      "offset": 3100,
+      "value": "healer2_idle1_1"
+    },
+    {
+      "offset": 3152,
+      "value": "healer2_attack1_3"
+    },
+    {
+      "offset": 3208,
+      "value": "healer2_attack1_2"
+    },
+    {
+      "offset": 3264,
+      "value": "healer2_attack1_1"
+    },
+    {
+      "offset": 3320,
+      "value": "healer1_run1_3"
+    },
+    {
+      "offset": 3372,
+      "value": "healer1_run1_2"
+    },
+    {
+      "offset": 3424,
+      "value": "healer1_run1_1"
+    },
+    {
+      "offset": 3476,
+      "value": "healer1_idle1_3"
+    },
+    {
+      "offset": 3528,
+      "value": "healer1_idle1_2"
+    },
+    {
+      "offset": 3580,
+      "value": "healer1_idle1_1"
+    },
+    {
+      "offset": 3632,
+      "value": "healer1_attack1_3"
+    },
+    {
+      "offset": 3688,
+      "value": "healer1_attack1_2"
+    },
+    {
+      "offset": 3744,
+      "value": "healer1_attack1_1"
+    },
+    {
+      "offset": 3800,
+      "value": "healer11_run1_3"
+    },
+    {
+      "offset": 3852,
+      "value": "healer11_run1_2"
+    },
+    {
+      "offset": 3904,
+      "value": "healer11_run1_1"
+    },
+    {
+      "offset": 3956,
+      "value": "healer11_idle1_3"
+    },
+    {
+      "offset": 4012,
+      "value": "healer11_idle1_2"
+    },
+    {
+      "offset": 4068,
+      "value": "healer11_idle1_1"
+    },
+    {
+      "offset": 4124,
+      "value": "healer11_attack1_3"
+    },
+    {
+      "offset": 4180,
+      "value": "healer11_attack1_2"
+    },
+    {
+      "offset": 4236,
+      "value": "healer11_attack1_1"
+    },
+    {
+      "offset": 4292,
+      "value": "healer10_run1_3"
+    },
+    {
+      "offset": 4344,
+      "value": "healer10_run1_2"
+    },
+    {
+      "offset": 4396,
+      "value": "healer10_run1_1"
+    },
+    {
+      "offset": 4448,
+      "value": "healer10_idle1_3"
+    },
+    {
+      "offset": 4504,
+      "value": "healer10_idle1_2"
+    },
+    {
+      "offset": 4560,
+      "value": "healer10_idle1_1"
+    },
+    {
+      "offset": 4616,
+      "value": "healer10_attack1_3"
+    },
+    {
+      "offset": 4672,
+      "value": "healer10_attack1_2"
+    },
+    {
+      "offset": 4736,
+      "value": "healer10_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "healer7_run1_3",
+    "healer7_run1_2",
+    "healer7_run1_1",
+    "healer7_idle1_3",
+    "healer7_idle1_2",
+    "healer7_idle1_1",
+    "healer7_attack1_3",
+    "healer7_attack1_2",
+    "healer7_attack1_1",
+    "healer6_run1_3",
+    "healer6_run1_2",
+    "healer6_run1_1",
+    "healer6_idle1_3",
+    "healer6_idle1_2",
+    "healer6_idle1_1",
+    "healer6_attack1_3",
+    "healer6_attack1_2",
+    "healer6_attack1_1",
+    "healer5_run1_3",
+    "healer5_run1_2",
+    "healer5_run1_1",
+    "healer5_idle1_3",
+    "healer5_idle1_2",
+    "healer5_idle1_1",
+    "healer5_attack1_3",
+    "healer5_attack1_2",
+    "healer5_attack1_1",
+    "healer4_run1_3",
+    "healer4_run1_2",
+    "healer4_run1_1",
+    "healer4_idle1_3",
+    "healer4_idle1_2",
+    "healer4_idle1_1",
+    "healer4_attack1_3",
+    "healer4_attack1_2",
+    "healer4_attack1_1",
+    "healer3_run1_3",
+    "healer3_run1_2",
+    "healer3_run1_1",
+    "healer3_idle1_3",
+    "healer3_idle1_2",
+    "healer3_idle1_1",
+    "healer3_attack1_3",
+    "healer3_attack1_2",
+    "healer3_attack1_1",
+    "healer2_run1_3",
+    "healer2_run1_2",
+    "healer2_run1_1",
+    "healer2_idle1_3",
+    "healer2_idle1_2",
+    "healer2_idle1_1",
+    "healer2_attack1_3",
+    "healer2_attack1_2",
+    "healer2_attack1_1",
+    "healer1_run1_3",
+    "healer1_run1_2",
+    "healer1_run1_1",
+    "healer1_idle1_3",
+    "healer1_idle1_2",
+    "healer1_idle1_1",
+    "healer1_attack1_3",
+    "healer1_attack1_2",
+    "healer1_attack1_1",
+    "healer11_run1_3",
+    "healer11_run1_2",
+    "healer11_run1_1",
+    "healer11_idle1_3",
+    "healer11_idle1_2",
+    "healer11_idle1_1",
+    "healer11_attack1_3",
+    "healer11_attack1_2",
+    "healer11_attack1_1",
+    "healer10_run1_3",
+    "healer10_run1_2",
+    "healer10_run1_1",
+    "healer10_idle1_3",
+    "healer10_idle1_2",
+    "healer10_idle1_1",
+    "healer10_attack1_3",
+    "healer10_attack1_2",
+    "healer10_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 364,
+      "value": "xxK"
+    },
+    {
+      "offset": 3157,
+      "value": "ajI"
+    },
+    {
+      "offset": 5847,
+      "value": "c33sA"
+    },
+    {
+      "offset": 6517,
+      "value": "wCd"
+    },
+    {
+      "offset": 6817,
+      "value": "ajI"
+    },
+    {
+      "offset": 9699,
+      "value": "c33sA"
+    },
+    {
+      "offset": 11044,
+      "value": "ffF@"
+    },
+    {
+      "offset": 11512,
+      "value": "ffF@"
+    },
+    {
+      "offset": 17584,
+      "value": "ffF@"
+    },
+    {
+      "offset": 19765,
+      "value": "KMF"
+    },
+    {
+      "offset": 20992,
+      "value": "ffF@"
+    },
+    {
+      "offset": 22996,
+      "value": "ffF@"
+    },
+    {
+      "offset": 23368,
+      "value": "ffF@"
+    },
+    {
+      "offset": 28288,
+      "value": "ffF@"
+    },
+    {
+      "offset": 31072,
+      "value": "ffF@"
+    },
+    {
+      "offset": 32788,
+      "value": "ffF@"
+    },
+    {
+      "offset": 33160,
+      "value": "ffF@"
+    },
+    {
+      "offset": 38080,
+      "value": "ffF@"
+    },
+    {
+      "offset": 40864,
+      "value": "ffF@"
+    },
+    {
+      "offset": 42580,
+      "value": "ffF@"
+    },
+    {
+      "offset": 42952,
+      "value": "ffF@"
+    },
+    {
+      "offset": 47872,
+      "value": "ffF@"
+    },
+    {
+      "offset": 50656,
+      "value": "ffF@"
+    },
+    {
+      "offset": 59964,
+      "value": "Lg2K"
+    },
+    {
+      "offset": 62871,
+      "value": "d33sA"
+    },
+    {
+      "offset": 64764,
+      "value": "zoQu"
+    },
+    {
+      "offset": 64789,
+      "value": "KWG"
+    },
+    {
+      "offset": 65388,
+      "value": "HZox"
+    },
+    {
+      "offset": 66505,
+      "value": "tds"
+    },
+    {
+      "offset": 111044,
+      "value": "healer4_idle1_2"
+    },
+    {
+      "offset": 111064,
+      "value": "healer4_attack1_3"
+    },
+    {
+      "offset": 111088,
+      "value": "healer3_run1_1"
+    },
+    {
+      "offset": 111108,
+      "value": "healer3_idle1_2"
+    },
+    {
+      "offset": 111128,
+      "value": "healer3_idle1_1"
+    },
+    {
+      "offset": 111148,
+      "value": "healer6_attack1_3"
+    },
+    {
+      "offset": 111172,
+      "value": "healer3_attack1_3"
+    },
+    {
+      "offset": 111196,
+      "value": "healer3_attack1_2"
+    },
+    {
+      "offset": 111220,
+      "value": "healer2_run1_2"
+    },
+    {
+      "offset": 111240,
+      "value": "healer5_run1_2"
+    },
+    {
+      "offset": 111260,
+      "value": "healer2_idle1_2"
+    },
+    {
+      "offset": 111280,
+      "value": "healer4_attack1_1"
+    },
+    {
+      "offset": 111304,
+      "value": "healer10_attack1_2"
+    },
+    {
+      "offset": 111328,
+      "value": "healer2_attack1_1"
+    },
+    {
+      "offset": 111352,
+      "value": "healer1_run1_3"
+    },
+    {
+      "offset": 111372,
+      "value": "healer1_run1_2"
+    },
+    {
+      "offset": 111392,
+      "value": "healer1_run1_1"
+    },
+    {
+      "offset": 111412,
+      "value": "healer1_idle1_2"
+    },
+    {
+      "offset": 111432,
+      "value": "healer1_idle1_1"
+    },
+    {
+      "offset": 111452,
+      "value": "healer10_run1_3"
+    },
+    {
+      "offset": 111472,
+      "value": "healer10_run1_1"
+    },
+    {
+      "offset": 111492,
+      "value": "healer4_attack1_2"
+    },
+    {
+      "offset": 111516,
+      "value": "healer2_idle1_3"
+    },
+    {
+      "offset": 111536,
+      "value": "healer2_run1_3"
+    },
+    {
+      "offset": 111556,
+      "value": "healer10_attack1_3"
+    },
+    {
+      "offset": 111580,
+      "value": "healer1_attack1_3"
+    },
+    {
+      "offset": 111604,
+      "value": "healer3_idle1_3"
+    },
+    {
+      "offset": 111624,
+      "value": "healer7_attack1_2"
+    },
+    {
+      "offset": 111648,
+      "value": "healer7_attack1_1"
+    },
+    {
+      "offset": 111672,
+      "value": "healer11_attack1_2"
+    },
+    {
+      "offset": 111696,
+      "value": "healer10_idle1_3"
+    },
+    {
+      "offset": 111720,
+      "value": "healer7_idle1_1"
+    },
+    {
+      "offset": 111740,
+      "value": "healer7_idle1_2"
+    },
+    {
+      "offset": 111760,
+      "value": "healer10_idle1_1"
+    },
+    {
+      "offset": 111784,
+      "value": "healer4_idle1_1"
+    },
+    {
+      "offset": 111804,
+      "value": "healer10_run1_2"
+    },
+    {
+      "offset": 111824,
+      "value": "healer11_run1_1"
+    },
+    {
+      "offset": 111844,
+      "value": "healer3_run1_3"
+    },
+    {
+      "offset": 111864,
+      "value": "healer5_idle1_1"
+    },
+    {
+      "offset": 111884,
+      "value": "healer11_run1_3"
+    },
+    {
+      "offset": 111904,
+      "value": "healer2_attack1_3"
+    },
+    {
+      "offset": 111928,
+      "value": "healer11_attack1_3"
+    },
+    {
+      "offset": 111952,
+      "value": "healer7_attack1_3"
+    },
+    {
+      "offset": 111976,
+      "value": "healer10_idle1_2"
+    },
+    {
+      "offset": 112000,
+      "value": "healer7_idle1_3"
+    },
+    {
+      "offset": 112020,
+      "value": "healer2_idle1_1"
+    },
+    {
+      "offset": 112040,
+      "value": "healer10_attack1_1"
+    },
+    {
+      "offset": 112064,
+      "value": "healer3_attack1_1"
+    },
+    {
+      "offset": 112088,
+      "value": "healer2_run1_1"
+    },
+    {
+      "offset": 112108,
+      "value": "healer6_attack1_1"
+    },
+    {
+      "offset": 112132,
+      "value": "healer7_run1_1"
+    },
+    {
+      "offset": 112152,
+      "value": "healer3_run1_2"
+    },
+    {
+      "offset": 112172,
+      "value": "healer1_idle1_3"
+    },
+    {
+      "offset": 112192,
+      "value": "healer2_attack1_2"
+    },
+    {
+      "offset": 112216,
+      "value": "healer7_run1_3"
+    },
+    {
+      "offset": 112236,
+      "value": "healer7_run1_2"
+    },
+    {
+      "offset": 112256,
+      "value": "healer11_attack1_1"
+    },
+    {
+      "offset": 112280,
+      "value": "healer6_attack1_2"
+    },
+    {
+      "offset": 112304,
+      "value": "healer11_idle1_2"
+    },
+    {
+      "offset": 112328,
+      "value": "healer5_run1_1"
+    },
+    {
+      "offset": 112348,
+      "value": "healer11_run1_2"
+    },
+    {
+      "offset": 112368,
+      "value": "healer1_attack1_1"
+    },
+    {
+      "offset": 112392,
+      "value": "healer11_idle1_1"
+    },
+    {
+      "offset": 112416,
+      "value": "healer11_idle1_3"
+    },
+    {
+      "offset": 112440,
+      "value": "healer5_idle1_3"
+    },
+    {
+      "offset": 112460,
+      "value": "healer1_attack1_2"
+    },
+    {
+      "offset": 112484,
+      "value": "healer6_idle1_1"
+    },
+    {
+      "offset": 112504,
+      "value": "healer4_idle1_3"
+    },
+    {
+      "offset": 112524,
+      "value": "healer4_run1_1"
+    },
+    {
+      "offset": 112544,
+      "value": "healer4_run1_2"
+    },
+    {
+      "offset": 112564,
+      "value": "healer4_run1_3"
+    },
+    {
+      "offset": 112584,
+      "value": "healer5_attack1_1"
+    },
+    {
+      "offset": 112608,
+      "value": "healer5_attack1_2"
+    },
+    {
+      "offset": 112632,
+      "value": "healer5_attack1_3"
+    },
+    {
+      "offset": 112656,
+      "value": "healer5_idle1_2"
+    },
+    {
+      "offset": 112676,
+      "value": "healer5_run1_3"
+    },
+    {
+      "offset": 112696,
+      "value": "healer6_idle1_2"
+    },
+    {
+      "offset": 112716,
+      "value": "healer6_idle1_3"
+    },
+    {
+      "offset": 112736,
+      "value": "healer6_run1_1"
+    },
+    {
+      "offset": 112756,
+      "value": "healer6_run1_2"
+    },
+    {
+      "offset": 112776,
+      "value": "healer6_run1_3"
+    },
+    {
+      "offset": 158704,
+      "value": "chr_healer_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000840100005300000001000000a0b80100",
+  "decoded_preview_hex": "9cb8010018000000000012001400040000000000000008000c0010001200000054b001001c080100040a000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

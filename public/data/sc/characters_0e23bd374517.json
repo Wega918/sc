@@ -1,0 +1,1161 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "characters.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\characters.sc",
+  "sha256_container": "0e23bd3745176fe7db3d61e490d9da07c63a42e95462f514d6eac696314c3798",
+  "sha256_descriptor": "a31a67063036628dc1ed64fc72513f8ca2a57bc6990bd53334281abb0b63b676",
+  "sha256_decoded_payload": "349c20d49e1b6602d61cb3c11e9a23e2685b511f53e2fc72e88906da2099d0e9",
+  "version": 6,
+  "descriptor_bytes": 5732,
+  "compressed_frame_bytes": 52929,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 217116,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 359
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 124
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 12
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 158512
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 44252
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 52936
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 480,
+      "value": "yak_zzz"
+    },
+    {
+      "offset": 524,
+      "value": "villagergirl_walk1_3"
+    },
+    {
+      "offset": 584,
+      "value": "villagergirl_walk1_2"
+    },
+    {
+      "offset": 644,
+      "value": "villagergirl_walk1_1"
+    },
+    {
+      "offset": 704,
+      "value": "villagergirl_sleep1_3"
+    },
+    {
+      "offset": 764,
+      "value": "villagergirl_sleep1_2"
+    },
+    {
+      "offset": 824,
+      "value": "villagergirl_sleep1_1"
+    },
+    {
+      "offset": 884,
+      "value": "villagergirl_idle2_3"
+    },
+    {
+      "offset": 944,
+      "value": "villagergirl_idle2_2"
+    },
+    {
+      "offset": 1004,
+      "value": "villagergirl_idle2_1"
+    },
+    {
+      "offset": 1064,
+      "value": "villagergirl_idle1_3"
+    },
+    {
+      "offset": 1124,
+      "value": "villagergirl_idle1_2"
+    },
+    {
+      "offset": 1184,
+      "value": "villagergirl_idle1_1"
+    },
+    {
+      "offset": 1244,
+      "value": "villagergirl_cheer1_3"
+    },
+    {
+      "offset": 1304,
+      "value": "villagergirl_cheer1_2"
+    },
+    {
+      "offset": 1364,
+      "value": "villagergirl_cheer1_1"
+    },
+    {
+      "offset": 1424,
+      "value": "vfx_chr_DarkOrb_SummonPortal"
+    },
+    {
+      "offset": 1492,
+      "value": "vfx_chr_DarkOrb_Streak"
+    },
+    {
+      "offset": 1552,
+      "value": "vfx_chr_DarkOrb_Spark"
+    },
+    {
+      "offset": 1612,
+      "value": "vfx_chr_DarkOrb_Rays"
+    },
+    {
+      "offset": 1672,
+      "value": "vfx_chr_DarkOrb_Portal"
+    },
+    {
+      "offset": 1732,
+      "value": "vfx_chr_DarkOrb_Glow"
+    },
+    {
+      "offset": 1792,
+      "value": "vfx_chr_DarkOrb_DarkBubble"
+    },
+    {
+      "offset": 1856,
+      "value": "vfx_chr_DarkOrb_Crystal"
+    },
+    {
+      "offset": 1916,
+      "value": "vfx_chr_DarkOrb_CloudC"
+    },
+    {
+      "offset": 1976,
+      "value": "vfx_chr_DarkOrb_CloudB"
+    },
+    {
+      "offset": 2036,
+      "value": "vfx_chr_DarkOrb_CloudA"
+    },
+    {
+      "offset": 2096,
+      "value": "unicorn_zzz"
+    },
+    {
+      "offset": 2144,
+      "value": "trader_idle1_2"
+    },
+    {
+      "offset": 2196,
+      "value": "tiny_lavahound_projectile"
+    },
+    {
+      "offset": 2260,
+      "value": "tiny_icehound_projectile"
+    },
+    {
+      "offset": 2324,
+      "value": "temp_dummya4"
+    },
+    {
+      "offset": 2376,
+      "value": "stunned_stars_pets_3d"
+    },
+    {
+      "offset": 2436,
+      "value": "stunned_stars_3d"
+    },
+    {
+      "offset": 2492,
+      "value": "strongman_idle1_2"
+    },
+    {
+      "offset": 2548,
+      "value": "slimeball_special"
+    },
+    {
+      "offset": 2604,
+      "value": "slimeball_projectile"
+    },
+    {
+      "offset": 2664,
+      "value": "shield_projectile"
+    },
+    {
+      "offset": 2720,
+      "value": "revivable_hero"
+    },
+    {
+      "offset": 2772,
+      "value": "pumpkin_barbarian_death"
+    },
+    {
+      "offset": 2832,
+      "value": "projectile_bomb_lvl2"
+    },
+    {
+      "offset": 2892,
+      "value": "projectile_bomb"
+    },
+    {
+      "offset": 2944,
+      "value": "projectile_battle_copter_bomb"
+    },
+    {
+      "offset": 3012,
+      "value": "owl_zzz"
+    },
+    {
+      "offset": 3056,
+      "value": "logger_log_projectile_lvl1_9"
+    },
+    {
+      "offset": 3124,
+      "value": "logger_log_projectile_lvl1_8"
+    },
+    {
+      "offset": 3192,
+      "value": "logger_log_projectile_lvl1_7"
+    },
+    {
+      "offset": 3260,
+      "value": "logger_log_projectile_lvl1_6"
+    },
+    {
+      "offset": 3328,
+      "value": "logger_log_projectile_lvl1_5"
+    },
+    {
+      "offset": 3396,
+      "value": "logger_log_projectile_lvl1_4"
+    },
+    {
+      "offset": 3464,
+      "value": "logger_log_projectile_lvl1_3"
+    },
+    {
+      "offset": 3532,
+      "value": "logger_log_projectile_lvl1_2"
+    },
+    {
+      "offset": 3600,
+      "value": "logger_log_projectile_lvl1_1"
+    },
+    {
+      "offset": 3668,
+      "value": "log_lvl1_run1_9"
+    },
+    {
+      "offset": 3720,
+      "value": "log_lvl1_run1_8"
+    },
+    {
+      "offset": 3772,
+      "value": "log_lvl1_run1_7"
+    },
+    {
+      "offset": 3824,
+      "value": "log_lvl1_run1_6"
+    },
+    {
+      "offset": 3876,
+      "value": "log_lvl1_run1_5"
+    },
+    {
+      "offset": 3928,
+      "value": "log_lvl1_run1_4"
+    },
+    {
+      "offset": 3980,
+      "value": "log_lvl1_run1_3"
+    },
+    {
+      "offset": 4032,
+      "value": "log_lvl1_run1_2"
+    },
+    {
+      "offset": 4084,
+      "value": "log_lvl1_run1_1"
+    },
+    {
+      "offset": 4136,
+      "value": "lavahound_projectile"
+    },
+    {
+      "offset": 4196,
+      "value": "lassi_zzz"
+    },
+    {
+      "offset": 4244,
+      "value": "ice_wizard_projectile"
+    },
+    {
+      "offset": 4304,
+      "value": "hero_warriorprincess_javelin"
+    },
+    {
+      "offset": 4372,
+      "value": "hero_shadow_01"
+    },
+    {
+      "offset": 4424,
+      "value": "gw_fly_stunned_stars_3d"
+    },
+    {
+      "offset": 4484,
+      "value": "gear_RC_RocketSpear"
+    },
+    {
+      "offset": 4540,
+      "value": "fennec_running_speed"
+    },
+    {
+      "offset": 4600,
+      "value": "fennec_running_dusty"
+    },
+    {
+      "offset": 4660,
+      "value": "fennec_attack_ring_02"
+    },
+    {
+      "offset": 4720,
+      "value": "executioner_projectile"
+    },
+    {
+      "offset": 4780,
+      "value": "barbarian_death_1"
+    },
+    {
+      "offset": 4836,
+      "value": "axe_man_run1_3"
+    },
+    {
+      "offset": 4888,
+      "value": "axe_man_run1_2"
+    },
+    {
+      "offset": 4940,
+      "value": "axe_man_run1_1"
+    },
+    {
+      "offset": 4992,
+      "value": "axe_man_idle1_3"
+    },
+    {
+      "offset": 5044,
+      "value": "axe_man_idle1_2"
+    },
+    {
+      "offset": 5096,
+      "value": "axe_man_idle1_1"
+    },
+    {
+      "offset": 5148,
+      "value": "axe_man_attack1_3"
+    },
+    {
+      "offset": 5204,
+      "value": "axe_man_attack1_2"
+    },
+    {
+      "offset": 5260,
+      "value": "axe_man_attack1_1"
+    },
+    {
+      "offset": 5316,
+      "value": "arrow_ammo_small_fire"
+    },
+    {
+      "offset": 5376,
+      "value": "arrow_ammo_small_elixirFire"
+    },
+    {
+      "offset": 5440,
+      "value": "arrow_ammo_small_darkElixirFire2"
+    },
+    {
+      "offset": 5512,
+      "value": "arrow_ammo_small_darkElixirFire"
+    },
+    {
+      "offset": 5580,
+      "value": "arrow_ammo_small"
+    },
+    {
+      "offset": 5636,
+      "value": "Siege_Machine_Ram1_die1_1"
+    },
+    {
+      "offset": 5708,
+      "value": "Minion_SpecialAbility"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "yak_zzz",
+    "villagergirl_walk1_3",
+    "villagergirl_walk1_2",
+    "villagergirl_walk1_1",
+    "villagergirl_sleep1_3",
+    "villagergirl_sleep1_2",
+    "villagergirl_sleep1_1",
+    "villagergirl_idle2_3",
+    "villagergirl_idle2_2",
+    "villagergirl_idle2_1",
+    "villagergirl_idle1_3",
+    "villagergirl_idle1_2",
+    "villagergirl_idle1_1",
+    "villagergirl_cheer1_3",
+    "villagergirl_cheer1_2",
+    "villagergirl_cheer1_1",
+    "vfx_chr_DarkOrb_SummonPortal",
+    "vfx_chr_DarkOrb_Streak",
+    "vfx_chr_DarkOrb_Spark",
+    "vfx_chr_DarkOrb_Rays",
+    "vfx_chr_DarkOrb_Portal",
+    "vfx_chr_DarkOrb_Glow",
+    "vfx_chr_DarkOrb_DarkBubble",
+    "vfx_chr_DarkOrb_Crystal",
+    "vfx_chr_DarkOrb_CloudC",
+    "vfx_chr_DarkOrb_CloudB",
+    "vfx_chr_DarkOrb_CloudA",
+    "unicorn_zzz",
+    "trader_idle1_2",
+    "tiny_lavahound_projectile",
+    "tiny_icehound_projectile",
+    "temp_dummya4",
+    "stunned_stars_pets_3d",
+    "stunned_stars_3d",
+    "strongman_idle1_2",
+    "slimeball_special",
+    "slimeball_projectile",
+    "shield_projectile",
+    "revivable_hero",
+    "pumpkin_barbarian_death",
+    "projectile_bomb_lvl2",
+    "projectile_bomb",
+    "projectile_battle_copter_bomb",
+    "owl_zzz",
+    "logger_log_projectile_lvl1_9",
+    "logger_log_projectile_lvl1_8",
+    "logger_log_projectile_lvl1_7",
+    "logger_log_projectile_lvl1_6",
+    "logger_log_projectile_lvl1_5",
+    "logger_log_projectile_lvl1_4",
+    "logger_log_projectile_lvl1_3",
+    "logger_log_projectile_lvl1_2",
+    "logger_log_projectile_lvl1_1",
+    "log_lvl1_run1_9",
+    "log_lvl1_run1_8",
+    "log_lvl1_run1_7",
+    "log_lvl1_run1_6",
+    "log_lvl1_run1_5",
+    "log_lvl1_run1_4",
+    "log_lvl1_run1_3",
+    "log_lvl1_run1_2",
+    "log_lvl1_run1_1",
+    "lavahound_projectile",
+    "lassi_zzz",
+    "ice_wizard_projectile",
+    "hero_warriorprincess_javelin",
+    "hero_shadow_01",
+    "gw_fly_stunned_stars_3d",
+    "gear_RC_RocketSpear",
+    "fennec_running_speed",
+    "fennec_running_dusty",
+    "fennec_attack_ring_02",
+    "executioner_projectile",
+    "barbarian_death_1",
+    "axe_man_run1_3",
+    "axe_man_run1_2",
+    "axe_man_run1_1",
+    "axe_man_idle1_3",
+    "axe_man_idle1_2",
+    "axe_man_idle1_1",
+    "axe_man_attack1_3",
+    "axe_man_attack1_2",
+    "axe_man_attack1_1",
+    "arrow_ammo_small_fire",
+    "arrow_ammo_small_elixirFire",
+    "arrow_ammo_small_darkElixirFire2",
+    "arrow_ammo_small_darkElixirFire",
+    "arrow_ammo_small",
+    "Siege_Machine_Ram1_die1_1",
+    "Minion_SpecialAbility"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2812,
+      "value": "ffjA"
+    },
+    {
+      "offset": 6892,
+      "value": "ffjA"
+    },
+    {
+      "offset": 6988,
+      "value": "ffVA"
+    },
+    {
+      "offset": 17692,
+      "value": "ffjA"
+    },
+    {
+      "offset": 17716,
+      "value": "ffVA"
+    },
+    {
+      "offset": 18700,
+      "value": "ffjA"
+    },
+    {
+      "offset": 21148,
+      "value": "ffjA"
+    },
+    {
+      "offset": 21172,
+      "value": "ffVA"
+    },
+    {
+      "offset": 23504,
+      "value": "ffZA"
+    },
+    {
+      "offset": 40732,
+      "value": "ffV@"
+    },
+    {
+      "offset": 45967,
+      "value": "Bff"
+    },
+    {
+      "offset": 47672,
+      "value": "ff/B"
+    },
+    {
+      "offset": 48368,
+      "value": "ffPB"
+    },
+    {
+      "offset": 48751,
+      "value": "B33yB"
+    },
+    {
+      "offset": 49040,
+      "value": "ffjA"
+    },
+    {
+      "offset": 49376,
+      "value": "ff6@"
+    },
+    {
+      "offset": 49783,
+      "value": "D3sFC"
+    },
+    {
+      "offset": 50361,
+      "value": "lmD"
+    },
+    {
+      "offset": 56142,
+      "value": "C@33C@"
+    },
+    {
+      "offset": 56236,
+      "value": "ffV@ffV@"
+    },
+    {
+      "offset": 56382,
+      "value": "s@33s@"
+    },
+    {
+      "offset": 58398,
+      "value": "C@33C@"
+    },
+    {
+      "offset": 58446,
+      "value": "S@33S@"
+    },
+    {
+      "offset": 58492,
+      "value": "fff@fff@"
+    },
+    {
+      "offset": 58540,
+      "value": "ffv@ffv@"
+    },
+    {
+      "offset": 62524,
+      "value": "ffF@"
+    },
+    {
+      "offset": 65860,
+      "value": "ffJA"
+    },
+    {
+      "offset": 66220,
+      "value": "ff2A"
+    },
+    {
+      "offset": 66316,
+      "value": "ffBA"
+    },
+    {
+      "offset": 67156,
+      "value": "ffrA"
+    },
+    {
+      "offset": 67660,
+      "value": "ffBA"
+    },
+    {
+      "offset": 67972,
+      "value": "ff6A"
+    },
+    {
+      "offset": 71548,
+      "value": "ffRA"
+    },
+    {
+      "offset": 76190,
+      "value": "Zk33KA"
+    },
+    {
+      "offset": 76655,
+      "value": "A9gbL"
+    },
+    {
+      "offset": 78193,
+      "value": "N-A"
+    },
+    {
+      "offset": 78214,
+      "value": "AAuB-A"
+    },
+    {
+      "offset": 83195,
+      "value": "B_2Kf"
+    },
+    {
+      "offset": 83603,
+      "value": "BsNwS"
+    },
+    {
+      "offset": 83629,
+      "value": "VwS"
+    },
+    {
+      "offset": 87517,
+      "value": "W87"
+    },
+    {
+      "offset": 88876,
+      "value": "ff B"
+    },
+    {
+      "offset": 89343,
+      "value": "off B"
+    },
+    {
+      "offset": 91252,
+      "value": "ffjA"
+    },
+    {
+      "offset": 95372,
+      "value": "ff.A"
+    },
+    {
+      "offset": 96781,
+      "value": "OHE"
+    },
+    {
+      "offset": 96911,
+      "value": "Aff"
+    },
+    {
+      "offset": 100044,
+      "value": "TYIy"
+    },
+    {
+      "offset": 155980,
+      "value": "Item2"
+    },
+    {
+      "offset": 155992,
+      "value": "Item1"
+    },
+    {
+      "offset": 156004,
+      "value": "Icon"
+    },
+    {
+      "offset": 156016,
+      "value": "trail"
+    },
+    {
+      "offset": 156028,
+      "value": "action_frame2"
+    },
+    {
+      "offset": 156048,
+      "value": "action_frame1"
+    },
+    {
+      "offset": 156068,
+      "value": "action_frame"
+    },
+    {
+      "offset": 156088,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 156108,
+      "value": "arrow_ammo_small_darkElixirFire2"
+    },
+    {
+      "offset": 156148,
+      "value": "arrow_ammo_small_darkElixirFire"
+    },
+    {
+      "offset": 156184,
+      "value": "arrow_ammo_small_fire"
+    },
+    {
+      "offset": 156212,
+      "value": "vfx_chr_DarkOrb_Crystal"
+    },
+    {
+      "offset": 156240,
+      "value": "gear_RC_RocketSpear"
+    },
+    {
+      "offset": 156264,
+      "value": "vfx_chr_DarkOrb_Streak"
+    },
+    {
+      "offset": 156292,
+      "value": "villagergirl_idle2_2"
+    },
+    {
+      "offset": 156320,
+      "value": "vfx_chr_DarkOrb_CloudA"
+    },
+    {
+      "offset": 156348,
+      "value": "pumpkin_barbarian_death"
+    },
+    {
+      "offset": 156376,
+      "value": "tiny_icehound_projectile"
+    },
+    {
+      "offset": 156408,
+      "value": "vfx_chr_DarkOrb_Rays"
+    },
+    {
+      "offset": 156436,
+      "value": "vfx_chr_DarkOrb_DarkBubble"
+    },
+    {
+      "offset": 156468,
+      "value": "vfx_chr_DarkOrb_SummonPortal"
+    },
+    {
+      "offset": 156504,
+      "value": "vfx_chr_DarkOrb_Glow"
+    },
+    {
+      "offset": 156532,
+      "value": "log_lvl1_run1_6"
+    },
+    {
+      "offset": 156552,
+      "value": "logger_log_projectile_lvl1_2"
+    },
+    {
+      "offset": 156588,
+      "value": "executioner_projectile"
+    },
+    {
+      "offset": 156616,
+      "value": "Minion_SpecialAbility"
+    },
+    {
+      "offset": 156644,
+      "value": "slimeball_special"
+    },
+    {
+      "offset": 156668,
+      "value": "log_lvl1_run1_8"
+    },
+    {
+      "offset": 156688,
+      "value": "axe_man_attack1_1"
+    },
+    {
+      "offset": 156712,
+      "value": "hero_warriorprincess_javelin"
+    },
+    {
+      "offset": 156748,
+      "value": "log_lvl1_run1_4"
+    },
+    {
+      "offset": 156768,
+      "value": "log_lvl1_run1_3"
+    },
+    {
+      "offset": 156788,
+      "value": "log_lvl1_run1_2"
+    },
+    {
+      "offset": 156808,
+      "value": "log_lvl1_run1_1"
+    },
+    {
+      "offset": 156828,
+      "value": "stunned_stars_3d"
+    },
+    {
+      "offset": 156852,
+      "value": "projectile_battle_copter_bomb"
+    },
+    {
+      "offset": 156888,
+      "value": "temp_dummya4"
+    },
+    {
+      "offset": 156908,
+      "value": "axe_man_idle1_1"
+    },
+    {
+      "offset": 156928,
+      "value": "axe_man_attack1_3"
+    },
+    {
+      "offset": 156952,
+      "value": "axe_man_run1_3"
+    },
+    {
+      "offset": 156972,
+      "value": "logger_log_projectile_lvl1_8"
+    },
+    {
+      "offset": 157008,
+      "value": "gw_fly_stunned_stars_3d"
+    },
+    {
+      "offset": 157036,
+      "value": "arrow_ammo_small_elixirFire"
+    },
+    {
+      "offset": 157068,
+      "value": "log_lvl1_run1_7"
+    },
+    {
+      "offset": 157088,
+      "value": "axe_man_idle1_3"
+    },
+    {
+      "offset": 157108,
+      "value": "axe_man_attack1_2"
+    },
+    {
+      "offset": 157132,
+      "value": "axe_man_run1_1"
+    },
+    {
+      "offset": 157152,
+      "value": "villagergirl_sleep1_2"
+    },
+    {
+      "offset": 157180,
+      "value": "arrow_ammo_small"
+    },
+    {
+      "offset": 157204,
+      "value": "stunned_stars_pets_3d"
+    },
+    {
+      "offset": 157232,
+      "value": "projectile_bomb_lvl2"
+    },
+    {
+      "offset": 157260,
+      "value": "villagergirl_idle2_1"
+    },
+    {
+      "offset": 157288,
+      "value": "logger_log_projectile_lvl1_7"
+    },
+    {
+      "offset": 157324,
+      "value": "vfx_chr_DarkOrb_CloudC"
+    },
+    {
+      "offset": 157352,
+      "value": "axe_man_idle1_2"
+    },
+    {
+      "offset": 157372,
+      "value": "hero_shadow_01"
+    },
+    {
+      "offset": 157392,
+      "value": "barbarian_death_1"
+    },
+    {
+      "offset": 157416,
+      "value": "logger_log_projectile_lvl1_3"
+    },
+    {
+      "offset": 157452,
+      "value": "log_lvl1_run1_5"
+    },
+    {
+      "offset": 157472,
+      "value": "unicorn_zzz"
+    },
+    {
+      "offset": 157488,
+      "value": "projectile_bomb"
+    },
+    {
+      "offset": 157508,
+      "value": "revivable_hero"
+    },
+    {
+      "offset": 157528,
+      "value": "axe_man_run1_2"
+    },
+    {
+      "offset": 157548,
+      "value": "villagergirl_idle1_2"
+    },
+    {
+      "offset": 157576,
+      "value": "logger_log_projectile_lvl1_1"
+    },
+    {
+      "offset": 157612,
+      "value": "fennec_running_dusty"
+    },
+    {
+      "offset": 157640,
+      "value": "vfx_chr_DarkOrb_Portal"
+    },
+    {
+      "offset": 157668,
+      "value": "villagergirl_cheer1_2"
+    },
+    {
+      "offset": 157696,
+      "value": "shield_projectile"
+    },
+    {
+      "offset": 157720,
+      "value": "logger_log_projectile_lvl1_4"
+    },
+    {
+      "offset": 157756,
+      "value": "vfx_chr_DarkOrb_CloudB"
+    },
+    {
+      "offset": 157784,
+      "value": "villagergirl_walk1_3"
+    },
+    {
+      "offset": 157812,
+      "value": "logger_log_projectile_lvl1_5"
+    },
+    {
+      "offset": 157848,
+      "value": "vfx_chr_DarkOrb_Spark"
+    },
+    {
+      "offset": 157876,
+      "value": "log_lvl1_run1_9"
+    },
+    {
+      "offset": 157896,
+      "value": "logger_log_projectile_lvl1_6"
+    },
+    {
+      "offset": 157932,
+      "value": "logger_log_projectile_lvl1_9"
+    },
+    {
+      "offset": 157968,
+      "value": "fennec_running_speed"
+    },
+    {
+      "offset": 157996,
+      "value": "lavahound_projectile"
+    },
+    {
+      "offset": 158024,
+      "value": "slimeball_projectile"
+    },
+    {
+      "offset": 158052,
+      "value": "tiny_lavahound_projectile"
+    },
+    {
+      "offset": 158084,
+      "value": "ice_wizard_projectile"
+    },
+    {
+      "offset": 158112,
+      "value": "fennec_attack_ring_02"
+    },
+    {
+      "offset": 158140,
+      "value": "strongman_idle1_2"
+    },
+    {
+      "offset": 158164,
+      "value": "lassi_zzz"
+    },
+    {
+      "offset": 158180,
+      "value": "owl_zzz"
+    },
+    {
+      "offset": 158192,
+      "value": "yak_zzz"
+    },
+    {
+      "offset": 158204,
+      "value": "Siege_Machine_Ram1_die1_1"
+    },
+    {
+      "offset": 158236,
+      "value": "trader_idle1_2"
+    },
+    {
+      "offset": 158256,
+      "value": "villagergirl_cheer1_3"
+    },
+    {
+      "offset": 158284,
+      "value": "villagergirl_cheer1_1"
+    },
+    {
+      "offset": 158312,
+      "value": "villagergirl_idle1_1"
+    },
+    {
+      "offset": 158340,
+      "value": "villagergirl_idle1_3"
+    },
+    {
+      "offset": 158368,
+      "value": "villagergirl_idle2_3"
+    },
+    {
+      "offset": 158396,
+      "value": "villagergirl_walk1_1"
+    },
+    {
+      "offset": 158424,
+      "value": "villagergirl_walk1_2"
+    },
+    {
+      "offset": 158452,
+      "value": "villagergirl_sleep1_1"
+    },
+    {
+      "offset": 158480,
+      "value": "villagergirl_sleep1_3"
+    },
+    {
+      "offset": 216588,
+      "value": "characters_11.sctx"
+    },
+    {
+      "offset": 216632,
+      "value": "characters_10.sctx"
+    },
+    {
+      "offset": 216676,
+      "value": "characters_9.sctx"
+    },
+    {
+      "offset": 216720,
+      "value": "characters_8.sctx"
+    },
+    {
+      "offset": 216764,
+      "value": "characters_7.sctx"
+    },
+    {
+      "offset": 216808,
+      "value": "characters_6.sctx"
+    },
+    {
+      "offset": 216852,
+      "value": "characters_5.sctx"
+    },
+    {
+      "offset": 216896,
+      "value": "characters_4.sctx"
+    },
+    {
+      "offset": 216940,
+      "value": "characters_3.sctx"
+    },
+    {
+      "offset": 216984,
+      "value": "characters_2.sctx"
+    },
+    {
+      "offset": 217028,
+      "value": "characters_1.sctx"
+    },
+    {
+      "offset": 217096,
+      "value": "characters_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000670100007c0000000c00000001000000",
+  "decoded_preview_hex": "2c6b020018000000000012001400040000000000000008000c00100012000000985f020040890100dc27010004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

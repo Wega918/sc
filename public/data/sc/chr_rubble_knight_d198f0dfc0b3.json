@@ -1,0 +1,919 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_rubble_knight.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_rubble_knight.sc",
+  "sha256_container": "d198f0dfc0b3298031fe4eafd6fe7423a41cfe934018e39a4631f59197ddb837",
+  "sha256_descriptor": "3a0bce08af1d5bcae08297f29afd247a0ec625785dd5d2952d7e3e4771d925bb",
+  "sha256_decoded_payload": "25a321bf389628ac7b782a5d76f5617fffc870c475759a95645903375ddcff3f",
+  "version": 6,
+  "descriptor_bytes": 732,
+  "compressed_frame_bytes": 513891,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 940144,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 94
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 9
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 80,
+      "raw_u32": 13388
+    },
+    {
+      "field_index": 9,
+      "offset": 84,
+      "raw_u32": 919448
+    },
+    {
+      "field_index": 10,
+      "offset": 88,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 92,
+      "raw_u32": 513892
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 172,
+      "value": "rubble_knight_lvl1_run_1_3"
+    },
+    {
+      "offset": 236,
+      "value": "rubble_knight_lvl1_run_1_2"
+    },
+    {
+      "offset": 300,
+      "value": "rubble_knight_lvl1_run_1_1"
+    },
+    {
+      "offset": 364,
+      "value": "rubble_knight_lvl1_idle_1_3"
+    },
+    {
+      "offset": 428,
+      "value": "rubble_knight_lvl1_idle_1_2"
+    },
+    {
+      "offset": 492,
+      "value": "rubble_knight_lvl1_idle_1_1"
+    },
+    {
+      "offset": 556,
+      "value": "rubble_knight_lvl1_attack_1_3"
+    },
+    {
+      "offset": 624,
+      "value": "rubble_knight_lvl1_attack_1_2"
+    },
+    {
+      "offset": 700,
+      "value": "rubble_knight_lvl1_attack_1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "rubble_knight_lvl1_run_1_3",
+    "rubble_knight_lvl1_run_1_2",
+    "rubble_knight_lvl1_run_1_1",
+    "rubble_knight_lvl1_idle_1_3",
+    "rubble_knight_lvl1_idle_1_2",
+    "rubble_knight_lvl1_idle_1_1",
+    "rubble_knight_lvl1_attack_1_3",
+    "rubble_knight_lvl1_attack_1_2",
+    "rubble_knight_lvl1_attack_1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 237,
+      "value": "lMQ"
+    },
+    {
+      "offset": 261,
+      "value": "cMQ"
+    },
+    {
+      "offset": 273,
+      "value": "mgl"
+    },
+    {
+      "offset": 285,
+      "value": "Y+_"
+    },
+    {
+      "offset": 3177,
+      "value": "tTo"
+    },
+    {
+      "offset": 3201,
+      "value": "tYp"
+    },
+    {
+      "offset": 4365,
+      "value": "InQ"
+    },
+    {
+      "offset": 4389,
+      "value": "NnQ"
+    },
+    {
+      "offset": 5205,
+      "value": "xiW"
+    },
+    {
+      "offset": 5373,
+      "value": "CjI"
+    },
+    {
+      "offset": 5673,
+      "value": "Juo"
+    },
+    {
+      "offset": 13084,
+      "value": "rubble_knight_lvl1_idle_1_1"
+    },
+    {
+      "offset": 13116,
+      "value": "rubble_knight_lvl1_idle_1_2"
+    },
+    {
+      "offset": 13148,
+      "value": "rubble_knight_lvl1_attack_1_2"
+    },
+    {
+      "offset": 13184,
+      "value": "rubble_knight_lvl1_idle_1_3"
+    },
+    {
+      "offset": 13216,
+      "value": "rubble_knight_lvl1_attack_1_1"
+    },
+    {
+      "offset": 13252,
+      "value": "rubble_knight_lvl1_attack_1_3"
+    },
+    {
+      "offset": 13288,
+      "value": "rubble_knight_lvl1_run_1_1"
+    },
+    {
+      "offset": 13320,
+      "value": "rubble_knight_lvl1_run_1_2"
+    },
+    {
+      "offset": 13352,
+      "value": "rubble_knight_lvl1_run_1_3"
+    },
+    {
+      "offset": 36235,
+      "value": "Z0F"
+    },
+    {
+      "offset": 43429,
+      "value": "lsf5"
+    },
+    {
+      "offset": 45822,
+      "value": "j.bI"
+    },
+    {
+      "offset": 47196,
+      "value": "sppt_"
+    },
+    {
+      "offset": 48615,
+      "value": "cBJ"
+    },
+    {
+      "offset": 56654,
+      "value": "sw_"
+    },
+    {
+      "offset": 60293,
+      "value": "uC@ "
+    },
+    {
+      "offset": 66420,
+      "value": "wc@lgm"
+    },
+    {
+      "offset": 69955,
+      "value": "ckl"
+    },
+    {
+      "offset": 73894,
+      "value": "K5H4"
+    },
+    {
+      "offset": 74679,
+      "value": "e4g"
+    },
+    {
+      "offset": 85143,
+      "value": "cmN@"
+    },
+    {
+      "offset": 85434,
+      "value": "m_2F"
+    },
+    {
+      "offset": 86420,
+      "value": "j@Y"
+    },
+    {
+      "offset": 88139,
+      "value": "u4 "
+    },
+    {
+      "offset": 88324,
+      "value": "S4K"
+    },
+    {
+      "offset": 88996,
+      "value": "dGxp"
+    },
+    {
+      "offset": 89188,
+      "value": "o8I"
+    },
+    {
+      "offset": 90476,
+      "value": "rO2"
+    },
+    {
+      "offset": 92961,
+      "value": "q4Co"
+    },
+    {
+      "offset": 93405,
+      "value": "_is_"
+    },
+    {
+      "offset": 105219,
+      "value": "qYB"
+    },
+    {
+      "offset": 105389,
+      "value": "TG1o"
+    },
+    {
+      "offset": 105726,
+      "value": "aW_"
+    },
+    {
+      "offset": 106053,
+      "value": "ttr"
+    },
+    {
+      "offset": 109052,
+      "value": "cDQ"
+    },
+    {
+      "offset": 119117,
+      "value": "EHRo"
+    },
+    {
+      "offset": 124454,
+      "value": "C@ "
+    },
+    {
+      "offset": 126918,
+      "value": "SKf"
+    },
+    {
+      "offset": 134820,
+      "value": "ar/I"
+    },
+    {
+      "offset": 142487,
+      "value": "LWY"
+    },
+    {
+      "offset": 145772,
+      "value": "UP-"
+    },
+    {
+      "offset": 146027,
+      "value": "S2 "
+    },
+    {
+      "offset": 149950,
+      "value": "wzO"
+    },
+    {
+      "offset": 151794,
+      "value": "CGm"
+    },
+    {
+      "offset": 152438,
+      "value": "PP@"
+    },
+    {
+      "offset": 157219,
+      "value": "CSmO"
+    },
+    {
+      "offset": 169974,
+      "value": "aHT9"
+    },
+    {
+      "offset": 185511,
+      "value": "KQr"
+    },
+    {
+      "offset": 188568,
+      "value": "qWHW"
+    },
+    {
+      "offset": 192579,
+      "value": "R_U"
+    },
+    {
+      "offset": 193845,
+      "value": "z A"
+    },
+    {
+      "offset": 194824,
+      "value": "i1 "
+    },
+    {
+      "offset": 195764,
+      "value": "U\\O"
+    },
+    {
+      "offset": 198067,
+      "value": "VX-"
+    },
+    {
+      "offset": 204656,
+      "value": "cAKo"
+    },
+    {
+      "offset": 211282,
+      "value": "NS+"
+    },
+    {
+      "offset": 217099,
+      "value": "spWx9o"
+    },
+    {
+      "offset": 224774,
+      "value": "PEU"
+    },
+    {
+      "offset": 235015,
+      "value": "hfO"
+    },
+    {
+      "offset": 246181,
+      "value": "Ylq"
+    },
+    {
+      "offset": 265959,
+      "value": "GmY"
+    },
+    {
+      "offset": 267384,
+      "value": "IH "
+    },
+    {
+      "offset": 268337,
+      "value": "Ac@"
+    },
+    {
+      "offset": 268860,
+      "value": "zBh"
+    },
+    {
+      "offset": 272229,
+      "value": "EDYFt "
+    },
+    {
+      "offset": 275960,
+      "value": "z R"
+    },
+    {
+      "offset": 280155,
+      "value": "KI+IE_"
+    },
+    {
+      "offset": 286362,
+      "value": "WXt "
+    },
+    {
+      "offset": 287948,
+      "value": "x4 "
+    },
+    {
+      "offset": 291250,
+      "value": "wt_+"
+    },
+    {
+      "offset": 291858,
+      "value": "gSq"
+    },
+    {
+      "offset": 298369,
+      "value": "Aw@"
+    },
+    {
+      "offset": 299690,
+      "value": "R3 "
+    },
+    {
+      "offset": 305214,
+      "value": "iJo"
+    },
+    {
+      "offset": 306034,
+      "value": "dU "
+    },
+    {
+      "offset": 310098,
+      "value": "kq2\\j"
+    },
+    {
+      "offset": 330220,
+      "value": "JRH"
+    },
+    {
+      "offset": 334914,
+      "value": "K+k"
+    },
+    {
+      "offset": 335239,
+      "value": "H P"
+    },
+    {
+      "offset": 339065,
+      "value": "EC\\qP"
+    },
+    {
+      "offset": 340359,
+      "value": "DhD"
+    },
+    {
+      "offset": 345799,
+      "value": "kgx"
+    },
+    {
+      "offset": 349526,
+      "value": "g5d"
+    },
+    {
+      "offset": 351502,
+      "value": "RHo"
+    },
+    {
+      "offset": 358825,
+      "value": "mSB5"
+    },
+    {
+      "offset": 364853,
+      "value": "T7A"
+    },
+    {
+      "offset": 365145,
+      "value": "sXF8"
+    },
+    {
+      "offset": 367664,
+      "value": "bioQk"
+    },
+    {
+      "offset": 369078,
+      "value": "VJsI"
+    },
+    {
+      "offset": 386660,
+      "value": "Xp "
+    },
+    {
+      "offset": 388238,
+      "value": "KF_"
+    },
+    {
+      "offset": 393450,
+      "value": "eTPP@"
+    },
+    {
+      "offset": 401094,
+      "value": "WO p"
+    },
+    {
+      "offset": 403765,
+      "value": "r+RB"
+    },
+    {
+      "offset": 407287,
+      "value": "slq"
+    },
+    {
+      "offset": 407712,
+      "value": "o@gO"
+    },
+    {
+      "offset": 415856,
+      "value": "MB5L"
+    },
+    {
+      "offset": 417232,
+      "value": "cIm"
+    },
+    {
+      "offset": 421341,
+      "value": "uUU_"
+    },
+    {
+      "offset": 427390,
+      "value": "x8n"
+    },
+    {
+      "offset": 435590,
+      "value": "Nc "
+    },
+    {
+      "offset": 440870,
+      "value": "Nyz"
+    },
+    {
+      "offset": 441832,
+      "value": "WK@"
+    },
+    {
+      "offset": 446850,
+      "value": "ulg"
+    },
+    {
+      "offset": 448416,
+      "value": "aI1T"
+    },
+    {
+      "offset": 449615,
+      "value": "irI"
+    },
+    {
+      "offset": 461221,
+      "value": "opA"
+    },
+    {
+      "offset": 467516,
+      "value": "P0vio"
+    },
+    {
+      "offset": 470221,
+      "value": "UUUn"
+    },
+    {
+      "offset": 472131,
+      "value": "CSKu"
+    },
+    {
+      "offset": 476252,
+      "value": "h44"
+    },
+    {
+      "offset": 477815,
+      "value": "hgp"
+    },
+    {
+      "offset": 478661,
+      "value": "uWG "
+    },
+    {
+      "offset": 484673,
+      "value": "PCcm@66"
+    },
+    {
+      "offset": 488223,
+      "value": "nRI"
+    },
+    {
+      "offset": 488822,
+      "value": "b9@ "
+    },
+    {
+      "offset": 508192,
+      "value": "ACud"
+    },
+    {
+      "offset": 514448,
+      "value": "cASK"
+    },
+    {
+      "offset": 514806,
+      "value": "hBQ"
+    },
+    {
+      "offset": 520094,
+      "value": "DP_"
+    },
+    {
+      "offset": 521390,
+      "value": "x+_"
+    },
+    {
+      "offset": 522872,
+      "value": "nzO"
+    },
+    {
+      "offset": 529633,
+      "value": "AWA0"
+    },
+    {
+      "offset": 539724,
+      "value": "z99"
+    },
+    {
+      "offset": 545758,
+      "value": "ArO"
+    },
+    {
+      "offset": 548826,
+      "value": "tNIm"
+    },
+    {
+      "offset": 549029,
+      "value": "spA"
+    },
+    {
+      "offset": 558155,
+      "value": "KGF"
+    },
+    {
+      "offset": 560981,
+      "value": "qpp"
+    },
+    {
+      "offset": 561793,
+      "value": "Aw@"
+    },
+    {
+      "offset": 565054,
+      "value": "qC_"
+    },
+    {
+      "offset": 565779,
+      "value": "g@ @"
+    },
+    {
+      "offset": 572825,
+      "value": "Yq@ "
+    },
+    {
+      "offset": 574692,
+      "value": "H0tL"
+    },
+    {
+      "offset": 575888,
+      "value": "cAgO"
+    },
+    {
+      "offset": 576790,
+      "value": "uh "
+    },
+    {
+      "offset": 577875,
+      "value": "LGq"
+    },
+    {
+      "offset": 585852,
+      "value": "X\\X"
+    },
+    {
+      "offset": 592157,
+      "value": "Ipkn"
+    },
+    {
+      "offset": 595846,
+      "value": "K+C"
+    },
+    {
+      "offset": 599044,
+      "value": "_gAp "
+    },
+    {
+      "offset": 599980,
+      "value": "iIB"
+    },
+    {
+      "offset": 602676,
+      "value": "WxEpx5"
+    },
+    {
+      "offset": 608142,
+      "value": "JWnH"
+    },
+    {
+      "offset": 614784,
+      "value": "cAgO"
+    },
+    {
+      "offset": 618748,
+      "value": "wT/"
+    },
+    {
+      "offset": 620859,
+      "value": "zOKy"
+    },
+    {
+      "offset": 621966,
+      "value": "HIn"
+    },
+    {
+      "offset": 624738,
+      "value": "N36H"
+    },
+    {
+      "offset": 626059,
+      "value": "spP"
+    },
+    {
+      "offset": 626729,
+      "value": "I@p"
+    },
+    {
+      "offset": 646754,
+      "value": "fQA"
+    },
+    {
+      "offset": 651031,
+      "value": "R_q"
+    },
+    {
+      "offset": 657032,
+      "value": "R.3"
+    },
+    {
+      "offset": 660004,
+      "value": "uTo"
+    },
+    {
+      "offset": 670530,
+      "value": "B4nrZ"
+    },
+    {
+      "offset": 673194,
+      "value": "d2b"
+    },
+    {
+      "offset": 676754,
+      "value": "K+o"
+    },
+    {
+      "offset": 688378,
+      "value": "_tX"
+    },
+    {
+      "offset": 696711,
+      "value": "EzQ"
+    },
+    {
+      "offset": 700727,
+      "value": "O p"
+    },
+    {
+      "offset": 701305,
+      "value": "AXF"
+    },
+    {
+      "offset": 704095,
+      "value": "xAY"
+    },
+    {
+      "offset": 712491,
+      "value": "nyMj"
+    },
+    {
+      "offset": 720469,
+      "value": "ZPA"
+    },
+    {
+      "offset": 720572,
+      "value": "s9gYO"
+    },
+    {
+      "offset": 732030,
+      "value": "k/n"
+    },
+    {
+      "offset": 733095,
+      "value": "Uxb"
+    },
+    {
+      "offset": 734823,
+      "value": "ABQ"
+    },
+    {
+      "offset": 734935,
+      "value": "Stv"
+    },
+    {
+      "offset": 747300,
+      "value": "HHN9 "
+    },
+    {
+      "offset": 749000,
+      "value": "ai@"
+    },
+    {
+      "offset": 758494,
+      "value": "ZgO"
+    },
+    {
+      "offset": 759261,
+      "value": "KHHO"
+    },
+    {
+      "offset": 761123,
+      "value": "LAKoS"
+    },
+    {
+      "offset": 761285,
+      "value": "q8P"
+    },
+    {
+      "offset": 762380,
+      "value": "pf8"
+    },
+    {
+      "offset": 777220,
+      "value": "s0o"
+    },
+    {
+      "offset": 777740,
+      "value": "pP@"
+    },
+    {
+      "offset": 778821,
+      "value": "nAp "
+    },
+    {
+      "offset": 792285,
+      "value": "fTd_"
+    },
+    {
+      "offset": 795194,
+      "value": "mZv"
+    },
+    {
+      "offset": 795751,
+      "value": "Sa9"
+    },
+    {
+      "offset": 806014,
+      "value": "Ve_"
+    },
+    {
+      "offset": 806791,
+      "value": "oly"
+    },
+    {
+      "offset": 806869,
+      "value": "iq\\l"
+    },
+    {
+      "offset": 807483,
+      "value": "h@ "
+    },
+    {
+      "offset": 809234,
+      "value": "SCJr"
+    },
+    {
+      "offset": 817415,
+      "value": "d @"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000fd79db20f1e3fc0d88d823c35f64fbec170f55941c002800040008000c001000140000000000000018001c00200024001c00000001000000",
+  "decoded_preview_hex": "4834000018000000000012001400040000000000000008000c00100012000000cc320000782100004c00000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

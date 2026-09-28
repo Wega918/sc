@@ -1,0 +1,392 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_lavaloon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_lavaloon.sc",
+  "sha256_container": "0e3f3b3b972d59051e14a141d1cb21ee184fc04a074cd5a3f7467681c38eea6b",
+  "sha256_descriptor": "7b9b172cbbf35fa0a8a21d0a51b3ee9b602d7dc1ee74d1fdefc65f3678857930",
+  "sha256_decoded_payload": "a2e938fc76985692598c27f5cd356686816a68599fc5e6aedfba33b71e771285",
+  "version": 6,
+  "descriptor_bytes": 1900,
+  "compressed_frame_bytes": 14777,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 51284,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 149
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 41
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 35724
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 7824
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 14784
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 236,
+      "value": "tinybaby_lvl1_fly_3"
+    },
+    {
+      "offset": 292,
+      "value": "tinybaby_lvl1_fly_2"
+    },
+    {
+      "offset": 348,
+      "value": "tinybaby_lvl1_fly_1"
+    },
+    {
+      "offset": 404,
+      "value": "tinybaby_haloween_fly_3"
+    },
+    {
+      "offset": 464,
+      "value": "tinybaby_haloween_fly_2"
+    },
+    {
+      "offset": 524,
+      "value": "tinybaby_haloween_fly_1"
+    },
+    {
+      "offset": 584,
+      "value": "sour_spark_flame"
+    },
+    {
+      "offset": 640,
+      "value": "lavaloonpup_spit_10"
+    },
+    {
+      "offset": 696,
+      "value": "lavaloonpup_spit_09"
+    },
+    {
+      "offset": 752,
+      "value": "lavaloonpup_spit_08"
+    },
+    {
+      "offset": 808,
+      "value": "lavaloonpup_spit_07"
+    },
+    {
+      "offset": 864,
+      "value": "lavaloonpup_spit_06"
+    },
+    {
+      "offset": 920,
+      "value": "lavaloonpup_spit_05"
+    },
+    {
+      "offset": 976,
+      "value": "lavaloonpup_spit_04"
+    },
+    {
+      "offset": 1032,
+      "value": "lavaloonpup_spit_03"
+    },
+    {
+      "offset": 1088,
+      "value": "lavaloonpup_spit_02"
+    },
+    {
+      "offset": 1144,
+      "value": "lavaloonpup_spit_01"
+    },
+    {
+      "offset": 1200,
+      "value": "lavaloon_sour_ground_crack"
+    },
+    {
+      "offset": 1264,
+      "value": "lavaloon_sour_die"
+    },
+    {
+      "offset": 1320,
+      "value": "lavaloon_pup_projectile"
+    },
+    {
+      "offset": 1380,
+      "value": "lavaloon_pup_hit_01"
+    },
+    {
+      "offset": 1436,
+      "value": "lavaloon_idle1_3"
+    },
+    {
+      "offset": 1492,
+      "value": "lavaloon_idle1_2"
+    },
+    {
+      "offset": 1548,
+      "value": "lavaloon_idle1_1"
+    },
+    {
+      "offset": 1604,
+      "value": "lavaloon_die1_3"
+    },
+    {
+      "offset": 1656,
+      "value": "lavaloon_die1_2"
+    },
+    {
+      "offset": 1708,
+      "value": "lavaloon_die1_1"
+    },
+    {
+      "offset": 1760,
+      "value": "lavaloon_attack1_3"
+    },
+    {
+      "offset": 1816,
+      "value": "lavaloon_attack1_2"
+    },
+    {
+      "offset": 1880,
+      "value": "lavaloon_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "tinybaby_lvl1_fly_3",
+    "tinybaby_lvl1_fly_2",
+    "tinybaby_lvl1_fly_1",
+    "tinybaby_haloween_fly_3",
+    "tinybaby_haloween_fly_2",
+    "tinybaby_haloween_fly_1",
+    "sour_spark_flame",
+    "lavaloonpup_spit_10",
+    "lavaloonpup_spit_09",
+    "lavaloonpup_spit_08",
+    "lavaloonpup_spit_07",
+    "lavaloonpup_spit_06",
+    "lavaloonpup_spit_05",
+    "lavaloonpup_spit_04",
+    "lavaloonpup_spit_03",
+    "lavaloonpup_spit_02",
+    "lavaloonpup_spit_01",
+    "lavaloon_sour_ground_crack",
+    "lavaloon_sour_die",
+    "lavaloon_pup_projectile",
+    "lavaloon_pup_hit_01",
+    "lavaloon_idle1_3",
+    "lavaloon_idle1_2",
+    "lavaloon_idle1_1",
+    "lavaloon_die1_3",
+    "lavaloon_die1_2",
+    "lavaloon_die1_1",
+    "lavaloon_attack1_3",
+    "lavaloon_attack1_2",
+    "lavaloon_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 4061,
+      "value": "pJ@"
+    },
+    {
+      "offset": 4856,
+      "value": "ffF@"
+    },
+    {
+      "offset": 7625,
+      "value": "LyR"
+    },
+    {
+      "offset": 10050,
+      "value": "l6fffA"
+    },
+    {
+      "offset": 16027,
+      "value": "X33"
+    },
+    {
+      "offset": 16051,
+      "value": "Z33"
+    },
+    {
+      "offset": 18476,
+      "value": "ffJA"
+    },
+    {
+      "offset": 20608,
+      "value": "Xkj533"
+    },
+    {
+      "offset": 23752,
+      "value": "q@8G"
+    },
+    {
+      "offset": 23777,
+      "value": "E8G"
+    },
+    {
+      "offset": 26225,
+      "value": "dRi"
+    },
+    {
+      "offset": 34988,
+      "value": "tinybaby_lvl1_fly_1"
+    },
+    {
+      "offset": 35012,
+      "value": "sour_spark_flame"
+    },
+    {
+      "offset": 35036,
+      "value": "lavaloonpup_spit_08"
+    },
+    {
+      "offset": 35060,
+      "value": "lavaloon_sour_die"
+    },
+    {
+      "offset": 35084,
+      "value": "lavaloonpup_spit_06"
+    },
+    {
+      "offset": 35108,
+      "value": "lavaloon_attack1_2"
+    },
+    {
+      "offset": 35132,
+      "value": "lavaloonpup_spit_09"
+    },
+    {
+      "offset": 35156,
+      "value": "lavaloon_idle1_3"
+    },
+    {
+      "offset": 35180,
+      "value": "lavaloonpup_spit_04"
+    },
+    {
+      "offset": 35204,
+      "value": "lavaloon_attack1_3"
+    },
+    {
+      "offset": 35228,
+      "value": "lavaloonpup_spit_02"
+    },
+    {
+      "offset": 35252,
+      "value": "lavaloonpup_spit_01"
+    },
+    {
+      "offset": 35276,
+      "value": "lavaloon_die1_3"
+    },
+    {
+      "offset": 35296,
+      "value": "tinybaby_haloween_fly_3"
+    },
+    {
+      "offset": 35324,
+      "value": "lavaloonpup_spit_10"
+    },
+    {
+      "offset": 35348,
+      "value": "lavaloon_sour_ground_crack"
+    },
+    {
+      "offset": 35380,
+      "value": "lavaloon_idle1_1"
+    },
+    {
+      "offset": 35404,
+      "value": "lavaloon_idle1_2"
+    },
+    {
+      "offset": 35428,
+      "value": "tinybaby_lvl1_fly_2"
+    },
+    {
+      "offset": 35452,
+      "value": "lavaloonpup_spit_05"
+    },
+    {
+      "offset": 35476,
+      "value": "lavaloon_attack1_1"
+    },
+    {
+      "offset": 35500,
+      "value": "lavaloon_die1_1"
+    },
+    {
+      "offset": 35520,
+      "value": "lavaloonpup_spit_07"
+    },
+    {
+      "offset": 35544,
+      "value": "tinybaby_haloween_fly_1"
+    },
+    {
+      "offset": 35572,
+      "value": "lavaloon_die1_2"
+    },
+    {
+      "offset": 35592,
+      "value": "lavaloon_pup_projectile"
+    },
+    {
+      "offset": 35620,
+      "value": "lavaloon_pup_hit_01"
+    },
+    {
+      "offset": 35644,
+      "value": "lavaloonpup_spit_03"
+    },
+    {
+      "offset": 35668,
+      "value": "tinybaby_haloween_fly_2"
+    },
+    {
+      "offset": 35696,
+      "value": "tinybaby_lvl1_fly_3"
+    },
+    {
+      "offset": 51264,
+      "value": "chr_lavaloon_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000009500000029000000010000008c8b0000",
+  "decoded_preview_hex": "888b000018000000000012001400040000000000000008000c0010001200000008880000a86800006018000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

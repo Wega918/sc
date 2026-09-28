@@ -1,0 +1,1768 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_battle_blimp.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_battle_blimp.sc",
+  "sha256_container": "62f18a70d56c1256637d00fb485bac95922ec1666bc0a50d3e8ad2bc647cc508",
+  "sha256_descriptor": "1e3d6675a3bc35c2a0aee7565708559a70653d92f2eefbc809f91a873d613ecb",
+  "sha256_decoded_payload": "4af6b443576139f1060c563f45c8a922d3e49d9655df8b1832177c4133abe807",
+  "version": 6,
+  "descriptor_bytes": 13260,
+  "compressed_frame_bytes": 17432,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 179236,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 165
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 240
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 113608
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 56172
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 17432
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 832,
+      "value": "Siege_Machine_Balloon6_hover3"
+    },
+    {
+      "offset": 900,
+      "value": "Siege_Machine_Balloon6_hover2"
+    },
+    {
+      "offset": 968,
+      "value": "Siege_Machine_Balloon6_hover1"
+    },
+    {
+      "offset": 1036,
+      "value": "Siege_Machine_Balloon6_fly1_9"
+    },
+    {
+      "offset": 1104,
+      "value": "Siege_Machine_Balloon6_fly1_8"
+    },
+    {
+      "offset": 1172,
+      "value": "Siege_Machine_Balloon6_fly1_7"
+    },
+    {
+      "offset": 1240,
+      "value": "Siege_Machine_Balloon6_fly1_6"
+    },
+    {
+      "offset": 1308,
+      "value": "Siege_Machine_Balloon6_fly1_5"
+    },
+    {
+      "offset": 1376,
+      "value": "Siege_Machine_Balloon6_fly1_4"
+    },
+    {
+      "offset": 1444,
+      "value": "Siege_Machine_Balloon6_fly1_3"
+    },
+    {
+      "offset": 1512,
+      "value": "Siege_Machine_Balloon6_fly1_2"
+    },
+    {
+      "offset": 1580,
+      "value": "Siege_Machine_Balloon6_fly1_1"
+    },
+    {
+      "offset": 1648,
+      "value": "Siege_Machine_Balloon6_die1_9"
+    },
+    {
+      "offset": 1716,
+      "value": "Siege_Machine_Balloon6_die1_8"
+    },
+    {
+      "offset": 1784,
+      "value": "Siege_Machine_Balloon6_die1_7"
+    },
+    {
+      "offset": 1852,
+      "value": "Siege_Machine_Balloon6_die1_6"
+    },
+    {
+      "offset": 1920,
+      "value": "Siege_Machine_Balloon6_die1_5"
+    },
+    {
+      "offset": 1988,
+      "value": "Siege_Machine_Balloon6_die1_4"
+    },
+    {
+      "offset": 2056,
+      "value": "Siege_Machine_Balloon6_die1_3"
+    },
+    {
+      "offset": 2124,
+      "value": "Siege_Machine_Balloon6_die1_2"
+    },
+    {
+      "offset": 2192,
+      "value": "Siege_Machine_Balloon6_die1_1"
+    },
+    {
+      "offset": 2260,
+      "value": "Siege_Machine_Balloon6_attack1_9"
+    },
+    {
+      "offset": 2332,
+      "value": "Siege_Machine_Balloon6_attack1_8"
+    },
+    {
+      "offset": 2404,
+      "value": "Siege_Machine_Balloon6_attack1_7"
+    },
+    {
+      "offset": 2476,
+      "value": "Siege_Machine_Balloon6_attack1_6"
+    },
+    {
+      "offset": 2548,
+      "value": "Siege_Machine_Balloon6_attack1_5"
+    },
+    {
+      "offset": 2620,
+      "value": "Siege_Machine_Balloon6_attack1_4"
+    },
+    {
+      "offset": 2692,
+      "value": "Siege_Machine_Balloon6_attack1_3"
+    },
+    {
+      "offset": 2764,
+      "value": "Siege_Machine_Balloon6_attack1_2"
+    },
+    {
+      "offset": 2836,
+      "value": "Siege_Machine_Balloon6_attack1_1"
+    },
+    {
+      "offset": 2908,
+      "value": "Siege_Machine_Balloon5_hover3"
+    },
+    {
+      "offset": 2976,
+      "value": "Siege_Machine_Balloon5_hover2"
+    },
+    {
+      "offset": 3044,
+      "value": "Siege_Machine_Balloon5_hover1"
+    },
+    {
+      "offset": 3112,
+      "value": "Siege_Machine_Balloon5_fly1_9"
+    },
+    {
+      "offset": 3180,
+      "value": "Siege_Machine_Balloon5_fly1_8"
+    },
+    {
+      "offset": 3248,
+      "value": "Siege_Machine_Balloon5_fly1_7"
+    },
+    {
+      "offset": 3316,
+      "value": "Siege_Machine_Balloon5_fly1_6"
+    },
+    {
+      "offset": 3384,
+      "value": "Siege_Machine_Balloon5_fly1_5"
+    },
+    {
+      "offset": 3452,
+      "value": "Siege_Machine_Balloon5_fly1_4"
+    },
+    {
+      "offset": 3520,
+      "value": "Siege_Machine_Balloon5_fly1_3"
+    },
+    {
+      "offset": 3588,
+      "value": "Siege_Machine_Balloon5_fly1_2"
+    },
+    {
+      "offset": 3656,
+      "value": "Siege_Machine_Balloon5_fly1_1"
+    },
+    {
+      "offset": 3724,
+      "value": "Siege_Machine_Balloon5_die1_9"
+    },
+    {
+      "offset": 3792,
+      "value": "Siege_Machine_Balloon5_die1_8"
+    },
+    {
+      "offset": 3860,
+      "value": "Siege_Machine_Balloon5_die1_7"
+    },
+    {
+      "offset": 3928,
+      "value": "Siege_Machine_Balloon5_die1_6"
+    },
+    {
+      "offset": 3996,
+      "value": "Siege_Machine_Balloon5_die1_5"
+    },
+    {
+      "offset": 4064,
+      "value": "Siege_Machine_Balloon5_die1_4"
+    },
+    {
+      "offset": 4132,
+      "value": "Siege_Machine_Balloon5_die1_3"
+    },
+    {
+      "offset": 4200,
+      "value": "Siege_Machine_Balloon5_die1_2"
+    },
+    {
+      "offset": 4268,
+      "value": "Siege_Machine_Balloon5_die1_1"
+    },
+    {
+      "offset": 4336,
+      "value": "Siege_Machine_Balloon5_attack1_9"
+    },
+    {
+      "offset": 4408,
+      "value": "Siege_Machine_Balloon5_attack1_8"
+    },
+    {
+      "offset": 4480,
+      "value": "Siege_Machine_Balloon5_attack1_7"
+    },
+    {
+      "offset": 4552,
+      "value": "Siege_Machine_Balloon5_attack1_6"
+    },
+    {
+      "offset": 4624,
+      "value": "Siege_Machine_Balloon5_attack1_5"
+    },
+    {
+      "offset": 4696,
+      "value": "Siege_Machine_Balloon5_attack1_4"
+    },
+    {
+      "offset": 4760,
+      "value": "URyq "
+    },
+    {
+      "offset": 4768,
+      "value": "Siege_Machine_Balloon5_attack1_3"
+    },
+    {
+      "offset": 4840,
+      "value": "Siege_Machine_Balloon5_attack1_2"
+    },
+    {
+      "offset": 4912,
+      "value": "Siege_Machine_Balloon5_attack1_1"
+    },
+    {
+      "offset": 4984,
+      "value": "Siege_Machine_Balloon4_hover3"
+    },
+    {
+      "offset": 5052,
+      "value": "Siege_Machine_Balloon4_hover2"
+    },
+    {
+      "offset": 5120,
+      "value": "Siege_Machine_Balloon4_hover1"
+    },
+    {
+      "offset": 5188,
+      "value": "Siege_Machine_Balloon4_fly1_9"
+    },
+    {
+      "offset": 5256,
+      "value": "Siege_Machine_Balloon4_fly1_8"
+    },
+    {
+      "offset": 5324,
+      "value": "Siege_Machine_Balloon4_fly1_7"
+    },
+    {
+      "offset": 5392,
+      "value": "Siege_Machine_Balloon4_fly1_6"
+    },
+    {
+      "offset": 5460,
+      "value": "Siege_Machine_Balloon4_fly1_5"
+    },
+    {
+      "offset": 5528,
+      "value": "Siege_Machine_Balloon4_fly1_4"
+    },
+    {
+      "offset": 5596,
+      "value": "Siege_Machine_Balloon4_fly1_3"
+    },
+    {
+      "offset": 5664,
+      "value": "Siege_Machine_Balloon4_fly1_2"
+    },
+    {
+      "offset": 5732,
+      "value": "Siege_Machine_Balloon4_fly1_1"
+    },
+    {
+      "offset": 5800,
+      "value": "Siege_Machine_Balloon4_die1_9"
+    },
+    {
+      "offset": 5868,
+      "value": "Siege_Machine_Balloon4_die1_8"
+    },
+    {
+      "offset": 5936,
+      "value": "Siege_Machine_Balloon4_die1_7"
+    },
+    {
+      "offset": 6004,
+      "value": "Siege_Machine_Balloon4_die1_6"
+    },
+    {
+      "offset": 6072,
+      "value": "Siege_Machine_Balloon4_die1_5"
+    },
+    {
+      "offset": 6140,
+      "value": "Siege_Machine_Balloon4_die1_4"
+    },
+    {
+      "offset": 6208,
+      "value": "Siege_Machine_Balloon4_die1_3"
+    },
+    {
+      "offset": 6276,
+      "value": "Siege_Machine_Balloon4_die1_2"
+    },
+    {
+      "offset": 6344,
+      "value": "Siege_Machine_Balloon4_die1_1"
+    },
+    {
+      "offset": 6412,
+      "value": "Siege_Machine_Balloon4_attack1_9"
+    },
+    {
+      "offset": 6484,
+      "value": "Siege_Machine_Balloon4_attack1_8"
+    },
+    {
+      "offset": 6556,
+      "value": "Siege_Machine_Balloon4_attack1_7"
+    },
+    {
+      "offset": 6628,
+      "value": "Siege_Machine_Balloon4_attack1_6"
+    },
+    {
+      "offset": 6700,
+      "value": "Siege_Machine_Balloon4_attack1_5"
+    },
+    {
+      "offset": 6772,
+      "value": "Siege_Machine_Balloon4_attack1_4"
+    },
+    {
+      "offset": 6844,
+      "value": "Siege_Machine_Balloon4_attack1_3"
+    },
+    {
+      "offset": 6916,
+      "value": "Siege_Machine_Balloon4_attack1_2"
+    },
+    {
+      "offset": 6988,
+      "value": "Siege_Machine_Balloon4_attack1_1"
+    },
+    {
+      "offset": 7060,
+      "value": "Siege_Machine_Balloon3_hover3"
+    },
+    {
+      "offset": 7128,
+      "value": "Siege_Machine_Balloon3_hover2"
+    },
+    {
+      "offset": 7196,
+      "value": "Siege_Machine_Balloon3_hover1"
+    },
+    {
+      "offset": 7264,
+      "value": "Siege_Machine_Balloon3_fly1_9"
+    },
+    {
+      "offset": 7332,
+      "value": "Siege_Machine_Balloon3_fly1_8"
+    },
+    {
+      "offset": 7400,
+      "value": "Siege_Machine_Balloon3_fly1_7"
+    },
+    {
+      "offset": 7468,
+      "value": "Siege_Machine_Balloon3_fly1_6"
+    },
+    {
+      "offset": 7536,
+      "value": "Siege_Machine_Balloon3_fly1_5"
+    },
+    {
+      "offset": 7604,
+      "value": "Siege_Machine_Balloon3_fly1_4"
+    },
+    {
+      "offset": 7672,
+      "value": "Siege_Machine_Balloon3_fly1_3"
+    },
+    {
+      "offset": 7740,
+      "value": "Siege_Machine_Balloon3_fly1_2"
+    },
+    {
+      "offset": 7808,
+      "value": "Siege_Machine_Balloon3_fly1_1"
+    },
+    {
+      "offset": 7876,
+      "value": "Siege_Machine_Balloon3_die1_9"
+    },
+    {
+      "offset": 7944,
+      "value": "Siege_Machine_Balloon3_die1_8"
+    },
+    {
+      "offset": 8012,
+      "value": "Siege_Machine_Balloon3_die1_7"
+    },
+    {
+      "offset": 8080,
+      "value": "Siege_Machine_Balloon3_die1_6"
+    },
+    {
+      "offset": 8148,
+      "value": "Siege_Machine_Balloon3_die1_5"
+    },
+    {
+      "offset": 8216,
+      "value": "Siege_Machine_Balloon3_die1_4"
+    },
+    {
+      "offset": 8284,
+      "value": "Siege_Machine_Balloon3_die1_3"
+    },
+    {
+      "offset": 8352,
+      "value": "Siege_Machine_Balloon3_die1_2"
+    },
+    {
+      "offset": 8420,
+      "value": "Siege_Machine_Balloon3_die1_1"
+    },
+    {
+      "offset": 8488,
+      "value": "Siege_Machine_Balloon3_attack1_9"
+    },
+    {
+      "offset": 8560,
+      "value": "Siege_Machine_Balloon3_attack1_8"
+    },
+    {
+      "offset": 8632,
+      "value": "Siege_Machine_Balloon3_attack1_7"
+    },
+    {
+      "offset": 8704,
+      "value": "Siege_Machine_Balloon3_attack1_6"
+    },
+    {
+      "offset": 8776,
+      "value": "Siege_Machine_Balloon3_attack1_5"
+    },
+    {
+      "offset": 8848,
+      "value": "Siege_Machine_Balloon3_attack1_4"
+    },
+    {
+      "offset": 8920,
+      "value": "Siege_Machine_Balloon3_attack1_3"
+    },
+    {
+      "offset": 8992,
+      "value": "Siege_Machine_Balloon3_attack1_2"
+    },
+    {
+      "offset": 9064,
+      "value": "Siege_Machine_Balloon3_attack1_1"
+    },
+    {
+      "offset": 9136,
+      "value": "Siege_Machine_Balloon2_hover3"
+    },
+    {
+      "offset": 9204,
+      "value": "Siege_Machine_Balloon2_hover2"
+    },
+    {
+      "offset": 9272,
+      "value": "Siege_Machine_Balloon2_hover1"
+    },
+    {
+      "offset": 9340,
+      "value": "Siege_Machine_Balloon2_fly1_9"
+    },
+    {
+      "offset": 9408,
+      "value": "Siege_Machine_Balloon2_fly1_8"
+    },
+    {
+      "offset": 9476,
+      "value": "Siege_Machine_Balloon2_fly1_7"
+    },
+    {
+      "offset": 9544,
+      "value": "Siege_Machine_Balloon2_fly1_6"
+    },
+    {
+      "offset": 9612,
+      "value": "Siege_Machine_Balloon2_fly1_5"
+    },
+    {
+      "offset": 9680,
+      "value": "Siege_Machine_Balloon2_fly1_4"
+    },
+    {
+      "offset": 9748,
+      "value": "Siege_Machine_Balloon2_fly1_3"
+    },
+    {
+      "offset": 9816,
+      "value": "Siege_Machine_Balloon2_fly1_2"
+    },
+    {
+      "offset": 9884,
+      "value": "Siege_Machine_Balloon2_fly1_1"
+    },
+    {
+      "offset": 9952,
+      "value": "Siege_Machine_Balloon2_die1_9"
+    },
+    {
+      "offset": 10020,
+      "value": "Siege_Machine_Balloon2_die1_8"
+    },
+    {
+      "offset": 10088,
+      "value": "Siege_Machine_Balloon2_die1_7"
+    },
+    {
+      "offset": 10156,
+      "value": "Siege_Machine_Balloon2_die1_6"
+    },
+    {
+      "offset": 10224,
+      "value": "Siege_Machine_Balloon2_die1_5"
+    },
+    {
+      "offset": 10292,
+      "value": "Siege_Machine_Balloon2_die1_4"
+    },
+    {
+      "offset": 10360,
+      "value": "Siege_Machine_Balloon2_die1_3"
+    },
+    {
+      "offset": 10428,
+      "value": "Siege_Machine_Balloon2_die1_2"
+    },
+    {
+      "offset": 10496,
+      "value": "Siege_Machine_Balloon2_die1_1"
+    },
+    {
+      "offset": 10558,
+      "value": "_b "
+    },
+    {
+      "offset": 10564,
+      "value": "Siege_Machine_Balloon2_attack1_9"
+    },
+    {
+      "offset": 10636,
+      "value": "Siege_Machine_Balloon2_attack1_8"
+    },
+    {
+      "offset": 10708,
+      "value": "Siege_Machine_Balloon2_attack1_7"
+    },
+    {
+      "offset": 10780,
+      "value": "Siege_Machine_Balloon2_attack1_6"
+    },
+    {
+      "offset": 10852,
+      "value": "Siege_Machine_Balloon2_attack1_5"
+    },
+    {
+      "offset": 10924,
+      "value": "Siege_Machine_Balloon2_attack1_4"
+    },
+    {
+      "offset": 10996,
+      "value": "Siege_Machine_Balloon2_attack1_3"
+    },
+    {
+      "offset": 11068,
+      "value": "Siege_Machine_Balloon2_attack1_2"
+    },
+    {
+      "offset": 11140,
+      "value": "Siege_Machine_Balloon2_attack1_1"
+    },
+    {
+      "offset": 11212,
+      "value": "Siege_Machine_Balloon1_hover3"
+    },
+    {
+      "offset": 11280,
+      "value": "Siege_Machine_Balloon1_hover2"
+    },
+    {
+      "offset": 11348,
+      "value": "Siege_Machine_Balloon1_hover1"
+    },
+    {
+      "offset": 11416,
+      "value": "Siege_Machine_Balloon1_fly1_9"
+    },
+    {
+      "offset": 11484,
+      "value": "Siege_Machine_Balloon1_fly1_8"
+    },
+    {
+      "offset": 11552,
+      "value": "Siege_Machine_Balloon1_fly1_7"
+    },
+    {
+      "offset": 11620,
+      "value": "Siege_Machine_Balloon1_fly1_6"
+    },
+    {
+      "offset": 11688,
+      "value": "Siege_Machine_Balloon1_fly1_5"
+    },
+    {
+      "offset": 11756,
+      "value": "Siege_Machine_Balloon1_fly1_4"
+    },
+    {
+      "offset": 11824,
+      "value": "Siege_Machine_Balloon1_fly1_3"
+    },
+    {
+      "offset": 11892,
+      "value": "Siege_Machine_Balloon1_fly1_2"
+    },
+    {
+      "offset": 11960,
+      "value": "Siege_Machine_Balloon1_fly1_1"
+    },
+    {
+      "offset": 12028,
+      "value": "Siege_Machine_Balloon1_die1_9"
+    },
+    {
+      "offset": 12096,
+      "value": "Siege_Machine_Balloon1_die1_8"
+    },
+    {
+      "offset": 12164,
+      "value": "Siege_Machine_Balloon1_die1_7"
+    },
+    {
+      "offset": 12232,
+      "value": "Siege_Machine_Balloon1_die1_6"
+    },
+    {
+      "offset": 12300,
+      "value": "Siege_Machine_Balloon1_die1_5"
+    },
+    {
+      "offset": 12368,
+      "value": "Siege_Machine_Balloon1_die1_4"
+    },
+    {
+      "offset": 12436,
+      "value": "Siege_Machine_Balloon1_die1_3"
+    },
+    {
+      "offset": 12504,
+      "value": "Siege_Machine_Balloon1_die1_2"
+    },
+    {
+      "offset": 12572,
+      "value": "Siege_Machine_Balloon1_die1_1"
+    },
+    {
+      "offset": 12640,
+      "value": "Siege_Machine_Balloon1_attack1_9"
+    },
+    {
+      "offset": 12712,
+      "value": "Siege_Machine_Balloon1_attack1_8"
+    },
+    {
+      "offset": 12784,
+      "value": "Siege_Machine_Balloon1_attack1_7"
+    },
+    {
+      "offset": 12856,
+      "value": "Siege_Machine_Balloon1_attack1_6"
+    },
+    {
+      "offset": 12928,
+      "value": "Siege_Machine_Balloon1_attack1_5"
+    },
+    {
+      "offset": 13000,
+      "value": "Siege_Machine_Balloon1_attack1_4"
+    },
+    {
+      "offset": 13072,
+      "value": "Siege_Machine_Balloon1_attack1_3"
+    },
+    {
+      "offset": 13144,
+      "value": "Siege_Machine_Balloon1_attack1_2"
+    },
+    {
+      "offset": 13224,
+      "value": "Siege_Machine_Balloon1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "Siege_Machine_Balloon6_hover3",
+    "Siege_Machine_Balloon6_hover2",
+    "Siege_Machine_Balloon6_hover1",
+    "Siege_Machine_Balloon6_fly1_9",
+    "Siege_Machine_Balloon6_fly1_8",
+    "Siege_Machine_Balloon6_fly1_7",
+    "Siege_Machine_Balloon6_fly1_6",
+    "Siege_Machine_Balloon6_fly1_5",
+    "Siege_Machine_Balloon6_fly1_4",
+    "Siege_Machine_Balloon6_fly1_3",
+    "Siege_Machine_Balloon6_fly1_2",
+    "Siege_Machine_Balloon6_fly1_1",
+    "Siege_Machine_Balloon6_die1_9",
+    "Siege_Machine_Balloon6_die1_8",
+    "Siege_Machine_Balloon6_die1_7",
+    "Siege_Machine_Balloon6_die1_6",
+    "Siege_Machine_Balloon6_die1_5",
+    "Siege_Machine_Balloon6_die1_4",
+    "Siege_Machine_Balloon6_die1_3",
+    "Siege_Machine_Balloon6_die1_2",
+    "Siege_Machine_Balloon6_die1_1",
+    "Siege_Machine_Balloon6_attack1_9",
+    "Siege_Machine_Balloon6_attack1_8",
+    "Siege_Machine_Balloon6_attack1_7",
+    "Siege_Machine_Balloon6_attack1_6",
+    "Siege_Machine_Balloon6_attack1_5",
+    "Siege_Machine_Balloon6_attack1_4",
+    "Siege_Machine_Balloon6_attack1_3",
+    "Siege_Machine_Balloon6_attack1_2",
+    "Siege_Machine_Balloon6_attack1_1",
+    "Siege_Machine_Balloon5_hover3",
+    "Siege_Machine_Balloon5_hover2",
+    "Siege_Machine_Balloon5_hover1",
+    "Siege_Machine_Balloon5_fly1_9",
+    "Siege_Machine_Balloon5_fly1_8",
+    "Siege_Machine_Balloon5_fly1_7",
+    "Siege_Machine_Balloon5_fly1_6",
+    "Siege_Machine_Balloon5_fly1_5",
+    "Siege_Machine_Balloon5_fly1_4",
+    "Siege_Machine_Balloon5_fly1_3",
+    "Siege_Machine_Balloon5_fly1_2",
+    "Siege_Machine_Balloon5_fly1_1",
+    "Siege_Machine_Balloon5_die1_9",
+    "Siege_Machine_Balloon5_die1_8",
+    "Siege_Machine_Balloon5_die1_7",
+    "Siege_Machine_Balloon5_die1_6",
+    "Siege_Machine_Balloon5_die1_5",
+    "Siege_Machine_Balloon5_die1_4",
+    "Siege_Machine_Balloon5_die1_3",
+    "Siege_Machine_Balloon5_die1_2",
+    "Siege_Machine_Balloon5_die1_1",
+    "Siege_Machine_Balloon5_attack1_9",
+    "Siege_Machine_Balloon5_attack1_8",
+    "Siege_Machine_Balloon5_attack1_7",
+    "Siege_Machine_Balloon5_attack1_6",
+    "Siege_Machine_Balloon5_attack1_5",
+    "Siege_Machine_Balloon5_attack1_4",
+    "URyq ",
+    "Siege_Machine_Balloon5_attack1_3",
+    "Siege_Machine_Balloon5_attack1_2",
+    "Siege_Machine_Balloon5_attack1_1",
+    "Siege_Machine_Balloon4_hover3",
+    "Siege_Machine_Balloon4_hover2",
+    "Siege_Machine_Balloon4_hover1",
+    "Siege_Machine_Balloon4_fly1_9",
+    "Siege_Machine_Balloon4_fly1_8",
+    "Siege_Machine_Balloon4_fly1_7",
+    "Siege_Machine_Balloon4_fly1_6",
+    "Siege_Machine_Balloon4_fly1_5",
+    "Siege_Machine_Balloon4_fly1_4",
+    "Siege_Machine_Balloon4_fly1_3",
+    "Siege_Machine_Balloon4_fly1_2",
+    "Siege_Machine_Balloon4_fly1_1",
+    "Siege_Machine_Balloon4_die1_9",
+    "Siege_Machine_Balloon4_die1_8",
+    "Siege_Machine_Balloon4_die1_7",
+    "Siege_Machine_Balloon4_die1_6",
+    "Siege_Machine_Balloon4_die1_5",
+    "Siege_Machine_Balloon4_die1_4",
+    "Siege_Machine_Balloon4_die1_3",
+    "Siege_Machine_Balloon4_die1_2",
+    "Siege_Machine_Balloon4_die1_1",
+    "Siege_Machine_Balloon4_attack1_9",
+    "Siege_Machine_Balloon4_attack1_8",
+    "Siege_Machine_Balloon4_attack1_7",
+    "Siege_Machine_Balloon4_attack1_6",
+    "Siege_Machine_Balloon4_attack1_5",
+    "Siege_Machine_Balloon4_attack1_4",
+    "Siege_Machine_Balloon4_attack1_3",
+    "Siege_Machine_Balloon4_attack1_2",
+    "Siege_Machine_Balloon4_attack1_1",
+    "Siege_Machine_Balloon3_hover3",
+    "Siege_Machine_Balloon3_hover2",
+    "Siege_Machine_Balloon3_hover1",
+    "Siege_Machine_Balloon3_fly1_9",
+    "Siege_Machine_Balloon3_fly1_8",
+    "Siege_Machine_Balloon3_fly1_7",
+    "Siege_Machine_Balloon3_fly1_6",
+    "Siege_Machine_Balloon3_fly1_5",
+    "Siege_Machine_Balloon3_fly1_4",
+    "Siege_Machine_Balloon3_fly1_3",
+    "Siege_Machine_Balloon3_fly1_2",
+    "Siege_Machine_Balloon3_fly1_1",
+    "Siege_Machine_Balloon3_die1_9",
+    "Siege_Machine_Balloon3_die1_8",
+    "Siege_Machine_Balloon3_die1_7",
+    "Siege_Machine_Balloon3_die1_6",
+    "Siege_Machine_Balloon3_die1_5",
+    "Siege_Machine_Balloon3_die1_4",
+    "Siege_Machine_Balloon3_die1_3",
+    "Siege_Machine_Balloon3_die1_2",
+    "Siege_Machine_Balloon3_die1_1",
+    "Siege_Machine_Balloon3_attack1_9",
+    "Siege_Machine_Balloon3_attack1_8",
+    "Siege_Machine_Balloon3_attack1_7",
+    "Siege_Machine_Balloon3_attack1_6",
+    "Siege_Machine_Balloon3_attack1_5",
+    "Siege_Machine_Balloon3_attack1_4",
+    "Siege_Machine_Balloon3_attack1_3",
+    "Siege_Machine_Balloon3_attack1_2",
+    "Siege_Machine_Balloon3_attack1_1",
+    "Siege_Machine_Balloon2_hover3",
+    "Siege_Machine_Balloon2_hover2",
+    "Siege_Machine_Balloon2_hover1",
+    "Siege_Machine_Balloon2_fly1_9",
+    "Siege_Machine_Balloon2_fly1_8",
+    "Siege_Machine_Balloon2_fly1_7",
+    "Siege_Machine_Balloon2_fly1_6",
+    "Siege_Machine_Balloon2_fly1_5",
+    "Siege_Machine_Balloon2_fly1_4",
+    "Siege_Machine_Balloon2_fly1_3",
+    "Siege_Machine_Balloon2_fly1_2",
+    "Siege_Machine_Balloon2_fly1_1",
+    "Siege_Machine_Balloon2_die1_9",
+    "Siege_Machine_Balloon2_die1_8",
+    "Siege_Machine_Balloon2_die1_7",
+    "Siege_Machine_Balloon2_die1_6",
+    "Siege_Machine_Balloon2_die1_5",
+    "Siege_Machine_Balloon2_die1_4",
+    "Siege_Machine_Balloon2_die1_3",
+    "Siege_Machine_Balloon2_die1_2",
+    "Siege_Machine_Balloon2_die1_1",
+    "_b ",
+    "Siege_Machine_Balloon2_attack1_9",
+    "Siege_Machine_Balloon2_attack1_8",
+    "Siege_Machine_Balloon2_attack1_7",
+    "Siege_Machine_Balloon2_attack1_6",
+    "Siege_Machine_Balloon2_attack1_5",
+    "Siege_Machine_Balloon2_attack1_4",
+    "Siege_Machine_Balloon2_attack1_3",
+    "Siege_Machine_Balloon2_attack1_2",
+    "Siege_Machine_Balloon2_attack1_1",
+    "Siege_Machine_Balloon1_hover3",
+    "Siege_Machine_Balloon1_hover2",
+    "Siege_Machine_Balloon1_hover1",
+    "Siege_Machine_Balloon1_fly1_9",
+    "Siege_Machine_Balloon1_fly1_8",
+    "Siege_Machine_Balloon1_fly1_7",
+    "Siege_Machine_Balloon1_fly1_6",
+    "Siege_Machine_Balloon1_fly1_5",
+    "Siege_Machine_Balloon1_fly1_4",
+    "Siege_Machine_Balloon1_fly1_3",
+    "Siege_Machine_Balloon1_fly1_2",
+    "Siege_Machine_Balloon1_fly1_1",
+    "Siege_Machine_Balloon1_die1_9",
+    "Siege_Machine_Balloon1_die1_8",
+    "Siege_Machine_Balloon1_die1_7",
+    "Siege_Machine_Balloon1_die1_6",
+    "Siege_Machine_Balloon1_die1_5",
+    "Siege_Machine_Balloon1_die1_4",
+    "Siege_Machine_Balloon1_die1_3",
+    "Siege_Machine_Balloon1_die1_2",
+    "Siege_Machine_Balloon1_die1_1",
+    "Siege_Machine_Balloon1_attack1_9",
+    "Siege_Machine_Balloon1_attack1_8",
+    "Siege_Machine_Balloon1_attack1_7",
+    "Siege_Machine_Balloon1_attack1_6",
+    "Siege_Machine_Balloon1_attack1_5",
+    "Siege_Machine_Balloon1_attack1_4",
+    "Siege_Machine_Balloon1_attack1_3",
+    "Siege_Machine_Balloon1_attack1_2",
+    "Siege_Machine_Balloon1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3533,
+      "value": "P0@"
+    },
+    {
+      "offset": 5772,
+      "value": "fffA"
+    },
+    {
+      "offset": 5796,
+      "value": "ffbA"
+    },
+    {
+      "offset": 6156,
+      "value": "ffZA"
+    },
+    {
+      "offset": 6372,
+      "value": "ffzA"
+    },
+    {
+      "offset": 8360,
+      "value": "ff5B"
+    },
+    {
+      "offset": 8720,
+      "value": "ffZA"
+    },
+    {
+      "offset": 13760,
+      "value": "ff8B"
+    },
+    {
+      "offset": 18175,
+      "value": "u33"
+    },
+    {
+      "offset": 20516,
+      "value": "ffSB"
+    },
+    {
+      "offset": 21860,
+      "value": "ffWB"
+    },
+    {
+      "offset": 24524,
+      "value": "ffSB"
+    },
+    {
+      "offset": 25868,
+      "value": "ffSB"
+    },
+    {
+      "offset": 28136,
+      "value": "ffzA"
+    },
+    {
+      "offset": 30320,
+      "value": "ffzA"
+    },
+    {
+      "offset": 106908,
+      "value": "Siege_Machine_Balloon4_attack1_4"
+    },
+    {
+      "offset": 106948,
+      "value": "Siege_Machine_Balloon5_fly1_7"
+    },
+    {
+      "offset": 106984,
+      "value": "Siege_Machine_Balloon4_attack1_2"
+    },
+    {
+      "offset": 107024,
+      "value": "Siege_Machine_Balloon2_attack1_3"
+    },
+    {
+      "offset": 107064,
+      "value": "Siege_Machine_Balloon3_hover2"
+    },
+    {
+      "offset": 107100,
+      "value": "Siege_Machine_Balloon4_fly1_3"
+    },
+    {
+      "offset": 107136,
+      "value": "Siege_Machine_Balloon3_hover1"
+    },
+    {
+      "offset": 107172,
+      "value": "Siege_Machine_Balloon3_fly1_9"
+    },
+    {
+      "offset": 107208,
+      "value": "Siege_Machine_Balloon3_fly1_5"
+    },
+    {
+      "offset": 107244,
+      "value": "Siege_Machine_Balloon3_fly1_4"
+    },
+    {
+      "offset": 107280,
+      "value": "Siege_Machine_Balloon3_fly1_3"
+    },
+    {
+      "offset": 107316,
+      "value": "Siege_Machine_Balloon4_attack1_5"
+    },
+    {
+      "offset": 107356,
+      "value": "Siege_Machine_Balloon3_fly1_1"
+    },
+    {
+      "offset": 107392,
+      "value": "Siege_Machine_Balloon2_fly1_6"
+    },
+    {
+      "offset": 107428,
+      "value": "Siege_Machine_Balloon3_die1_9"
+    },
+    {
+      "offset": 107464,
+      "value": "Siege_Machine_Balloon4_die1_2"
+    },
+    {
+      "offset": 107500,
+      "value": "Siege_Machine_Balloon3_die1_8"
+    },
+    {
+      "offset": 107536,
+      "value": "Siege_Machine_Balloon3_die1_6"
+    },
+    {
+      "offset": 107572,
+      "value": "Siege_Machine_Balloon3_die1_3"
+    },
+    {
+      "offset": 107608,
+      "value": "Siege_Machine_Balloon3_die1_7"
+    },
+    {
+      "offset": 107644,
+      "value": "Siege_Machine_Balloon4_fly1_6"
+    },
+    {
+      "offset": 107680,
+      "value": "Siege_Machine_Balloon3_die1_1"
+    },
+    {
+      "offset": 107716,
+      "value": "Siege_Machine_Balloon3_attack1_5"
+    },
+    {
+      "offset": 107756,
+      "value": "Siege_Machine_Balloon3_attack1_3"
+    },
+    {
+      "offset": 107796,
+      "value": "Siege_Machine_Balloon5_fly1_8"
+    },
+    {
+      "offset": 107832,
+      "value": "Siege_Machine_Balloon1_attack1_7"
+    },
+    {
+      "offset": 107872,
+      "value": "Siege_Machine_Balloon4_attack1_3"
+    },
+    {
+      "offset": 107912,
+      "value": "Siege_Machine_Balloon4_die1_8"
+    },
+    {
+      "offset": 107948,
+      "value": "Siege_Machine_Balloon2_hover2"
+    },
+    {
+      "offset": 107984,
+      "value": "Siege_Machine_Balloon5_die1_5"
+    },
+    {
+      "offset": 108020,
+      "value": "Siege_Machine_Balloon2_fly1_5"
+    },
+    {
+      "offset": 108056,
+      "value": "Siege_Machine_Balloon2_fly1_4"
+    },
+    {
+      "offset": 108092,
+      "value": "Siege_Machine_Balloon5_attack1_8"
+    },
+    {
+      "offset": 108132,
+      "value": "Siege_Machine_Balloon2_fly1_1"
+    },
+    {
+      "offset": 108168,
+      "value": "Siege_Machine_Balloon3_attack1_8"
+    },
+    {
+      "offset": 108208,
+      "value": "Siege_Machine_Balloon3_attack1_1"
+    },
+    {
+      "offset": 108248,
+      "value": "Siege_Machine_Balloon4_die1_6"
+    },
+    {
+      "offset": 108284,
+      "value": "Siege_Machine_Balloon2_die1_9"
+    },
+    {
+      "offset": 108320,
+      "value": "Siege_Machine_Balloon2_die1_7"
+    },
+    {
+      "offset": 108356,
+      "value": "Siege_Machine_Balloon2_die1_6"
+    },
+    {
+      "offset": 108392,
+      "value": "Siege_Machine_Balloon2_die1_2"
+    },
+    {
+      "offset": 108428,
+      "value": "Siege_Machine_Balloon3_die1_2"
+    },
+    {
+      "offset": 108464,
+      "value": "Siege_Machine_Balloon2_attack1_8"
+    },
+    {
+      "offset": 108504,
+      "value": "Siege_Machine_Balloon2_die1_1"
+    },
+    {
+      "offset": 108540,
+      "value": "Siege_Machine_Balloon3_attack1_2"
+    },
+    {
+      "offset": 108580,
+      "value": "Siege_Machine_Balloon3_die1_5"
+    },
+    {
+      "offset": 108616,
+      "value": "Siege_Machine_Balloon6_fly1_4"
+    },
+    {
+      "offset": 108652,
+      "value": "Siege_Machine_Balloon6_hover2"
+    },
+    {
+      "offset": 108688,
+      "value": "Siege_Machine_Balloon2_attack1_7"
+    },
+    {
+      "offset": 108728,
+      "value": "Siege_Machine_Balloon2_attack1_5"
+    },
+    {
+      "offset": 108768,
+      "value": "Siege_Machine_Balloon2_attack1_4"
+    },
+    {
+      "offset": 108808,
+      "value": "Siege_Machine_Balloon1_attack1_9"
+    },
+    {
+      "offset": 108848,
+      "value": "Siege_Machine_Balloon6_attack1_3"
+    },
+    {
+      "offset": 108888,
+      "value": "Siege_Machine_Balloon1_hover1"
+    },
+    {
+      "offset": 108924,
+      "value": "Siege_Machine_Balloon2_attack1_1"
+    },
+    {
+      "offset": 108964,
+      "value": "Siege_Machine_Balloon1_fly1_9"
+    },
+    {
+      "offset": 109000,
+      "value": "Siege_Machine_Balloon6_die1_8"
+    },
+    {
+      "offset": 109036,
+      "value": "Siege_Machine_Balloon2_fly1_8"
+    },
+    {
+      "offset": 109072,
+      "value": "Siege_Machine_Balloon1_fly1_8"
+    },
+    {
+      "offset": 109108,
+      "value": "Siege_Machine_Balloon1_fly1_7"
+    },
+    {
+      "offset": 109144,
+      "value": "Siege_Machine_Balloon1_fly1_6"
+    },
+    {
+      "offset": 109180,
+      "value": "Siege_Machine_Balloon5_die1_7"
+    },
+    {
+      "offset": 109216,
+      "value": "Siege_Machine_Balloon5_fly1_9"
+    },
+    {
+      "offset": 109252,
+      "value": "Siege_Machine_Balloon4_hover3"
+    },
+    {
+      "offset": 109288,
+      "value": "Siege_Machine_Balloon5_fly1_3"
+    },
+    {
+      "offset": 109324,
+      "value": "Siege_Machine_Balloon1_attack1_5"
+    },
+    {
+      "offset": 109364,
+      "value": "Siege_Machine_Balloon4_fly1_7"
+    },
+    {
+      "offset": 109400,
+      "value": "Siege_Machine_Balloon6_die1_3"
+    },
+    {
+      "offset": 109436,
+      "value": "Siege_Machine_Balloon2_fly1_3"
+    },
+    {
+      "offset": 109472,
+      "value": "Siege_Machine_Balloon1_attack1_2"
+    },
+    {
+      "offset": 109512,
+      "value": "Siege_Machine_Balloon5_fly1_2"
+    },
+    {
+      "offset": 109548,
+      "value": "Siege_Machine_Balloon4_attack1_1"
+    },
+    {
+      "offset": 109588,
+      "value": "Siege_Machine_Balloon3_attack1_6"
+    },
+    {
+      "offset": 109628,
+      "value": "Siege_Machine_Balloon3_attack1_9"
+    },
+    {
+      "offset": 109668,
+      "value": "Siege_Machine_Balloon2_hover3"
+    },
+    {
+      "offset": 109704,
+      "value": "Siege_Machine_Balloon6_die1_2"
+    },
+    {
+      "offset": 109740,
+      "value": "Siege_Machine_Balloon2_attack1_2"
+    },
+    {
+      "offset": 109780,
+      "value": "Siege_Machine_Balloon1_die1_7"
+    },
+    {
+      "offset": 109816,
+      "value": "Siege_Machine_Balloon3_attack1_7"
+    },
+    {
+      "offset": 109856,
+      "value": "Siege_Machine_Balloon5_die1_8"
+    },
+    {
+      "offset": 109892,
+      "value": "Siege_Machine_Balloon2_fly1_9"
+    },
+    {
+      "offset": 109928,
+      "value": "Siege_Machine_Balloon4_die1_7"
+    },
+    {
+      "offset": 109964,
+      "value": "Siege_Machine_Balloon1_attack1_4"
+    },
+    {
+      "offset": 110004,
+      "value": "Siege_Machine_Balloon5_die1_6"
+    },
+    {
+      "offset": 110040,
+      "value": "Siege_Machine_Balloon2_die1_4"
+    },
+    {
+      "offset": 110076,
+      "value": "Siege_Machine_Balloon5_fly1_1"
+    },
+    {
+      "offset": 110112,
+      "value": "Siege_Machine_Balloon5_attack1_1"
+    },
+    {
+      "offset": 110152,
+      "value": "Siege_Machine_Balloon6_fly1_6"
+    },
+    {
+      "offset": 110188,
+      "value": "Siege_Machine_Balloon5_attack1_3"
+    },
+    {
+      "offset": 110228,
+      "value": "Siege_Machine_Balloon1_fly1_2"
+    },
+    {
+      "offset": 110264,
+      "value": "Siege_Machine_Balloon3_attack1_4"
+    },
+    {
+      "offset": 110304,
+      "value": "Siege_Machine_Balloon6_attack1_9"
+    },
+    {
+      "offset": 110344,
+      "value": "Siege_Machine_Balloon1_fly1_1"
+    },
+    {
+      "offset": 110380,
+      "value": "Siege_Machine_Balloon2_attack1_9"
+    },
+    {
+      "offset": 110420,
+      "value": "Siege_Machine_Balloon5_attack1_2"
+    },
+    {
+      "offset": 110460,
+      "value": "Siege_Machine_Balloon3_fly1_8"
+    },
+    {
+      "offset": 110496,
+      "value": "Siege_Machine_Balloon3_fly1_6"
+    },
+    {
+      "offset": 110532,
+      "value": "Siege_Machine_Balloon2_die1_3"
+    },
+    {
+      "offset": 110568,
+      "value": "Siege_Machine_Balloon1_die1_8"
+    },
+    {
+      "offset": 110604,
+      "value": "Siege_Machine_Balloon5_attack1_4"
+    },
+    {
+      "offset": 110644,
+      "value": "Siege_Machine_Balloon3_die1_4"
+    },
+    {
+      "offset": 110680,
+      "value": "Siege_Machine_Balloon5_fly1_5"
+    },
+    {
+      "offset": 110716,
+      "value": "Siege_Machine_Balloon2_die1_8"
+    },
+    {
+      "offset": 110752,
+      "value": "Siege_Machine_Balloon6_attack1_4"
+    },
+    {
+      "offset": 110792,
+      "value": "Siege_Machine_Balloon5_attack1_6"
+    },
+    {
+      "offset": 110832,
+      "value": "Siege_Machine_Balloon6_die1_6"
+    },
+    {
+      "offset": 110868,
+      "value": "Siege_Machine_Balloon5_fly1_4"
+    },
+    {
+      "offset": 110904,
+      "value": "Siege_Machine_Balloon5_die1_1"
+    },
+    {
+      "offset": 110940,
+      "value": "Siege_Machine_Balloon5_hover2"
+    },
+    {
+      "offset": 110976,
+      "value": "Siege_Machine_Balloon4_fly1_2"
+    },
+    {
+      "offset": 111012,
+      "value": "Siege_Machine_Balloon3_fly1_2"
+    },
+    {
+      "offset": 111048,
+      "value": "Siege_Machine_Balloon6_fly1_7"
+    },
+    {
+      "offset": 111084,
+      "value": "Siege_Machine_Balloon2_attack1_6"
+    },
+    {
+      "offset": 111124,
+      "value": "Siege_Machine_Balloon1_die1_5"
+    },
+    {
+      "offset": 111160,
+      "value": "Siege_Machine_Balloon5_attack1_9"
+    },
+    {
+      "offset": 111200,
+      "value": "Siege_Machine_Balloon1_attack1_1"
+    },
+    {
+      "offset": 111240,
+      "value": "Siege_Machine_Balloon4_die1_4"
+    },
+    {
+      "offset": 111276,
+      "value": "Siege_Machine_Balloon1_die1_4"
+    },
+    {
+      "offset": 111312,
+      "value": "Siege_Machine_Balloon5_attack1_7"
+    },
+    {
+      "offset": 111352,
+      "value": "Siege_Machine_Balloon5_die1_2"
+    },
+    {
+      "offset": 111388,
+      "value": "Siege_Machine_Balloon1_fly1_3"
+    },
+    {
+      "offset": 111424,
+      "value": "Siege_Machine_Balloon5_fly1_6"
+    },
+    {
+      "offset": 111460,
+      "value": "Siege_Machine_Balloon2_die1_5"
+    },
+    {
+      "offset": 111496,
+      "value": "Siege_Machine_Balloon5_die1_3"
+    },
+    {
+      "offset": 111532,
+      "value": "Siege_Machine_Balloon1_attack1_8"
+    },
+    {
+      "offset": 111572,
+      "value": "Siege_Machine_Balloon4_die1_1"
+    },
+    {
+      "offset": 111608,
+      "value": "Siege_Machine_Balloon5_die1_9"
+    },
+    {
+      "offset": 111644,
+      "value": "Siege_Machine_Balloon2_fly1_7"
+    },
+    {
+      "offset": 111680,
+      "value": "Siege_Machine_Balloon5_hover1"
+    },
+    {
+      "offset": 111716,
+      "value": "Siege_Machine_Balloon5_die1_4"
+    },
+    {
+      "offset": 111752,
+      "value": "Siege_Machine_Balloon3_fly1_7"
+    },
+    {
+      "offset": 111788,
+      "value": "Siege_Machine_Balloon1_die1_1"
+    },
+    {
+      "offset": 111824,
+      "value": "Siege_Machine_Balloon1_hover3"
+    },
+    {
+      "offset": 111860,
+      "value": "Siege_Machine_Balloon6_hover3"
+    },
+    {
+      "offset": 111896,
+      "value": "Siege_Machine_Balloon1_die1_3"
+    },
+    {
+      "offset": 111932,
+      "value": "Siege_Machine_Balloon5_hover3"
+    },
+    {
+      "offset": 111968,
+      "value": "Siege_Machine_Balloon2_hover1"
+    },
+    {
+      "offset": 112004,
+      "value": "Siege_Machine_Balloon1_attack1_3"
+    },
+    {
+      "offset": 112044,
+      "value": "Siege_Machine_Balloon5_attack1_5"
+    },
+    {
+      "offset": 112084,
+      "value": "Siege_Machine_Balloon1_fly1_5"
+    },
+    {
+      "offset": 112120,
+      "value": "Siege_Machine_Balloon1_attack1_6"
+    },
+    {
+      "offset": 112160,
+      "value": "Siege_Machine_Balloon1_die1_2"
+    },
+    {
+      "offset": 112196,
+      "value": "Siege_Machine_Balloon1_die1_6"
+    },
+    {
+      "offset": 112232,
+      "value": "Siege_Machine_Balloon4_attack1_6"
+    },
+    {
+      "offset": 112272,
+      "value": "Siege_Machine_Balloon3_hover3"
+    },
+    {
+      "offset": 112308,
+      "value": "Siege_Machine_Balloon1_die1_9"
+    },
+    {
+      "offset": 112344,
+      "value": "Siege_Machine_Balloon6_attack1_2"
+    },
+    {
+      "offset": 112384,
+      "value": "Siege_Machine_Balloon2_fly1_2"
+    },
+    {
+      "offset": 112420,
+      "value": "Siege_Machine_Balloon6_die1_7"
+    },
+    {
+      "offset": 112456,
+      "value": "Siege_Machine_Balloon1_hover2"
+    },
+    {
+      "offset": 112492,
+      "value": "Siege_Machine_Balloon6_die1_1"
+    },
+    {
+      "offset": 112528,
+      "value": "Siege_Machine_Balloon1_fly1_4"
+    },
+    {
+      "offset": 112564,
+      "value": "Siege_Machine_Balloon4_attack1_7"
+    },
+    {
+      "offset": 112604,
+      "value": "Siege_Machine_Balloon4_attack1_8"
+    },
+    {
+      "offset": 112644,
+      "value": "Siege_Machine_Balloon4_attack1_9"
+    },
+    {
+      "offset": 112684,
+      "value": "Siege_Machine_Balloon4_die1_3"
+    },
+    {
+      "offset": 112720,
+      "value": "Siege_Machine_Balloon4_fly1_5"
+    },
+    {
+      "offset": 112756,
+      "value": "Siege_Machine_Balloon4_die1_5"
+    },
+    {
+      "offset": 112792,
+      "value": "Siege_Machine_Balloon4_fly1_1"
+    },
+    {
+      "offset": 112828,
+      "value": "Siege_Machine_Balloon4_die1_9"
+    },
+    {
+      "offset": 112864,
+      "value": "Siege_Machine_Balloon4_fly1_4"
+    },
+    {
+      "offset": 112900,
+      "value": "Siege_Machine_Balloon4_fly1_8"
+    },
+    {
+      "offset": 112936,
+      "value": "Siege_Machine_Balloon4_fly1_9"
+    },
+    {
+      "offset": 112972,
+      "value": "Siege_Machine_Balloon4_hover1"
+    },
+    {
+      "offset": 113008,
+      "value": "Siege_Machine_Balloon4_hover2"
+    },
+    {
+      "offset": 113044,
+      "value": "Siege_Machine_Balloon6_attack1_1"
+    },
+    {
+      "offset": 113084,
+      "value": "Siege_Machine_Balloon6_attack1_5"
+    },
+    {
+      "offset": 113124,
+      "value": "Siege_Machine_Balloon6_attack1_6"
+    },
+    {
+      "offset": 113164,
+      "value": "Siege_Machine_Balloon6_die1_9"
+    },
+    {
+      "offset": 113200,
+      "value": "Siege_Machine_Balloon6_attack1_7"
+    },
+    {
+      "offset": 113240,
+      "value": "Siege_Machine_Balloon6_attack1_8"
+    },
+    {
+      "offset": 113280,
+      "value": "Siege_Machine_Balloon6_die1_4"
+    },
+    {
+      "offset": 113316,
+      "value": "Siege_Machine_Balloon6_die1_5"
+    },
+    {
+      "offset": 113352,
+      "value": "Siege_Machine_Balloon6_fly1_9"
+    },
+    {
+      "offset": 113388,
+      "value": "Siege_Machine_Balloon6_fly1_1"
+    },
+    {
+      "offset": 113424,
+      "value": "Siege_Machine_Balloon6_fly1_2"
+    },
+    {
+      "offset": 113460,
+      "value": "Siege_Machine_Balloon6_fly1_3"
+    },
+    {
+      "offset": 113496,
+      "value": "Siege_Machine_Balloon6_fly1_5"
+    },
+    {
+      "offset": 113532,
+      "value": "Siege_Machine_Balloon6_fly1_8"
+    },
+    {
+      "offset": 113568,
+      "value": "Siege_Machine_Balloon6_hover1"
+    },
+    {
+      "offset": 179212,
+      "value": "chr_battle_blimp_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000a5000000f000000001000000c8bb01006cdb0000",
+  "decoded_preview_hex": "c4bb010018000000000012001400040000000000000008000c00100012000000a09e010018830000101a000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

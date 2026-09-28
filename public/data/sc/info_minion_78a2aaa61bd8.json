@@ -1,0 +1,112 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_minion.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_minion.sc",
+  "sha256_container": "78a2aaa61bd8382f7e0b0d18f9257b889c8c01563dd53ea98badf8b786e9f4bf",
+  "sha256_descriptor": "ab57f8acdcce86f9a26448dab06f4f58a47162d4ee6e2278810d7716bf79b629",
+  "sha256_decoded_payload": "7c1fe047373198c94c78f5fe027ea6f082e121ce0ec768ef998ba7d2285f5259",
+  "version": 6,
+  "descriptor_bytes": 148,
+  "compressed_frame_bytes": 19251,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 35960,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 220
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 35480
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 19256
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "unit_flyingF_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_flyingF_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 111,
+      "value": "CxX"
+    },
+    {
+      "offset": 192,
+      "value": "unit_flyingF_big"
+    },
+    {
+      "offset": 1587,
+      "value": "zy:"
+    },
+    {
+      "offset": 6836,
+      "value": "B k"
+    },
+    {
+      "offset": 9613,
+      "value": "JBRx"
+    },
+    {
+      "offset": 10784,
+      "value": "j- @"
+    },
+    {
+      "offset": 13451,
+      "value": "nGGe"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000010000000100000003000000dc000000",
+  "decoded_preview_hex": "d800000018000000000012001400040000000000000008000c001000120000009000000080000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

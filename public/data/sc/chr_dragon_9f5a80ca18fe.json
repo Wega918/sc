@@ -1,0 +1,624 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_dragon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_dragon.sc",
+  "sha256_container": "9f5a80ca18fe19d9b116c82eaafdde15f326b5d9f4fde51ba542904ec371d9c8",
+  "sha256_descriptor": "5646a37c670b974d420d6e87509f513c1998b5008564e6c14a91dde04ef29f8d",
+  "sha256_decoded_payload": "4f04c3e50a6098887dfa1eb96576764e81aac3f7effa1d9da697f7fb461b6690",
+  "version": 6,
+  "descriptor_bytes": 2620,
+  "compressed_frame_bytes": 25931,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 80904,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 219
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 94
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 55512
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 13888
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 25936
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 296,
+      "value": "dragonx_fly1_3"
+    },
+    {
+      "offset": 348,
+      "value": "dragonx_fly1_2"
+    },
+    {
+      "offset": 400,
+      "value": "dragonx_fly1_1"
+    },
+    {
+      "offset": 452,
+      "value": "dragon_fly1_3"
+    },
+    {
+      "offset": 504,
+      "value": "dragon_fly1_2"
+    },
+    {
+      "offset": 556,
+      "value": "dragon_fly1_1"
+    },
+    {
+      "offset": 608,
+      "value": "dragon9_fly1_3"
+    },
+    {
+      "offset": 660,
+      "value": "dragon9_fly1_2"
+    },
+    {
+      "offset": 712,
+      "value": "dragon9_fly1_1"
+    },
+    {
+      "offset": 764,
+      "value": "dragon8_fly1_3"
+    },
+    {
+      "offset": 816,
+      "value": "dragon8_fly1_2"
+    },
+    {
+      "offset": 868,
+      "value": "dragon8_fly1_1"
+    },
+    {
+      "offset": 920,
+      "value": "dragon7_fly1_3"
+    },
+    {
+      "offset": 972,
+      "value": "dragon7_fly1_2"
+    },
+    {
+      "offset": 1024,
+      "value": "dragon7_fly1_1"
+    },
+    {
+      "offset": 1076,
+      "value": "dragon6_fly1_3"
+    },
+    {
+      "offset": 1128,
+      "value": "dragon6_fly1_2"
+    },
+    {
+      "offset": 1180,
+      "value": "dragon6_fly1_1"
+    },
+    {
+      "offset": 1232,
+      "value": "dragon5_fly1_3"
+    },
+    {
+      "offset": 1284,
+      "value": "dragon5_fly1_2"
+    },
+    {
+      "offset": 1336,
+      "value": "dragon5_fly1_1"
+    },
+    {
+      "offset": 1388,
+      "value": "dragon4_fly1_3"
+    },
+    {
+      "offset": 1440,
+      "value": "dragon4_fly1_2"
+    },
+    {
+      "offset": 1492,
+      "value": "dragon4_fly1_1"
+    },
+    {
+      "offset": 1544,
+      "value": "dragon3_fly1_3"
+    },
+    {
+      "offset": 1596,
+      "value": "dragon3_fly1_2"
+    },
+    {
+      "offset": 1648,
+      "value": "dragon3_fly1_1"
+    },
+    {
+      "offset": 1700,
+      "value": "dragon2_fly1_3"
+    },
+    {
+      "offset": 1752,
+      "value": "dragon2_fly1_2"
+    },
+    {
+      "offset": 1804,
+      "value": "dragon2_fly1_1"
+    },
+    {
+      "offset": 1856,
+      "value": "dragon13_fly1_3"
+    },
+    {
+      "offset": 1908,
+      "value": "dragon13_fly1_2"
+    },
+    {
+      "offset": 1960,
+      "value": "dragon13_fly1_1"
+    },
+    {
+      "offset": 2012,
+      "value": "dragon13_attack1_3"
+    },
+    {
+      "offset": 2068,
+      "value": "dragon13_attack1_2"
+    },
+    {
+      "offset": 2124,
+      "value": "dragon13_attack1_1"
+    },
+    {
+      "offset": 2180,
+      "value": "dragon12_fly1_3"
+    },
+    {
+      "offset": 2232,
+      "value": "dragon12_fly1_2"
+    },
+    {
+      "offset": 2284,
+      "value": "dragon12_fly1_1"
+    },
+    {
+      "offset": 2336,
+      "value": "dragon11_fly1_3"
+    },
+    {
+      "offset": 2388,
+      "value": "dragon11_fly1_2"
+    },
+    {
+      "offset": 2440,
+      "value": "dragon11_fly1_1"
+    },
+    {
+      "offset": 2492,
+      "value": "dragon10_fly1_3"
+    },
+    {
+      "offset": 2544,
+      "value": "dragon10_fly1_2"
+    },
+    {
+      "offset": 2604,
+      "value": "dragon10_fly1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "dragonx_fly1_3",
+    "dragonx_fly1_2",
+    "dragonx_fly1_1",
+    "dragon_fly1_3",
+    "dragon_fly1_2",
+    "dragon_fly1_1",
+    "dragon9_fly1_3",
+    "dragon9_fly1_2",
+    "dragon9_fly1_1",
+    "dragon8_fly1_3",
+    "dragon8_fly1_2",
+    "dragon8_fly1_1",
+    "dragon7_fly1_3",
+    "dragon7_fly1_2",
+    "dragon7_fly1_1",
+    "dragon6_fly1_3",
+    "dragon6_fly1_2",
+    "dragon6_fly1_1",
+    "dragon5_fly1_3",
+    "dragon5_fly1_2",
+    "dragon5_fly1_1",
+    "dragon4_fly1_3",
+    "dragon4_fly1_2",
+    "dragon4_fly1_1",
+    "dragon3_fly1_3",
+    "dragon3_fly1_2",
+    "dragon3_fly1_1",
+    "dragon2_fly1_3",
+    "dragon2_fly1_2",
+    "dragon2_fly1_1",
+    "dragon13_fly1_3",
+    "dragon13_fly1_2",
+    "dragon13_fly1_1",
+    "dragon13_attack1_3",
+    "dragon13_attack1_2",
+    "dragon13_attack1_1",
+    "dragon12_fly1_3",
+    "dragon12_fly1_2",
+    "dragon12_fly1_1",
+    "dragon11_fly1_3",
+    "dragon11_fly1_2",
+    "dragon11_fly1_1",
+    "dragon10_fly1_3",
+    "dragon10_fly1_2",
+    "dragon10_fly1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 130,
+      "value": "fR8"
+    },
+    {
+      "offset": 5539,
+      "value": "C33"
+    },
+    {
+      "offset": 5563,
+      "value": "C33"
+    },
+    {
+      "offset": 6064,
+      "value": "ffIB"
+    },
+    {
+      "offset": 6697,
+      "value": "_15"
+    },
+    {
+      "offset": 6939,
+      "value": "q33fB"
+    },
+    {
+      "offset": 7335,
+      "value": "W33AB"
+    },
+    {
+      "offset": 7827,
+      "value": "Uff"
+    },
+    {
+      "offset": 9913,
+      "value": "H/O"
+    },
+    {
+      "offset": 9937,
+      "value": "G/O"
+    },
+    {
+      "offset": 10291,
+      "value": "B33"
+    },
+    {
+      "offset": 11836,
+      "value": "ffJB"
+    },
+    {
+      "offset": 13621,
+      "value": "UBR"
+    },
+    {
+      "offset": 15376,
+      "value": "ffIB"
+    },
+    {
+      "offset": 17296,
+      "value": "ffJB"
+    },
+    {
+      "offset": 18613,
+      "value": "GB4"
+    },
+    {
+      "offset": 18637,
+      "value": "IB4"
+    },
+    {
+      "offset": 21229,
+      "value": "AyH"
+    },
+    {
+      "offset": 22573,
+      "value": "E+4"
+    },
+    {
+      "offset": 23163,
+      "value": "xffJB"
+    },
+    {
+      "offset": 23222,
+      "value": "i+33"
+    },
+    {
+      "offset": 23891,
+      "value": "Aoj"
+    },
+    {
+      "offset": 25888,
+      "value": "ffIB"
+    },
+    {
+      "offset": 25912,
+      "value": "ffIB"
+    },
+    {
+      "offset": 27424,
+      "value": "ffPB"
+    },
+    {
+      "offset": 28311,
+      "value": "o33nB"
+    },
+    {
+      "offset": 28381,
+      "value": "RQ\\"
+    },
+    {
+      "offset": 31531,
+      "value": "B33"
+    },
+    {
+      "offset": 32828,
+      "value": "ffNA"
+    },
+    {
+      "offset": 37083,
+      "value": "_33QB33"
+    },
+    {
+      "offset": 37110,
+      "value": "cB33"
+    },
+    {
+      "offset": 54532,
+      "value": "attack_pivot"
+    },
+    {
+      "offset": 54552,
+      "value": "boss_attack_pivot"
+    },
+    {
+      "offset": 54576,
+      "value": "Times New Roman"
+    },
+    {
+      "offset": 54596,
+      "value": "dragon4_fly1_3"
+    },
+    {
+      "offset": 54616,
+      "value": "dragon3_fly1_3"
+    },
+    {
+      "offset": 54636,
+      "value": "dragon13_attack1_2"
+    },
+    {
+      "offset": 54660,
+      "value": "dragon3_fly1_1"
+    },
+    {
+      "offset": 54680,
+      "value": "dragon2_fly1_3"
+    },
+    {
+      "offset": 54700,
+      "value": "dragon2_fly1_1"
+    },
+    {
+      "offset": 54720,
+      "value": "dragon_fly1_1"
+    },
+    {
+      "offset": 54740,
+      "value": "dragon8_fly1_2"
+    },
+    {
+      "offset": 54760,
+      "value": "dragon5_fly1_1"
+    },
+    {
+      "offset": 54780,
+      "value": "dragon13_attack1_1"
+    },
+    {
+      "offset": 54804,
+      "value": "dragon9_fly1_3"
+    },
+    {
+      "offset": 54824,
+      "value": "dragon13_fly1_1"
+    },
+    {
+      "offset": 54844,
+      "value": "dragon12_fly1_2"
+    },
+    {
+      "offset": 54864,
+      "value": "dragon13_fly1_2"
+    },
+    {
+      "offset": 54884,
+      "value": "dragon4_fly1_1"
+    },
+    {
+      "offset": 54904,
+      "value": "dragon_fly1_3"
+    },
+    {
+      "offset": 54924,
+      "value": "dragon3_fly1_2"
+    },
+    {
+      "offset": 54944,
+      "value": "dragon10_fly1_2"
+    },
+    {
+      "offset": 54964,
+      "value": "dragon6_fly1_1"
+    },
+    {
+      "offset": 54984,
+      "value": "dragon5_fly1_3"
+    },
+    {
+      "offset": 55004,
+      "value": "dragon9_fly1_2"
+    },
+    {
+      "offset": 55024,
+      "value": "dragonx_fly1_2"
+    },
+    {
+      "offset": 55044,
+      "value": "dragon13_attack1_3"
+    },
+    {
+      "offset": 55068,
+      "value": "dragon2_fly1_2"
+    },
+    {
+      "offset": 55088,
+      "value": "dragon5_fly1_2"
+    },
+    {
+      "offset": 55108,
+      "value": "dragon12_fly1_1"
+    },
+    {
+      "offset": 55128,
+      "value": "dragon10_fly1_1"
+    },
+    {
+      "offset": 55148,
+      "value": "dragon_fly1_2"
+    },
+    {
+      "offset": 55168,
+      "value": "dragon7_fly1_2"
+    },
+    {
+      "offset": 55188,
+      "value": "dragon4_fly1_2"
+    },
+    {
+      "offset": 55208,
+      "value": "dragon10_fly1_3"
+    },
+    {
+      "offset": 55228,
+      "value": "dragon12_fly1_3"
+    },
+    {
+      "offset": 55248,
+      "value": "dragon11_fly1_3"
+    },
+    {
+      "offset": 55268,
+      "value": "dragon11_fly1_1"
+    },
+    {
+      "offset": 55288,
+      "value": "dragonx_fly1_1"
+    },
+    {
+      "offset": 55308,
+      "value": "dragon11_fly1_2"
+    },
+    {
+      "offset": 55328,
+      "value": "dragonx_fly1_3"
+    },
+    {
+      "offset": 55348,
+      "value": "dragon13_fly1_3"
+    },
+    {
+      "offset": 55368,
+      "value": "dragon6_fly1_2"
+    },
+    {
+      "offset": 55388,
+      "value": "dragon6_fly1_3"
+    },
+    {
+      "offset": 55408,
+      "value": "dragon7_fly1_1"
+    },
+    {
+      "offset": 55428,
+      "value": "dragon7_fly1_3"
+    },
+    {
+      "offset": 55448,
+      "value": "dragon8_fly1_1"
+    },
+    {
+      "offset": 55468,
+      "value": "dragon8_fly1_3"
+    },
+    {
+      "offset": 55488,
+      "value": "dragon9_fly1_1"
+    },
+    {
+      "offset": 80884,
+      "value": "chr_dragon_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000db0000005e0000000100000001000000d8d80000",
+  "decoded_preview_hex": "d4d8000018000000000012001400040000000000000008000c0010001200000018d4000058930000e411000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

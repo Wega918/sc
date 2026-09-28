@@ -1,0 +1,1479 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_druid_bear.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_druid_bear.sc",
+  "sha256_container": "6884a8dbabcbb744bb45e23168af7a3c342a306ce553448671e6b35ea081f49d",
+  "sha256_descriptor": "b39b7e16491c19984564f130867cbd303951d8f1e323a27569f410b1a24b5576",
+  "sha256_decoded_payload": "61949c9941901cdd095dbfa4ec0200d57943a24b9bdd860fc81f5650bfff6b31",
+  "version": 6,
+  "descriptor_bytes": 7772,
+  "compressed_frame_bytes": 62629,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 245368,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 1061
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 123
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 168760
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 40652
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 62632
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 600,
+      "value": "druid_lvl6_run1_3"
+    },
+    {
+      "offset": 656,
+      "value": "druid_lvl6_run1_2"
+    },
+    {
+      "offset": 712,
+      "value": "druid_lvl6_run1_1"
+    },
+    {
+      "offset": 768,
+      "value": "druid_lvl6_idle1_3"
+    },
+    {
+      "offset": 824,
+      "value": "druid_lvl6_idle1_2"
+    },
+    {
+      "offset": 880,
+      "value": "druid_lvl6_idle1_1"
+    },
+    {
+      "offset": 936,
+      "value": "druid_lvl6_cheer1_3"
+    },
+    {
+      "offset": 992,
+      "value": "druid_lvl6_cheer1_2"
+    },
+    {
+      "offset": 1048,
+      "value": "druid_lvl6_cheer1_1"
+    },
+    {
+      "offset": 1104,
+      "value": "druid_lvl6_attack2_3"
+    },
+    {
+      "offset": 1164,
+      "value": "druid_lvl6_attack2_2"
+    },
+    {
+      "offset": 1224,
+      "value": "druid_lvl6_attack2_1"
+    },
+    {
+      "offset": 1284,
+      "value": "druid_lvl6_attack1_3"
+    },
+    {
+      "offset": 1344,
+      "value": "druid_lvl6_attack1_2"
+    },
+    {
+      "offset": 1404,
+      "value": "druid_lvl6_attack1_1"
+    },
+    {
+      "offset": 1464,
+      "value": "druid_lvl5_run1_3"
+    },
+    {
+      "offset": 1520,
+      "value": "druid_lvl5_run1_2"
+    },
+    {
+      "offset": 1576,
+      "value": "druid_lvl5_run1_1"
+    },
+    {
+      "offset": 1632,
+      "value": "druid_lvl5_idle1_3"
+    },
+    {
+      "offset": 1688,
+      "value": "druid_lvl5_idle1_2"
+    },
+    {
+      "offset": 1744,
+      "value": "druid_lvl5_idle1_1"
+    },
+    {
+      "offset": 1800,
+      "value": "druid_lvl5_cheer1_3"
+    },
+    {
+      "offset": 1856,
+      "value": "druid_lvl5_cheer1_2"
+    },
+    {
+      "offset": 1912,
+      "value": "druid_lvl5_cheer1_1"
+    },
+    {
+      "offset": 1968,
+      "value": "druid_lvl5_attack2_3"
+    },
+    {
+      "offset": 2028,
+      "value": "druid_lvl5_attack2_2"
+    },
+    {
+      "offset": 2088,
+      "value": "druid_lvl5_attack2_1"
+    },
+    {
+      "offset": 2148,
+      "value": "druid_lvl5_attack1_3"
+    },
+    {
+      "offset": 2208,
+      "value": "druid_lvl5_attack1_2"
+    },
+    {
+      "offset": 2268,
+      "value": "druid_lvl5_attack1_1"
+    },
+    {
+      "offset": 2328,
+      "value": "druid_lvl2_run1_3"
+    },
+    {
+      "offset": 2384,
+      "value": "druid_lvl2_run1_2"
+    },
+    {
+      "offset": 2440,
+      "value": "druid_lvl2_run1_1"
+    },
+    {
+      "offset": 2496,
+      "value": "druid_lvl2_idle1_3"
+    },
+    {
+      "offset": 2552,
+      "value": "druid_lvl2_idle1_2"
+    },
+    {
+      "offset": 2608,
+      "value": "druid_lvl2_idle1_1"
+    },
+    {
+      "offset": 2664,
+      "value": "druid_lvl2_cheer1_3"
+    },
+    {
+      "offset": 2720,
+      "value": "druid_lvl2_cheer1_2"
+    },
+    {
+      "offset": 2776,
+      "value": "druid_lvl2_cheer1_1"
+    },
+    {
+      "offset": 2832,
+      "value": "druid_lvl2_attack2_3"
+    },
+    {
+      "offset": 2892,
+      "value": "druid_lvl2_attack2_2"
+    },
+    {
+      "offset": 2952,
+      "value": "druid_lvl2_attack2_1"
+    },
+    {
+      "offset": 3012,
+      "value": "druid_lvl2_attack1_3"
+    },
+    {
+      "offset": 3072,
+      "value": "druid_lvl2_attack1_2"
+    },
+    {
+      "offset": 3132,
+      "value": "druid_lvl2_attack1_1"
+    },
+    {
+      "offset": 3192,
+      "value": "druid_lvl1_run1_3"
+    },
+    {
+      "offset": 3248,
+      "value": "druid_lvl1_run1_2"
+    },
+    {
+      "offset": 3304,
+      "value": "druid_lvl1_run1_1"
+    },
+    {
+      "offset": 3360,
+      "value": "druid_lvl1_idle1_3"
+    },
+    {
+      "offset": 3416,
+      "value": "druid_lvl1_idle1_2"
+    },
+    {
+      "offset": 3472,
+      "value": "druid_lvl1_idle1_1"
+    },
+    {
+      "offset": 3528,
+      "value": "druid_lvl1_cheer1_3"
+    },
+    {
+      "offset": 3584,
+      "value": "druid_lvl1_cheer1_2"
+    },
+    {
+      "offset": 3640,
+      "value": "druid_lvl1_cheer1_1"
+    },
+    {
+      "offset": 3696,
+      "value": "druid_lvl1_attack2_3"
+    },
+    {
+      "offset": 3756,
+      "value": "druid_lvl1_attack2_2"
+    },
+    {
+      "offset": 3816,
+      "value": "druid_lvl1_attack2_1"
+    },
+    {
+      "offset": 3876,
+      "value": "druid_lvl1_attack1_3"
+    },
+    {
+      "offset": 3936,
+      "value": "druid_lvl1_attack1_2"
+    },
+    {
+      "offset": 3996,
+      "value": "druid_lvl1_attack1_1"
+    },
+    {
+      "offset": 4056,
+      "value": "druid_bear_lvl6_run1_3"
+    },
+    {
+      "offset": 4116,
+      "value": "druid_bear_lvl6_run1_2"
+    },
+    {
+      "offset": 4176,
+      "value": "druid_bear_lvl6_run1_1"
+    },
+    {
+      "offset": 4236,
+      "value": "druid_bear_lvl6_idle1_3"
+    },
+    {
+      "offset": 4296,
+      "value": "druid_bear_lvl6_idle1_2"
+    },
+    {
+      "offset": 4356,
+      "value": "druid_bear_lvl6_idle1_1"
+    },
+    {
+      "offset": 4416,
+      "value": "druid_bear_lvl6_cheer1_3"
+    },
+    {
+      "offset": 4480,
+      "value": "druid_bear_lvl6_cheer1_2"
+    },
+    {
+      "offset": 4544,
+      "value": "druid_bear_lvl6_cheer1_1"
+    },
+    {
+      "offset": 4608,
+      "value": "druid_bear_lvl6_attack2_3"
+    },
+    {
+      "offset": 4672,
+      "value": "druid_bear_lvl6_attack2_2"
+    },
+    {
+      "offset": 4736,
+      "value": "druid_bear_lvl6_attack2_1"
+    },
+    {
+      "offset": 4800,
+      "value": "druid_bear_lvl6_attack1_3"
+    },
+    {
+      "offset": 4864,
+      "value": "druid_bear_lvl6_attack1_2"
+    },
+    {
+      "offset": 4928,
+      "value": "druid_bear_lvl6_attack1_1"
+    },
+    {
+      "offset": 4992,
+      "value": "druid_bear_lvl5_run1_3"
+    },
+    {
+      "offset": 5052,
+      "value": "druid_bear_lvl5_run1_2"
+    },
+    {
+      "offset": 5112,
+      "value": "druid_bear_lvl5_run1_1"
+    },
+    {
+      "offset": 5172,
+      "value": "druid_bear_lvl5_idle1_3"
+    },
+    {
+      "offset": 5232,
+      "value": "druid_bear_lvl5_idle1_2"
+    },
+    {
+      "offset": 5292,
+      "value": "druid_bear_lvl5_idle1_1"
+    },
+    {
+      "offset": 5352,
+      "value": "druid_bear_lvl5_cheer1_3"
+    },
+    {
+      "offset": 5416,
+      "value": "druid_bear_lvl5_cheer1_2"
+    },
+    {
+      "offset": 5480,
+      "value": "druid_bear_lvl5_cheer1_1"
+    },
+    {
+      "offset": 5544,
+      "value": "druid_bear_lvl5_attack2_3"
+    },
+    {
+      "offset": 5608,
+      "value": "druid_bear_lvl5_attack2_2"
+    },
+    {
+      "offset": 5672,
+      "value": "druid_bear_lvl5_attack2_1"
+    },
+    {
+      "offset": 5736,
+      "value": "druid_bear_lvl5_attack1_3"
+    },
+    {
+      "offset": 5800,
+      "value": "druid_bear_lvl5_attack1_2"
+    },
+    {
+      "offset": 5864,
+      "value": "druid_bear_lvl5_attack1_1"
+    },
+    {
+      "offset": 5928,
+      "value": "druid_bear_lvl2_run1_3"
+    },
+    {
+      "offset": 5988,
+      "value": "druid_bear_lvl2_run1_2"
+    },
+    {
+      "offset": 6048,
+      "value": "druid_bear_lvl2_run1_1"
+    },
+    {
+      "offset": 6108,
+      "value": "druid_bear_lvl2_idle1_3"
+    },
+    {
+      "offset": 6168,
+      "value": "druid_bear_lvl2_idle1_2"
+    },
+    {
+      "offset": 6228,
+      "value": "druid_bear_lvl2_idle1_1"
+    },
+    {
+      "offset": 6288,
+      "value": "druid_bear_lvl2_cheer1_3"
+    },
+    {
+      "offset": 6352,
+      "value": "druid_bear_lvl2_cheer1_2"
+    },
+    {
+      "offset": 6416,
+      "value": "druid_bear_lvl2_cheer1_1"
+    },
+    {
+      "offset": 6480,
+      "value": "druid_bear_lvl2_attack2_3"
+    },
+    {
+      "offset": 6544,
+      "value": "druid_bear_lvl2_attack2_2"
+    },
+    {
+      "offset": 6608,
+      "value": "druid_bear_lvl2_attack2_1"
+    },
+    {
+      "offset": 6672,
+      "value": "druid_bear_lvl2_attack1_3"
+    },
+    {
+      "offset": 6736,
+      "value": "druid_bear_lvl2_attack1_2"
+    },
+    {
+      "offset": 6800,
+      "value": "druid_bear_lvl2_attack1_1"
+    },
+    {
+      "offset": 6864,
+      "value": "druid_bear_lvl1_run1_3"
+    },
+    {
+      "offset": 6924,
+      "value": "druid_bear_lvl1_run1_2"
+    },
+    {
+      "offset": 6984,
+      "value": "druid_bear_lvl1_run1_1"
+    },
+    {
+      "offset": 7044,
+      "value": "druid_bear_lvl1_idle1_3"
+    },
+    {
+      "offset": 7104,
+      "value": "druid_bear_lvl1_idle1_2"
+    },
+    {
+      "offset": 7164,
+      "value": "druid_bear_lvl1_idle1_1"
+    },
+    {
+      "offset": 7224,
+      "value": "druid_bear_lvl1_cheer1_3"
+    },
+    {
+      "offset": 7288,
+      "value": "druid_bear_lvl1_cheer1_2"
+    },
+    {
+      "offset": 7352,
+      "value": "druid_bear_lvl1_cheer1_1"
+    },
+    {
+      "offset": 7416,
+      "value": "druid_bear_lvl1_attack2_3"
+    },
+    {
+      "offset": 7480,
+      "value": "druid_bear_lvl1_attack2_2"
+    },
+    {
+      "offset": 7544,
+      "value": "druid_bear_lvl1_attack2_1"
+    },
+    {
+      "offset": 7608,
+      "value": "druid_bear_lvl1_attack1_3"
+    },
+    {
+      "offset": 7672,
+      "value": "druid_bear_lvl1_attack1_2"
+    },
+    {
+      "offset": 7744,
+      "value": "druid_bear_lvl1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "druid_lvl6_run1_3",
+    "druid_lvl6_run1_2",
+    "druid_lvl6_run1_1",
+    "druid_lvl6_idle1_3",
+    "druid_lvl6_idle1_2",
+    "druid_lvl6_idle1_1",
+    "druid_lvl6_cheer1_3",
+    "druid_lvl6_cheer1_2",
+    "druid_lvl6_cheer1_1",
+    "druid_lvl6_attack2_3",
+    "druid_lvl6_attack2_2",
+    "druid_lvl6_attack2_1",
+    "druid_lvl6_attack1_3",
+    "druid_lvl6_attack1_2",
+    "druid_lvl6_attack1_1",
+    "druid_lvl5_run1_3",
+    "druid_lvl5_run1_2",
+    "druid_lvl5_run1_1",
+    "druid_lvl5_idle1_3",
+    "druid_lvl5_idle1_2",
+    "druid_lvl5_idle1_1",
+    "druid_lvl5_cheer1_3",
+    "druid_lvl5_cheer1_2",
+    "druid_lvl5_cheer1_1",
+    "druid_lvl5_attack2_3",
+    "druid_lvl5_attack2_2",
+    "druid_lvl5_attack2_1",
+    "druid_lvl5_attack1_3",
+    "druid_lvl5_attack1_2",
+    "druid_lvl5_attack1_1",
+    "druid_lvl2_run1_3",
+    "druid_lvl2_run1_2",
+    "druid_lvl2_run1_1",
+    "druid_lvl2_idle1_3",
+    "druid_lvl2_idle1_2",
+    "druid_lvl2_idle1_1",
+    "druid_lvl2_cheer1_3",
+    "druid_lvl2_cheer1_2",
+    "druid_lvl2_cheer1_1",
+    "druid_lvl2_attack2_3",
+    "druid_lvl2_attack2_2",
+    "druid_lvl2_attack2_1",
+    "druid_lvl2_attack1_3",
+    "druid_lvl2_attack1_2",
+    "druid_lvl2_attack1_1",
+    "druid_lvl1_run1_3",
+    "druid_lvl1_run1_2",
+    "druid_lvl1_run1_1",
+    "druid_lvl1_idle1_3",
+    "druid_lvl1_idle1_2",
+    "druid_lvl1_idle1_1",
+    "druid_lvl1_cheer1_3",
+    "druid_lvl1_cheer1_2",
+    "druid_lvl1_cheer1_1",
+    "druid_lvl1_attack2_3",
+    "druid_lvl1_attack2_2",
+    "druid_lvl1_attack2_1",
+    "druid_lvl1_attack1_3",
+    "druid_lvl1_attack1_2",
+    "druid_lvl1_attack1_1",
+    "druid_bear_lvl6_run1_3",
+    "druid_bear_lvl6_run1_2",
+    "druid_bear_lvl6_run1_1",
+    "druid_bear_lvl6_idle1_3",
+    "druid_bear_lvl6_idle1_2",
+    "druid_bear_lvl6_idle1_1",
+    "druid_bear_lvl6_cheer1_3",
+    "druid_bear_lvl6_cheer1_2",
+    "druid_bear_lvl6_cheer1_1",
+    "druid_bear_lvl6_attack2_3",
+    "druid_bear_lvl6_attack2_2",
+    "druid_bear_lvl6_attack2_1",
+    "druid_bear_lvl6_attack1_3",
+    "druid_bear_lvl6_attack1_2",
+    "druid_bear_lvl6_attack1_1",
+    "druid_bear_lvl5_run1_3",
+    "druid_bear_lvl5_run1_2",
+    "druid_bear_lvl5_run1_1",
+    "druid_bear_lvl5_idle1_3",
+    "druid_bear_lvl5_idle1_2",
+    "druid_bear_lvl5_idle1_1",
+    "druid_bear_lvl5_cheer1_3",
+    "druid_bear_lvl5_cheer1_2",
+    "druid_bear_lvl5_cheer1_1",
+    "druid_bear_lvl5_attack2_3",
+    "druid_bear_lvl5_attack2_2",
+    "druid_bear_lvl5_attack2_1",
+    "druid_bear_lvl5_attack1_3",
+    "druid_bear_lvl5_attack1_2",
+    "druid_bear_lvl5_attack1_1",
+    "druid_bear_lvl2_run1_3",
+    "druid_bear_lvl2_run1_2",
+    "druid_bear_lvl2_run1_1",
+    "druid_bear_lvl2_idle1_3",
+    "druid_bear_lvl2_idle1_2",
+    "druid_bear_lvl2_idle1_1",
+    "druid_bear_lvl2_cheer1_3",
+    "druid_bear_lvl2_cheer1_2",
+    "druid_bear_lvl2_cheer1_1",
+    "druid_bear_lvl2_attack2_3",
+    "druid_bear_lvl2_attack2_2",
+    "druid_bear_lvl2_attack2_1",
+    "druid_bear_lvl2_attack1_3",
+    "druid_bear_lvl2_attack1_2",
+    "druid_bear_lvl2_attack1_1",
+    "druid_bear_lvl1_run1_3",
+    "druid_bear_lvl1_run1_2",
+    "druid_bear_lvl1_run1_1",
+    "druid_bear_lvl1_idle1_3",
+    "druid_bear_lvl1_idle1_2",
+    "druid_bear_lvl1_idle1_1",
+    "druid_bear_lvl1_cheer1_3",
+    "druid_bear_lvl1_cheer1_2",
+    "druid_bear_lvl1_cheer1_1",
+    "druid_bear_lvl1_attack2_3",
+    "druid_bear_lvl1_attack2_2",
+    "druid_bear_lvl1_attack2_1",
+    "druid_bear_lvl1_attack1_3",
+    "druid_bear_lvl1_attack1_2",
+    "druid_bear_lvl1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 13119,
+      "value": "ABZ"
+    },
+    {
+      "offset": 22095,
+      "value": "AcUFe"
+    },
+    {
+      "offset": 22900,
+      "value": "OuO2"
+    },
+    {
+      "offset": 22924,
+      "value": "OvO2"
+    },
+    {
+      "offset": 24461,
+      "value": "gab"
+    },
+    {
+      "offset": 30244,
+      "value": "Bbg3"
+    },
+    {
+      "offset": 30305,
+      "value": "e0I"
+    },
+    {
+      "offset": 30449,
+      "value": "J+0"
+    },
+    {
+      "offset": 37493,
+      "value": "gg+"
+    },
+    {
+      "offset": 38789,
+      "value": "g0y"
+    },
+    {
+      "offset": 43913,
+      "value": "oAL"
+    },
+    {
+      "offset": 44297,
+      "value": "VKN"
+    },
+    {
+      "offset": 47992,
+      "value": "MGll"
+    },
+    {
+      "offset": 48053,
+      "value": "Wwv"
+    },
+    {
+      "offset": 49613,
+      "value": "Oox"
+    },
+    {
+      "offset": 49673,
+      "value": "EOu"
+    },
+    {
+      "offset": 49697,
+      "value": "E_r"
+    },
+    {
+      "offset": 50633,
+      "value": "uOD"
+    },
+    {
+      "offset": 50657,
+      "value": "uOF"
+    },
+    {
+      "offset": 51519,
+      "value": "A_ O9"
+    },
+    {
+      "offset": 51929,
+      "value": "E_n"
+    },
+    {
+      "offset": 52481,
+      "value": "__N"
+    },
+    {
+      "offset": 53477,
+      "value": "p/P"
+    },
+    {
+      "offset": 53501,
+      "value": "r/P"
+    },
+    {
+      "offset": 56225,
+      "value": "XOq"
+    },
+    {
+      "offset": 56813,
+      "value": "Wo\\"
+    },
+    {
+      "offset": 56837,
+      "value": "WOY"
+    },
+    {
+      "offset": 56873,
+      "value": "N/Z"
+    },
+    {
+      "offset": 58132,
+      "value": "oEOW"
+    },
+    {
+      "offset": 58479,
+      "value": "A/0_M"
+    },
+    {
+      "offset": 58612,
+      "value": "oP/6"
+    },
+    {
+      "offset": 58877,
+      "value": "K_i"
+    },
+    {
+      "offset": 59079,
+      "value": "A/T"
+    },
+    {
+      "offset": 59705,
+      "value": "B_W"
+    },
+    {
+      "offset": 61889,
+      "value": "eop"
+    },
+    {
+      "offset": 61913,
+      "value": "bop"
+    },
+    {
+      "offset": 62105,
+      "value": "UOd"
+    },
+    {
+      "offset": 63173,
+      "value": "r_h"
+    },
+    {
+      "offset": 65297,
+      "value": "__b"
+    },
+    {
+      "offset": 65330,
+      "value": "HA_d/k"
+    },
+    {
+      "offset": 65355,
+      "value": "Ao_Ol"
+    },
+    {
+      "offset": 65453,
+      "value": "K/d"
+    },
+    {
+      "offset": 65477,
+      "value": "L/d"
+    },
+    {
+      "offset": 65739,
+      "value": "A/g/8"
+    },
+    {
+      "offset": 65763,
+      "value": "A/g/7"
+    },
+    {
+      "offset": 67721,
+      "value": "y_j"
+    },
+    {
+      "offset": 73541,
+      "value": "y_z"
+    },
+    {
+      "offset": 73565,
+      "value": "v_z"
+    },
+    {
+      "offset": 73589,
+      "value": "r_t"
+    },
+    {
+      "offset": 76180,
+      "value": "oeOi"
+    },
+    {
+      "offset": 76192,
+      "value": "ofOp"
+    },
+    {
+      "offset": 76217,
+      "value": "iOp"
+    },
+    {
+      "offset": 76239,
+      "value": "A/m_n"
+    },
+    {
+      "offset": 77210,
+      "value": "HA_3OY"
+    },
+    {
+      "offset": 85193,
+      "value": "d_0"
+    },
+    {
+      "offset": 85205,
+      "value": "fO2"
+    },
+    {
+      "offset": 85229,
+      "value": "kO2"
+    },
+    {
+      "offset": 86692,
+      "value": "_eOD"
+    },
+    {
+      "offset": 86753,
+      "value": "moD"
+    },
+    {
+      "offset": 93053,
+      "value": "z_S"
+    },
+    {
+      "offset": 93627,
+      "value": "A_l"
+    },
+    {
+      "offset": 93651,
+      "value": "A_k"
+    },
+    {
+      "offset": 93760,
+      "value": "OiOV"
+    },
+    {
+      "offset": 93784,
+      "value": "omOV"
+    },
+    {
+      "offset": 93809,
+      "value": "nOP"
+    },
+    {
+      "offset": 93833,
+      "value": "n/N"
+    },
+    {
+      "offset": 94961,
+      "value": "J_."
+    },
+    {
+      "offset": 94985,
+      "value": "Jo-"
+    },
+    {
+      "offset": 95681,
+      "value": "dOR"
+    },
+    {
+      "offset": 95705,
+      "value": "dOV"
+    },
+    {
+      "offset": 95727,
+      "value": "A__oW"
+    },
+    {
+      "offset": 96437,
+      "value": "WOF"
+    },
+    {
+      "offset": 96869,
+      "value": "voX"
+    },
+    {
+      "offset": 96892,
+      "value": "_uoX"
+    },
+    {
+      "offset": 97013,
+      "value": "R_ "
+    },
+    {
+      "offset": 97037,
+      "value": "U_ "
+    },
+    {
+      "offset": 100540,
+      "value": "Bbg3"
+    },
+    {
+      "offset": 100601,
+      "value": "e0I"
+    },
+    {
+      "offset": 100673,
+      "value": "J+0"
+    },
+    {
+      "offset": 104573,
+      "value": "gg+"
+    },
+    {
+      "offset": 105317,
+      "value": "g0y"
+    },
+    {
+      "offset": 108017,
+      "value": "oAL"
+    },
+    {
+      "offset": 108233,
+      "value": "VKN"
+    },
+    {
+      "offset": 109912,
+      "value": "MGll"
+    },
+    {
+      "offset": 109973,
+      "value": "Wwv"
+    },
+    {
+      "offset": 112481,
+      "value": "A0Y"
+    },
+    {
+      "offset": 120556,
+      "value": "_no:"
+    },
+    {
+      "offset": 120677,
+      "value": "s_v"
+    },
+    {
+      "offset": 120701,
+      "value": "q_v"
+    },
+    {
+      "offset": 121181,
+      "value": "uFM"
+    },
+    {
+      "offset": 121205,
+      "value": "mFM"
+    },
+    {
+      "offset": 121769,
+      "value": "Ho9"
+    },
+    {
+      "offset": 122609,
+      "value": "lo-"
+    },
+    {
+      "offset": 122633,
+      "value": "mo-"
+    },
+    {
+      "offset": 122655,
+      "value": "Aot_5"
+    },
+    {
+      "offset": 123460,
+      "value": "ysab"
+    },
+    {
+      "offset": 165352,
+      "value": "attack_pivot"
+    },
+    {
+      "offset": 165372,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 165396,
+      "value": "druid_bear_lvl1_run1_1"
+    },
+    {
+      "offset": 165424,
+      "value": "druid_lvl2_idle1_2"
+    },
+    {
+      "offset": 165448,
+      "value": "druid_bear_lvl1_idle1_3"
+    },
+    {
+      "offset": 165476,
+      "value": "druid_lvl2_run1_1"
+    },
+    {
+      "offset": 165500,
+      "value": "druid_lvl2_run1_3"
+    },
+    {
+      "offset": 165524,
+      "value": "druid_bear_lvl1_cheer1_3"
+    },
+    {
+      "offset": 165556,
+      "value": "druid_lvl6_attack2_1"
+    },
+    {
+      "offset": 165584,
+      "value": "druid_lvl5_run1_1"
+    },
+    {
+      "offset": 165608,
+      "value": "druid_bear_lvl1_attack2_1"
+    },
+    {
+      "offset": 165640,
+      "value": "druid_bear_lvl6_attack2_1"
+    },
+    {
+      "offset": 165672,
+      "value": "druid_lvl6_attack1_2"
+    },
+    {
+      "offset": 165700,
+      "value": "druid_bear_lvl1_run1_2"
+    },
+    {
+      "offset": 165728,
+      "value": "druid_bear_lvl6_attack1_1"
+    },
+    {
+      "offset": 165760,
+      "value": "druid_bear_lvl1_attack1_3"
+    },
+    {
+      "offset": 165792,
+      "value": "druid_bear_lvl2_cheer1_3"
+    },
+    {
+      "offset": 165824,
+      "value": "druid_bear_lvl1_attack1_2"
+    },
+    {
+      "offset": 165856,
+      "value": "druid_lvl6_cheer1_3"
+    },
+    {
+      "offset": 165880,
+      "value": "druid_bear_lvl6_run1_3"
+    },
+    {
+      "offset": 165908,
+      "value": "druid_bear_lvl1_cheer1_1"
+    },
+    {
+      "offset": 165940,
+      "value": "druid_bear_lvl6_run1_2"
+    },
+    {
+      "offset": 165968,
+      "value": "druid_bear_lvl6_idle1_1"
+    },
+    {
+      "offset": 165996,
+      "value": "druid_lvl1_run1_3"
+    },
+    {
+      "offset": 166020,
+      "value": "druid_bear_lvl6_run1_1"
+    },
+    {
+      "offset": 166048,
+      "value": "druid_lvl1_idle1_2"
+    },
+    {
+      "offset": 166072,
+      "value": "druid_bear_lvl1_attack1_1"
+    },
+    {
+      "offset": 166104,
+      "value": "druid_bear_lvl5_cheer1_3"
+    },
+    {
+      "offset": 166136,
+      "value": "druid_bear_lvl6_cheer1_1"
+    },
+    {
+      "offset": 166168,
+      "value": "druid_bear_lvl1_idle1_2"
+    },
+    {
+      "offset": 166196,
+      "value": "druid_bear_lvl6_attack2_2"
+    },
+    {
+      "offset": 166228,
+      "value": "druid_lvl2_attack1_3"
+    },
+    {
+      "offset": 166256,
+      "value": "druid_bear_lvl1_attack2_3"
+    },
+    {
+      "offset": 166288,
+      "value": "druid_bear_lvl6_attack1_3"
+    },
+    {
+      "offset": 166320,
+      "value": "druid_bear_lvl1_idle1_1"
+    },
+    {
+      "offset": 166348,
+      "value": "druid_bear_lvl1_attack2_2"
+    },
+    {
+      "offset": 166380,
+      "value": "druid_bear_lvl6_idle1_3"
+    },
+    {
+      "offset": 166408,
+      "value": "druid_lvl5_idle1_1"
+    },
+    {
+      "offset": 166432,
+      "value": "druid_bear_lvl6_idle1_2"
+    },
+    {
+      "offset": 166460,
+      "value": "druid_bear_lvl6_attack2_3"
+    },
+    {
+      "offset": 166492,
+      "value": "druid_lvl5_attack2_1"
+    },
+    {
+      "offset": 166520,
+      "value": "druid_lvl6_idle1_1"
+    },
+    {
+      "offset": 166544,
+      "value": "druid_lvl6_run1_2"
+    },
+    {
+      "offset": 166568,
+      "value": "druid_lvl6_cheer1_1"
+    },
+    {
+      "offset": 166592,
+      "value": "druid_bear_lvl5_idle1_3"
+    },
+    {
+      "offset": 166620,
+      "value": "druid_lvl6_cheer1_2"
+    },
+    {
+      "offset": 166644,
+      "value": "druid_lvl6_attack2_3"
+    },
+    {
+      "offset": 166672,
+      "value": "druid_lvl1_run1_2"
+    },
+    {
+      "offset": 166696,
+      "value": "druid_bear_lvl2_cheer1_2"
+    },
+    {
+      "offset": 166728,
+      "value": "druid_lvl6_attack1_1"
+    },
+    {
+      "offset": 166756,
+      "value": "druid_lvl6_attack1_3"
+    },
+    {
+      "offset": 166784,
+      "value": "druid_lvl5_idle1_3"
+    },
+    {
+      "offset": 166808,
+      "value": "druid_lvl1_attack1_2"
+    },
+    {
+      "offset": 166836,
+      "value": "druid_lvl6_idle1_3"
+    },
+    {
+      "offset": 166860,
+      "value": "druid_lvl6_idle1_2"
+    },
+    {
+      "offset": 166884,
+      "value": "druid_bear_lvl5_attack2_1"
+    },
+    {
+      "offset": 166916,
+      "value": "druid_bear_lvl1_cheer1_2"
+    },
+    {
+      "offset": 166948,
+      "value": "druid_bear_lvl5_cheer1_1"
+    },
+    {
+      "offset": 166980,
+      "value": "druid_lvl2_attack2_1"
+    },
+    {
+      "offset": 167008,
+      "value": "druid_lvl1_attack1_3"
+    },
+    {
+      "offset": 167036,
+      "value": "druid_lvl6_run1_1"
+    },
+    {
+      "offset": 167060,
+      "value": "druid_bear_lvl2_attack1_1"
+    },
+    {
+      "offset": 167092,
+      "value": "druid_lvl6_attack2_2"
+    },
+    {
+      "offset": 167120,
+      "value": "druid_bear_lvl5_idle1_1"
+    },
+    {
+      "offset": 167148,
+      "value": "druid_lvl5_cheer1_3"
+    },
+    {
+      "offset": 167172,
+      "value": "druid_bear_lvl6_cheer1_3"
+    },
+    {
+      "offset": 167204,
+      "value": "druid_bear_lvl5_attack2_3"
+    },
+    {
+      "offset": 167236,
+      "value": "druid_lvl1_attack1_1"
+    },
+    {
+      "offset": 167264,
+      "value": "druid_lvl1_idle1_1"
+    },
+    {
+      "offset": 167288,
+      "value": "druid_bear_lvl2_idle1_1"
+    },
+    {
+      "offset": 167316,
+      "value": "druid_bear_lvl5_attack1_3"
+    },
+    {
+      "offset": 167348,
+      "value": "druid_lvl5_attack2_3"
+    },
+    {
+      "offset": 167376,
+      "value": "druid_lvl1_attack2_3"
+    },
+    {
+      "offset": 167404,
+      "value": "druid_lvl1_attack2_2"
+    },
+    {
+      "offset": 167432,
+      "value": "druid_lvl1_cheer1_1"
+    },
+    {
+      "offset": 167456,
+      "value": "druid_lvl1_cheer1_2"
+    },
+    {
+      "offset": 167480,
+      "value": "druid_lvl2_idle1_1"
+    },
+    {
+      "offset": 167504,
+      "value": "druid_lvl1_attack2_1"
+    },
+    {
+      "offset": 167532,
+      "value": "druid_bear_lvl6_cheer1_2"
+    },
+    {
+      "offset": 167564,
+      "value": "druid_lvl1_cheer1_3"
+    },
+    {
+      "offset": 167588,
+      "value": "druid_bear_lvl2_idle1_3"
+    },
+    {
+      "offset": 167616,
+      "value": "druid_lvl1_run1_1"
+    },
+    {
+      "offset": 167640,
+      "value": "druid_bear_lvl5_attack1_2"
+    },
+    {
+      "offset": 167672,
+      "value": "druid_bear_lvl6_attack1_2"
+    },
+    {
+      "offset": 167704,
+      "value": "druid_lvl1_idle1_3"
+    },
+    {
+      "offset": 167728,
+      "value": "druid_lvl6_run1_3"
+    },
+    {
+      "offset": 167752,
+      "value": "druid_bear_lvl1_run1_3"
+    },
+    {
+      "offset": 167780,
+      "value": "druid_bear_lvl2_attack1_2"
+    },
+    {
+      "offset": 167812,
+      "value": "druid_lvl5_cheer1_1"
+    },
+    {
+      "offset": 167836,
+      "value": "druid_bear_lvl2_attack1_3"
+    },
+    {
+      "offset": 167868,
+      "value": "druid_bear_lvl2_attack2_1"
+    },
+    {
+      "offset": 167900,
+      "value": "druid_bear_lvl2_attack2_2"
+    },
+    {
+      "offset": 167932,
+      "value": "druid_bear_lvl2_attack2_3"
+    },
+    {
+      "offset": 167964,
+      "value": "druid_bear_lvl2_cheer1_1"
+    },
+    {
+      "offset": 167996,
+      "value": "druid_lvl2_idle1_3"
+    },
+    {
+      "offset": 168020,
+      "value": "druid_bear_lvl2_idle1_2"
+    },
+    {
+      "offset": 168048,
+      "value": "druid_bear_lvl2_run1_1"
+    },
+    {
+      "offset": 168076,
+      "value": "druid_bear_lvl2_run1_2"
+    },
+    {
+      "offset": 168104,
+      "value": "druid_bear_lvl2_run1_3"
+    },
+    {
+      "offset": 168132,
+      "value": "druid_bear_lvl5_attack1_1"
+    },
+    {
+      "offset": 168164,
+      "value": "druid_bear_lvl5_attack2_2"
+    },
+    {
+      "offset": 168196,
+      "value": "druid_bear_lvl5_cheer1_2"
+    },
+    {
+      "offset": 168228,
+      "value": "druid_lvl5_run1_2"
+    },
+    {
+      "offset": 168252,
+      "value": "druid_bear_lvl5_idle1_2"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000250400007b0000000200000001000000",
+  "decoded_preview_hex": "3493020018000000000012001400040000000000000008000c00100012000000d483020098e30100f82b000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

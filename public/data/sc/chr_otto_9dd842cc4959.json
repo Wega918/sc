@@ -1,0 +1,359 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_otto.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_otto.sc",
+  "sha256_container": "9dd842cc4959867c590bbf55f3d84f468251d8a8b31b8e05cb7c68ad2de12e4b",
+  "sha256_descriptor": "bcea5c139ee19677b0384f9baef13c3a410d85cf71357f34894d097139799f1b",
+  "sha256_decoded_payload": "9f36653098cf44f0d01ef29e05101a12f6c5e7b80a32c62bbba90ff6eb56d9ea",
+  "version": 6,
+  "descriptor_bytes": 876,
+  "compressed_frame_bytes": 26176,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 87096,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 113
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 22
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 72316
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 8700
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 26176
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 164,
+      "value": "arto_lvl1_run1_3"
+    },
+    {
+      "offset": 220,
+      "value": "arto_lvl1_run1_2"
+    },
+    {
+      "offset": 276,
+      "value": "arto_lvl1_run1_1"
+    },
+    {
+      "offset": 332,
+      "value": "arto_lvl1_maintain1_3"
+    },
+    {
+      "offset": 392,
+      "value": "arto_lvl1_maintain1_2"
+    },
+    {
+      "offset": 452,
+      "value": "arto_lvl1_maintain1_1"
+    },
+    {
+      "offset": 512,
+      "value": "arto_lvl1_idle1_3"
+    },
+    {
+      "offset": 568,
+      "value": "arto_lvl1_idle1_2"
+    },
+    {
+      "offset": 624,
+      "value": "arto_lvl1_idle1_1"
+    },
+    {
+      "offset": 680,
+      "value": "arto_lvl1_build1_3"
+    },
+    {
+      "offset": 736,
+      "value": "arto_lvl1_build1_2"
+    },
+    {
+      "offset": 792,
+      "value": "arto_lvl1_build1_1"
+    },
+    {
+      "offset": 856,
+      "value": "arto_heroUpgrade1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "arto_lvl1_run1_3",
+    "arto_lvl1_run1_2",
+    "arto_lvl1_run1_1",
+    "arto_lvl1_maintain1_3",
+    "arto_lvl1_maintain1_2",
+    "arto_lvl1_maintain1_1",
+    "arto_lvl1_idle1_3",
+    "arto_lvl1_idle1_2",
+    "arto_lvl1_idle1_1",
+    "arto_lvl1_build1_3",
+    "arto_lvl1_build1_2",
+    "arto_lvl1_build1_1",
+    "arto_heroUpgrade1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 9279,
+      "value": "Aff"
+    },
+    {
+      "offset": 10212,
+      "value": "fff@"
+    },
+    {
+      "offset": 13212,
+      "value": "ffvA"
+    },
+    {
+      "offset": 14655,
+      "value": "A33"
+    },
+    {
+      "offset": 17196,
+      "value": "ff:A"
+    },
+    {
+      "offset": 21924,
+      "value": "ffvA"
+    },
+    {
+      "offset": 24525,
+      "value": "pF@"
+    },
+    {
+      "offset": 25719,
+      "value": "A33S@"
+    },
+    {
+      "offset": 25857,
+      "value": "p2@"
+    },
+    {
+      "offset": 26223,
+      "value": "A33+A"
+    },
+    {
+      "offset": 26319,
+      "value": "A33SA"
+    },
+    {
+      "offset": 26631,
+      "value": "AffF@"
+    },
+    {
+      "offset": 26655,
+      "value": "A33CA"
+    },
+    {
+      "offset": 27189,
+      "value": "pF@"
+    },
+    {
+      "offset": 27855,
+      "value": "A33+A"
+    },
+    {
+      "offset": 27976,
+      "value": "ffbA"
+    },
+    {
+      "offset": 28125,
+      "value": "pF@"
+    },
+    {
+      "offset": 28815,
+      "value": "A33+A"
+    },
+    {
+      "offset": 28893,
+      "value": "pF@"
+    },
+    {
+      "offset": 29559,
+      "value": "A33+A"
+    },
+    {
+      "offset": 29637,
+      "value": "pF@"
+    },
+    {
+      "offset": 29781,
+      "value": "PY@"
+    },
+    {
+      "offset": 29805,
+      "value": "p\\@"
+    },
+    {
+      "offset": 30111,
+      "value": "AffBA"
+    },
+    {
+      "offset": 30135,
+      "value": "A333A"
+    },
+    {
+      "offset": 30756,
+      "value": "ffjA"
+    },
+    {
+      "offset": 31982,
+      "value": "hAffV@"
+    },
+    {
+      "offset": 32052,
+      "value": "ffVA"
+    },
+    {
+      "offset": 38699,
+      "value": "Vff"
+    },
+    {
+      "offset": 39309,
+      "value": "TQh"
+    },
+    {
+      "offset": 40749,
+      "value": "jzD"
+    },
+    {
+      "offset": 40771,
+      "value": "A1vzD"
+    },
+    {
+      "offset": 41040,
+      "value": "ffVA"
+    },
+    {
+      "offset": 41415,
+      "value": "AffJA"
+    },
+    {
+      "offset": 41771,
+      "value": "L337A"
+    },
+    {
+      "offset": 45836,
+      "value": "ZkGy"
+    },
+    {
+      "offset": 45848,
+      "value": "Rzzt"
+    },
+    {
+      "offset": 46032,
+      "value": "ffBA"
+    },
+    {
+      "offset": 46044,
+      "value": "ffBA"
+    },
+    {
+      "offset": 47436,
+      "value": "ffF@"
+    },
+    {
+      "offset": 71976,
+      "value": "shadow"
+    },
+    {
+      "offset": 71988,
+      "value": "arto_lvl1_run1_3"
+    },
+    {
+      "offset": 72012,
+      "value": "arto_lvl1_idle1_1"
+    },
+    {
+      "offset": 72036,
+      "value": "arto_lvl1_maintain1_1"
+    },
+    {
+      "offset": 72064,
+      "value": "arto_lvl1_idle1_2"
+    },
+    {
+      "offset": 72088,
+      "value": "arto_lvl1_run1_2"
+    },
+    {
+      "offset": 72112,
+      "value": "arto_lvl1_idle1_3"
+    },
+    {
+      "offset": 72136,
+      "value": "arto_lvl1_build1_1"
+    },
+    {
+      "offset": 72160,
+      "value": "arto_lvl1_build1_2"
+    },
+    {
+      "offset": 72184,
+      "value": "arto_lvl1_build1_3"
+    },
+    {
+      "offset": 72208,
+      "value": "arto_lvl1_maintain1_2"
+    },
+    {
+      "offset": 72236,
+      "value": "arto_lvl1_maintain1_3"
+    },
+    {
+      "offset": 72264,
+      "value": "arto_lvl1_run1_1"
+    },
+    {
+      "offset": 72288,
+      "value": "arto_heroUpgrade1"
+    },
+    {
+      "offset": 87080,
+      "value": "chr_otto_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000007100000016000000010000007c1a0100fc210000",
+  "decoded_preview_hex": "781a010018000000000012001400040000000000000008000c00100012000000c41801006cba0000a486000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

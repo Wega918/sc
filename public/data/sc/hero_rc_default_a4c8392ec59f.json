@@ -1,0 +1,109 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "hero_rc_default.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_rc_default.sc",
+  "sha256_container": "a4c8392ec59f5b0c4d9f174e34f968fd1e2e3cb1df16afb27975e49b8a0a0bff",
+  "sha256_descriptor": "8b57da3d8eca861cd6e64705f01cdfd9a772bdb651d0d360a5946747cd387cf7",
+  "sha256_decoded_payload": "44c5c76671e02f27e3d93d9b3d04217336af4b837c79e2e4a9264e41adb7152c",
+  "version": 6,
+  "descriptor_bytes": 312,
+  "compressed_frame_bytes": 4345,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 8184,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 80,
+      "raw_u32": 3748
+    },
+    {
+      "field_index": 9,
+      "offset": 84,
+      "raw_u32": 3480
+    },
+    {
+      "field_index": 10,
+      "offset": 88,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 92,
+      "raw_u32": 4348
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 148,
+      "value": "vfx_rc_defaultskin_spear"
+    },
+    {
+      "offset": 212,
+      "value": "vfx_rc_defaultskin_shield"
+    },
+    {
+      "offset": 284,
+      "value": "vfx_rc_defaultskin_SleepZ"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "vfx_rc_defaultskin_spear",
+    "vfx_rc_defaultskin_shield",
+    "vfx_rc_defaultskin_SleepZ"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2108,
+      "value": "gftB"
+    },
+    {
+      "offset": 2840,
+      "value": "ffzA"
+    },
+    {
+      "offset": 3648,
+      "value": "vfx_rc_defaultskin_SleepZ"
+    },
+    {
+      "offset": 3680,
+      "value": "vfx_rc_defaultskin_spear"
+    },
+    {
+      "offset": 3712,
+      "value": "vfx_rc_defaultskin_shield"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000b539e03bfe2a05f346648a1f0efff924b31722b51c002800040008000c001000140000000000000018001c00200024001c00000001000000",
+  "decoded_preview_hex": "a00e000018000000000012001400040000000000000008000c00100012000000080e0000840b0000d40a000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

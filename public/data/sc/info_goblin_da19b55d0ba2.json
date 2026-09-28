@@ -1,0 +1,170 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_goblin.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_goblin.sc",
+  "sha256_container": "da19b55d0ba24a25e016b517444a91f4e47d1e21891f28142e34472f7be056e4",
+  "sha256_descriptor": "67e61b169b18e4ae9487811f6f81729b4ad8c8716ce75c473f3dafad7875ba08",
+  "sha256_decoded_payload": "6d1e9f49de19c4c785b83b5b3f3bc943cc815ac2029390f808f93e553b06f696",
+  "version": 6,
+  "descriptor_bytes": 228,
+  "compressed_frame_bytes": 28432,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 49840,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 424
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 48952
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 28432
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "unit_goblin_big"
+    },
+    {
+      "offset": 212,
+      "value": "card_goblin_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_goblin_big",
+    "card_goblin_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 348,
+      "value": "bounds"
+    },
+    {
+      "offset": 360,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 380,
+      "value": "unit_goblin_big"
+    },
+    {
+      "offset": 400,
+      "value": "card_goblin_big"
+    },
+    {
+      "offset": 2763,
+      "value": "gd:"
+    },
+    {
+      "offset": 17198,
+      "value": "s5_"
+    },
+    {
+      "offset": 18734,
+      "value": "csn"
+    },
+    {
+      "offset": 20758,
+      "value": "mD "
+    },
+    {
+      "offset": 22148,
+      "value": "C@@0"
+    },
+    {
+      "offset": 22226,
+      "value": "qcIX"
+    },
+    {
+      "offset": 22894,
+      "value": "l+_"
+    },
+    {
+      "offset": 22984,
+      "value": "Q rrtX"
+    },
+    {
+      "offset": 24494,
+      "value": "Ezo"
+    },
+    {
+      "offset": 29966,
+      "value": "mno"
+    },
+    {
+      "offset": 33965,
+      "value": "d-U_"
+    },
+    {
+      "offset": 34310,
+      "value": "Ee "
+    },
+    {
+      "offset": 36364,
+      "value": "ojJ"
+    },
+    {
+      "offset": 39944,
+      "value": "x:e"
+    },
+    {
+      "offset": 43678,
+      "value": "bo_"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000009a1b4a00a0406d80acefc4f48be20c9545cd0bf31c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "a401000018000000000012001400040000000000000008000c0010001200000020010000040100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

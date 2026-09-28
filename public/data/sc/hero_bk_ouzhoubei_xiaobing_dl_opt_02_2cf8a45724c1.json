@@ -1,0 +1,294 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "hero_bk_ouzhoubei_xiaobing_dl_opt_02.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_bk_ouzhoubei_xiaobing_dl_opt_02.sc",
+  "sha256_container": "2cf8a45724c1b2d4d6b63bee066ed58abf3c8314e27f00f8ae86f4e515b945fc",
+  "sha256_descriptor": "7af6574b96296c3d1a52ed3453fe90dddc53cf53d22ca2d8a03cfa3369e0af63",
+  "sha256_decoded_payload": "9044b4e59cba72e6db2f0622fc93c3ea11d95a3f5500b52c61f4366afeee6cb8",
+  "version": 5,
+  "descriptor_bytes": 1116,
+  "compressed_frame_bytes": 30005,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 59812,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 64
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 12
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 80,
+      "raw_u32": 7228
+    },
+    {
+      "field_index": 9,
+      "offset": 84,
+      "raw_u32": 47624
+    },
+    {
+      "field_index": 10,
+      "offset": 88,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 92,
+      "raw_u32": 30008
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 184,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_run_1_3"
+    },
+    {
+      "offset": 264,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_run_1_2"
+    },
+    {
+      "offset": 344,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_run_1_1"
+    },
+    {
+      "offset": 424,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_idle_1_3"
+    },
+    {
+      "offset": 504,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_idle_1_2"
+    },
+    {
+      "offset": 584,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_idle_1_1"
+    },
+    {
+      "offset": 664,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_cheer_1_3"
+    },
+    {
+      "offset": 744,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_cheer_1_2"
+    },
+    {
+      "offset": 824,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_cheer_1_1"
+    },
+    {
+      "offset": 904,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_attack_1_3"
+    },
+    {
+      "offset": 984,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_attack_1_2"
+    },
+    {
+      "offset": 1072,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_attack_1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "BarbarianKing_ouzhoubei_xiaobing_run_1_3",
+    "BarbarianKing_ouzhoubei_xiaobing_run_1_2",
+    "BarbarianKing_ouzhoubei_xiaobing_run_1_1",
+    "BarbarianKing_ouzhoubei_xiaobing_idle_1_3",
+    "BarbarianKing_ouzhoubei_xiaobing_idle_1_2",
+    "BarbarianKing_ouzhoubei_xiaobing_idle_1_1",
+    "BarbarianKing_ouzhoubei_xiaobing_cheer_1_3",
+    "BarbarianKing_ouzhoubei_xiaobing_cheer_1_2",
+    "BarbarianKing_ouzhoubei_xiaobing_cheer_1_1",
+    "BarbarianKing_ouzhoubei_xiaobing_attack_1_3",
+    "BarbarianKing_ouzhoubei_xiaobing_attack_1_2",
+    "BarbarianKing_ouzhoubei_xiaobing_attack_1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 512,
+      "value": "ffzB"
+    },
+    {
+      "offset": 699,
+      "value": "Bh4"
+    },
+    {
+      "offset": 727,
+      "value": "IffKB"
+    },
+    {
+      "offset": 1351,
+      "value": "_331B"
+    },
+    {
+      "offset": 2678,
+      "value": "dAj5"
+    },
+    {
+      "offset": 2827,
+      "value": "bffKB"
+    },
+    {
+      "offset": 3303,
+      "value": "Bt:"
+    },
+    {
+      "offset": 6648,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_attack_1_1"
+    },
+    {
+      "offset": 6696,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_attack_1_2"
+    },
+    {
+      "offset": 6744,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_idle_1_1"
+    },
+    {
+      "offset": 6792,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_attack_1_3"
+    },
+    {
+      "offset": 6840,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_cheer_1_1"
+    },
+    {
+      "offset": 6888,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_cheer_1_2"
+    },
+    {
+      "offset": 6936,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_cheer_1_3"
+    },
+    {
+      "offset": 6984,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_idle_1_2"
+    },
+    {
+      "offset": 7032,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_idle_1_3"
+    },
+    {
+      "offset": 7080,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_run_1_1"
+    },
+    {
+      "offset": 7128,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_run_1_2"
+    },
+    {
+      "offset": 7176,
+      "value": "BarbarianKing_ouzhoubei_xiaobing_run_1_3"
+    },
+    {
+      "offset": 15268,
+      "value": "o@eB"
+    },
+    {
+      "offset": 18462,
+      "value": "WP@"
+    },
+    {
+      "offset": 22203,
+      "value": "Gq ppX"
+    },
+    {
+      "offset": 28921,
+      "value": "PLF"
+    },
+    {
+      "offset": 29167,
+      "value": "lb0"
+    },
+    {
+      "offset": 31918,
+      "value": "suYU"
+    },
+    {
+      "offset": 32950,
+      "value": "u+ju"
+    },
+    {
+      "offset": 33754,
+      "value": "Sb "
+    },
+    {
+      "offset": 34756,
+      "value": "mPGgj"
+    },
+    {
+      "offset": 37033,
+      "value": "l 7"
+    },
+    {
+      "offset": 37984,
+      "value": "qP@"
+    },
+    {
+      "offset": 39789,
+      "value": "pVa"
+    },
+    {
+      "offset": 40550,
+      "value": "egh"
+    },
+    {
+      "offset": 43700,
+      "value": "o@5N"
+    },
+    {
+      "offset": 48377,
+      "value": "XlV"
+    },
+    {
+      "offset": 49894,
+      "value": "s+O"
+    },
+    {
+      "offset": 51962,
+      "value": "V7e"
+    },
+    {
+      "offset": 53822,
+      "value": "WWz"
+    },
+    {
+      "offset": 54971,
+      "value": "G0 "
+    },
+    {
+      "offset": 56262,
+      "value": "ukn@"
+    },
+    {
+      "offset": 56655,
+      "value": "p8E"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000ba2c48b96d13fe1648a0d550becb1d98ee0a386a1c002800040008000c001000140000000000000018001c00200024001c00000001000000",
+  "decoded_preview_hex": "381c000018000000000012001400040000000000000008000c001000120000009c1900004c1000007401000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

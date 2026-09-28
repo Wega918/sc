@@ -1,0 +1,919 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "hero_gear.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_gear.sc",
+  "sha256_container": "b834cec675a60b722c8f01244849b0b0ed4cb71806a98ed12b0d13d1d3c337ad",
+  "sha256_descriptor": "d0d23e08d70c9225119e322792d29171bbf8db56734922e16c16197482545cfa",
+  "sha256_decoded_payload": "c96b23cc7b88152aeb1971168360a2e5d7e4494ca1533d37cf1968f995efebaa",
+  "version": 6,
+  "descriptor_bytes": 588,
+  "compressed_frame_bytes": 110286,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 284372,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 30
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 53
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 28
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 43796
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 221832
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 110288
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "skin_preview_container"
+    },
+    {
+      "offset": 212,
+      "value": "scenery_ui_center_right"
+    },
+    {
+      "offset": 272,
+      "value": "scenery_ui_bottom_right"
+    },
+    {
+      "offset": 332,
+      "value": "scenery_preview_title"
+    },
+    {
+      "offset": 392,
+      "value": "scenery_features"
+    },
+    {
+      "offset": 448,
+      "value": "popup_gear_select_02"
+    },
+    {
+      "offset": 508,
+      "value": "info_stat_bar_half"
+    },
+    {
+      "offset": 572,
+      "value": "icon_cj_heroes"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "skin_preview_container",
+    "scenery_ui_center_right",
+    "scenery_ui_bottom_right",
+    "scenery_preview_title",
+    "scenery_features",
+    "popup_gear_select_02",
+    "info_stat_bar_half",
+    "icon_cj_heroes"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1676,
+      "value": "ffXB"
+    },
+    {
+      "offset": 1868,
+      "value": "ffsB"
+    },
+    {
+      "offset": 3499,
+      "value": "A33c@"
+    },
+    {
+      "offset": 3643,
+      "value": "Aff2A"
+    },
+    {
+      "offset": 3739,
+      "value": "AffzA"
+    },
+    {
+      "offset": 4556,
+      "value": "ffnA"
+    },
+    {
+      "offset": 5511,
+      "value": "A339B"
+    },
+    {
+      "offset": 6385,
+      "value": "pR@"
+    },
+    {
+      "offset": 15496,
+      "value": "ffzB"
+    },
+    {
+      "offset": 17896,
+      "value": "ff3C"
+    },
+    {
+      "offset": 18137,
+      "value": "s:C"
+    },
+    {
+      "offset": 18736,
+      "value": "ffGC"
+    },
+    {
+      "offset": 18809,
+      "value": "sHC"
+    },
+    {
+      "offset": 18881,
+      "value": "sIC"
+    },
+    {
+      "offset": 19745,
+      "value": "LMC33WA"
+    },
+    {
+      "offset": 20201,
+      "value": "LIC"
+    },
+    {
+      "offset": 20273,
+      "value": "LHC"
+    },
+    {
+      "offset": 20514,
+      "value": "DCffwB"
+    },
+    {
+      "offset": 21040,
+      "value": "ff7C"
+    },
+    {
+      "offset": 21691,
+      "value": "C33"
+    },
+    {
+      "offset": 24140,
+      "value": "ff1B"
+    },
+    {
+      "offset": 30027,
+      "value": "h333B"
+    },
+    {
+      "offset": 30039,
+      "value": "M333B"
+    },
+    {
+      "offset": 30171,
+      "value": "l333B"
+    },
+    {
+      "offset": 30183,
+      "value": "h333B"
+    },
+    {
+      "offset": 30327,
+      "value": "l333B"
+    },
+    {
+      "offset": 30959,
+      "value": "CPhSL"
+    },
+    {
+      "offset": 42652,
+      "value": "buy_button_gems"
+    },
+    {
+      "offset": 42672,
+      "value": "button_buy"
+    },
+    {
+      "offset": 42688,
+      "value": "resources"
+    },
+    {
+      "offset": 42704,
+      "value": "league_medal"
+    },
+    {
+      "offset": 42724,
+      "value": "gem"
+    },
+    {
+      "offset": 42732,
+      "value": "amount"
+    },
+    {
+      "offset": 42744,
+      "value": "TID_BUTTON_BUY_SKIN"
+    },
+    {
+      "offset": 42768,
+      "value": "locked"
+    },
+    {
+      "offset": 42780,
+      "value": "unlocked"
+    },
+    {
+      "offset": 42796,
+      "value": "TID_HERO_GEAR_STAT_LOCKED"
+    },
+    {
+      "offset": 42828,
+      "value": "stat_title"
+    },
+    {
+      "offset": 42844,
+      "value": "stat_text"
+    },
+    {
+      "offset": 42860,
+      "value": "stat_text_changed"
+    },
+    {
+      "offset": 42884,
+      "value": "stat_icon"
+    },
+    {
+      "offset": 42900,
+      "value": "bar_background"
+    },
+    {
+      "offset": 42920,
+      "value": "changed"
+    },
+    {
+      "offset": 42932,
+      "value": "not_changed"
+    },
+    {
+      "offset": 42948,
+      "value": "item_preview"
+    },
+    {
+      "offset": 42968,
+      "value": "scroll_area"
+    },
+    {
+      "offset": 42984,
+      "value": "rarity_type"
+    },
+    {
+      "offset": 43000,
+      "value": "icon"
+    },
+    {
+      "offset": 43020,
+      "value": "button_info"
+    },
+    {
+      "offset": 43036,
+      "value": "button_equip"
+    },
+    {
+      "offset": 43056,
+      "value": "text_type"
+    },
+    {
+      "offset": 43072,
+      "value": "text_rarity"
+    },
+    {
+      "offset": 43088,
+      "value": "rarity_label"
+    },
+    {
+      "offset": 43108,
+      "value": "glow"
+    },
+    {
+      "offset": 43120,
+      "value": "info"
+    },
+    {
+      "offset": 43132,
+      "value": "TID_BUTTON_UPGRADE"
+    },
+    {
+      "offset": 43156,
+      "value": "TID_BUTTON_INFO"
+    },
+    {
+      "offset": 43176,
+      "value": "cancel"
+    },
+    {
+      "offset": 43188,
+      "value": "equip"
+    },
+    {
+      "offset": 43200,
+      "value": "TID_BUTTON_CANCEL"
+    },
+    {
+      "offset": 43224,
+      "value": "button_cancel"
+    },
+    {
+      "offset": 43244,
+      "value": "TID_BUTTON_EQUIP"
+    },
+    {
+      "offset": 43268,
+      "value": "gear_name"
+    },
+    {
+      "offset": 43284,
+      "value": "scenery_features_list"
+    },
+    {
+      "offset": 43312,
+      "value": "collapse"
+    },
+    {
+      "offset": 43328,
+      "value": "scenery_icon"
+    },
+    {
+      "offset": 43348,
+      "value": "text"
+    },
+    {
+      "offset": 43360,
+      "value": "scenery_name"
+    },
+    {
+      "offset": 43380,
+      "value": "expand"
+    },
+    {
+      "offset": 43392,
+      "value": "selected_skin"
+    },
+    {
+      "offset": 43412,
+      "value": "skin_thumbnail"
+    },
+    {
+      "offset": 43432,
+      "value": "tiers"
+    },
+    {
+      "offset": 43444,
+      "value": "container_pressed"
+    },
+    {
+      "offset": 43468,
+      "value": "skin_icon_loader"
+    },
+    {
+      "offset": 43492,
+      "value": "bounds"
+    },
+    {
+      "offset": 43504,
+      "value": "tier3"
+    },
+    {
+      "offset": 43516,
+      "value": "tier2"
+    },
+    {
+      "offset": 43528,
+      "value": "tier1"
+    },
+    {
+      "offset": 43540,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 43560,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 43584,
+      "value": "scenery_ui_bottom_right"
+    },
+    {
+      "offset": 43612,
+      "value": "scenery_features"
+    },
+    {
+      "offset": 43636,
+      "value": "scenery_preview_title"
+    },
+    {
+      "offset": 43664,
+      "value": "skin_preview_container"
+    },
+    {
+      "offset": 43692,
+      "value": "info_stat_bar_half"
+    },
+    {
+      "offset": 43716,
+      "value": "popup_gear_select_02"
+    },
+    {
+      "offset": 43744,
+      "value": "scenery_ui_center_right"
+    },
+    {
+      "offset": 43772,
+      "value": "icon_cj_heroes"
+    },
+    {
+      "offset": 68439,
+      "value": "F4J"
+    },
+    {
+      "offset": 68455,
+      "value": "J8N"
+    },
+    {
+      "offset": 68487,
+      "value": "N@R"
+    },
+    {
+      "offset": 68503,
+      "value": "N@R"
+    },
+    {
+      "offset": 68567,
+      "value": "J:N"
+    },
+    {
+      "offset": 69846,
+      "value": "PdTh"
+    },
+    {
+      "offset": 69878,
+      "value": "SdRdRdVh"
+    },
+    {
+      "offset": 69894,
+      "value": "PdTh"
+    },
+    {
+      "offset": 72407,
+      "value": "D0H"
+    },
+    {
+      "offset": 72745,
+      "value": "ZH18"
+    },
+    {
+      "offset": 75095,
+      "value": "J6N"
+    },
+    {
+      "offset": 75111,
+      "value": "XD\\"
+    },
+    {
+      "offset": 76439,
+      "value": "J8N"
+    },
+    {
+      "offset": 78246,
+      "value": "VpZt"
+    },
+    {
+      "offset": 79127,
+      "value": "D2H"
+    },
+    {
+      "offset": 79495,
+      "value": "A9u"
+    },
+    {
+      "offset": 79622,
+      "value": "TnXr"
+    },
+    {
+      "offset": 80998,
+      "value": "PhTl"
+    },
+    {
+      "offset": 81862,
+      "value": "TlXp"
+    },
+    {
+      "offset": 84071,
+      "value": "Z.."
+    },
+    {
+      "offset": 84103,
+      "value": "Z.."
+    },
+    {
+      "offset": 85415,
+      "value": "Z.."
+    },
+    {
+      "offset": 85431,
+      "value": "Z.."
+    },
+    {
+      "offset": 85447,
+      "value": "Z.."
+    },
+    {
+      "offset": 85463,
+      "value": "Z.."
+    },
+    {
+      "offset": 85479,
+      "value": "Z.."
+    },
+    {
+      "offset": 86775,
+      "value": "Z.."
+    },
+    {
+      "offset": 86807,
+      "value": "Z.."
+    },
+    {
+      "offset": 86823,
+      "value": "Z.."
+    },
+    {
+      "offset": 86839,
+      "value": "Z.."
+    },
+    {
+      "offset": 88151,
+      "value": "Z.."
+    },
+    {
+      "offset": 88167,
+      "value": "Z.."
+    },
+    {
+      "offset": 88183,
+      "value": "Z.."
+    },
+    {
+      "offset": 89527,
+      "value": "Z.."
+    },
+    {
+      "offset": 89959,
+      "value": "H8L"
+    },
+    {
+      "offset": 89991,
+      "value": "tbx"
+    },
+    {
+      "offset": 91942,
+      "value": "BVFZ"
+    },
+    {
+      "offset": 91959,
+      "value": "B4F"
+    },
+    {
+      "offset": 92247,
+      "value": "Z.."
+    },
+    {
+      "offset": 93302,
+      "value": "DXH\\"
+    },
+    {
+      "offset": 93607,
+      "value": "Z.."
+    },
+    {
+      "offset": 94039,
+      "value": "P@T"
+    },
+    {
+      "offset": 94054,
+      "value": "PdTh"
+    },
+    {
+      "offset": 94679,
+      "value": "D8H"
+    },
+    {
+      "offset": 94951,
+      "value": "Z.."
+    },
+    {
+      "offset": 94967,
+      "value": "Z.."
+    },
+    {
+      "offset": 94983,
+      "value": "Z.."
+    },
+    {
+      "offset": 95414,
+      "value": "RdVh"
+    },
+    {
+      "offset": 96412,
+      "value": "xGE"
+    },
+    {
+      "offset": 98726,
+      "value": "Xn\\r"
+    },
+    {
+      "offset": 98759,
+      "value": "D4H"
+    },
+    {
+      "offset": 100086,
+      "value": "VjZn"
+    },
+    {
+      "offset": 100433,
+      "value": "b-Fs"
+    },
+    {
+      "offset": 101463,
+      "value": "R@V"
+    },
+    {
+      "offset": 110951,
+      "value": "B.F"
+    },
+    {
+      "offset": 111783,
+      "value": "N:R"
+    },
+    {
+      "offset": 111814,
+      "value": "VpZt"
+    },
+    {
+      "offset": 112295,
+      "value": "F4J"
+    },
+    {
+      "offset": 113606,
+      "value": "NhRl"
+    },
+    {
+      "offset": 113623,
+      "value": "XD\\"
+    },
+    {
+      "offset": 113639,
+      "value": "J4N"
+    },
+    {
+      "offset": 114950,
+      "value": "NfRj"
+    },
+    {
+      "offset": 114967,
+      "value": "XD\\"
+    },
+    {
+      "offset": 114983,
+      "value": "J6N"
+    },
+    {
+      "offset": 116294,
+      "value": "JdNh"
+    },
+    {
+      "offset": 116327,
+      "value": "H6L"
+    },
+    {
+      "offset": 116526,
+      "value": "nZR"
+    },
+    {
+      "offset": 116615,
+      "value": "b4f"
+    },
+    {
+      "offset": 117303,
+      "value": "XD\\"
+    },
+    {
+      "offset": 119015,
+      "value": "B0F"
+    },
+    {
+      "offset": 120246,
+      "value": "TjXn"
+    },
+    {
+      "offset": 121526,
+      "value": "FXJ\\"
+    },
+    {
+      "offset": 121574,
+      "value": "FXJ\\"
+    },
+    {
+      "offset": 121590,
+      "value": "DVHZ"
+    },
+    {
+      "offset": 121606,
+      "value": "BTFX"
+    },
+    {
+      "offset": 121623,
+      "value": "PBT"
+    },
+    {
+      "offset": 122903,
+      "value": "D6H"
+    },
+    {
+      "offset": 122919,
+      "value": "D8H"
+    },
+    {
+      "offset": 122935,
+      "value": "D6H"
+    },
+    {
+      "offset": 122951,
+      "value": "B6F"
+    },
+    {
+      "offset": 127367,
+      "value": "vBz"
+    },
+    {
+      "offset": 131910,
+      "value": "ZqE"
+    },
+    {
+      "offset": 132807,
+      "value": "tBx"
+    },
+    {
+      "offset": 133323,
+      "value": "I/b"
+    },
+    {
+      "offset": 135527,
+      "value": "d8h"
+    },
+    {
+      "offset": 137546,
+      "value": "L+x"
+    },
+    {
+      "offset": 138567,
+      "value": "t2x"
+    },
+    {
+      "offset": 142599,
+      "value": "n2r"
+    },
+    {
+      "offset": 142615,
+      "value": "L P"
+    },
+    {
+      "offset": 142770,
+      "value": "F8o"
+    },
+    {
+      "offset": 144664,
+      "value": "yzxz"
+    },
+    {
+      "offset": 144920,
+      "value": "yzxz"
+    },
+    {
+      "offset": 145271,
+      "value": "p0t"
+    },
+    {
+      "offset": 146024,
+      "value": "wxvx"
+    },
+    {
+      "offset": 146280,
+      "value": "wxvx"
+    },
+    {
+      "offset": 146567,
+      "value": "t2x"
+    },
+    {
+      "offset": 147384,
+      "value": "uvtv"
+    },
+    {
+      "offset": 147640,
+      "value": "uvtv"
+    },
+    {
+      "offset": 148744,
+      "value": "strt"
+    },
+    {
+      "offset": 149000,
+      "value": "strt"
+    },
+    {
+      "offset": 150104,
+      "value": "qrpr"
+    },
+    {
+      "offset": 150120,
+      "value": "qrpr"
+    },
+    {
+      "offset": 150344,
+      "value": "qrpr"
+    },
+    {
+      "offset": 150360,
+      "value": "qrpr"
+    },
+    {
+      "offset": 151464,
+      "value": "opnp"
+    },
+    {
+      "offset": 151480,
+      "value": "opnp"
+    },
+    {
+      "offset": 151496,
+      "value": "opnp"
+    },
+    {
+      "offset": 151512,
+      "value": "opnp"
+    },
+    {
+      "offset": 151672,
+      "value": "opnp"
+    },
+    {
+      "offset": 151688,
+      "value": "opnp"
+    },
+    {
+      "offset": 151704,
+      "value": "opnp"
+    },
+    {
+      "offset": 151720,
+      "value": "opnp"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000001e00000035000000010000001c000000",
+  "decoded_preview_hex": "10ab00001800000000001200180004000000000008000c00100014001200000078a5000050a40000dc800000145f000004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_skeleton.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_skeleton.sc",
+  "sha256_container": "08ad67f9ba5d5d89f97883e05e1c0b423d8cbcb6e7f8031a0a3e7b70a0bae268",
+  "sha256_descriptor": "fb2ead357a021703d8b26f02864d39f8092f9edea0adba232cfe51f08ad46f7d",
+  "sha256_decoded_payload": "622eb860747c3e24636c17613957ce939d357b996c6d20d7c8c5d43d7ecf923b",
+  "version": 6,
+  "descriptor_bytes": 1524,
+  "compressed_frame_bytes": 9442,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 27244,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 105
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 23
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 17972
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 4780
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 9448
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 196,
+      "value": "skeletonWarrior_shield_run1_3"
+    },
+    {
+      "offset": 264,
+      "value": "skeletonWarrior_shield_run1_2"
+    },
+    {
+      "offset": 332,
+      "value": "skeletonWarrior_shield_run1_1"
+    },
+    {
+      "offset": 400,
+      "value": "skeletonWarrior_shield_idle1_3"
+    },
+    {
+      "offset": 468,
+      "value": "skeletonWarrior_shield_idle1_2"
+    },
+    {
+      "offset": 536,
+      "value": "skeletonWarrior_shield_idle1_1"
+    },
+    {
+      "offset": 604,
+      "value": "skeletonWarrior_shield_attack1_3"
+    },
+    {
+      "offset": 676,
+      "value": "skeletonWarrior_shield_attack1_2"
+    },
+    {
+      "offset": 748,
+      "value": "skeletonWarrior_shield_attack1_1"
+    },
+    {
+      "offset": 820,
+      "value": "skele_warrior2_spawn1_3"
+    },
+    {
+      "offset": 880,
+      "value": "skele_warrior1_spawn1_3"
+    },
+    {
+      "offset": 940,
+      "value": "skele_warrior1_run1_3"
+    },
+    {
+      "offset": 1000,
+      "value": "skele_warrior1_run1_2"
+    },
+    {
+      "offset": 1060,
+      "value": "skele_warrior1_run1_1"
+    },
+    {
+      "offset": 1120,
+      "value": "skele_warrior1_idle1_3"
+    },
+    {
+      "offset": 1180,
+      "value": "skele_warrior1_idle1_2"
+    },
+    {
+      "offset": 1240,
+      "value": "skele_warrior1_idle1_1"
+    },
+    {
+      "offset": 1300,
+      "value": "skele_warrior1_attack1_3"
+    },
+    {
+      "offset": 1364,
+      "value": "skele_warrior1_attack1_2"
+    },
+    {
+      "offset": 1428,
+      "value": "skele_warrior1_attack1_1"
+    },
+    {
+      "offset": 1500,
+      "value": "skele_balloon_spawn1_3"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "skeletonWarrior_shield_run1_3",
+    "skeletonWarrior_shield_run1_2",
+    "skeletonWarrior_shield_run1_1",
+    "skeletonWarrior_shield_idle1_3",
+    "skeletonWarrior_shield_idle1_2",
+    "skeletonWarrior_shield_idle1_1",
+    "skeletonWarrior_shield_attack1_3",
+    "skeletonWarrior_shield_attack1_2",
+    "skeletonWarrior_shield_attack1_1",
+    "skele_warrior2_spawn1_3",
+    "skele_warrior1_spawn1_3",
+    "skele_warrior1_run1_3",
+    "skele_warrior1_run1_2",
+    "skele_warrior1_run1_1",
+    "skele_warrior1_idle1_3",
+    "skele_warrior1_idle1_2",
+    "skele_warrior1_idle1_1",
+    "skele_warrior1_attack1_3",
+    "skele_warrior1_attack1_2",
+    "skele_warrior1_attack1_1",
+    "skele_balloon_spawn1_3"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2944,
+      "value": "ffBA"
+    },
+    {
+      "offset": 4343,
+      "value": "sffNA"
+    },
+    {
+      "offset": 4679,
+      "value": "B33gA"
+    },
+    {
+      "offset": 5095,
+      "value": "Ahx"
+    },
+    {
+      "offset": 5244,
+      "value": "ff6A"
+    },
+    {
+      "offset": 6216,
+      "value": "ffBA"
+    },
+    {
+      "offset": 7800,
+      "value": "ff6A"
+    },
+    {
+      "offset": 8087,
+      "value": "C33sA"
+    },
+    {
+      "offset": 12083,
+      "value": "k33kA"
+    },
+    {
+      "offset": 17224,
+      "value": "action_frame"
+    },
+    {
+      "offset": 17244,
+      "value": "action_frame2"
+    },
+    {
+      "offset": 17264,
+      "value": "action_frame1"
+    },
+    {
+      "offset": 17284,
+      "value": "skele_warrior1_attack1_3"
+    },
+    {
+      "offset": 17316,
+      "value": "skele_warrior1_attack1_2"
+    },
+    {
+      "offset": 17348,
+      "value": "skeletonWarrior_shield_run1_3"
+    },
+    {
+      "offset": 17384,
+      "value": "skeletonWarrior_shield_attack1_1"
+    },
+    {
+      "offset": 17424,
+      "value": "skeletonWarrior_shield_idle1_2"
+    },
+    {
+      "offset": 17460,
+      "value": "skele_warrior1_idle1_1"
+    },
+    {
+      "offset": 17488,
+      "value": "skeletonWarrior_shield_idle1_1"
+    },
+    {
+      "offset": 17524,
+      "value": "skeletonWarrior_shield_run1_1"
+    },
+    {
+      "offset": 17560,
+      "value": "skeletonWarrior_shield_attack1_3"
+    },
+    {
+      "offset": 17600,
+      "value": "skele_warrior1_spawn1_3"
+    },
+    {
+      "offset": 17628,
+      "value": "skele_warrior2_spawn1_3"
+    },
+    {
+      "offset": 17656,
+      "value": "skele_warrior1_idle1_2"
+    },
+    {
+      "offset": 17684,
+      "value": "skele_balloon_spawn1_3"
+    },
+    {
+      "offset": 17712,
+      "value": "skeletonWarrior_shield_attack1_2"
+    },
+    {
+      "offset": 17752,
+      "value": "skeletonWarrior_shield_run1_2"
+    },
+    {
+      "offset": 17788,
+      "value": "skele_warrior1_attack1_1"
+    },
+    {
+      "offset": 17820,
+      "value": "skeletonWarrior_shield_idle1_3"
+    },
+    {
+      "offset": 17856,
+      "value": "skele_warrior1_idle1_3"
+    },
+    {
+      "offset": 17884,
+      "value": "skele_warrior1_run1_1"
+    },
+    {
+      "offset": 17912,
+      "value": "skele_warrior1_run1_2"
+    },
+    {
+      "offset": 17940,
+      "value": "skele_warrior1_run1_3"
+    },
+    {
+      "offset": 27156,
+      "value": "chr_skeleton_1.sctx"
+    },
+    {
+      "offset": 27224,
+      "value": "chr_skeleton_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c000000010000000100000069000000170000000200000034460000ac120000",
+  "decoded_preview_hex": "3046000018000000000012001400040000000000000008000c00100012000000bc420000e03400005c08000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_stone_slammer.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_stone_slammer.sc",
+  "sha256_container": "a4592d5b3e9a968b1218864581a5059d4e317550f68bb6eafa67329181472e1c",
+  "sha256_descriptor": "59eb7f758c74cbeeb35c829da0247961b43e2b84f8e4a088d16acce39200c8dc",
+  "sha256_decoded_payload": "875ef7c3cdd1628d959621bdb84dbc6439af36d52e1e9ff06186b73c458e99be",
+  "version": 6,
+  "descriptor_bytes": 1788,
+  "compressed_frame_bytes": 2925,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 19912,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 24
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 12548
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 6508
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 2928
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 208,
+      "value": "Siege_Machine_Bowler6_run1_1"
+    },
+    {
+      "offset": 276,
+      "value": "Siege_Machine_Bowler6_hover1"
+    },
+    {
+      "offset": 344,
+      "value": "Siege_Machine_Bowler6_die"
+    },
+    {
+      "offset": 408,
+      "value": "Siege_Machine_Bowler6_attack1_1"
+    },
+    {
+      "offset": 476,
+      "value": "Siege_Machine_Bowler5_run1_1"
+    },
+    {
+      "offset": 544,
+      "value": "Siege_Machine_Bowler5_hover1"
+    },
+    {
+      "offset": 612,
+      "value": "Siege_Machine_Bowler5_die"
+    },
+    {
+      "offset": 676,
+      "value": "Siege_Machine_Bowler5_attack1_1"
+    },
+    {
+      "offset": 744,
+      "value": "Siege_Machine_Bowler4_run1_1"
+    },
+    {
+      "offset": 812,
+      "value": "Siege_Machine_Bowler4_hover1"
+    },
+    {
+      "offset": 880,
+      "value": "Siege_Machine_Bowler4_die"
+    },
+    {
+      "offset": 944,
+      "value": "Siege_Machine_Bowler4_attack1_1"
+    },
+    {
+      "offset": 1012,
+      "value": "Siege_Machine_Bowler3_run1_1"
+    },
+    {
+      "offset": 1080,
+      "value": "Siege_Machine_Bowler3_hover1"
+    },
+    {
+      "offset": 1148,
+      "value": "Siege_Machine_Bowler3_die"
+    },
+    {
+      "offset": 1212,
+      "value": "Siege_Machine_Bowler3_attack1_1"
+    },
+    {
+      "offset": 1280,
+      "value": "Siege_Machine_Bowler2_run1_1"
+    },
+    {
+      "offset": 1348,
+      "value": "Siege_Machine_Bowler2_hover1"
+    },
+    {
+      "offset": 1416,
+      "value": "Siege_Machine_Bowler2_die"
+    },
+    {
+      "offset": 1480,
+      "value": "Siege_Machine_Bowler2_attack1_1"
+    },
+    {
+      "offset": 1548,
+      "value": "Siege_Machine_Bowler1_run1_1"
+    },
+    {
+      "offset": 1616,
+      "value": "Siege_Machine_Bowler1_hover1"
+    },
+    {
+      "offset": 1684,
+      "value": "Siege_Machine_Bowler1_die"
+    },
+    {
+      "offset": 1756,
+      "value": "Siege_Machine_Bowler1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "Siege_Machine_Bowler6_run1_1",
+    "Siege_Machine_Bowler6_hover1",
+    "Siege_Machine_Bowler6_die",
+    "Siege_Machine_Bowler6_attack1_1",
+    "Siege_Machine_Bowler5_run1_1",
+    "Siege_Machine_Bowler5_hover1",
+    "Siege_Machine_Bowler5_die",
+    "Siege_Machine_Bowler5_attack1_1",
+    "Siege_Machine_Bowler4_run1_1",
+    "Siege_Machine_Bowler4_hover1",
+    "Siege_Machine_Bowler4_die",
+    "Siege_Machine_Bowler4_attack1_1",
+    "Siege_Machine_Bowler3_run1_1",
+    "Siege_Machine_Bowler3_hover1",
+    "Siege_Machine_Bowler3_die",
+    "Siege_Machine_Bowler3_attack1_1",
+    "Siege_Machine_Bowler2_run1_1",
+    "Siege_Machine_Bowler2_hover1",
+    "Siege_Machine_Bowler2_die",
+    "Siege_Machine_Bowler2_attack1_1",
+    "Siege_Machine_Bowler1_run1_1",
+    "Siege_Machine_Bowler1_hover1",
+    "Siege_Machine_Bowler1_die",
+    "Siege_Machine_Bowler1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 11704,
+      "value": "Siege_Machine_Bowler2_die"
+    },
+    {
+      "offset": 11736,
+      "value": "Siege_Machine_Bowler1_hover1"
+    },
+    {
+      "offset": 11772,
+      "value": "Siege_Machine_Bowler4_attack1_1"
+    },
+    {
+      "offset": 11808,
+      "value": "Siege_Machine_Bowler2_attack1_1"
+    },
+    {
+      "offset": 11844,
+      "value": "Siege_Machine_Bowler4_die"
+    },
+    {
+      "offset": 11876,
+      "value": "Siege_Machine_Bowler6_run1_1"
+    },
+    {
+      "offset": 11912,
+      "value": "Siege_Machine_Bowler4_hover1"
+    },
+    {
+      "offset": 11948,
+      "value": "Siege_Machine_Bowler3_run1_1"
+    },
+    {
+      "offset": 11984,
+      "value": "Siege_Machine_Bowler1_die"
+    },
+    {
+      "offset": 12016,
+      "value": "Siege_Machine_Bowler3_die"
+    },
+    {
+      "offset": 12048,
+      "value": "Siege_Machine_Bowler2_run1_1"
+    },
+    {
+      "offset": 12084,
+      "value": "Siege_Machine_Bowler5_run1_1"
+    },
+    {
+      "offset": 12120,
+      "value": "Siege_Machine_Bowler1_run1_1"
+    },
+    {
+      "offset": 12156,
+      "value": "Siege_Machine_Bowler3_hover1"
+    },
+    {
+      "offset": 12192,
+      "value": "Siege_Machine_Bowler3_attack1_1"
+    },
+    {
+      "offset": 12228,
+      "value": "Siege_Machine_Bowler6_attack1_1"
+    },
+    {
+      "offset": 12264,
+      "value": "Siege_Machine_Bowler6_die"
+    },
+    {
+      "offset": 12296,
+      "value": "Siege_Machine_Bowler4_run1_1"
+    },
+    {
+      "offset": 12332,
+      "value": "Siege_Machine_Bowler1_attack1_1"
+    },
+    {
+      "offset": 12368,
+      "value": "Siege_Machine_Bowler2_hover1"
+    },
+    {
+      "offset": 12404,
+      "value": "Siege_Machine_Bowler5_attack1_1"
+    },
+    {
+      "offset": 12440,
+      "value": "Siege_Machine_Bowler6_hover1"
+    },
+    {
+      "offset": 12476,
+      "value": "Siege_Machine_Bowler5_die"
+    },
+    {
+      "offset": 12508,
+      "value": "Siege_Machine_Bowler5_hover1"
+    },
+    {
+      "offset": 19884,
+      "value": "chr_stone_slammer_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000080000001800000001000000043100006c190000",
+  "decoded_preview_hex": "0031000018000000000012001400040000000000000008000c001000120000002c2d000014140000980c000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

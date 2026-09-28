@@ -1,0 +1,898 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_thrower.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_thrower.sc",
+  "sha256_container": "bec507fe3c3e03e03f0603b239a65712fee2115cc62058d027c84c5e0a1bd429",
+  "sha256_descriptor": "fbf561ab2056b331062c8ea80fd0820cfd14f782a87cb1d4558cd340f97f4858",
+  "sha256_decoded_payload": "acf0233f05a68a000177b2a83d21f40cd8c572c2a913fc34d58a36369aaddb46",
+  "version": 6,
+  "descriptor_bytes": 3924,
+  "compressed_frame_bytes": 43398,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 182708,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 581
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 72
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 125848
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 31884
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 43400
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 352,
+      "value": "thrower_projectile_lvl4_3"
+    },
+    {
+      "offset": 416,
+      "value": "thrower_projectile_lvl4_2"
+    },
+    {
+      "offset": 480,
+      "value": "thrower_projectile_lvl4_1"
+    },
+    {
+      "offset": 544,
+      "value": "thrower_projectile_lvl3_3"
+    },
+    {
+      "offset": 608,
+      "value": "thrower_projectile_lvl3_2"
+    },
+    {
+      "offset": 672,
+      "value": "thrower_projectile_lvl3_1"
+    },
+    {
+      "offset": 736,
+      "value": "thrower_projectile_lvl2_3"
+    },
+    {
+      "offset": 800,
+      "value": "thrower_projectile_lvl2_2"
+    },
+    {
+      "offset": 864,
+      "value": "thrower_projectile_lvl2_1"
+    },
+    {
+      "offset": 928,
+      "value": "thrower_projectile_lvl1_3"
+    },
+    {
+      "offset": 992,
+      "value": "thrower_projectile_lvl1_2"
+    },
+    {
+      "offset": 1056,
+      "value": "thrower_projectile_lvl1_1"
+    },
+    {
+      "offset": 1120,
+      "value": "thrower_lvl4_run1_3"
+    },
+    {
+      "offset": 1176,
+      "value": "thrower_lvl4_run1_2"
+    },
+    {
+      "offset": 1232,
+      "value": "thrower_lvl4_run1_1"
+    },
+    {
+      "offset": 1288,
+      "value": "thrower_lvl4_idle1_3"
+    },
+    {
+      "offset": 1348,
+      "value": "thrower_lvl4_idle1_2"
+    },
+    {
+      "offset": 1408,
+      "value": "thrower_lvl4_idle1_1"
+    },
+    {
+      "offset": 1468,
+      "value": "thrower_lvl4_cheer1_3"
+    },
+    {
+      "offset": 1528,
+      "value": "thrower_lvl4_cheer1_2"
+    },
+    {
+      "offset": 1588,
+      "value": "thrower_lvl4_cheer1_1"
+    },
+    {
+      "offset": 1648,
+      "value": "thrower_lvl4_attack1_3"
+    },
+    {
+      "offset": 1708,
+      "value": "thrower_lvl4_attack1_2"
+    },
+    {
+      "offset": 1768,
+      "value": "thrower_lvl4_attack1_1"
+    },
+    {
+      "offset": 1828,
+      "value": "thrower_lvl3_run1_3"
+    },
+    {
+      "offset": 1884,
+      "value": "thrower_lvl3_run1_2"
+    },
+    {
+      "offset": 1940,
+      "value": "thrower_lvl3_run1_1"
+    },
+    {
+      "offset": 1996,
+      "value": "thrower_lvl3_idle1_3"
+    },
+    {
+      "offset": 2056,
+      "value": "thrower_lvl3_idle1_2"
+    },
+    {
+      "offset": 2116,
+      "value": "thrower_lvl3_idle1_1"
+    },
+    {
+      "offset": 2176,
+      "value": "thrower_lvl3_cheer1_3"
+    },
+    {
+      "offset": 2236,
+      "value": "thrower_lvl3_cheer1_2"
+    },
+    {
+      "offset": 2296,
+      "value": "thrower_lvl3_cheer1_1"
+    },
+    {
+      "offset": 2356,
+      "value": "thrower_lvl3_attack1_3"
+    },
+    {
+      "offset": 2416,
+      "value": "thrower_lvl3_attack1_2"
+    },
+    {
+      "offset": 2476,
+      "value": "thrower_lvl3_attack1_1"
+    },
+    {
+      "offset": 2536,
+      "value": "thrower_lvl2_run1_3"
+    },
+    {
+      "offset": 2592,
+      "value": "thrower_lvl2_run1_2"
+    },
+    {
+      "offset": 2648,
+      "value": "thrower_lvl2_run1_1"
+    },
+    {
+      "offset": 2704,
+      "value": "thrower_lvl2_idle1_3"
+    },
+    {
+      "offset": 2764,
+      "value": "thrower_lvl2_idle1_2"
+    },
+    {
+      "offset": 2824,
+      "value": "thrower_lvl2_idle1_1"
+    },
+    {
+      "offset": 2884,
+      "value": "thrower_lvl2_cheer1_3"
+    },
+    {
+      "offset": 2944,
+      "value": "thrower_lvl2_cheer1_2"
+    },
+    {
+      "offset": 3004,
+      "value": "thrower_lvl2_cheer1_1"
+    },
+    {
+      "offset": 3064,
+      "value": "thrower_lvl2_attack1_3"
+    },
+    {
+      "offset": 3124,
+      "value": "thrower_lvl2_attack1_2"
+    },
+    {
+      "offset": 3184,
+      "value": "thrower_lvl2_attack1_1"
+    },
+    {
+      "offset": 3244,
+      "value": "thrower_lvl1_run1_3"
+    },
+    {
+      "offset": 3300,
+      "value": "thrower_lvl1_run1_2"
+    },
+    {
+      "offset": 3356,
+      "value": "thrower_lvl1_run1_1"
+    },
+    {
+      "offset": 3412,
+      "value": "thrower_lvl1_idle1_3"
+    },
+    {
+      "offset": 3472,
+      "value": "thrower_lvl1_idle1_2"
+    },
+    {
+      "offset": 3532,
+      "value": "thrower_lvl1_idle1_1"
+    },
+    {
+      "offset": 3592,
+      "value": "thrower_lvl1_cheer1_3"
+    },
+    {
+      "offset": 3652,
+      "value": "thrower_lvl1_cheer1_2"
+    },
+    {
+      "offset": 3712,
+      "value": "thrower_lvl1_cheer1_1"
+    },
+    {
+      "offset": 3772,
+      "value": "thrower_lvl1_attack1_3"
+    },
+    {
+      "offset": 3832,
+      "value": "thrower_lvl1_attack1_2"
+    },
+    {
+      "offset": 3900,
+      "value": "thrower_lvl1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "thrower_projectile_lvl4_3",
+    "thrower_projectile_lvl4_2",
+    "thrower_projectile_lvl4_1",
+    "thrower_projectile_lvl3_3",
+    "thrower_projectile_lvl3_2",
+    "thrower_projectile_lvl3_1",
+    "thrower_projectile_lvl2_3",
+    "thrower_projectile_lvl2_2",
+    "thrower_projectile_lvl2_1",
+    "thrower_projectile_lvl1_3",
+    "thrower_projectile_lvl1_2",
+    "thrower_projectile_lvl1_1",
+    "thrower_lvl4_run1_3",
+    "thrower_lvl4_run1_2",
+    "thrower_lvl4_run1_1",
+    "thrower_lvl4_idle1_3",
+    "thrower_lvl4_idle1_2",
+    "thrower_lvl4_idle1_1",
+    "thrower_lvl4_cheer1_3",
+    "thrower_lvl4_cheer1_2",
+    "thrower_lvl4_cheer1_1",
+    "thrower_lvl4_attack1_3",
+    "thrower_lvl4_attack1_2",
+    "thrower_lvl4_attack1_1",
+    "thrower_lvl3_run1_3",
+    "thrower_lvl3_run1_2",
+    "thrower_lvl3_run1_1",
+    "thrower_lvl3_idle1_3",
+    "thrower_lvl3_idle1_2",
+    "thrower_lvl3_idle1_1",
+    "thrower_lvl3_cheer1_3",
+    "thrower_lvl3_cheer1_2",
+    "thrower_lvl3_cheer1_1",
+    "thrower_lvl3_attack1_3",
+    "thrower_lvl3_attack1_2",
+    "thrower_lvl3_attack1_1",
+    "thrower_lvl2_run1_3",
+    "thrower_lvl2_run1_2",
+    "thrower_lvl2_run1_1",
+    "thrower_lvl2_idle1_3",
+    "thrower_lvl2_idle1_2",
+    "thrower_lvl2_idle1_1",
+    "thrower_lvl2_cheer1_3",
+    "thrower_lvl2_cheer1_2",
+    "thrower_lvl2_cheer1_1",
+    "thrower_lvl2_attack1_3",
+    "thrower_lvl2_attack1_2",
+    "thrower_lvl2_attack1_1",
+    "thrower_lvl1_run1_3",
+    "thrower_lvl1_run1_2",
+    "thrower_lvl1_run1_1",
+    "thrower_lvl1_idle1_3",
+    "thrower_lvl1_idle1_2",
+    "thrower_lvl1_idle1_1",
+    "thrower_lvl1_cheer1_3",
+    "thrower_lvl1_cheer1_2",
+    "thrower_lvl1_cheer1_1",
+    "thrower_lvl1_attack1_3",
+    "thrower_lvl1_attack1_2",
+    "thrower_lvl1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3824,
+      "value": "ffJA"
+    },
+    {
+      "offset": 6596,
+      "value": "ffJA"
+    },
+    {
+      "offset": 11732,
+      "value": "ff:B"
+    },
+    {
+      "offset": 11948,
+      "value": "ff:B"
+    },
+    {
+      "offset": 12428,
+      "value": "ffJA"
+    },
+    {
+      "offset": 15007,
+      "value": "pffJA"
+    },
+    {
+      "offset": 15992,
+      "value": "ff_B"
+    },
+    {
+      "offset": 16949,
+      "value": "O m"
+    },
+    {
+      "offset": 19916,
+      "value": "ffoB"
+    },
+    {
+      "offset": 20996,
+      "value": "ff_B"
+    },
+    {
+      "offset": 21329,
+      "value": "v4u"
+    },
+    {
+      "offset": 21713,
+      "value": "Pq-"
+    },
+    {
+      "offset": 22484,
+      "value": "ff3B"
+    },
+    {
+      "offset": 23960,
+      "value": "ffJA"
+    },
+    {
+      "offset": 25564,
+      "value": "w.UB"
+    },
+    {
+      "offset": 27305,
+      "value": "jF\\33KA"
+    },
+    {
+      "offset": 28218,
+      "value": "YJffAB"
+    },
+    {
+      "offset": 28397,
+      "value": "w:D"
+    },
+    {
+      "offset": 29684,
+      "value": "ffAB"
+    },
+    {
+      "offset": 34604,
+      "value": "ff:B"
+    },
+    {
+      "offset": 34772,
+      "value": "ff:B"
+    },
+    {
+      "offset": 35108,
+      "value": "ffJA"
+    },
+    {
+      "offset": 37087,
+      "value": "pffJA"
+    },
+    {
+      "offset": 37880,
+      "value": "ff_B"
+    },
+    {
+      "offset": 38597,
+      "value": "O m"
+    },
+    {
+      "offset": 40940,
+      "value": "ffoB"
+    },
+    {
+      "offset": 41780,
+      "value": "ff_B"
+    },
+    {
+      "offset": 42017,
+      "value": "v4u"
+    },
+    {
+      "offset": 42908,
+      "value": "ff3B"
+    },
+    {
+      "offset": 44048,
+      "value": "ffJA"
+    },
+    {
+      "offset": 46073,
+      "value": "jF\\33KA"
+    },
+    {
+      "offset": 47396,
+      "value": "ffAB"
+    },
+    {
+      "offset": 50012,
+      "value": "ffJA"
+    },
+    {
+      "offset": 51307,
+      "value": "X33SA"
+    },
+    {
+      "offset": 51656,
+      "value": "ff.A"
+    },
+    {
+      "offset": 58364,
+      "value": "ff:B"
+    },
+    {
+      "offset": 58460,
+      "value": "ff:B"
+    },
+    {
+      "offset": 58652,
+      "value": "ff:B"
+    },
+    {
+      "offset": 59348,
+      "value": "ffJA"
+    },
+    {
+      "offset": 62755,
+      "value": "i33HB"
+    },
+    {
+      "offset": 62791,
+      "value": "yffJA"
+    },
+    {
+      "offset": 64064,
+      "value": "ff_B"
+    },
+    {
+      "offset": 65969,
+      "value": "jHp"
+    },
+    {
+      "offset": 67364,
+      "value": "ff6@"
+    },
+    {
+      "offset": 69296,
+      "value": "ffoB"
+    },
+    {
+      "offset": 69991,
+      "value": "T33VB"
+    },
+    {
+      "offset": 70003,
+      "value": "W33VB"
+    },
+    {
+      "offset": 70736,
+      "value": "ff_B"
+    },
+    {
+      "offset": 70868,
+      "value": "ff_B"
+    },
+    {
+      "offset": 71465,
+      "value": "DRT"
+    },
+    {
+      "offset": 71669,
+      "value": "Pq-"
+    },
+    {
+      "offset": 72413,
+      "value": "ef\\"
+    },
+    {
+      "offset": 72728,
+      "value": "ff3B"
+    },
+    {
+      "offset": 74624,
+      "value": "fffA"
+    },
+    {
+      "offset": 74648,
+      "value": "fffA"
+    },
+    {
+      "offset": 74732,
+      "value": "ffJA"
+    },
+    {
+      "offset": 78727,
+      "value": "e33KA"
+    },
+    {
+      "offset": 79927,
+      "value": "KffAB"
+    },
+    {
+      "offset": 81236,
+      "value": "ffAB"
+    },
+    {
+      "offset": 81704,
+      "value": "ffAB"
+    },
+    {
+      "offset": 90632,
+      "value": "ffPB"
+    },
+    {
+      "offset": 93844,
+      "value": "ADsa"
+    },
+    {
+      "offset": 94949,
+      "value": "wb4"
+    },
+    {
+      "offset": 95444,
+      "value": "ffgB"
+    },
+    {
+      "offset": 95501,
+      "value": "P0 "
+    },
+    {
+      "offset": 95513,
+      "value": "NP "
+    },
+    {
+      "offset": 95732,
+      "value": "ffPB"
+    },
+    {
+      "offset": 97193,
+      "value": "MC."
+    },
+    {
+      "offset": 97300,
+      "value": "U+OS"
+    },
+    {
+      "offset": 97483,
+      "value": "M33@B"
+    },
+    {
+      "offset": 124164,
+      "value": "thrower_projectile_lvl1_2"
+    },
+    {
+      "offset": 124196,
+      "value": "thrower_projectile_lvl1_1"
+    },
+    {
+      "offset": 124228,
+      "value": "thrower_lvl2_run1_1"
+    },
+    {
+      "offset": 124252,
+      "value": "thrower_lvl2_cheer1_1"
+    },
+    {
+      "offset": 124280,
+      "value": "thrower_lvl2_idle1_3"
+    },
+    {
+      "offset": 124308,
+      "value": "thrower_lvl2_idle1_2"
+    },
+    {
+      "offset": 124336,
+      "value": "thrower_lvl2_cheer1_2"
+    },
+    {
+      "offset": 124364,
+      "value": "thrower_lvl3_idle1_2"
+    },
+    {
+      "offset": 124392,
+      "value": "thrower_lvl2_attack1_2"
+    },
+    {
+      "offset": 124420,
+      "value": "thrower_lvl3_cheer1_2"
+    },
+    {
+      "offset": 124448,
+      "value": "thrower_lvl2_attack1_1"
+    },
+    {
+      "offset": 124476,
+      "value": "thrower_lvl1_cheer1_1"
+    },
+    {
+      "offset": 124504,
+      "value": "thrower_lvl1_run1_3"
+    },
+    {
+      "offset": 124528,
+      "value": "thrower_projectile_lvl2_1"
+    },
+    {
+      "offset": 124560,
+      "value": "thrower_projectile_lvl4_2"
+    },
+    {
+      "offset": 124592,
+      "value": "thrower_lvl1_run1_2"
+    },
+    {
+      "offset": 124616,
+      "value": "thrower_lvl1_run1_1"
+    },
+    {
+      "offset": 124640,
+      "value": "thrower_lvl1_idle1_3"
+    },
+    {
+      "offset": 124668,
+      "value": "thrower_lvl1_idle1_1"
+    },
+    {
+      "offset": 124696,
+      "value": "thrower_lvl3_cheer1_3"
+    },
+    {
+      "offset": 124724,
+      "value": "thrower_lvl2_run1_3"
+    },
+    {
+      "offset": 124748,
+      "value": "thrower_lvl1_cheer1_2"
+    },
+    {
+      "offset": 124776,
+      "value": "thrower_lvl1_attack1_2"
+    },
+    {
+      "offset": 124804,
+      "value": "thrower_lvl1_attack1_1"
+    },
+    {
+      "offset": 124832,
+      "value": "thrower_lvl1_cheer1_3"
+    },
+    {
+      "offset": 124860,
+      "value": "thrower_lvl4_run1_2"
+    },
+    {
+      "offset": 124884,
+      "value": "thrower_lvl2_cheer1_3"
+    },
+    {
+      "offset": 124912,
+      "value": "thrower_lvl4_run1_1"
+    },
+    {
+      "offset": 124936,
+      "value": "thrower_lvl4_idle1_1"
+    },
+    {
+      "offset": 124964,
+      "value": "thrower_projectile_lvl3_3"
+    },
+    {
+      "offset": 124996,
+      "value": "thrower_lvl4_cheer1_3"
+    },
+    {
+      "offset": 125024,
+      "value": "thrower_lvl4_cheer1_1"
+    },
+    {
+      "offset": 125052,
+      "value": "thrower_projectile_lvl1_3"
+    },
+    {
+      "offset": 125084,
+      "value": "thrower_lvl4_idle1_3"
+    },
+    {
+      "offset": 125112,
+      "value": "thrower_lvl1_attack1_3"
+    },
+    {
+      "offset": 125140,
+      "value": "thrower_lvl4_cheer1_2"
+    },
+    {
+      "offset": 125168,
+      "value": "thrower_projectile_lvl3_1"
+    },
+    {
+      "offset": 125200,
+      "value": "thrower_lvl4_idle1_2"
+    },
+    {
+      "offset": 125228,
+      "value": "thrower_lvl3_idle1_3"
+    },
+    {
+      "offset": 125256,
+      "value": "thrower_projectile_lvl3_2"
+    },
+    {
+      "offset": 125288,
+      "value": "thrower_lvl2_run1_2"
+    },
+    {
+      "offset": 125312,
+      "value": "thrower_lvl3_attack1_1"
+    },
+    {
+      "offset": 125340,
+      "value": "thrower_lvl2_idle1_1"
+    },
+    {
+      "offset": 125368,
+      "value": "thrower_lvl4_run1_3"
+    },
+    {
+      "offset": 125392,
+      "value": "thrower_lvl4_attack1_3"
+    },
+    {
+      "offset": 125420,
+      "value": "thrower_lvl4_attack1_2"
+    },
+    {
+      "offset": 125448,
+      "value": "thrower_lvl3_attack1_2"
+    },
+    {
+      "offset": 125476,
+      "value": "thrower_lvl4_attack1_1"
+    },
+    {
+      "offset": 125504,
+      "value": "thrower_lvl3_attack1_3"
+    },
+    {
+      "offset": 125532,
+      "value": "thrower_projectile_lvl2_2"
+    },
+    {
+      "offset": 125564,
+      "value": "thrower_lvl3_cheer1_1"
+    },
+    {
+      "offset": 125592,
+      "value": "thrower_projectile_lvl4_1"
+    },
+    {
+      "offset": 125624,
+      "value": "thrower_lvl3_idle1_1"
+    },
+    {
+      "offset": 125652,
+      "value": "thrower_lvl1_idle1_2"
+    },
+    {
+      "offset": 125680,
+      "value": "thrower_lvl2_attack1_3"
+    },
+    {
+      "offset": 125708,
+      "value": "thrower_lvl3_run1_1"
+    },
+    {
+      "offset": 125732,
+      "value": "thrower_lvl3_run1_2"
+    },
+    {
+      "offset": 125756,
+      "value": "thrower_projectile_lvl4_3"
+    },
+    {
+      "offset": 125788,
+      "value": "thrower_lvl3_run1_3"
+    },
+    {
+      "offset": 125812,
+      "value": "thrower_projectile_lvl2_3"
+    },
+    {
+      "offset": 182688,
+      "value": "chr_thrower_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c000000010000000100000045020000480000000100000098eb01008c7c0000",
+  "decoded_preview_hex": "94eb010018000000000012001400040000000000000008000c00100012000000e8e30100387d0100a40a000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

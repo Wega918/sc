@@ -1,0 +1,172 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_bat.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_bat.sc",
+  "sha256_container": "c80a14ba67ac6c7b8c25966b0e229efc07903da980713d9eab16e744761d3990",
+  "sha256_descriptor": "9b619a6608be57be6f7ebe3a5ce1e31edae93530e06e3a7d1f19e648fd616896",
+  "sha256_decoded_payload": "e9b8d351c639f3b020f16c14eb8927f2bef28e0cd1006d52f50ef7abbc01ffdc",
+  "version": 6,
+  "descriptor_bytes": 668,
+  "compressed_frame_bytes": 2425,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 9672,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 29
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 13
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 5740
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 2624
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 2432
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "bat_lvl1_run1_3"
+    },
+    {
+      "offset": 204,
+      "value": "bat_lvl1_run1_2"
+    },
+    {
+      "offset": 256,
+      "value": "bat_lvl1_run1_1"
+    },
+    {
+      "offset": 308,
+      "value": "bat_lvl1_idle1_3"
+    },
+    {
+      "offset": 364,
+      "value": "bat_lvl1_idle1_2"
+    },
+    {
+      "offset": 420,
+      "value": "bat_lvl1_idle1_1"
+    },
+    {
+      "offset": 476,
+      "value": "bat_lvl1_die1_1"
+    },
+    {
+      "offset": 528,
+      "value": "bat_lvl1_attack1_3"
+    },
+    {
+      "offset": 584,
+      "value": "bat_lvl1_attack1_2"
+    },
+    {
+      "offset": 648,
+      "value": "bat_lvl1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "bat_lvl1_run1_3",
+    "bat_lvl1_run1_2",
+    "bat_lvl1_run1_1",
+    "bat_lvl1_idle1_3",
+    "bat_lvl1_idle1_2",
+    "bat_lvl1_idle1_1",
+    "bat_lvl1_die1_1",
+    "bat_lvl1_attack1_3",
+    "bat_lvl1_attack1_2",
+    "bat_lvl1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2609,
+      "value": "QUU"
+    },
+    {
+      "offset": 5512,
+      "value": "bat_lvl1_attack1_1"
+    },
+    {
+      "offset": 5536,
+      "value": "bat_lvl1_idle1_2"
+    },
+    {
+      "offset": 5560,
+      "value": "bat_lvl1_attack1_2"
+    },
+    {
+      "offset": 5584,
+      "value": "bat_lvl1_attack1_3"
+    },
+    {
+      "offset": 5608,
+      "value": "bat_lvl1_die1_1"
+    },
+    {
+      "offset": 5628,
+      "value": "bat_lvl1_idle1_1"
+    },
+    {
+      "offset": 5652,
+      "value": "bat_lvl1_run1_1"
+    },
+    {
+      "offset": 5672,
+      "value": "bat_lvl1_idle1_3"
+    },
+    {
+      "offset": 5696,
+      "value": "bat_lvl1_run1_2"
+    },
+    {
+      "offset": 5716,
+      "value": "bat_lvl1_run1_3"
+    },
+    {
+      "offset": 9656,
+      "value": "chr_bat_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001d0000000d000000010000006c160000400a0000",
+  "decoded_preview_hex": "6816000018000000000012001400040000000000000008000c0010001200000034150000a00d00003807000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

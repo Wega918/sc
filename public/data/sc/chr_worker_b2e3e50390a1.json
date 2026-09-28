@@ -1,0 +1,506 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_worker.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_worker.sc",
+  "sha256_container": "b2e3e50390a1994fa6dec0a490392591e584aec81b49d3a1006b41e184a34cab",
+  "sha256_descriptor": "78657707a86a707fd90d19ac5ebd6457d6ec580efcf3c9c6b0bd5c8fb5c5a08a",
+  "sha256_decoded_payload": "564412bdebad3d2b9c0ff5855e70fa38e42fae96540137ac53e64067b6a07e36",
+  "version": 6,
+  "descriptor_bytes": 1972,
+  "compressed_frame_bytes": 29849,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 103352,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 180
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 35
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 81788
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 14668
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 29856
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 244,
+      "value": "worker_walk1_3"
+    },
+    {
+      "offset": 296,
+      "value": "worker_walk1_2"
+    },
+    {
+      "offset": 348,
+      "value": "worker_walk1_1"
+    },
+    {
+      "offset": 400,
+      "value": "worker_idle3_3"
+    },
+    {
+      "offset": 452,
+      "value": "worker_idle3_2"
+    },
+    {
+      "offset": 504,
+      "value": "worker_idle3_1"
+    },
+    {
+      "offset": 556,
+      "value": "worker_idle1_3"
+    },
+    {
+      "offset": 608,
+      "value": "worker_idle1_2"
+    },
+    {
+      "offset": 660,
+      "value": "worker_idle1_1"
+    },
+    {
+      "offset": 712,
+      "value": "worker_heroUpgrade1"
+    },
+    {
+      "offset": 768,
+      "value": "worker_halloween2_3"
+    },
+    {
+      "offset": 824,
+      "value": "worker_halloween2_2"
+    },
+    {
+      "offset": 880,
+      "value": "worker_halloween2_1"
+    },
+    {
+      "offset": 936,
+      "value": "worker_halloween1_3"
+    },
+    {
+      "offset": 992,
+      "value": "worker_halloween1_2"
+    },
+    {
+      "offset": 1048,
+      "value": "worker_halloween1_1"
+    },
+    {
+      "offset": 1104,
+      "value": "worker_build2_3"
+    },
+    {
+      "offset": 1156,
+      "value": "worker_build2_2"
+    },
+    {
+      "offset": 1208,
+      "value": "worker_build2_1"
+    },
+    {
+      "offset": 1260,
+      "value": "worker_build1_3"
+    },
+    {
+      "offset": 1312,
+      "value": "worker_build1_2"
+    },
+    {
+      "offset": 1364,
+      "value": "worker_build1_1"
+    },
+    {
+      "offset": 1416,
+      "value": "worker_battle_walk1_3"
+    },
+    {
+      "offset": 1476,
+      "value": "worker_battle_walk1_2"
+    },
+    {
+      "offset": 1536,
+      "value": "worker_battle_walk1_1"
+    },
+    {
+      "offset": 1596,
+      "value": "worker_battle_idle3_3"
+    },
+    {
+      "offset": 1656,
+      "value": "worker_battle_idle3_2"
+    },
+    {
+      "offset": 1716,
+      "value": "worker_battle_idle3_1"
+    },
+    {
+      "offset": 1776,
+      "value": "worker_battle_build1_3"
+    },
+    {
+      "offset": 1836,
+      "value": "worker_battle_build1_2"
+    },
+    {
+      "offset": 1896,
+      "value": "worker_battle_build1_1"
+    },
+    {
+      "offset": 1964,
+      "value": "spark_2"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "worker_walk1_3",
+    "worker_walk1_2",
+    "worker_walk1_1",
+    "worker_idle3_3",
+    "worker_idle3_2",
+    "worker_idle3_1",
+    "worker_idle1_3",
+    "worker_idle1_2",
+    "worker_idle1_1",
+    "worker_heroUpgrade1",
+    "worker_halloween2_3",
+    "worker_halloween2_2",
+    "worker_halloween2_1",
+    "worker_halloween1_3",
+    "worker_halloween1_2",
+    "worker_halloween1_1",
+    "worker_build2_3",
+    "worker_build2_2",
+    "worker_build2_1",
+    "worker_build1_3",
+    "worker_build1_2",
+    "worker_build1_1",
+    "worker_battle_walk1_3",
+    "worker_battle_walk1_2",
+    "worker_battle_walk1_1",
+    "worker_battle_idle3_3",
+    "worker_battle_idle3_2",
+    "worker_battle_idle3_1",
+    "worker_battle_build1_3",
+    "worker_battle_build1_2",
+    "worker_battle_build1_1",
+    "spark_2"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2320,
+      "value": "ffbA"
+    },
+    {
+      "offset": 5611,
+      "value": "A33"
+    },
+    {
+      "offset": 6544,
+      "value": "fff@"
+    },
+    {
+      "offset": 10963,
+      "value": "A33"
+    },
+    {
+      "offset": 13456,
+      "value": "ff:A"
+    },
+    {
+      "offset": 18448,
+      "value": "ffvA"
+    },
+    {
+      "offset": 22100,
+      "value": "ffjA"
+    },
+    {
+      "offset": 22297,
+      "value": "pF@"
+    },
+    {
+      "offset": 23107,
+      "value": "A333@"
+    },
+    {
+      "offset": 24523,
+      "value": "B33S@"
+    },
+    {
+      "offset": 24836,
+      "value": "ffzA"
+    },
+    {
+      "offset": 25242,
+      "value": "RB33"
+    },
+    {
+      "offset": 25528,
+      "value": "ff8B"
+    },
+    {
+      "offset": 25744,
+      "value": "ffZB"
+    },
+    {
+      "offset": 25768,
+      "value": "ff/B"
+    },
+    {
+      "offset": 25792,
+      "value": "ff8B"
+    },
+    {
+      "offset": 27424,
+      "value": "ffIB"
+    },
+    {
+      "offset": 28384,
+      "value": "ffCB"
+    },
+    {
+      "offset": 29464,
+      "value": "ff9B"
+    },
+    {
+      "offset": 29824,
+      "value": "ffLB"
+    },
+    {
+      "offset": 29944,
+      "value": "ff:B"
+    },
+    {
+      "offset": 30697,
+      "value": "P+@"
+    },
+    {
+      "offset": 30937,
+      "value": "p.@"
+    },
+    {
+      "offset": 30985,
+      "value": "P @"
+    },
+    {
+      "offset": 32248,
+      "value": "ffBB"
+    },
+    {
+      "offset": 32968,
+      "value": "ff8B"
+    },
+    {
+      "offset": 33328,
+      "value": "ff/B"
+    },
+    {
+      "offset": 33547,
+      "value": "BffV@"
+    },
+    {
+      "offset": 33976,
+      "value": "ffJB"
+    },
+    {
+      "offset": 35185,
+      "value": "i.j"
+    },
+    {
+      "offset": 36565,
+      "value": "s O"
+    },
+    {
+      "offset": 41728,
+      "value": "ffFA"
+    },
+    {
+      "offset": 43179,
+      "value": "vffFA"
+    },
+    {
+      "offset": 44953,
+      "value": "i.j"
+    },
+    {
+      "offset": 81040,
+      "value": "shadow"
+    },
+    {
+      "offset": 81052,
+      "value": "worker_battle_walk1_1"
+    },
+    {
+      "offset": 81080,
+      "value": "worker_battle_build1_3"
+    },
+    {
+      "offset": 81108,
+      "value": "worker_walk1_2"
+    },
+    {
+      "offset": 81128,
+      "value": "worker_battle_build1_2"
+    },
+    {
+      "offset": 81156,
+      "value": "worker_halloween1_1"
+    },
+    {
+      "offset": 81180,
+      "value": "worker_idle3_3"
+    },
+    {
+      "offset": 81200,
+      "value": "worker_idle3_1"
+    },
+    {
+      "offset": 81220,
+      "value": "worker_halloween1_3"
+    },
+    {
+      "offset": 81244,
+      "value": "worker_battle_idle3_2"
+    },
+    {
+      "offset": 81272,
+      "value": "worker_halloween2_3"
+    },
+    {
+      "offset": 81296,
+      "value": "worker_battle_idle3_3"
+    },
+    {
+      "offset": 81324,
+      "value": "worker_battle_build1_1"
+    },
+    {
+      "offset": 81352,
+      "value": "worker_idle1_3"
+    },
+    {
+      "offset": 81372,
+      "value": "worker_halloween1_2"
+    },
+    {
+      "offset": 81396,
+      "value": "worker_battle_idle3_1"
+    },
+    {
+      "offset": 81424,
+      "value": "worker_build1_3"
+    },
+    {
+      "offset": 81444,
+      "value": "worker_halloween2_2"
+    },
+    {
+      "offset": 81468,
+      "value": "worker_walk1_3"
+    },
+    {
+      "offset": 81488,
+      "value": "worker_halloween2_1"
+    },
+    {
+      "offset": 81512,
+      "value": "worker_battle_walk1_2"
+    },
+    {
+      "offset": 81540,
+      "value": "worker_build1_1"
+    },
+    {
+      "offset": 81560,
+      "value": "spark_2"
+    },
+    {
+      "offset": 81572,
+      "value": "worker_build2_2"
+    },
+    {
+      "offset": 81592,
+      "value": "worker_idle1_1"
+    },
+    {
+      "offset": 81612,
+      "value": "worker_idle3_2"
+    },
+    {
+      "offset": 81632,
+      "value": "worker_build2_1"
+    },
+    {
+      "offset": 81652,
+      "value": "worker_idle1_2"
+    },
+    {
+      "offset": 81672,
+      "value": "worker_build1_2"
+    },
+    {
+      "offset": 81692,
+      "value": "worker_walk1_1"
+    },
+    {
+      "offset": 81712,
+      "value": "worker_build2_3"
+    },
+    {
+      "offset": 81732,
+      "value": "worker_battle_walk1_3"
+    },
+    {
+      "offset": 81760,
+      "value": "worker_heroUpgrade1"
+    },
+    {
+      "offset": 103332,
+      "value": "chr_worker_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000b400000023000000010000007c3f0100",
+  "decoded_preview_hex": "783f010018000000000012001400040000000000000008000c00100012000000e03b010048bb0000c887000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

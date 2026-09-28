@@ -1,0 +1,1009 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "random_reward.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\random_reward.sc",
+  "sha256_container": "72a507a03e60c8afffa33dd0ede73488be08e14956f9d2f6d14588ee994f6ccb",
+  "sha256_descriptor": "df1eedc18ad47447d6d4e9d2b7673e9d721c9bc4a5612bab966c75a5e7d01da1",
+  "sha256_decoded_payload": "99a3ba8b3253a2f67050c644554736082a8468979074bbd28af968edbf987a70",
+  "version": 6,
+  "descriptor_bytes": 1664,
+  "compressed_frame_bytes": 8498804,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 17397320,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 134
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 87
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 25
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 6388912
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 10814244
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 8498804
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 288,
+      "value": "tap_indicator_ui"
+    },
+    {
+      "offset": 344,
+      "value": "sparks_v1"
+    },
+    {
+      "offset": 392,
+      "value": "spark_hit_front"
+    },
+    {
+      "offset": 444,
+      "value": "shop_item_cosmetics_tiers"
+    },
+    {
+      "offset": 508,
+      "value": "rewards_ui_backdrop_sc01"
+    },
+    {
+      "offset": 572,
+      "value": "rewards_hammer"
+    },
+    {
+      "offset": 624,
+      "value": "reward_item_container_2"
+    },
+    {
+      "offset": 684,
+      "value": "reward_claim_screen_2"
+    },
+    {
+      "offset": 744,
+      "value": "reward_claim_screen"
+    },
+    {
+      "offset": 800,
+      "value": "random_reward_main"
+    },
+    {
+      "offset": 856,
+      "value": "ore_chest_open_yellow"
+    },
+    {
+      "offset": 916,
+      "value": "ore_chest_open_purple"
+    },
+    {
+      "offset": 976,
+      "value": "ore_chest_open_blue"
+    },
+    {
+      "offset": 1032,
+      "value": "ore_chest_main"
+    },
+    {
+      "offset": 1084,
+      "value": "ore_chest_layered_upgrade"
+    },
+    {
+      "offset": 1148,
+      "value": "ore_chest_layered_open"
+    },
+    {
+      "offset": 1208,
+      "value": "dust_wave"
+    },
+    {
+      "offset": 1256,
+      "value": "chests_layered_upgrade"
+    },
+    {
+      "offset": 1316,
+      "value": "chests_layered_open"
+    },
+    {
+      "offset": 1372,
+      "value": "chest_shadow"
+    },
+    {
+      "offset": 1424,
+      "value": "TorchFlame_Original"
+    },
+    {
+      "offset": 1480,
+      "value": "Spark_Hit_Front_16"
+    },
+    {
+      "offset": 1536,
+      "value": "Rewards_Hammer_02"
+    },
+    {
+      "offset": 1592,
+      "value": "Dust_Wave_03"
+    },
+    {
+      "offset": 1652,
+      "value": "ChestShadow"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "tap_indicator_ui",
+    "sparks_v1",
+    "spark_hit_front",
+    "shop_item_cosmetics_tiers",
+    "rewards_ui_backdrop_sc01",
+    "rewards_hammer",
+    "reward_item_container_2",
+    "reward_claim_screen_2",
+    "reward_claim_screen",
+    "random_reward_main",
+    "ore_chest_open_yellow",
+    "ore_chest_open_purple",
+    "ore_chest_open_blue",
+    "ore_chest_main",
+    "ore_chest_layered_upgrade",
+    "ore_chest_layered_open",
+    "dust_wave",
+    "chests_layered_upgrade",
+    "chests_layered_open",
+    "chest_shadow",
+    "TorchFlame_Original",
+    "Spark_Hit_Front_16",
+    "Rewards_Hammer_02",
+    "Dust_Wave_03",
+    "ChestShadow"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 36,
+      "value": "Xra"
+    },
+    {
+      "offset": 1285,
+      "value": "yyy"
+    },
+    {
+      "offset": 1313,
+      "value": "qqq"
+    },
+    {
+      "offset": 1341,
+      "value": "ccc"
+    },
+    {
+      "offset": 1362,
+      "value": "NNN"
+    },
+    {
+      "offset": 5725,
+      "value": "YtC"
+    },
+    {
+      "offset": 6443,
+      "value": "Dgf0B"
+    },
+    {
+      "offset": 6709,
+      "value": "LwC"
+    },
+    {
+      "offset": 7258,
+      "value": "vC33EC"
+    },
+    {
+      "offset": 7666,
+      "value": "HAgf.B"
+    },
+    {
+      "offset": 8315,
+      "value": "BgfnA"
+    },
+    {
+      "offset": 8507,
+      "value": "C33RC"
+    },
+    {
+      "offset": 10453,
+      "value": "Y2C"
+    },
+    {
+      "offset": 10474,
+      "value": "HAgf7B"
+    },
+    {
+      "offset": 11700,
+      "value": "gfNB"
+    },
+    {
+      "offset": 11724,
+      "value": "gfNB"
+    },
+    {
+      "offset": 14480,
+      "value": "gfJA"
+    },
+    {
+      "offset": 18059,
+      "value": "AgfeB"
+    },
+    {
+      "offset": 18083,
+      "value": "AgfeB"
+    },
+    {
+      "offset": 18131,
+      "value": "CgfhB"
+    },
+    {
+      "offset": 18323,
+      "value": "B33C@"
+    },
+    {
+      "offset": 18418,
+      "value": "kB33dB"
+    },
+    {
+      "offset": 18515,
+      "value": "C33fB"
+    },
+    {
+      "offset": 18977,
+      "value": "P @"
+    },
+    {
+      "offset": 19283,
+      "value": "CgfjB"
+    },
+    {
+      "offset": 19472,
+      "value": "gfZA"
+    },
+    {
+      "offset": 19571,
+      "value": "AgfAB"
+    },
+    {
+      "offset": 19691,
+      "value": "CgftB"
+    },
+    {
+      "offset": 19980,
+      "value": "gfMB"
+    },
+    {
+      "offset": 21035,
+      "value": "AgfBA"
+    },
+    {
+      "offset": 21371,
+      "value": "AgfzA"
+    },
+    {
+      "offset": 23220,
+      "value": "gfnB"
+    },
+    {
+      "offset": 23244,
+      "value": "gfnB"
+    },
+    {
+      "offset": 23484,
+      "value": "gfrB"
+    },
+    {
+      "offset": 23849,
+      "value": "P/@"
+    },
+    {
+      "offset": 27491,
+      "value": "CgfqB"
+    },
+    {
+      "offset": 27947,
+      "value": "AgfnA"
+    },
+    {
+      "offset": 28361,
+      "value": "t1B"
+    },
+    {
+      "offset": 28427,
+      "value": "C334B"
+    },
+    {
+      "offset": 28817,
+      "value": "g+B"
+    },
+    {
+      "offset": 30299,
+      "value": "B33dB"
+    },
+    {
+      "offset": 30323,
+      "value": "B33dB"
+    },
+    {
+      "offset": 30348,
+      "value": "gfjA"
+    },
+    {
+      "offset": 30923,
+      "value": "BgfPB"
+    },
+    {
+      "offset": 30947,
+      "value": "B33PB"
+    },
+    {
+      "offset": 32243,
+      "value": "BgfVA"
+    },
+    {
+      "offset": 32388,
+      "value": "gfbA"
+    },
+    {
+      "offset": 32412,
+      "value": "gfbA"
+    },
+    {
+      "offset": 32987,
+      "value": "BgfxB"
+    },
+    {
+      "offset": 33487,
+      "value": "A333A"
+    },
+    {
+      "offset": 33515,
+      "value": "CgfVB"
+    },
+    {
+      "offset": 33805,
+      "value": "YEC"
+    },
+    {
+      "offset": 34524,
+      "value": "gf:A"
+    },
+    {
+      "offset": 34620,
+      "value": "gf1B"
+    },
+    {
+      "offset": 35053,
+      "value": "L0C"
+    },
+    {
+      "offset": 36204,
+      "value": "gfSB"
+    },
+    {
+      "offset": 36228,
+      "value": "gfSB"
+    },
+    {
+      "offset": 38196,
+      "value": "gfMC"
+    },
+    {
+      "offset": 38221,
+      "value": "YMC"
+    },
+    {
+      "offset": 38749,
+      "value": "s:C"
+    },
+    {
+      "offset": 39564,
+      "value": "gfQB"
+    },
+    {
+      "offset": 40953,
+      "value": "s7C"
+    },
+    {
+      "offset": 40977,
+      "value": "s7C"
+    },
+    {
+      "offset": 41677,
+      "value": "YEC"
+    },
+    {
+      "offset": 41701,
+      "value": "LEC"
+    },
+    {
+      "offset": 42755,
+      "value": "C33oA"
+    },
+    {
+      "offset": 43020,
+      "value": "gfFB"
+    },
+    {
+      "offset": 43044,
+      "value": "gfFB"
+    },
+    {
+      "offset": 43451,
+      "value": "B33+A"
+    },
+    {
+      "offset": 43769,
+      "value": "RJB"
+    },
+    {
+      "offset": 43929,
+      "value": "L\\C"
+    },
+    {
+      "offset": 44052,
+      "value": "gfWB"
+    },
+    {
+      "offset": 44076,
+      "value": "gfWB"
+    },
+    {
+      "offset": 44868,
+      "value": "gf:A"
+    },
+    {
+      "offset": 44892,
+      "value": "gf:A"
+    },
+    {
+      "offset": 47022,
+      "value": "b@gf6@gf"
+    },
+    {
+      "offset": 47628,
+      "value": "gfzA"
+    },
+    {
+      "offset": 48034,
+      "value": "fBgfEB"
+    },
+    {
+      "offset": 48058,
+      "value": "fBgfEB"
+    },
+    {
+      "offset": 48516,
+      "value": "gfjA"
+    },
+    {
+      "offset": 48540,
+      "value": "gfjA"
+    },
+    {
+      "offset": 48656,
+      "value": "gfAB"
+    },
+    {
+      "offset": 48680,
+      "value": "gfAB"
+    },
+    {
+      "offset": 51321,
+      "value": "sRC"
+    },
+    {
+      "offset": 51492,
+      "value": "gf+B"
+    },
+    {
+      "offset": 55097,
+      "value": "iGB"
+    },
+    {
+      "offset": 57251,
+      "value": "B33JB"
+    },
+    {
+      "offset": 61544,
+      "value": "gfvB"
+    },
+    {
+      "offset": 65076,
+      "value": "gfNA"
+    },
+    {
+      "offset": 65363,
+      "value": "Bgf8B"
+    },
+    {
+      "offset": 69395,
+      "value": "B334B"
+    },
+    {
+      "offset": 70448,
+      "value": "gfPC"
+    },
+    {
+      "offset": 72924,
+      "value": "gfNA"
+    },
+    {
+      "offset": 73932,
+      "value": "gfsB"
+    },
+    {
+      "offset": 73956,
+      "value": "gfsB"
+    },
+    {
+      "offset": 75321,
+      "value": "L7C"
+    },
+    {
+      "offset": 75345,
+      "value": "L7C"
+    },
+    {
+      "offset": 77964,
+      "value": "gflB"
+    },
+    {
+      "offset": 77988,
+      "value": "gflB"
+    },
+    {
+      "offset": 79097,
+      "value": "P/@"
+    },
+    {
+      "offset": 79109,
+      "value": "P/@"
+    },
+    {
+      "offset": 82788,
+      "value": "gfvA"
+    },
+    {
+      "offset": 82980,
+      "value": "gf6@"
+    },
+    {
+      "offset": 83460,
+      "value": "gfZA"
+    },
+    {
+      "offset": 83484,
+      "value": "gfZA"
+    },
+    {
+      "offset": 87296,
+      "value": "gf1C"
+    },
+    {
+      "offset": 87444,
+      "value": "gf2A"
+    },
+    {
+      "offset": 87468,
+      "value": "gf2A"
+    },
+    {
+      "offset": 87971,
+      "value": "B33nB"
+    },
+    {
+      "offset": 87995,
+      "value": "B33nB"
+    },
+    {
+      "offset": 90708,
+      "value": "gf:A"
+    },
+    {
+      "offset": 98029,
+      "value": "s8C"
+    },
+    {
+      "offset": 98053,
+      "value": "s8C"
+    },
+    {
+      "offset": 98072,
+      "value": "gftB"
+    },
+    {
+      "offset": 98123,
+      "value": "BgfbB"
+    },
+    {
+      "offset": 98147,
+      "value": "B33bB"
+    },
+    {
+      "offset": 98267,
+      "value": "B33lB"
+    },
+    {
+      "offset": 98291,
+      "value": "B33lB"
+    },
+    {
+      "offset": 100857,
+      "value": "Y3C"
+    },
+    {
+      "offset": 104170,
+      "value": "kC3s5C"
+    },
+    {
+      "offset": 105876,
+      "value": "gfjA"
+    },
+    {
+      "offset": 108372,
+      "value": "gfRB"
+    },
+    {
+      "offset": 109688,
+      "value": "gf6B"
+    },
+    {
+      "offset": 109712,
+      "value": "gf6B"
+    },
+    {
+      "offset": 111421,
+      "value": "Y7C"
+    },
+    {
+      "offset": 111445,
+      "value": "L7C"
+    },
+    {
+      "offset": 111732,
+      "value": "gf6B"
+    },
+    {
+      "offset": 112283,
+      "value": "BgfbA"
+    },
+    {
+      "offset": 112764,
+      "value": "gflB"
+    },
+    {
+      "offset": 112977,
+      "value": "YuC"
+    },
+    {
+      "offset": 113676,
+      "value": "gfZA"
+    },
+    {
+      "offset": 113700,
+      "value": "gfZA"
+    },
+    {
+      "offset": 117325,
+      "value": "LrC"
+    },
+    {
+      "offset": 120516,
+      "value": "gf@B"
+    },
+    {
+      "offset": 120541,
+      "value": "L1C"
+    },
+    {
+      "offset": 120565,
+      "value": "L1C"
+    },
+    {
+      "offset": 120995,
+      "value": "BgfzA"
+    },
+    {
+      "offset": 123900,
+      "value": "gfjA"
+    },
+    {
+      "offset": 124140,
+      "value": "gf/B"
+    },
+    {
+      "offset": 124164,
+      "value": "gf/B"
+    },
+    {
+      "offset": 128843,
+      "value": "B33vB"
+    },
+    {
+      "offset": 128867,
+      "value": "B33vB"
+    },
+    {
+      "offset": 129488,
+      "value": "gflB"
+    },
+    {
+      "offset": 131004,
+      "value": "gf6@"
+    },
+    {
+      "offset": 133476,
+      "value": "gfvB"
+    },
+    {
+      "offset": 133500,
+      "value": "gfvB"
+    },
+    {
+      "offset": 134940,
+      "value": "gfYB"
+    },
+    {
+      "offset": 135419,
+      "value": "C33OA"
+    },
+    {
+      "offset": 135443,
+      "value": "CgfNA"
+    },
+    {
+      "offset": 137192,
+      "value": "gfbB"
+    },
+    {
+      "offset": 141972,
+      "value": "gfjA"
+    },
+    {
+      "offset": 141996,
+      "value": "gfjA"
+    },
+    {
+      "offset": 148928,
+      "value": "gf4B"
+    },
+    {
+      "offset": 149987,
+      "value": "A33GA"
+    },
+    {
+      "offset": 150011,
+      "value": "A33GA"
+    },
+    {
+      "offset": 159085,
+      "value": "Y2C"
+    },
+    {
+      "offset": 165780,
+      "value": "gf2A"
+    },
+    {
+      "offset": 166904,
+      "value": "gfHC"
+    },
+    {
+      "offset": 167051,
+      "value": "C33oA"
+    },
+    {
+      "offset": 167075,
+      "value": "C33oA"
+    },
+    {
+      "offset": 168704,
+      "value": "gfXB"
+    },
+    {
+      "offset": 172427,
+      "value": "A33WB"
+    },
+    {
+      "offset": 172451,
+      "value": "A33WB"
+    },
+    {
+      "offset": 174153,
+      "value": "L6C"
+    },
+    {
+      "offset": 174177,
+      "value": "Y6C"
+    },
+    {
+      "offset": 176076,
+      "value": "gfBB"
+    },
+    {
+      "offset": 176100,
+      "value": "gfBB"
+    },
+    {
+      "offset": 180632,
+      "value": "gfSC"
+    },
+    {
+      "offset": 183420,
+      "value": "gfoB"
+    },
+    {
+      "offset": 192896,
+      "value": "gf6C"
+    },
+    {
+      "offset": 195848,
+      "value": "gf3B"
+    },
+    {
+      "offset": 198656,
+      "value": "gf5B"
+    },
+    {
+      "offset": 203217,
+      "value": "s5C"
+    },
+    {
+      "offset": 206889,
+      "value": "LMC"
+    },
+    {
+      "offset": 212360,
+      "value": "gf_B"
+    },
+    {
+      "offset": 212649,
+      "value": "YLC"
+    },
+    {
+      "offset": 212912,
+      "value": "gf6C"
+    },
+    {
+      "offset": 214353,
+      "value": "sGC"
+    },
+    {
+      "offset": 216200,
+      "value": "gfiB"
+    },
+    {
+      "offset": 218888,
+      "value": "gf0B"
+    },
+    {
+      "offset": 225897,
+      "value": "YMC"
+    },
+    {
+      "offset": 226352,
+      "value": "gf9C"
+    },
+    {
+      "offset": 228056,
+      "value": "gfNC"
+    },
+    {
+      "offset": 228248,
+      "value": "gfXB"
+    },
+    {
+      "offset": 228464,
+      "value": "gf9B"
+    },
+    {
+      "offset": 244016,
+      "value": "gfDB"
+    },
+    {
+      "offset": 250448,
+      "value": "gfFA"
+    },
+    {
+      "offset": 250523,
+      "value": "B33xB"
+    },
+    {
+      "offset": 250547,
+      "value": "A33sB"
+    },
+    {
+      "offset": 250571,
+      "value": "A33sB"
+    },
+    {
+      "offset": 251243,
+      "value": "Cgf B"
+    },
+    {
+      "offset": 251387,
+      "value": "B33+B"
+    },
+    {
+      "offset": 251603,
+      "value": "B338B"
+    },
+    {
+      "offset": 251675,
+      "value": "Cgf_B"
+    },
+    {
+      "offset": 251945,
+      "value": "p3@"
+    },
+    {
+      "offset": 253697,
+      "value": "P/@"
+    },
+    {
+      "offset": 253709,
+      "value": "P/@"
+    },
+    {
+      "offset": 253956,
+      "value": "gfqB"
+    },
+    {
+      "offset": 253980,
+      "value": "gfqB"
+    },
+    {
+      "offset": 259501,
+      "value": "L-C"
+    }
+  ],
+  "descriptor_preview_hex": "380000001400000057b834f16b34d18f43f9849d2f3537e5175709491c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "ac7c61001800000000001200180004000000000008000c0010001400120000009072610058726100f8be3000208c30000400000003000000047221000ce81200",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

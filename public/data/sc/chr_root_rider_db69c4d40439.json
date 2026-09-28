@@ -1,0 +1,670 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_root_rider.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_root_rider.sc",
+  "sha256_container": "db69c4d40439c21bf9fb81cd36b51737ee966e4279058111d6526e98a5a26477",
+  "sha256_descriptor": "f9d76da85a08e7dd652915afd013d5fd542d7ba478290a48d658538444cf3c4b",
+  "sha256_decoded_payload": "f6435e1a4197eee148c76db34d87d3d51de52462f4f7e7d9394a05961c117fe8",
+  "version": 6,
+  "descriptor_bytes": 2436,
+  "compressed_frame_bytes": 30315,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 103884,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 549
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 36
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 72296
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 20380
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 30320
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 256,
+      "value": "root_rider_lvl4_run1_3"
+    },
+    {
+      "offset": 316,
+      "value": "root_rider_lvl4_run1_2"
+    },
+    {
+      "offset": 376,
+      "value": "root_rider_lvl4_run1_1"
+    },
+    {
+      "offset": 436,
+      "value": "root_rider_lvl4_idle1_3"
+    },
+    {
+      "offset": 496,
+      "value": "root_rider_lvl4_idle1_2"
+    },
+    {
+      "offset": 556,
+      "value": "root_rider_lvl4_idle1_1"
+    },
+    {
+      "offset": 616,
+      "value": "root_rider_lvl4_attack1_3"
+    },
+    {
+      "offset": 680,
+      "value": "root_rider_lvl4_attack1_2"
+    },
+    {
+      "offset": 744,
+      "value": "root_rider_lvl4_attack1_1"
+    },
+    {
+      "offset": 808,
+      "value": "root_rider_lvl3_run1_3"
+    },
+    {
+      "offset": 868,
+      "value": "root_rider_lvl3_run1_2"
+    },
+    {
+      "offset": 928,
+      "value": "root_rider_lvl3_run1_1"
+    },
+    {
+      "offset": 988,
+      "value": "root_rider_lvl3_idle1_3"
+    },
+    {
+      "offset": 1048,
+      "value": "root_rider_lvl3_idle1_2"
+    },
+    {
+      "offset": 1108,
+      "value": "root_rider_lvl3_idle1_1"
+    },
+    {
+      "offset": 1168,
+      "value": "root_rider_lvl3_attack1_3"
+    },
+    {
+      "offset": 1232,
+      "value": "root_rider_lvl3_attack1_2"
+    },
+    {
+      "offset": 1296,
+      "value": "root_rider_lvl3_attack1_1"
+    },
+    {
+      "offset": 1360,
+      "value": "root_rider_lvl2_run1_3"
+    },
+    {
+      "offset": 1420,
+      "value": "root_rider_lvl2_run1_2"
+    },
+    {
+      "offset": 1480,
+      "value": "root_rider_lvl2_run1_1"
+    },
+    {
+      "offset": 1540,
+      "value": "root_rider_lvl2_idle1_3"
+    },
+    {
+      "offset": 1600,
+      "value": "root_rider_lvl2_idle1_2"
+    },
+    {
+      "offset": 1660,
+      "value": "root_rider_lvl2_idle1_1"
+    },
+    {
+      "offset": 1720,
+      "value": "root_rider_lvl2_attack1_3"
+    },
+    {
+      "offset": 1784,
+      "value": "root_rider_lvl2_attack1_2"
+    },
+    {
+      "offset": 1848,
+      "value": "root_rider_lvl2_attack1_1"
+    },
+    {
+      "offset": 1912,
+      "value": "root_rider_lvl1_run1_3"
+    },
+    {
+      "offset": 1972,
+      "value": "root_rider_lvl1_run1_2"
+    },
+    {
+      "offset": 2032,
+      "value": "root_rider_lvl1_run1_1"
+    },
+    {
+      "offset": 2092,
+      "value": "root_rider_lvl1_idle1_3"
+    },
+    {
+      "offset": 2152,
+      "value": "root_rider_lvl1_idle1_2"
+    },
+    {
+      "offset": 2212,
+      "value": "root_rider_lvl1_idle1_1"
+    },
+    {
+      "offset": 2272,
+      "value": "root_rider_lvl1_attack1_3"
+    },
+    {
+      "offset": 2336,
+      "value": "root_rider_lvl1_attack1_2"
+    },
+    {
+      "offset": 2408,
+      "value": "root_rider_lvl1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "root_rider_lvl4_run1_3",
+    "root_rider_lvl4_run1_2",
+    "root_rider_lvl4_run1_1",
+    "root_rider_lvl4_idle1_3",
+    "root_rider_lvl4_idle1_2",
+    "root_rider_lvl4_idle1_1",
+    "root_rider_lvl4_attack1_3",
+    "root_rider_lvl4_attack1_2",
+    "root_rider_lvl4_attack1_1",
+    "root_rider_lvl3_run1_3",
+    "root_rider_lvl3_run1_2",
+    "root_rider_lvl3_run1_1",
+    "root_rider_lvl3_idle1_3",
+    "root_rider_lvl3_idle1_2",
+    "root_rider_lvl3_idle1_1",
+    "root_rider_lvl3_attack1_3",
+    "root_rider_lvl3_attack1_2",
+    "root_rider_lvl3_attack1_1",
+    "root_rider_lvl2_run1_3",
+    "root_rider_lvl2_run1_2",
+    "root_rider_lvl2_run1_1",
+    "root_rider_lvl2_idle1_3",
+    "root_rider_lvl2_idle1_2",
+    "root_rider_lvl2_idle1_1",
+    "root_rider_lvl2_attack1_3",
+    "root_rider_lvl2_attack1_2",
+    "root_rider_lvl2_attack1_1",
+    "root_rider_lvl1_run1_3",
+    "root_rider_lvl1_run1_2",
+    "root_rider_lvl1_run1_1",
+    "root_rider_lvl1_idle1_3",
+    "root_rider_lvl1_idle1_2",
+    "root_rider_lvl1_idle1_1",
+    "root_rider_lvl1_attack1_3",
+    "root_rider_lvl1_attack1_2",
+    "root_rider_lvl1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3873,
+      "value": "jvm"
+    },
+    {
+      "offset": 3884,
+      "value": "WaDo"
+    },
+    {
+      "offset": 3897,
+      "value": "kvm"
+    },
+    {
+      "offset": 4556,
+      "value": "Ygi5"
+    },
+    {
+      "offset": 4627,
+      "value": "A6ZU."
+    },
+    {
+      "offset": 4773,
+      "value": "QUH"
+    },
+    {
+      "offset": 5073,
+      "value": "DW7"
+    },
+    {
+      "offset": 5097,
+      "value": "CW7"
+    },
+    {
+      "offset": 10233,
+      "value": "fKK"
+    },
+    {
+      "offset": 10257,
+      "value": "nKK"
+    },
+    {
+      "offset": 10305,
+      "value": "pwS"
+    },
+    {
+      "offset": 11494,
+      "value": "tqff@B"
+    },
+    {
+      "offset": 12609,
+      "value": "My\\"
+    },
+    {
+      "offset": 16591,
+      "value": "A2J"
+    },
+    {
+      "offset": 17385,
+      "value": "zAY"
+    },
+    {
+      "offset": 17409,
+      "value": "vAY"
+    },
+    {
+      "offset": 20997,
+      "value": "ACd"
+    },
+    {
+      "offset": 21128,
+      "value": "K0Ny"
+    },
+    {
+      "offset": 21151,
+      "value": "Am8Ny"
+    },
+    {
+      "offset": 21621,
+      "value": "UJe"
+    },
+    {
+      "offset": 21693,
+      "value": "OUz"
+    },
+    {
+      "offset": 21717,
+      "value": "JUz"
+    },
+    {
+      "offset": 22305,
+      "value": "ZCd"
+    },
+    {
+      "offset": 22329,
+      "value": "aCd"
+    },
+    {
+      "offset": 22940,
+      "value": "uUE."
+    },
+    {
+      "offset": 22965,
+      "value": "SE."
+    },
+    {
+      "offset": 24488,
+      "value": "j+Rf"
+    },
+    {
+      "offset": 24571,
+      "value": "Aj+"
+    },
+    {
+      "offset": 25929,
+      "value": "xW7"
+    },
+    {
+      "offset": 26613,
+      "value": "uJr"
+    },
+    {
+      "offset": 26637,
+      "value": "uXv"
+    },
+    {
+      "offset": 27297,
+      "value": "D_w"
+    },
+    {
+      "offset": 29565,
+      "value": "o\\c"
+    },
+    {
+      "offset": 30537,
+      "value": "ske"
+    },
+    {
+      "offset": 30561,
+      "value": "uke"
+    },
+    {
+      "offset": 31857,
+      "value": "ZN "
+    },
+    {
+      "offset": 33012,
+      "value": "ff B"
+    },
+    {
+      "offset": 35504,
+      "value": "M60A"
+    },
+    {
+      "offset": 35541,
+      "value": "ELI"
+    },
+    {
+      "offset": 35565,
+      "value": "ARL"
+    },
+    {
+      "offset": 36705,
+      "value": "zp8"
+    },
+    {
+      "offset": 36909,
+      "value": "G/C"
+    },
+    {
+      "offset": 37137,
+      "value": "PpP"
+    },
+    {
+      "offset": 37161,
+      "value": "P_R"
+    },
+    {
+      "offset": 37411,
+      "value": "A2IL/"
+    },
+    {
+      "offset": 37435,
+      "value": "AsML/"
+    },
+    {
+      "offset": 37713,
+      "value": "UPh"
+    },
+    {
+      "offset": 37749,
+      "value": "Xdd"
+    },
+    {
+      "offset": 37773,
+      "value": "Xdd"
+    },
+    {
+      "offset": 38088,
+      "value": "ff3B"
+    },
+    {
+      "offset": 38112,
+      "value": "ff5B"
+    },
+    {
+      "offset": 39453,
+      "value": "xGD"
+    },
+    {
+      "offset": 39885,
+      "value": "sN "
+    },
+    {
+      "offset": 40581,
+      "value": "lWx"
+    },
+    {
+      "offset": 40593,
+      "value": "bWx"
+    },
+    {
+      "offset": 40605,
+      "value": "loy"
+    },
+    {
+      "offset": 42513,
+      "value": "yc2"
+    },
+    {
+      "offset": 42537,
+      "value": "xc2"
+    },
+    {
+      "offset": 42645,
+      "value": "qSd"
+    },
+    {
+      "offset": 42669,
+      "value": "uSd"
+    },
+    {
+      "offset": 42717,
+      "value": "XpP"
+    },
+    {
+      "offset": 42740,
+      "value": "tSpP"
+    },
+    {
+      "offset": 42789,
+      "value": "MbY"
+    },
+    {
+      "offset": 43389,
+      "value": "s+I"
+    },
+    {
+      "offset": 43413,
+      "value": "soE"
+    },
+    {
+      "offset": 44553,
+      "value": "Wss"
+    },
+    {
+      "offset": 44577,
+      "value": "Tss"
+    },
+    {
+      "offset": 71236,
+      "value": "root_rider_lvl1_run1_1"
+    },
+    {
+      "offset": 71264,
+      "value": "root_rider_lvl3_idle1_3"
+    },
+    {
+      "offset": 71292,
+      "value": "root_rider_lvl4_attack1_3"
+    },
+    {
+      "offset": 71324,
+      "value": "root_rider_lvl1_idle1_3"
+    },
+    {
+      "offset": 71352,
+      "value": "root_rider_lvl2_attack1_2"
+    },
+    {
+      "offset": 71384,
+      "value": "root_rider_lvl1_idle1_2"
+    },
+    {
+      "offset": 71412,
+      "value": "root_rider_lvl1_attack1_2"
+    },
+    {
+      "offset": 71444,
+      "value": "root_rider_lvl2_idle1_2"
+    },
+    {
+      "offset": 71472,
+      "value": "root_rider_lvl1_attack1_1"
+    },
+    {
+      "offset": 71504,
+      "value": "root_rider_lvl4_idle1_3"
+    },
+    {
+      "offset": 71532,
+      "value": "root_rider_lvl4_idle1_2"
+    },
+    {
+      "offset": 71560,
+      "value": "root_rider_lvl4_run1_3"
+    },
+    {
+      "offset": 71588,
+      "value": "root_rider_lvl4_run1_2"
+    },
+    {
+      "offset": 71616,
+      "value": "root_rider_lvl1_run1_2"
+    },
+    {
+      "offset": 71644,
+      "value": "root_rider_lvl2_attack1_3"
+    },
+    {
+      "offset": 71676,
+      "value": "root_rider_lvl3_idle1_1"
+    },
+    {
+      "offset": 71704,
+      "value": "root_rider_lvl1_idle1_1"
+    },
+    {
+      "offset": 71732,
+      "value": "root_rider_lvl3_attack1_3"
+    },
+    {
+      "offset": 71764,
+      "value": "root_rider_lvl2_idle1_3"
+    },
+    {
+      "offset": 71792,
+      "value": "root_rider_lvl3_run1_1"
+    },
+    {
+      "offset": 71820,
+      "value": "root_rider_lvl3_idle1_2"
+    },
+    {
+      "offset": 71848,
+      "value": "root_rider_lvl4_attack1_1"
+    },
+    {
+      "offset": 71880,
+      "value": "root_rider_lvl1_run1_3"
+    },
+    {
+      "offset": 71908,
+      "value": "root_rider_lvl3_run1_3"
+    },
+    {
+      "offset": 71936,
+      "value": "root_rider_lvl3_run1_2"
+    },
+    {
+      "offset": 71964,
+      "value": "root_rider_lvl3_attack1_2"
+    },
+    {
+      "offset": 71996,
+      "value": "root_rider_lvl1_attack1_3"
+    },
+    {
+      "offset": 72028,
+      "value": "root_rider_lvl4_idle1_1"
+    },
+    {
+      "offset": 72056,
+      "value": "root_rider_lvl3_attack1_1"
+    },
+    {
+      "offset": 72088,
+      "value": "root_rider_lvl4_run1_1"
+    },
+    {
+      "offset": 72116,
+      "value": "root_rider_lvl2_run1_2"
+    },
+    {
+      "offset": 72144,
+      "value": "root_rider_lvl2_attack1_1"
+    },
+    {
+      "offset": 72176,
+      "value": "root_rider_lvl2_run1_3"
+    },
+    {
+      "offset": 72204,
+      "value": "root_rider_lvl4_attack1_2"
+    },
+    {
+      "offset": 72236,
+      "value": "root_rider_lvl2_idle1_1"
+    },
+    {
+      "offset": 72264,
+      "value": "root_rider_lvl2_run1_1"
+    },
+    {
+      "offset": 103860,
+      "value": "chr_root_rider_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000250200002400000001000000681a01009c4f0000",
+  "decoded_preview_hex": "641a010018000000000012001400040000000000000008000c0010001200000088150100a0c50000bc08000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

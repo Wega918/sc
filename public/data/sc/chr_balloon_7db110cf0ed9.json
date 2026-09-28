@@ -1,0 +1,399 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_balloon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_balloon.sc",
+  "sha256_container": "7db110cf0ed98808a65550d17c240a0c10753db35958c766987f4b21afa5641d",
+  "sha256_descriptor": "e3754d296a4fc6091afd249cbecd790c3f7164470bc37e7082457c899080e882",
+  "sha256_decoded_payload": "56d734f005c3b75c12506385f193f3e1c1f64984a78725d6a7c50d8c1e4dc352",
+  "version": 6,
+  "descriptor_bytes": 2076,
+  "compressed_frame_bytes": 5709,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 29604,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 51
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 41
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 20120
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 7064
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 5712
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 248,
+      "value": "balloon_lvl9_idle1"
+    },
+    {
+      "offset": 304,
+      "value": "balloon_lvl9_die1"
+    },
+    {
+      "offset": 360,
+      "value": "balloon_lvl9_attack1"
+    },
+    {
+      "offset": 420,
+      "value": "balloon_lvl8_idle1"
+    },
+    {
+      "offset": 476,
+      "value": "balloon_lvl8_die1"
+    },
+    {
+      "offset": 532,
+      "value": "balloon_lvl8_attack1"
+    },
+    {
+      "offset": 592,
+      "value": "balloon_lvl7_idle1"
+    },
+    {
+      "offset": 648,
+      "value": "balloon_lvl7_die1"
+    },
+    {
+      "offset": 704,
+      "value": "balloon_lvl7_attack1"
+    },
+    {
+      "offset": 764,
+      "value": "balloon_lvl6_idle1"
+    },
+    {
+      "offset": 820,
+      "value": "balloon_lvl6_die1"
+    },
+    {
+      "offset": 876,
+      "value": "balloon_lvl6_attack1"
+    },
+    {
+      "offset": 936,
+      "value": "balloon_lvl13_idle1"
+    },
+    {
+      "offset": 992,
+      "value": "balloon_lvl13_die1"
+    },
+    {
+      "offset": 1048,
+      "value": "balloon_lvl13_attack1"
+    },
+    {
+      "offset": 1108,
+      "value": "balloon_lvl12_idle1"
+    },
+    {
+      "offset": 1164,
+      "value": "balloon_lvl12_die1"
+    },
+    {
+      "offset": 1220,
+      "value": "balloon_lvl12_attack1"
+    },
+    {
+      "offset": 1280,
+      "value": "balloon_lvl11_idle1"
+    },
+    {
+      "offset": 1336,
+      "value": "balloon_lvl11_die1"
+    },
+    {
+      "offset": 1392,
+      "value": "balloon_lvl11_attack1"
+    },
+    {
+      "offset": 1452,
+      "value": "balloon_lvl10_idle1"
+    },
+    {
+      "offset": 1508,
+      "value": "balloon_lvl10_die1"
+    },
+    {
+      "offset": 1564,
+      "value": "balloon_lvl10_attack1"
+    },
+    {
+      "offset": 1624,
+      "value": "balloon3_idle1"
+    },
+    {
+      "offset": 1676,
+      "value": "balloon3_die1"
+    },
+    {
+      "offset": 1728,
+      "value": "balloon3_attack1"
+    },
+    {
+      "offset": 1784,
+      "value": "balloon2_idle1"
+    },
+    {
+      "offset": 1836,
+      "value": "balloon2_die1"
+    },
+    {
+      "offset": 1888,
+      "value": "balloon2_attack1"
+    },
+    {
+      "offset": 1944,
+      "value": "balloon1_idle1"
+    },
+    {
+      "offset": 1996,
+      "value": "balloon1_die1"
+    },
+    {
+      "offset": 2056,
+      "value": "balloon1_attack1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "balloon_lvl9_idle1",
+    "balloon_lvl9_die1",
+    "balloon_lvl9_attack1",
+    "balloon_lvl8_idle1",
+    "balloon_lvl8_die1",
+    "balloon_lvl8_attack1",
+    "balloon_lvl7_idle1",
+    "balloon_lvl7_die1",
+    "balloon_lvl7_attack1",
+    "balloon_lvl6_idle1",
+    "balloon_lvl6_die1",
+    "balloon_lvl6_attack1",
+    "balloon_lvl13_idle1",
+    "balloon_lvl13_die1",
+    "balloon_lvl13_attack1",
+    "balloon_lvl12_idle1",
+    "balloon_lvl12_die1",
+    "balloon_lvl12_attack1",
+    "balloon_lvl11_idle1",
+    "balloon_lvl11_die1",
+    "balloon_lvl11_attack1",
+    "balloon_lvl10_idle1",
+    "balloon_lvl10_die1",
+    "balloon_lvl10_attack1",
+    "balloon3_idle1",
+    "balloon3_die1",
+    "balloon3_attack1",
+    "balloon2_idle1",
+    "balloon2_die1",
+    "balloon2_attack1",
+    "balloon1_idle1",
+    "balloon1_die1",
+    "balloon1_attack1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 809,
+      "value": "shC"
+    },
+    {
+      "offset": 859,
+      "value": "C33"
+    },
+    {
+      "offset": 6026,
+      "value": "i933OA"
+    },
+    {
+      "offset": 6577,
+      "value": "VUU33OA"
+    },
+    {
+      "offset": 6661,
+      "value": "Qsc"
+    },
+    {
+      "offset": 7120,
+      "value": "ff9B"
+    },
+    {
+      "offset": 19316,
+      "value": "balloon1_die1"
+    },
+    {
+      "offset": 19336,
+      "value": "balloon_lvl12_idle1"
+    },
+    {
+      "offset": 19360,
+      "value": "balloon_lvl13_idle1"
+    },
+    {
+      "offset": 19384,
+      "value": "balloon_lvl10_idle1"
+    },
+    {
+      "offset": 19408,
+      "value": "balloon2_attack1"
+    },
+    {
+      "offset": 19432,
+      "value": "balloon_lvl9_idle1"
+    },
+    {
+      "offset": 19456,
+      "value": "balloon_lvl7_die1"
+    },
+    {
+      "offset": 19480,
+      "value": "balloon_lvl9_die1"
+    },
+    {
+      "offset": 19504,
+      "value": "balloon2_die1"
+    },
+    {
+      "offset": 19524,
+      "value": "balloon1_attack1"
+    },
+    {
+      "offset": 19548,
+      "value": "balloon_lvl8_attack1"
+    },
+    {
+      "offset": 19576,
+      "value": "balloon_lvl10_die1"
+    },
+    {
+      "offset": 19600,
+      "value": "balloon_lvl7_idle1"
+    },
+    {
+      "offset": 19624,
+      "value": "balloon_lvl13_attack1"
+    },
+    {
+      "offset": 19652,
+      "value": "balloon_lvl7_attack1"
+    },
+    {
+      "offset": 19680,
+      "value": "balloon_lvl8_die1"
+    },
+    {
+      "offset": 19704,
+      "value": "balloon_lvl11_idle1"
+    },
+    {
+      "offset": 19728,
+      "value": "balloon_lvl11_attack1"
+    },
+    {
+      "offset": 19756,
+      "value": "balloon3_attack1"
+    },
+    {
+      "offset": 19780,
+      "value": "balloon_lvl11_die1"
+    },
+    {
+      "offset": 19804,
+      "value": "balloon_lvl9_attack1"
+    },
+    {
+      "offset": 19832,
+      "value": "balloon_lvl8_idle1"
+    },
+    {
+      "offset": 19856,
+      "value": "balloon_lvl12_die1"
+    },
+    {
+      "offset": 19880,
+      "value": "balloon_lvl6_die1"
+    },
+    {
+      "offset": 19904,
+      "value": "balloon1_idle1"
+    },
+    {
+      "offset": 19924,
+      "value": "balloon_lvl10_attack1"
+    },
+    {
+      "offset": 19952,
+      "value": "balloon_lvl13_die1"
+    },
+    {
+      "offset": 19976,
+      "value": "balloon_lvl6_attack1"
+    },
+    {
+      "offset": 20004,
+      "value": "balloon_lvl12_attack1"
+    },
+    {
+      "offset": 20032,
+      "value": "balloon_lvl6_idle1"
+    },
+    {
+      "offset": 20056,
+      "value": "balloon2_idle1"
+    },
+    {
+      "offset": 20076,
+      "value": "balloon3_die1"
+    },
+    {
+      "offset": 20096,
+      "value": "balloon3_idle1"
+    },
+    {
+      "offset": 29584,
+      "value": "chr_balloon_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000330000002900000001000000984e0000",
+  "decoded_preview_hex": "944e000018000000000012001400040000000000000008000c00100012000000c44a00003c1f0000480e000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

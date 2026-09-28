@@ -1,0 +1,412 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_pet_poison_lizard.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_poison_lizard.sc",
+  "sha256_container": "04273323a9cdeda323f1282382cff44dc3840113b2118c0501a57b6cb23ea2c2",
+  "sha256_descriptor": "6b18e12e0ca9c43979670d8527ca2772269cf323fb5a9c23f6ea704049507392",
+  "sha256_decoded_payload": "6fc437fe9d980dd3d50ff6fc55afdaf01959a7ed7b7430a270d4097e60ed32c3",
+  "version": 6,
+  "descriptor_bytes": 156,
+  "compressed_frame_bytes": 154731,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 280896,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 228
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 280408
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 154736
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "unit_pet_poison_lizard_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_pet_poison_lizard_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 69,
+      "value": "LGC"
+    },
+    {
+      "offset": 192,
+      "value": "unit_pet_poison_lizard_big"
+    },
+    {
+      "offset": 1772,
+      "value": "IoB"
+    },
+    {
+      "offset": 3666,
+      "value": "g3 "
+    },
+    {
+      "offset": 16768,
+      "value": "s@/@"
+    },
+    {
+      "offset": 19969,
+      "value": "AA "
+    },
+    {
+      "offset": 20483,
+      "value": "OqF"
+    },
+    {
+      "offset": 23926,
+      "value": "pbtp_"
+    },
+    {
+      "offset": 37378,
+      "value": "gs@"
+    },
+    {
+      "offset": 57922,
+      "value": "U3 "
+    },
+    {
+      "offset": 69058,
+      "value": "w3 "
+    },
+    {
+      "offset": 71990,
+      "value": "PK@"
+    },
+    {
+      "offset": 74324,
+      "value": "Ci74"
+    },
+    {
+      "offset": 74373,
+      "value": "OAN"
+    },
+    {
+      "offset": 78116,
+      "value": "esmz"
+    },
+    {
+      "offset": 79716,
+      "value": "KQ2"
+    },
+    {
+      "offset": 84954,
+      "value": "beS"
+    },
+    {
+      "offset": 90226,
+      "value": "G3 "
+    },
+    {
+      "offset": 94134,
+      "value": "_n@"
+    },
+    {
+      "offset": 94221,
+      "value": "H+QO"
+    },
+    {
+      "offset": 96792,
+      "value": "W0G"
+    },
+    {
+      "offset": 100418,
+      "value": "EKCY5@"
+    },
+    {
+      "offset": 103510,
+      "value": "Yb@"
+    },
+    {
+      "offset": 107923,
+      "value": "IC_-0"
+    },
+    {
+      "offset": 109189,
+      "value": "OU\\"
+    },
+    {
+      "offset": 110000,
+      "value": "QB1D"
+    },
+    {
+      "offset": 111549,
+      "value": "e2Ws"
+    },
+    {
+      "offset": 113713,
+      "value": "B9N"
+    },
+    {
+      "offset": 115380,
+      "value": "EaER"
+    },
+    {
+      "offset": 117237,
+      "value": "Y1L"
+    },
+    {
+      "offset": 119109,
+      "value": "KKH"
+    },
+    {
+      "offset": 119144,
+      "value": "UbH"
+    },
+    {
+      "offset": 119281,
+      "value": "B1B"
+    },
+    {
+      "offset": 119777,
+      "value": "BII@"
+    },
+    {
+      "offset": 120574,
+      "value": "x:_"
+    },
+    {
+      "offset": 133929,
+      "value": "PV@"
+    },
+    {
+      "offset": 134258,
+      "value": "e3 "
+    },
+    {
+      "offset": 135406,
+      "value": "UVn"
+    },
+    {
+      "offset": 139878,
+      "value": "OSH"
+    },
+    {
+      "offset": 141019,
+      "value": "zkjh"
+    },
+    {
+      "offset": 148133,
+      "value": "M78"
+    },
+    {
+      "offset": 150005,
+      "value": "w7D"
+    },
+    {
+      "offset": 153764,
+      "value": "QwMT"
+    },
+    {
+      "offset": 153780,
+      "value": "UyKX"
+    },
+    {
+      "offset": 153813,
+      "value": "KU\\"
+    },
+    {
+      "offset": 156133,
+      "value": "R28"
+    },
+    {
+      "offset": 159109,
+      "value": "D3J"
+    },
+    {
+      "offset": 159429,
+      "value": "Kmr"
+    },
+    {
+      "offset": 159591,
+      "value": "p\\5h"
+    },
+    {
+      "offset": 163102,
+      "value": "HBO"
+    },
+    {
+      "offset": 165037,
+      "value": "nb@_"
+    },
+    {
+      "offset": 166677,
+      "value": "tGb"
+    },
+    {
+      "offset": 168646,
+      "value": "mr "
+    },
+    {
+      "offset": 168692,
+      "value": "gwkptW"
+    },
+    {
+      "offset": 170272,
+      "value": "QB+:"
+    },
+    {
+      "offset": 170418,
+      "value": "fS0"
+    },
+    {
+      "offset": 172097,
+      "value": "B5H"
+    },
+    {
+      "offset": 172112,
+      "value": "s@+:"
+    },
+    {
+      "offset": 172452,
+      "value": "ewgn"
+    },
+    {
+      "offset": 172485,
+      "value": "sSn"
+    },
+    {
+      "offset": 174409,
+      "value": "NRH"
+    },
+    {
+      "offset": 176146,
+      "value": "QuUc_f"
+    },
+    {
+      "offset": 176162,
+      "value": "WyS_Yb"
+    },
+    {
+      "offset": 176228,
+      "value": "Kq_x"
+    },
+    {
+      "offset": 178037,
+      "value": "KAR"
+    },
+    {
+      "offset": 201790,
+      "value": "eho"
+    },
+    {
+      "offset": 203550,
+      "value": "V7O"
+    },
+    {
+      "offset": 207222,
+      "value": "hy "
+    },
+    {
+      "offset": 207959,
+      "value": "r Y"
+    },
+    {
+      "offset": 213021,
+      "value": "C_v_"
+    },
+    {
+      "offset": 213278,
+      "value": "_/o"
+    },
+    {
+      "offset": 216632,
+      "value": "ddC"
+    },
+    {
+      "offset": 231700,
+      "value": "GSHL"
+    },
+    {
+      "offset": 241035,
+      "value": "u0 "
+    },
+    {
+      "offset": 243332,
+      "value": "NjGv0"
+    },
+    {
+      "offset": 252606,
+      "value": "a3o"
+    },
+    {
+      "offset": 255662,
+      "value": "m9O"
+    },
+    {
+      "offset": 255742,
+      "value": "qy_"
+    },
+    {
+      "offset": 257454,
+      "value": "uko"
+    },
+    {
+      "offset": 261470,
+      "value": "fUo"
+    },
+    {
+      "offset": 268500,
+      "value": "L\\.8"
+    },
+    {
+      "offset": 270405,
+      "value": "x:F"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000010000000100000003000000e4000000",
+  "decoded_preview_hex": "e000000018000000000012001400040000000000000008000c001000120000009000000080000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_pet_sneezy.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_sneezy.sc",
+  "sha256_container": "972659bf8c3e6826585c7a3bff0f624d95324769310c9b54faeb95098629f587",
+  "sha256_descriptor": "e387f0ce7b29afa0afe112d49763ff36183e1c7ed2c89fb647d96a03f70848c0",
+  "sha256_decoded_payload": "f0ec94581a37e6523744ea9f1795f8b19213940e33efaf8d8a83926b5d817cc8",
+  "version": 6,
+  "descriptor_bytes": 220,
+  "compressed_frame_bytes": 157585,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 314000,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 356
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 313272
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 157592
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "unit_pet_sneezy_big"
+    },
+    {
+      "offset": 192,
+      "value": "unit_pet_bubble_spirit_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_pet_sneezy_big",
+    "unit_pet_bubble_spirit_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 296,
+      "value": "unit_pet_sneezy_big"
+    },
+    {
+      "offset": 320,
+      "value": "unit_pet_bubble_spirit_big"
+    },
+    {
+      "offset": 22589,
+      "value": "wFDs"
+    },
+    {
+      "offset": 28450,
+      "value": "ws4O"
+    },
+    {
+      "offset": 36587,
+      "value": "udw"
+    },
+    {
+      "offset": 41157,
+      "value": "INM"
+    },
+    {
+      "offset": 51077,
+      "value": "Bbj"
+    },
+    {
+      "offset": 54338,
+      "value": "INFLjr"
+    },
+    {
+      "offset": 64284,
+      "value": "ScP"
+    },
+    {
+      "offset": 72870,
+      "value": "sUH"
+    },
+    {
+      "offset": 79445,
+      "value": "_tP"
+    },
+    {
+      "offset": 143541,
+      "value": "UMd"
+    },
+    {
+      "offset": 145861,
+      "value": "bxL"
+    },
+    {
+      "offset": 146366,
+      "value": "quo"
+    },
+    {
+      "offset": 155279,
+      "value": "KqI"
+    },
+    {
+      "offset": 160286,
+      "value": "ZQo"
+    },
+    {
+      "offset": 165796,
+      "value": "nzDP"
+    },
+    {
+      "offset": 167663,
+      "value": "NRI"
+    },
+    {
+      "offset": 173124,
+      "value": "dz0@"
+    },
+    {
+      "offset": 184695,
+      "value": "b+\\"
+    },
+    {
+      "offset": 185685,
+      "value": "EaHb@"
+    },
+    {
+      "offset": 186501,
+      "value": "tW:"
+    },
+    {
+      "offset": 186612,
+      "value": "J0A"
+    },
+    {
+      "offset": 191051,
+      "value": "fD:"
+    },
+    {
+      "offset": 208693,
+      "value": "jlFC"
+    },
+    {
+      "offset": 211879,
+      "value": "Get"
+    },
+    {
+      "offset": 212154,
+      "value": "XBB"
+    },
+    {
+      "offset": 212947,
+      "value": "CKOuH"
+    },
+    {
+      "offset": 217127,
+      "value": "ZAB"
+    },
+    {
+      "offset": 222075,
+      "value": "X@@"
+    },
+    {
+      "offset": 223470,
+      "value": "guo"
+    },
+    {
+      "offset": 223566,
+      "value": "L.o"
+    },
+    {
+      "offset": 239026,
+      "value": "el P"
+    },
+    {
+      "offset": 243470,
+      "value": "wk_"
+    },
+    {
+      "offset": 245038,
+      "value": "l+o"
+    },
+    {
+      "offset": 246118,
+      "value": "R6d"
+    },
+    {
+      "offset": 256374,
+      "value": "LX@"
+    },
+    {
+      "offset": 257979,
+      "value": "q8C"
+    },
+    {
+      "offset": 261893,
+      "value": "QhW"
+    },
+    {
+      "offset": 262923,
+      "value": "DQ@@"
+    },
+    {
+      "offset": 264567,
+      "value": "l+e"
+    },
+    {
+      "offset": 267862,
+      "value": "GNA"
+    },
+    {
+      "offset": 273054,
+      "value": "lR_"
+    },
+    {
+      "offset": 276382,
+      "value": "J O"
+    },
+    {
+      "offset": 279974,
+      "value": "wHr"
+    },
+    {
+      "offset": 311947,
+      "value": "_QJ"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000002000000020000000100000003000000",
+  "decoded_preview_hex": "6001000018000000000012001400040000000000000008000c00100012000000f4000000e0000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_giant_april25.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_giant_april25.sc",
+  "sha256_container": "723e768dc260803e7c1a60eff005c170c7db9d015ac4df2179e24b586960adf3",
+  "sha256_descriptor": "62d75ec354058a8fd075e23ea065c7f163c70777dd0bb002d86c458782f30c4a",
+  "sha256_decoded_payload": "63277f161de32ba216c1a616551fbbf7f9c283423f8124ef77f0d574c540c5b8",
+  "version": 6,
+  "descriptor_bytes": 1044,
+  "compressed_frame_bytes": 13816,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 40276,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 188
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 15
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 26812
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 6808
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 13816
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 172,
+      "value": "april25_giant_walk1_3"
+    },
+    {
+      "offset": 232,
+      "value": "april25_giant_walk1_2"
+    },
+    {
+      "offset": 292,
+      "value": "april25_giant_walk1_1"
+    },
+    {
+      "offset": 352,
+      "value": "april25_giant_idle1_3"
+    },
+    {
+      "offset": 412,
+      "value": "april25_giant_idle1_2"
+    },
+    {
+      "offset": 472,
+      "value": "april25_giant_idle1_1"
+    },
+    {
+      "offset": 532,
+      "value": "april25_giant_cheer1_3"
+    },
+    {
+      "offset": 592,
+      "value": "april25_giant_cheer1_2"
+    },
+    {
+      "offset": 652,
+      "value": "april25_giant_cheer1_1"
+    },
+    {
+      "offset": 712,
+      "value": "april25_giant_attack3_3"
+    },
+    {
+      "offset": 772,
+      "value": "april25_giant_attack3_2"
+    },
+    {
+      "offset": 832,
+      "value": "april25_giant_attack3_1"
+    },
+    {
+      "offset": 892,
+      "value": "april25_giant_attack2_3"
+    },
+    {
+      "offset": 952,
+      "value": "april25_giant_attack2_2"
+    },
+    {
+      "offset": 1020,
+      "value": "april25_giant_attack2_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "april25_giant_walk1_3",
+    "april25_giant_walk1_2",
+    "april25_giant_walk1_1",
+    "april25_giant_idle1_3",
+    "april25_giant_idle1_2",
+    "april25_giant_idle1_1",
+    "april25_giant_cheer1_3",
+    "april25_giant_cheer1_2",
+    "april25_giant_cheer1_1",
+    "april25_giant_attack3_3",
+    "april25_giant_attack3_2",
+    "april25_giant_attack3_1",
+    "april25_giant_attack2_3",
+    "april25_giant_attack2_2",
+    "april25_giant_attack2_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 257,
+      "value": "Pe@"
+    },
+    {
+      "offset": 425,
+      "value": "Pe@"
+    },
+    {
+      "offset": 449,
+      "value": "Pe@"
+    },
+    {
+      "offset": 569,
+      "value": "Pe@"
+    },
+    {
+      "offset": 593,
+      "value": "Pe@"
+    },
+    {
+      "offset": 615,
+      "value": "ADF"
+    },
+    {
+      "offset": 1604,
+      "value": "ff_B"
+    },
+    {
+      "offset": 1962,
+      "value": "ou33fB"
+    },
+    {
+      "offset": 3630,
+      "value": "Nt33oA"
+    },
+    {
+      "offset": 4687,
+      "value": "c33SA"
+    },
+    {
+      "offset": 5657,
+      "value": "xt8"
+    },
+    {
+      "offset": 6188,
+      "value": "ffoB"
+    },
+    {
+      "offset": 6224,
+      "value": "ff.A"
+    },
+    {
+      "offset": 6392,
+      "value": "ff6@"
+    },
+    {
+      "offset": 6476,
+      "value": "ffoB"
+    },
+    {
+      "offset": 6512,
+      "value": "ffJA"
+    },
+    {
+      "offset": 6533,
+      "value": "Cn_"
+    },
+    {
+      "offset": 6557,
+      "value": "Bn_"
+    },
+    {
+      "offset": 6582,
+      "value": "yfff6@"
+    },
+    {
+      "offset": 7375,
+      "value": "G33SA"
+    },
+    {
+      "offset": 8299,
+      "value": "u33fB"
+    },
+    {
+      "offset": 8779,
+      "value": "J33mB"
+    },
+    {
+      "offset": 8875,
+      "value": "M33mB"
+    },
+    {
+      "offset": 8932,
+      "value": "oHdX"
+    },
+    {
+      "offset": 8956,
+      "value": "oH4c"
+    },
+    {
+      "offset": 8993,
+      "value": "U_U33mB"
+    },
+    {
+      "offset": 11213,
+      "value": "GXP"
+    },
+    {
+      "offset": 11695,
+      "value": "xff.A"
+    },
+    {
+      "offset": 11852,
+      "value": "ffoB"
+    },
+    {
+      "offset": 12068,
+      "value": "ffoB"
+    },
+    {
+      "offset": 12343,
+      "value": "OffJA"
+    },
+    {
+      "offset": 12377,
+      "value": "bIF"
+    },
+    {
+      "offset": 14624,
+      "value": "ffAB"
+    },
+    {
+      "offset": 15318,
+      "value": "lH33fB"
+    },
+    {
+      "offset": 17095,
+      "value": "O33SA"
+    },
+    {
+      "offset": 17479,
+      "value": "R33SA"
+    },
+    {
+      "offset": 17504,
+      "value": "ffAB"
+    },
+    {
+      "offset": 17766,
+      "value": "Vdff.A"
+    },
+    {
+      "offset": 26388,
+      "value": "april25_giant_attack3_2"
+    },
+    {
+      "offset": 26416,
+      "value": "april25_giant_cheer1_1"
+    },
+    {
+      "offset": 26444,
+      "value": "april25_giant_attack3_1"
+    },
+    {
+      "offset": 26472,
+      "value": "april25_giant_attack3_3"
+    },
+    {
+      "offset": 26500,
+      "value": "april25_giant_walk1_3"
+    },
+    {
+      "offset": 26528,
+      "value": "april25_giant_cheer1_2"
+    },
+    {
+      "offset": 26556,
+      "value": "april25_giant_idle1_3"
+    },
+    {
+      "offset": 26584,
+      "value": "april25_giant_idle1_1"
+    },
+    {
+      "offset": 26612,
+      "value": "april25_giant_attack2_3"
+    },
+    {
+      "offset": 26640,
+      "value": "april25_giant_attack2_2"
+    },
+    {
+      "offset": 26668,
+      "value": "april25_giant_attack2_1"
+    },
+    {
+      "offset": 26696,
+      "value": "april25_giant_walk1_2"
+    },
+    {
+      "offset": 26724,
+      "value": "april25_giant_idle1_2"
+    },
+    {
+      "offset": 26752,
+      "value": "april25_giant_walk1_1"
+    },
+    {
+      "offset": 26780,
+      "value": "april25_giant_cheer1_3"
+    },
+    {
+      "offset": 40248,
+      "value": "chr_giant_april25_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000bc0000000f00000001000000bc680000981a0000",
+  "decoded_preview_hex": "b868000018000000000012001400040000000000000008000c00100012000000ac6600008c4800004002000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,1543 @@
+{
+  "total": 307,
+  "ok": 307,
+  "duplicates": 0,
+  "failed": 0,
+  "results": [
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\april25.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\april25_cf95cf9eb0be.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_cc_gamearea.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_cc_gamearea_11dde223184b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_clan_capital.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_clan_capital_712ecc6dead6.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_clan_capital_02.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_clan_capital_02_7b09d0864e71.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_gamearea.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_gamearea_33b0f40359a7.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_npc.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_npc_d97dc8908fc7.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_npc_2.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_npc_2_497bce8006f7.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_npc_3.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_npc_3_1a33d65d18b4.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_npc_scenery_bases.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_npc_scenery_bases_bb87896e2da2.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_npc_scenery3_bases.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_npc_scenery3_bases_d367dc45344d.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_player.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_player_36cbdffa29a6.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_player_2.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_player_2_f5745fcbfba2.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_player_2_cave.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_player_2_cave_f777b2146c3c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_war.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\background_war_569b4f4c9513.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\bb_scenery_bases_cave.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\bb_scenery_bases_cave_aedd6d60491a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\building_bases.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\building_bases_9a44cb99c3f9.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\buildings.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\buildings_b6fec0c69d75.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\buildings_cc.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\buildings_cc_6b82b300c309.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\buildings2.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\buildings2_9a97a5b9f1cb.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\characters.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\characters_0e23bd374517.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chiefs_journey.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chiefs_journey_5ce083eafb4e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_air_skeleton.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_air_skeleton_1a134e5c34ca.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_air_troop_launcher.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_air_troop_launcher_812f800ce1ba.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_apprentice_warden.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_apprentice_warden_dc28c0326fbe.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_archer.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_archer_2acaca98c63b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_archer2.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_archer2_c9ddc5c76fc4.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_b_skeleton.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_b_skeleton_108d73e0021e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_baby_dragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_baby_dragon_11a499e8dd7c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_balloon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_balloon_7db110cf0ed9.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_barbarian.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_barbarian_71e630447bef.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_barbarian2.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_barbarian2_e0ed2945c834.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_barcher.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_barcher_cef9c57632d1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_bat.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_bat_c80a14ba67ac.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_battle_blimp.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_battle_blimp_62f18a70d56c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_battleram.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_battleram_3913b26d1996.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_beta_minion.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_beta_minion_6fe9fce69f03.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_bob.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_bob_3180ee7dbf8b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_bowler.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_bowler_0efb03fbcfdb.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_cannon_cart.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_cannon_cart_3ca45bbe967b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_cannon_mortar_cart.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_cannon_mortar_cart_549c5d27534e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_dragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_dragon_9f5a80ca18fe.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_dragon_rider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_dragon_rider_5c9a156a5efb.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_drop_ship.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_drop_ship_e00f09e6863c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_druid_bear.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_druid_bear_6884a8dbabcb.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_electro_dragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_electro_dragon_7ea186f126e5.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_electro_fire_wizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_electro_fire_wizard_2a5a0564bed4.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_electro_titan.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_electro_titan_1ccaeaf2c73f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_elephant_rider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_elephant_rider_9a58548aa3b0.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_elite_barbarian.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_elite_barbarian_4985f5d2ef9b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_elite_giant.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_elite_giant_2ee24a3433b1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_firecracker.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_firecracker_b1c064e854ca.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_football_barbarian.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_football_barbarian_fdffa19a25b4.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_football_giant.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_football_giant_7545cec3e472.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_frostmite.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_frostmite_cbc6d909d0b0.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_furnace.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_furnace_85d6cb909e0c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_giant.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_giant_35b31b0af761.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_giant_april25.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_giant_april25_723e768dc260.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_giant_skeleton.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_giant_skeleton_149606e1db5a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_giant2.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_giant2_82b20a3d2b41.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_gingerbread_mini_pekka.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_gingerbread_mini_pekka_63de7110b5c2.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_gingerbread_ram_rider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_gingerbread_ram_rider_f9154b0639b2.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_goblin.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_goblin_93ec098325e9.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_goblin_builder.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_goblin_builder_eabfab4ad639.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_goblin_tax_collector.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_goblin_tax_collector_ded7a9a89afc.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_golem.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_golem_0e2fb6935e7c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_grand_builder.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_grand_builder_5d147a1a4ce5.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_grave_golem.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_grave_golem_61b905e816b9.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_hasty_balloon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_hasty_balloon_d533f0cd6ed4.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_headhunter.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_headhunter_20b94df2871a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_healer.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_healer_c959ffb13ff3.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_hog_glider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_hog_glider_e7a011ae2c28.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_hog_rider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_hog_rider_bc153dc15254.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_hog_wizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_hog_wizard_02b23a47e3b1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_ice_golem.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_ice_golem_aae9869e0a8f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_ice_hound.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_ice_hound_f200ba56281c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_ice_wizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_ice_wizard_39b3997fd1f4.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_lava_hound.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_lava_hound_ddc9037df98e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_lavaloon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_lavaloon_0e3f3b3b972d.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_lny_dragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_lny_dragon_257dafd99373.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_majo.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_majo_c5bfe4c2aba6.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_master_builder.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_master_builder_06a318d8b665.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_mecha.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_mecha_bf574df02e5c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_miner.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_miner_85584538c4fa.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_minion.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_minion_6cd5a1f523d3.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_minion_bouncers.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_minion_bouncers_44f3b7a394c5.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_night_witch.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_night_witch_bc61c4a23d69.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_otto.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_otto_9dd842cc4959.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_party_wizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_party_wizard_a00599d8bba8.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_pekka.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_pekka_fb6ba238c798.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_ram_rider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_ram_rider_6534c0854573.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_root_rider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_root_rider_db69c4d40439.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_royale_ghost.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_royale_ghost_631197637f84.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_rubble_knight.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_rubble_knight_d198f0dfc0b3.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_ruin_witch.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_ruin_witch_3f29373d9483.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_siege_machine_catapult.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_siege_machine_catapult_bb75ca42f067.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_siege_machine_clan_carrier.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_siege_machine_clan_carrier_8e9406a4fb6a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_siege_machine_command_tower.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_siege_machine_command_tower_166504ed194a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_siege_machine_drill.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_siege_machine_drill_06c133373fdb.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_siege_machine_log_launcher.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_siege_machine_log_launcher_f2d397f1d6c1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_siege_machine_ram.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_siege_machine_ram_54164de8e38a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_skeleton.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_skeleton_08ad67f9ba5d.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_skeleton_barrel.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_skeleton_barrel_81c3f5e9f7d1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_skeleton_glider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_skeleton_glider_06d9b1d26d7c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_snake_barrel.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_snake_barrel_7faf0f803da7.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_sneaky_goblin.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_sneaky_goblin_2e92dfbad314.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_spear_goblin.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_spear_goblin_2094f6a671c9.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_split_golem.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_split_golem_51f3a030648f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_stone_slammer.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_stone_slammer_a4592d5b3e9a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_archer.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_archer_182b414983d1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_baby_dragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_baby_dragon_36a2357e634a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_bowler.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_bowler_64afac0a6c0e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_dragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_dragon_f4eea4166f08.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_hog_rider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_hog_rider_b90e9be57172.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_hound.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_hound_0536d9fdb4e6.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_miner.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_miner_db86c021d1d2.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_minion.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_minion_b8874ddd6fb3.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_pekka.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_pekka_013e6c385310.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_valkyrie.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_valkyrie_2f8846ea3dab.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_wallbreaker.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_wallbreaker_58325ab56154.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_witch.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_witch_523f7864a1c0.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_wizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_wizard_e6ace174c08c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_yeti.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_super_yeti_d40aca5b2125.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_thrower.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_thrower_bec507fe3c3e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_totem_thrower.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_totem_thrower_090ccd63e051.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_valkyrie.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_valkyrie_53d87bb9e617.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_wall_breaker.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_wall_breaker_9f799fe08ffb.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_war_machine.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_war_machine_6f30f8d2f023.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_witch.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_witch_f9bbd8cbd8f1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_wizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_wizard_118447ed4ce9.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_worker.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_worker_b2e3e50390a1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_yeti.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_yeti_601a12b66bc8.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_zappies.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_zappies_15707899735e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_zappy_wagon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\chr_zappy_wagon_dab05d7a4d2f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\clouds.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\clouds_2eb83904bf90.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\content.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\content_346838e2a3bc.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\cosmetics_collection.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\cosmetics_collection_64f8038481b9.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\daily_reward.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\daily_reward_edcc2b3c474d.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\debug.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\debug_cb59fa9f008f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\decos_cc.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\decos_cc_b9940c12e9cd.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\decos2.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\decos2_0956e7576f9f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\event_card_collection.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\event_card_collection_1392968b8791.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\event_content.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\event_content_e04b2304bb72.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\event_hub.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\event_hub_87cdd0cae391.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\event_wwe_chest.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\event_wwe_chest_8ae3bd8b353a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\events.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\events_da5d4dc5ade9.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\goblin_builder.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\goblin_builder_37ff7f0ff15f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\goldpass_season_end.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\goldpass_season_end_0c0582c52df7.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\health_bar.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\health_bar_26d2a52f3e8d.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_aq_default.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hero_aq_default_ce142a1fdb81.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_bc_default.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hero_bc_default_777d9e8f7ed9.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_bk_default.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hero_bk_default_a333dd08c305.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_bk_ouzhoubei_xiaobing_dl_opt_02.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hero_bk_ouzhoubei_xiaobing_dl_opt_02_2cf8a45724c1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_bm_winter.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hero_bm_winter_fda1427c120b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_dd_default.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hero_dd_default_45832e8bd312.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_gear.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hero_gear_b834cec675a6.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_gw_default.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hero_gw_default_73130ed03aae.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_mp_default.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hero_mp_default_d06f01394b0b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_rc_default.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hero_rc_default_a4c8392ec59f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_tavern.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hero_tavern_21cdfa56f91b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hud.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\hud_05c4a1f5892e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_ancientelder.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_ancientelder_561cf34fd3ab.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_apprentice.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_apprentice_ed00f5a3e766.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_april25_giant.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_april25_giant_145a38dbd48a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_april25_pekka.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_april25_pekka_390021b337d1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_april25_thrower.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_april25_thrower_ef794560c65a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_april25_valkyrie.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_april25_valkyrie_b82f36b85ea0.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_archer.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_archer_d370ac39f27b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_babydragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_babydragon_ec5a4cd01bd8.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_balloon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_balloon_9d709659e173.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_barbarian.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_barbarian_2efe69861f6e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_barcher.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_barcher_4e4b708d87cf.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_battlecopter.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_battlecopter_a32e98f71849.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_battleram.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_battleram_607f8f947a01.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_bomber.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_bomber_14beb0b0cdac.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_broom_witch.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_broom_witch_3b86f63543dc.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_cookie_pekka.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_cookie_pekka_df7698553051.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_cookie_ramrider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_cookie_ramrider_ca3030a2a7ec.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_dragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_dragon_ccdabef19739.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_dragon_rider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_dragon_rider_40991fbe7a56.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_druid_bear.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_druid_bear_e8ea544b9fd2.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_electro_dragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_electro_dragon_ede9f2831a04.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_electro_titan.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_electro_titan_10a81487c77f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_electrofire_wizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_electrofire_wizard_389f98064830.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elephant_rider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elephant_rider_7ae86cf04491.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_archer.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elite_archer_81a1f3a66b37.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_barbarian.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elite_barbarian_f6671af4056a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_bowler.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elite_bowler_da8e3b59fe34.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_hogrider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elite_hogrider_5d8e740f5ee6.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_icehound.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elite_icehound_7c93bdc5e005.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_infernodragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elite_infernodragon_ea9158355cd5.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_miner.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elite_miner_dfcccb22b62f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_minion.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elite_minion_894dc1cd5db3.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_valkyrie.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elite_valkyrie_a8488efb0924.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_witch.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elite_witch_a2f5d61a7c62.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elite_wizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elite_wizard_852605305088.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elprimo.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_elprimo_c8a83453ca37.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_firecracker.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_firecracker_acb48424e0de.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_flying_fortress.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_flying_fortress_260a907506f5.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_football_barbarian.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_football_barbarian_5be0bd88d91e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_football_giant.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_football_giant_46b6f06f706d.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_furnace.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_furnace_78d86d254ffb.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_giant.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_giant_120afdd3f934.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_giant_elite.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_giant_elite_1623259e514d.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_giant_skeleton.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_giant_skeleton_1a233b2b6c85.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_glowing_minion.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_glowing_minion_a9d968be0285.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_goblin.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_goblin_da19b55d0ba2.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_goblin_elite.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_goblin_elite_a6460573b65a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_goblin_tax_collector.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_goblin_tax_collector_fbd229535262.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_golem.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_golem_dff2525f412b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_headhunter.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_headhunter_1e795d73973c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_healer.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_healer_dd8a6d4264cc.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_hog_glider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_hog_glider_6da7ee2ac35c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_hogrider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_hogrider_e8a0943d1766.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_hogwizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_hogwizard_3bcaac55063c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_ice_golem.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_ice_golem_7130b1cf635c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_ice_minion.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_ice_minion_c67a5692f20a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_icewizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_icewizard_04a9f96e6ebd.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_ironfist_giant.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_ironfist_giant_2b9f0f7aaa80.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_jolly_ram_rider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_jolly_ram_rider_95ab56e6ae3a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_lavaloon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_lavaloon_7ca108b8eba1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_lny_dragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_lny_dragon_1364026cb9d1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_mecha.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_mecha_cea2f2451ea7.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_meteor_golem.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_meteor_golem_8eeea0552491.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_miner.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_miner_104b49c7b191.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_minion.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_minion_78a2aaa61bd8.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_minion_bouncers.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_minion_bouncers_9e49e2fe4806.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_minion_prince.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_minion_prince_2bf2bba102f0.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_mountain_golem.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_mountain_golem_e9de516d9943.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_moving_cannon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_moving_cannon_3dfaa56f4cfb.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_nightwitch.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_nightwitch_220bae3cf59e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_party_wizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_party_wizard_3a7aa40b8a72.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pekka.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pekka_b08022d15814.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_diggy.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_diggy_32a96c5c4518.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_electro_owl.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_electro_owl_28ae2055c87d.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_frosty.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_frosty_cb3cf027943f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_lassi.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_lassi_f4273ceb39af.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_mightyyak.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_mightyyak_f26fa7d892ae.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_phasefennec.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_phasefennec_eb6c042fb040.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_phoenix.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_phoenix_81bd595fd98b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_poison_lizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_poison_lizard_04273323a9cd.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_rage_jelly.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_rage_jelly_31caaabf8bd2.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_raven.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_raven_f4f4f6cba9b6.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_sneezy.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_sneezy_972659bf8c3e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_unicorn.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pet_unicorn_ac0fdccb56df.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pumpkin_barbarian.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_pumpkin_barbarian_057885ba7268.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_raged_barbarian.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_raged_barbarian_5ad7567a01a8.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_rocket_balloon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_rocket_balloon_872fd71d6bb5.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_rocketeer.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_rocketeer_099cc192afb2.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_root_rider.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_root_rider_a2e7fe3e944d.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_royal_champion.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_royal_champion_61f60fea769b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_royale_ghost.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_royale_ghost_03506885bdbf.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_ruin_witch.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_ruin_witch_865c3cc90943.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_siege_clan_carrier.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_siege_clan_carrier_632dda347d88.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_siege_machine_air_troop_launcher.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_siege_machine_air_troop_launcher_4872772d1660.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_siege_machine_balloon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_siege_machine_balloon_9ce9c09d29a9.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_siege_machine_battledrill.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_siege_machine_battledrill_71f9e8f5b2f5.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_siege_machine_catapult.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_siege_machine_catapult_f872ab46a36c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_siege_machine_commandtower.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_siege_machine_commandtower_b84938c012b7.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_siege_machine_flyer.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_siege_machine_flyer_60abd00ffcab.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_siege_machine_loglauncher.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_siege_machine_loglauncher_e6b472f30ab7.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_siege_machine_ram.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_siege_machine_ram_bde35b2a16f7.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_skeleton_barrel.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_skeleton_barrel_3c467b7c3785.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_snake_barrel.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_snake_barrel_94d0e5673905.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_sneaky_archer.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_sneaky_archer_86e12d8daea7.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_spear_goblin.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_spear_goblin_333ae96a2678.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_super_charged_pekka.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_super_charged_pekka_953ae695d9d7.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_super_dragon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_super_dragon_89a3b8d1e76c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_super_yeti.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_super_yeti_6e3475958c44.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_thrower.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_thrower_10424348258e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_tiny.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_tiny_8997f9dfd00b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_totem_thrower.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_totem_thrower_a4131f999932.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_troll.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_troll_a1e3366e3876.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_undeadwrestler.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_undeadwrestler_6696361df59a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_valkyrie.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_valkyrie_954d49c95f7c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_wallbreaker.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_wallbreaker_79368d76abfc.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_wallbreaker_elite.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_wallbreaker_elite_b626d5626bda.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_warmachine.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_warmachine_fa34d6ca1e65.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_witch.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_witch_083522e0f498.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_witchgolem.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_witchgolem_743f8db324db.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_wizard.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_wizard_5f8c15ae027b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_yeti.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_yeti_aca80965974e.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_zappie.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_zappie_9c6accf6b5c0.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_zappywagon.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\info_zappywagon_3e0f410f8fee.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\loading.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\loading_5e2b50e1a49a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\map.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\map_631035ceafc1.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\map_cc.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\map_cc_5419e501f0a6.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\matchsearch.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\matchsearch_d1ea684f0441.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\medal_event_supertroop.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\medal_event_supertroop_b60152c449c3.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\overlay.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\overlay_180747d5a95c.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\pet_crow_default.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\pet_crow_default_ddb1d5f7a496.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\random_reward.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\random_reward_72a507a03e60.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\shop.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\shop_ff7b068a8923.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\special_challenge.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\special_challenge_be7feb6205d6.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\streak_event.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\streak_event_5e77cb804887.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\supercell_id.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\supercell_id_ec67a6b048ed.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\tutorial_character_grand_builder.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\tutorial_character_grand_builder_c0e619f48197.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\tutorial_character_neutral.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\tutorial_character_neutral_dcc1e6f9a4db.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\tutorial_characters.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\tutorial_characters_e10ee9b2855b.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\tutorial_characters_v2.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\tutorial_characters_v2_8716e2cdc66a.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\tutorial2.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\tutorial2_14b4c01dcf2f.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\ui.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\ui_91d5bcf7fbc0.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\ui_bb2.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\ui_bb2_2e72ae4d9d86.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\ui_cc.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\ui_cc_2eeeb101b244.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\update.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\update_082958637312.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\vfx_character.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\vfx_character_0d3b88b0b742.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\vfx_env.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\vfx_env_09b216235bcb.json"
+    },
+    {
+      "file": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\vfx_spells.sc",
+      "status": "ok",
+      "output": "C:\\Users\\Wega\\Desktop\\new_project\\SC_Decoder_v1\\decoded_sc_json\\vfx_spells_8c5d2e8154b4.json"
+    }
+  ]
+}

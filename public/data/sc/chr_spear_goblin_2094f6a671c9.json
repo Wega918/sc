@@ -1,0 +1,175 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_spear_goblin.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_spear_goblin.sc",
+  "sha256_container": "2094f6a671c90018b2234e44274afd6be404cd3727f8a5e9a388daa0acda9073",
+  "sha256_descriptor": "4710bdc735950e029ff9368483f770b614289501154ee854b5c329db36618ed1",
+  "sha256_decoded_payload": "083fa015ee47d3bd19d98eb6eea788ec7a8b28398cc749b8bb8a2a16f2c11b78",
+  "version": 6,
+  "descriptor_bytes": 660,
+  "compressed_frame_bytes": 4373,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 13896,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 67
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 9
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 8644
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 2572
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 4376
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 148,
+      "value": "spear_goblin1_run1_3"
+    },
+    {
+      "offset": 208,
+      "value": "spear_goblin1_run1_2"
+    },
+    {
+      "offset": 268,
+      "value": "spear_goblin1_run1_1"
+    },
+    {
+      "offset": 328,
+      "value": "spear_goblin1_idle1_3"
+    },
+    {
+      "offset": 388,
+      "value": "spear_goblin1_idle1_2"
+    },
+    {
+      "offset": 448,
+      "value": "spear_goblin1_idle1_1"
+    },
+    {
+      "offset": 508,
+      "value": "spear_goblin1_attack1_3"
+    },
+    {
+      "offset": 568,
+      "value": "spear_goblin1_attack1_2"
+    },
+    {
+      "offset": 636,
+      "value": "spear_goblin1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "spear_goblin1_run1_3",
+    "spear_goblin1_run1_2",
+    "spear_goblin1_run1_1",
+    "spear_goblin1_idle1_3",
+    "spear_goblin1_idle1_2",
+    "spear_goblin1_idle1_1",
+    "spear_goblin1_attack1_3",
+    "spear_goblin1_attack1_2",
+    "spear_goblin1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 929,
+      "value": "CGN"
+    },
+    {
+      "offset": 952,
+      "value": "RFGN"
+    },
+    {
+      "offset": 5321,
+      "value": "D0q"
+    },
+    {
+      "offset": 5345,
+      "value": "L0q"
+    },
+    {
+      "offset": 8388,
+      "value": "spear_goblin1_run1_3"
+    },
+    {
+      "offset": 8416,
+      "value": "spear_goblin1_run1_2"
+    },
+    {
+      "offset": 8444,
+      "value": "spear_goblin1_run1_1"
+    },
+    {
+      "offset": 8472,
+      "value": "spear_goblin1_idle1_3"
+    },
+    {
+      "offset": 8500,
+      "value": "spear_goblin1_attack1_3"
+    },
+    {
+      "offset": 8528,
+      "value": "spear_goblin1_idle1_2"
+    },
+    {
+      "offset": 8556,
+      "value": "spear_goblin1_idle1_1"
+    },
+    {
+      "offset": 8584,
+      "value": "spear_goblin1_attack1_2"
+    },
+    {
+      "offset": 8612,
+      "value": "spear_goblin1_attack1_1"
+    },
+    {
+      "offset": 13872,
+      "value": "chr_spear_goblin_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000430000000900000001000000c42100000c0a0000",
+  "decoded_preview_hex": "c021000018000000000012001400040000000000000008000c0010001200000074200000bc150000c402000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

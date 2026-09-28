@@ -1,0 +1,468 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "goblin_builder.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\goblin_builder.sc",
+  "sha256_container": "37ff7f0ff15faf288610be1a3b8214a32ac79ef3053068d6e3a3ad9a4b448a44",
+  "sha256_descriptor": "57d7a21728db17e92d98a536f4db1ae511bdfd89e107cb42d34c5da42008c20d",
+  "sha256_decoded_payload": "33b40650a073cbdb191e61009a353e08e12cb09de60e950af779d5400a36e812",
+  "version": 6,
+  "descriptor_bytes": 148,
+  "compressed_frame_bytes": 119211,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 313516,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 14
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 16
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 9
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 14076
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 291752
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 119216
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "goblin_builder_ui"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "goblin_builder_ui"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 844,
+      "value": "ff6@"
+    },
+    {
+      "offset": 916,
+      "value": "ffV@"
+    },
+    {
+      "offset": 988,
+      "value": "ffv@"
+    },
+    {
+      "offset": 1996,
+      "value": "ff.A"
+    },
+    {
+      "offset": 2068,
+      "value": "ff6A"
+    },
+    {
+      "offset": 2212,
+      "value": "ffFA"
+    },
+    {
+      "offset": 2716,
+      "value": "fff@"
+    },
+    {
+      "offset": 7848,
+      "value": "ff5C"
+    },
+    {
+      "offset": 8191,
+      "value": "DF4"
+    },
+    {
+      "offset": 13616,
+      "value": "close_button"
+    },
+    {
+      "offset": 13636,
+      "value": "disclaimer"
+    },
+    {
+      "offset": 13652,
+      "value": "text"
+    },
+    {
+      "offset": 13664,
+      "value": "button_group"
+    },
+    {
+      "offset": 13684,
+      "value": "bubble_base_small"
+    },
+    {
+      "offset": 13708,
+      "value": "bubble_base"
+    },
+    {
+      "offset": 13724,
+      "value": "goblin"
+    },
+    {
+      "offset": 13736,
+      "value": "bounds_tablet"
+    },
+    {
+      "offset": 13756,
+      "value": "bounds"
+    },
+    {
+      "offset": 13769,
+      "value": "_button"
+    },
+    {
+      "offset": 13785,
+      "value": "_button"
+    },
+    {
+      "offset": 13800,
+      "value": "gem_button_timer"
+    },
+    {
+      "offset": 13824,
+      "value": "gem_button_goblin_builder"
+    },
+    {
+      "offset": 13856,
+      "value": "gem_button"
+    },
+    {
+      "offset": 13872,
+      "value": "title"
+    },
+    {
+      "offset": 13884,
+      "value": "currency_switcher"
+    },
+    {
+      "offset": 13908,
+      "value": "cost"
+    },
+    {
+      "offset": 13920,
+      "value": "gold"
+    },
+    {
+      "offset": 13932,
+      "value": "elixir"
+    },
+    {
+      "offset": 13952,
+      "value": "medal"
+    },
+    {
+      "offset": 13964,
+      "value": "gem"
+    },
+    {
+      "offset": 13972,
+      "value": "bubble_end"
+    },
+    {
+      "offset": 13988,
+      "value": "bubble_main"
+    },
+    {
+      "offset": 14004,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 14028,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 14048,
+      "value": "goblin_builder_ui"
+    },
+    {
+      "offset": 25462,
+      "value": "P@@"
+    },
+    {
+      "offset": 28230,
+      "value": "xB@@@"
+    },
+    {
+      "offset": 30635,
+      "value": "SbI"
+    },
+    {
+      "offset": 71446,
+      "value": "QC@"
+    },
+    {
+      "offset": 154976,
+      "value": "Wqgr"
+    },
+    {
+      "offset": 155963,
+      "value": "a1I"
+    },
+    {
+      "offset": 156785,
+      "value": "yMb D"
+    },
+    {
+      "offset": 157530,
+      "value": "epo"
+    },
+    {
+      "offset": 159313,
+      "value": "AOV"
+    },
+    {
+      "offset": 161295,
+      "value": "MMyWl"
+    },
+    {
+      "offset": 163761,
+      "value": "mQj"
+    },
+    {
+      "offset": 166872,
+      "value": "oJI"
+    },
+    {
+      "offset": 167449,
+      "value": "jTzn"
+    },
+    {
+      "offset": 170421,
+      "value": "A7 "
+    },
+    {
+      "offset": 170692,
+      "value": "xFB"
+    },
+    {
+      "offset": 170730,
+      "value": "r0_"
+    },
+    {
+      "offset": 172689,
+      "value": "Igx"
+    },
+    {
+      "offset": 174250,
+      "value": "N4s"
+    },
+    {
+      "offset": 177103,
+      "value": "u+mWp"
+    },
+    {
+      "offset": 178192,
+      "value": "px6:"
+    },
+    {
+      "offset": 178609,
+      "value": "cMf"
+    },
+    {
+      "offset": 180008,
+      "value": "nyJ"
+    },
+    {
+      "offset": 183760,
+      "value": "Coav"
+    },
+    {
+      "offset": 187560,
+      "value": "ogI"
+    },
+    {
+      "offset": 190257,
+      "value": "yUv"
+    },
+    {
+      "offset": 192417,
+      "value": "aMn@@"
+    },
+    {
+      "offset": 193617,
+      "value": "cin"
+    },
+    {
+      "offset": 196097,
+      "value": "eIt"
+    },
+    {
+      "offset": 196826,
+      "value": "_E_"
+    },
+    {
+      "offset": 201009,
+      "value": "aMf"
+    },
+    {
+      "offset": 201914,
+      "value": "XRo"
+    },
+    {
+      "offset": 206145,
+      "value": "f.2"
+    },
+    {
+      "offset": 211981,
+      "value": "CCx"
+    },
+    {
+      "offset": 215176,
+      "value": "yKj"
+    },
+    {
+      "offset": 215809,
+      "value": "N9v"
+    },
+    {
+      "offset": 216687,
+      "value": "I96"
+    },
+    {
+      "offset": 216890,
+      "value": "zXo"
+    },
+    {
+      "offset": 217889,
+      "value": "Acz"
+    },
+    {
+      "offset": 218998,
+      "value": "G@D"
+    },
+    {
+      "offset": 219722,
+      "value": "dg_"
+    },
+    {
+      "offset": 220177,
+      "value": "jCr"
+    },
+    {
+      "offset": 221240,
+      "value": "TXRbo"
+    },
+    {
+      "offset": 223217,
+      "value": "H+d"
+    },
+    {
+      "offset": 223258,
+      "value": "aE_"
+    },
+    {
+      "offset": 223322,
+      "value": "dK_"
+    },
+    {
+      "offset": 224170,
+      "value": "gI_"
+    },
+    {
+      "offset": 224316,
+      "value": "cAY."
+    },
+    {
+      "offset": 224720,
+      "value": "Geer@"
+    },
+    {
+      "offset": 225482,
+      "value": "Hu_"
+    },
+    {
+      "offset": 225937,
+      "value": "sGl"
+    },
+    {
+      "offset": 226881,
+      "value": "Tv "
+    },
+    {
+      "offset": 228652,
+      "value": "cAY."
+    },
+    {
+      "offset": 229994,
+      "value": "d9_"
+    },
+    {
+      "offset": 232385,
+      "value": "kEl"
+    },
+    {
+      "offset": 234922,
+      "value": "n1n"
+    },
+    {
+      "offset": 235577,
+      "value": "xnc_"
+    },
+    {
+      "offset": 235639,
+      "value": "zADD"
+    },
+    {
+      "offset": 237288,
+      "value": "nQf"
+    },
+    {
+      "offset": 238210,
+      "value": "tU "
+    },
+    {
+      "offset": 239082,
+      "value": "u_n"
+    },
+    {
+      "offset": 250626,
+      "value": "xQ8"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000e000000100000000100000009000000fc360000",
+  "decoded_preview_hex": "f83600001800000000001200180004000000000008000c00100014001200000098340000603400008c270000bc1f000004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

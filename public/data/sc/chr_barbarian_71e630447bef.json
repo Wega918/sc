@@ -1,0 +1,1774 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_barbarian.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_barbarian.sc",
+  "sha256_container": "71e630447befa772bff3bb2ae2ea359916cc5ddcc05988796710406de7ce9de8",
+  "sha256_descriptor": "211b56a38971df5a3241460149d8d824f83c508703db9e5824a8bc1ff6db305d",
+  "sha256_decoded_payload": "c414afe907192fcf584b8ebc4b721c9b7c0dbb3b599b89078127211bab5fb405",
+  "version": 6,
+  "descriptor_bytes": 11340,
+  "compressed_frame_bytes": 54981,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 187216,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 1023
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 180
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 118720
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 38260
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 54984
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 832,
+      "value": "barbarian9_run_3"
+    },
+    {
+      "offset": 888,
+      "value": "barbarian9_run_2"
+    },
+    {
+      "offset": 944,
+      "value": "barbarian9_run_1"
+    },
+    {
+      "offset": 1000,
+      "value": "barbarian9_idle1_3"
+    },
+    {
+      "offset": 1056,
+      "value": "barbarian9_idle1_2"
+    },
+    {
+      "offset": 1112,
+      "value": "barbarian9_idle1_1"
+    },
+    {
+      "offset": 1168,
+      "value": "barbarian9_cheer1_3"
+    },
+    {
+      "offset": 1224,
+      "value": "barbarian9_cheer1_2"
+    },
+    {
+      "offset": 1280,
+      "value": "barbarian9_cheer1_1"
+    },
+    {
+      "offset": 1336,
+      "value": "barbarian9_attack2_3"
+    },
+    {
+      "offset": 1396,
+      "value": "barbarian9_attack2_2"
+    },
+    {
+      "offset": 1456,
+      "value": "barbarian9_attack2_1"
+    },
+    {
+      "offset": 1516,
+      "value": "barbarian9_attack1_3"
+    },
+    {
+      "offset": 1576,
+      "value": "barbarian9_attack1_2"
+    },
+    {
+      "offset": 1636,
+      "value": "barbarian9_attack1_1"
+    },
+    {
+      "offset": 1696,
+      "value": "barbarian8_run_3"
+    },
+    {
+      "offset": 1752,
+      "value": "barbarian8_run_2"
+    },
+    {
+      "offset": 1808,
+      "value": "barbarian8_run_1"
+    },
+    {
+      "offset": 1864,
+      "value": "barbarian8_idle1_3"
+    },
+    {
+      "offset": 1920,
+      "value": "barbarian8_idle1_2"
+    },
+    {
+      "offset": 1976,
+      "value": "barbarian8_idle1_1"
+    },
+    {
+      "offset": 2032,
+      "value": "barbarian8_cheer1_3"
+    },
+    {
+      "offset": 2088,
+      "value": "barbarian8_cheer1_2"
+    },
+    {
+      "offset": 2144,
+      "value": "barbarian8_cheer1_1"
+    },
+    {
+      "offset": 2200,
+      "value": "barbarian8_attack2_3"
+    },
+    {
+      "offset": 2260,
+      "value": "barbarian8_attack2_2"
+    },
+    {
+      "offset": 2320,
+      "value": "barbarian8_attack2_1"
+    },
+    {
+      "offset": 2380,
+      "value": "barbarian8_attack1_3"
+    },
+    {
+      "offset": 2440,
+      "value": "barbarian8_attack1_2"
+    },
+    {
+      "offset": 2500,
+      "value": "barbarian8_attack1_1"
+    },
+    {
+      "offset": 2560,
+      "value": "barbarian7_run_3"
+    },
+    {
+      "offset": 2616,
+      "value": "barbarian7_run_2"
+    },
+    {
+      "offset": 2672,
+      "value": "barbarian7_run_1"
+    },
+    {
+      "offset": 2728,
+      "value": "barbarian7_pumpkin_run_3"
+    },
+    {
+      "offset": 2792,
+      "value": "barbarian7_pumpkin_run_2"
+    },
+    {
+      "offset": 2856,
+      "value": "barbarian7_pumpkin_run_1"
+    },
+    {
+      "offset": 2920,
+      "value": "barbarian7_pumpkin_idle1_3"
+    },
+    {
+      "offset": 2984,
+      "value": "barbarian7_pumpkin_idle1_2"
+    },
+    {
+      "offset": 3048,
+      "value": "barbarian7_pumpkin_idle1_1"
+    },
+    {
+      "offset": 3112,
+      "value": "barbarian7_pumpkin_cheer1_3"
+    },
+    {
+      "offset": 3176,
+      "value": "barbarian7_pumpkin_cheer1_2"
+    },
+    {
+      "offset": 3240,
+      "value": "barbarian7_pumpkin_cheer1_1"
+    },
+    {
+      "offset": 3304,
+      "value": "barbarian7_pumpkin_attack2_3"
+    },
+    {
+      "offset": 3372,
+      "value": "barbarian7_pumpkin_attack2_2"
+    },
+    {
+      "offset": 3440,
+      "value": "barbarian7_pumpkin_attack2_1"
+    },
+    {
+      "offset": 3508,
+      "value": "barbarian7_pumpkin_attack1_3"
+    },
+    {
+      "offset": 3576,
+      "value": "barbarian7_pumpkin_attack1_2"
+    },
+    {
+      "offset": 3644,
+      "value": "barbarian7_pumpkin_attack1_1"
+    },
+    {
+      "offset": 3712,
+      "value": "barbarian7_idle1_3"
+    },
+    {
+      "offset": 3768,
+      "value": "barbarian7_idle1_2"
+    },
+    {
+      "offset": 3824,
+      "value": "barbarian7_idle1_1"
+    },
+    {
+      "offset": 3880,
+      "value": "barbarian7_cheer1_3"
+    },
+    {
+      "offset": 3936,
+      "value": "barbarian7_cheer1_2"
+    },
+    {
+      "offset": 3992,
+      "value": "barbarian7_cheer1_1"
+    },
+    {
+      "offset": 4048,
+      "value": "barbarian7_attack2_3"
+    },
+    {
+      "offset": 4108,
+      "value": "barbarian7_attack2_2"
+    },
+    {
+      "offset": 4168,
+      "value": "barbarian7_attack2_1"
+    },
+    {
+      "offset": 4228,
+      "value": "barbarian7_attack1_3"
+    },
+    {
+      "offset": 4288,
+      "value": "barbarian7_attack1_2"
+    },
+    {
+      "offset": 4348,
+      "value": "barbarian7_attack1_1"
+    },
+    {
+      "offset": 4408,
+      "value": "barbarian6_run_3"
+    },
+    {
+      "offset": 4464,
+      "value": "barbarian6_run_2"
+    },
+    {
+      "offset": 4520,
+      "value": "barbarian6_run_1"
+    },
+    {
+      "offset": 4576,
+      "value": "barbarian6_idle1_3"
+    },
+    {
+      "offset": 4632,
+      "value": "barbarian6_idle1_2"
+    },
+    {
+      "offset": 4688,
+      "value": "barbarian6_idle1_1"
+    },
+    {
+      "offset": 4744,
+      "value": "barbarian6_cheer1_3"
+    },
+    {
+      "offset": 4800,
+      "value": "barbarian6_cheer1_2"
+    },
+    {
+      "offset": 4856,
+      "value": "barbarian6_cheer1_1"
+    },
+    {
+      "offset": 4912,
+      "value": "barbarian6_attack2_3"
+    },
+    {
+      "offset": 4972,
+      "value": "barbarian6_attack2_2"
+    },
+    {
+      "offset": 5032,
+      "value": "barbarian6_attack2_1"
+    },
+    {
+      "offset": 5092,
+      "value": "barbarian6_attack1_3"
+    },
+    {
+      "offset": 5152,
+      "value": "barbarian6_attack1_2"
+    },
+    {
+      "offset": 5212,
+      "value": "barbarian6_attack1_1"
+    },
+    {
+      "offset": 5272,
+      "value": "barbarian5_run_3"
+    },
+    {
+      "offset": 5328,
+      "value": "barbarian5_run_2"
+    },
+    {
+      "offset": 5384,
+      "value": "barbarian5_run_1"
+    },
+    {
+      "offset": 5440,
+      "value": "barbarian5_idle1_3"
+    },
+    {
+      "offset": 5496,
+      "value": "barbarian5_idle1_2"
+    },
+    {
+      "offset": 5552,
+      "value": "barbarian5_idle1_1"
+    },
+    {
+      "offset": 5608,
+      "value": "barbarian5_cheer1_3"
+    },
+    {
+      "offset": 5664,
+      "value": "barbarian5_cheer1_2"
+    },
+    {
+      "offset": 5720,
+      "value": "barbarian5_cheer1_1"
+    },
+    {
+      "offset": 5776,
+      "value": "barbarian5_attack2_3"
+    },
+    {
+      "offset": 5836,
+      "value": "barbarian5_attack2_2"
+    },
+    {
+      "offset": 5896,
+      "value": "barbarian5_attack2_1"
+    },
+    {
+      "offset": 5956,
+      "value": "barbarian5_attack1_3"
+    },
+    {
+      "offset": 6016,
+      "value": "barbarian5_attack1_2"
+    },
+    {
+      "offset": 6076,
+      "value": "barbarian5_attack1_1"
+    },
+    {
+      "offset": 6136,
+      "value": "barbarian3_run_3"
+    },
+    {
+      "offset": 6192,
+      "value": "barbarian3_run_2"
+    },
+    {
+      "offset": 6248,
+      "value": "barbarian3_run_1"
+    },
+    {
+      "offset": 6304,
+      "value": "barbarian3_idle1_3"
+    },
+    {
+      "offset": 6360,
+      "value": "barbarian3_idle1_2"
+    },
+    {
+      "offset": 6416,
+      "value": "barbarian3_idle1_1"
+    },
+    {
+      "offset": 6472,
+      "value": "barbarian3_cheer1_3"
+    },
+    {
+      "offset": 6528,
+      "value": "barbarian3_cheer1_2"
+    },
+    {
+      "offset": 6584,
+      "value": "barbarian3_cheer1_1"
+    },
+    {
+      "offset": 6640,
+      "value": "barbarian3_attack2_3"
+    },
+    {
+      "offset": 6700,
+      "value": "barbarian3_attack2_2"
+    },
+    {
+      "offset": 6760,
+      "value": "barbarian3_attack2_1"
+    },
+    {
+      "offset": 6820,
+      "value": "barbarian3_attack1_3"
+    },
+    {
+      "offset": 6880,
+      "value": "barbarian3_attack1_2"
+    },
+    {
+      "offset": 6940,
+      "value": "barbarian3_attack1_1"
+    },
+    {
+      "offset": 7000,
+      "value": "barbarian1_run_3"
+    },
+    {
+      "offset": 7056,
+      "value": "barbarian1_run_2"
+    },
+    {
+      "offset": 7112,
+      "value": "barbarian1_run_1"
+    },
+    {
+      "offset": 7168,
+      "value": "barbarian1_idle1_3"
+    },
+    {
+      "offset": 7224,
+      "value": "barbarian1_idle1_2"
+    },
+    {
+      "offset": 7280,
+      "value": "barbarian1_idle1_1"
+    },
+    {
+      "offset": 7336,
+      "value": "barbarian1_cheer1_3"
+    },
+    {
+      "offset": 7392,
+      "value": "barbarian1_cheer1_2"
+    },
+    {
+      "offset": 7448,
+      "value": "barbarian1_cheer1_1"
+    },
+    {
+      "offset": 7504,
+      "value": "barbarian1_attack2_3"
+    },
+    {
+      "offset": 7564,
+      "value": "barbarian1_attack2_2"
+    },
+    {
+      "offset": 7624,
+      "value": "barbarian1_attack2_1"
+    },
+    {
+      "offset": 7684,
+      "value": "barbarian1_attack1_3"
+    },
+    {
+      "offset": 7744,
+      "value": "barbarian1_attack1_2"
+    },
+    {
+      "offset": 7804,
+      "value": "barbarian1_attack1_1"
+    },
+    {
+      "offset": 7864,
+      "value": "barbarian13_run_3"
+    },
+    {
+      "offset": 7920,
+      "value": "barbarian13_run_2"
+    },
+    {
+      "offset": 7976,
+      "value": "barbarian13_run_1"
+    },
+    {
+      "offset": 8032,
+      "value": "barbarian13_idle1_3"
+    },
+    {
+      "offset": 8088,
+      "value": "barbarian13_idle1_2"
+    },
+    {
+      "offset": 8144,
+      "value": "barbarian13_idle1_1"
+    },
+    {
+      "offset": 8200,
+      "value": "barbarian13_cheer1_3"
+    },
+    {
+      "offset": 8260,
+      "value": "barbarian13_cheer1_2"
+    },
+    {
+      "offset": 8320,
+      "value": "barbarian13_cheer1_1"
+    },
+    {
+      "offset": 8380,
+      "value": "barbarian13_attack2_3"
+    },
+    {
+      "offset": 8440,
+      "value": "barbarian13_attack2_2"
+    },
+    {
+      "offset": 8500,
+      "value": "barbarian13_attack2_1"
+    },
+    {
+      "offset": 8560,
+      "value": "barbarian13_attack1_3"
+    },
+    {
+      "offset": 8620,
+      "value": "barbarian13_attack1_2"
+    },
+    {
+      "offset": 8680,
+      "value": "barbarian13_attack1_1"
+    },
+    {
+      "offset": 8740,
+      "value": "barbarian12_run_3"
+    },
+    {
+      "offset": 8796,
+      "value": "barbarian12_run_2"
+    },
+    {
+      "offset": 8852,
+      "value": "barbarian12_run_1"
+    },
+    {
+      "offset": 8908,
+      "value": "barbarian12_idle1_3"
+    },
+    {
+      "offset": 8964,
+      "value": "barbarian12_idle1_2"
+    },
+    {
+      "offset": 9020,
+      "value": "barbarian12_idle1_1"
+    },
+    {
+      "offset": 9076,
+      "value": "barbarian12_cheer1_3"
+    },
+    {
+      "offset": 9136,
+      "value": "barbarian12_cheer1_2"
+    },
+    {
+      "offset": 9196,
+      "value": "barbarian12_cheer1_1"
+    },
+    {
+      "offset": 9256,
+      "value": "barbarian12_attack2_3"
+    },
+    {
+      "offset": 9316,
+      "value": "barbarian12_attack2_2"
+    },
+    {
+      "offset": 9376,
+      "value": "barbarian12_attack2_1"
+    },
+    {
+      "offset": 9436,
+      "value": "barbarian12_attack1_3"
+    },
+    {
+      "offset": 9496,
+      "value": "barbarian12_attack1_2"
+    },
+    {
+      "offset": 9556,
+      "value": "barbarian12_attack1_1"
+    },
+    {
+      "offset": 9616,
+      "value": "barbarian11_run_3"
+    },
+    {
+      "offset": 9672,
+      "value": "barbarian11_run_2"
+    },
+    {
+      "offset": 9728,
+      "value": "barbarian11_run_1"
+    },
+    {
+      "offset": 9784,
+      "value": "barbarian11_idle1_3"
+    },
+    {
+      "offset": 9840,
+      "value": "barbarian11_idle1_2"
+    },
+    {
+      "offset": 9896,
+      "value": "barbarian11_idle1_1"
+    },
+    {
+      "offset": 9952,
+      "value": "barbarian11_cheer1_3"
+    },
+    {
+      "offset": 10012,
+      "value": "barbarian11_cheer1_2"
+    },
+    {
+      "offset": 10072,
+      "value": "barbarian11_cheer1_1"
+    },
+    {
+      "offset": 10132,
+      "value": "barbarian11_attack2_3"
+    },
+    {
+      "offset": 10192,
+      "value": "barbarian11_attack2_2"
+    },
+    {
+      "offset": 10252,
+      "value": "barbarian11_attack2_1"
+    },
+    {
+      "offset": 10312,
+      "value": "barbarian11_attack1_3"
+    },
+    {
+      "offset": 10372,
+      "value": "barbarian11_attack1_2"
+    },
+    {
+      "offset": 10432,
+      "value": "barbarian11_attack1_1"
+    },
+    {
+      "offset": 10492,
+      "value": "barbarian10_run_3"
+    },
+    {
+      "offset": 10548,
+      "value": "barbarian10_run_2"
+    },
+    {
+      "offset": 10604,
+      "value": "barbarian10_run_1"
+    },
+    {
+      "offset": 10660,
+      "value": "barbarian10_idle1_3"
+    },
+    {
+      "offset": 10716,
+      "value": "barbarian10_idle1_2"
+    },
+    {
+      "offset": 10772,
+      "value": "barbarian10_idle1_1"
+    },
+    {
+      "offset": 10828,
+      "value": "barbarian10_cheer1_3"
+    },
+    {
+      "offset": 10888,
+      "value": "barbarian10_cheer1_2"
+    },
+    {
+      "offset": 10948,
+      "value": "barbarian10_cheer1_1"
+    },
+    {
+      "offset": 11008,
+      "value": "barbarian10_attack2_3"
+    },
+    {
+      "offset": 11068,
+      "value": "barbarian10_attack2_2"
+    },
+    {
+      "offset": 11128,
+      "value": "barbarian10_attack2_1"
+    },
+    {
+      "offset": 11188,
+      "value": "barbarian10_attack1_3"
+    },
+    {
+      "offset": 11248,
+      "value": "barbarian10_attack1_2"
+    },
+    {
+      "offset": 11316,
+      "value": "barbarian10_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "barbarian9_run_3",
+    "barbarian9_run_2",
+    "barbarian9_run_1",
+    "barbarian9_idle1_3",
+    "barbarian9_idle1_2",
+    "barbarian9_idle1_1",
+    "barbarian9_cheer1_3",
+    "barbarian9_cheer1_2",
+    "barbarian9_cheer1_1",
+    "barbarian9_attack2_3",
+    "barbarian9_attack2_2",
+    "barbarian9_attack2_1",
+    "barbarian9_attack1_3",
+    "barbarian9_attack1_2",
+    "barbarian9_attack1_1",
+    "barbarian8_run_3",
+    "barbarian8_run_2",
+    "barbarian8_run_1",
+    "barbarian8_idle1_3",
+    "barbarian8_idle1_2",
+    "barbarian8_idle1_1",
+    "barbarian8_cheer1_3",
+    "barbarian8_cheer1_2",
+    "barbarian8_cheer1_1",
+    "barbarian8_attack2_3",
+    "barbarian8_attack2_2",
+    "barbarian8_attack2_1",
+    "barbarian8_attack1_3",
+    "barbarian8_attack1_2",
+    "barbarian8_attack1_1",
+    "barbarian7_run_3",
+    "barbarian7_run_2",
+    "barbarian7_run_1",
+    "barbarian7_pumpkin_run_3",
+    "barbarian7_pumpkin_run_2",
+    "barbarian7_pumpkin_run_1",
+    "barbarian7_pumpkin_idle1_3",
+    "barbarian7_pumpkin_idle1_2",
+    "barbarian7_pumpkin_idle1_1",
+    "barbarian7_pumpkin_cheer1_3",
+    "barbarian7_pumpkin_cheer1_2",
+    "barbarian7_pumpkin_cheer1_1",
+    "barbarian7_pumpkin_attack2_3",
+    "barbarian7_pumpkin_attack2_2",
+    "barbarian7_pumpkin_attack2_1",
+    "barbarian7_pumpkin_attack1_3",
+    "barbarian7_pumpkin_attack1_2",
+    "barbarian7_pumpkin_attack1_1",
+    "barbarian7_idle1_3",
+    "barbarian7_idle1_2",
+    "barbarian7_idle1_1",
+    "barbarian7_cheer1_3",
+    "barbarian7_cheer1_2",
+    "barbarian7_cheer1_1",
+    "barbarian7_attack2_3",
+    "barbarian7_attack2_2",
+    "barbarian7_attack2_1",
+    "barbarian7_attack1_3",
+    "barbarian7_attack1_2",
+    "barbarian7_attack1_1",
+    "barbarian6_run_3",
+    "barbarian6_run_2",
+    "barbarian6_run_1",
+    "barbarian6_idle1_3",
+    "barbarian6_idle1_2",
+    "barbarian6_idle1_1",
+    "barbarian6_cheer1_3",
+    "barbarian6_cheer1_2",
+    "barbarian6_cheer1_1",
+    "barbarian6_attack2_3",
+    "barbarian6_attack2_2",
+    "barbarian6_attack2_1",
+    "barbarian6_attack1_3",
+    "barbarian6_attack1_2",
+    "barbarian6_attack1_1",
+    "barbarian5_run_3",
+    "barbarian5_run_2",
+    "barbarian5_run_1",
+    "barbarian5_idle1_3",
+    "barbarian5_idle1_2",
+    "barbarian5_idle1_1",
+    "barbarian5_cheer1_3",
+    "barbarian5_cheer1_2",
+    "barbarian5_cheer1_1",
+    "barbarian5_attack2_3",
+    "barbarian5_attack2_2",
+    "barbarian5_attack2_1",
+    "barbarian5_attack1_3",
+    "barbarian5_attack1_2",
+    "barbarian5_attack1_1",
+    "barbarian3_run_3",
+    "barbarian3_run_2",
+    "barbarian3_run_1",
+    "barbarian3_idle1_3",
+    "barbarian3_idle1_2",
+    "barbarian3_idle1_1",
+    "barbarian3_cheer1_3",
+    "barbarian3_cheer1_2",
+    "barbarian3_cheer1_1",
+    "barbarian3_attack2_3",
+    "barbarian3_attack2_2",
+    "barbarian3_attack2_1",
+    "barbarian3_attack1_3",
+    "barbarian3_attack1_2",
+    "barbarian3_attack1_1",
+    "barbarian1_run_3",
+    "barbarian1_run_2",
+    "barbarian1_run_1",
+    "barbarian1_idle1_3",
+    "barbarian1_idle1_2",
+    "barbarian1_idle1_1",
+    "barbarian1_cheer1_3",
+    "barbarian1_cheer1_2",
+    "barbarian1_cheer1_1",
+    "barbarian1_attack2_3",
+    "barbarian1_attack2_2",
+    "barbarian1_attack2_1",
+    "barbarian1_attack1_3",
+    "barbarian1_attack1_2",
+    "barbarian1_attack1_1",
+    "barbarian13_run_3",
+    "barbarian13_run_2",
+    "barbarian13_run_1",
+    "barbarian13_idle1_3",
+    "barbarian13_idle1_2",
+    "barbarian13_idle1_1",
+    "barbarian13_cheer1_3",
+    "barbarian13_cheer1_2",
+    "barbarian13_cheer1_1",
+    "barbarian13_attack2_3",
+    "barbarian13_attack2_2",
+    "barbarian13_attack2_1",
+    "barbarian13_attack1_3",
+    "barbarian13_attack1_2",
+    "barbarian13_attack1_1",
+    "barbarian12_run_3",
+    "barbarian12_run_2",
+    "barbarian12_run_1",
+    "barbarian12_idle1_3",
+    "barbarian12_idle1_2",
+    "barbarian12_idle1_1",
+    "barbarian12_cheer1_3",
+    "barbarian12_cheer1_2",
+    "barbarian12_cheer1_1",
+    "barbarian12_attack2_3",
+    "barbarian12_attack2_2",
+    "barbarian12_attack2_1",
+    "barbarian12_attack1_3",
+    "barbarian12_attack1_2",
+    "barbarian12_attack1_1",
+    "barbarian11_run_3",
+    "barbarian11_run_2",
+    "barbarian11_run_1",
+    "barbarian11_idle1_3",
+    "barbarian11_idle1_2",
+    "barbarian11_idle1_1",
+    "barbarian11_cheer1_3",
+    "barbarian11_cheer1_2",
+    "barbarian11_cheer1_1",
+    "barbarian11_attack2_3",
+    "barbarian11_attack2_2",
+    "barbarian11_attack2_1",
+    "barbarian11_attack1_3",
+    "barbarian11_attack1_2",
+    "barbarian11_attack1_1",
+    "barbarian10_run_3",
+    "barbarian10_run_2",
+    "barbarian10_run_1",
+    "barbarian10_idle1_3",
+    "barbarian10_idle1_2",
+    "barbarian10_idle1_1",
+    "barbarian10_cheer1_3",
+    "barbarian10_cheer1_2",
+    "barbarian10_cheer1_1",
+    "barbarian10_attack2_3",
+    "barbarian10_attack2_2",
+    "barbarian10_attack2_1",
+    "barbarian10_attack1_3",
+    "barbarian10_attack1_2",
+    "barbarian10_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 425,
+      "value": "O@b"
+    },
+    {
+      "offset": 448,
+      "value": "fN@b"
+    },
+    {
+      "offset": 1554,
+      "value": "X.33OA"
+    },
+    {
+      "offset": 1948,
+      "value": "CJgY"
+    },
+    {
+      "offset": 1999,
+      "value": "iffjA"
+    },
+    {
+      "offset": 4424,
+      "value": "ffFA"
+    },
+    {
+      "offset": 6380,
+      "value": "ff2B"
+    },
+    {
+      "offset": 7073,
+      "value": "Feo33OA"
+    },
+    {
+      "offset": 7147,
+      "value": "o33OA"
+    },
+    {
+      "offset": 8165,
+      "value": "Lf3"
+    },
+    {
+      "offset": 8802,
+      "value": "Q333OA"
+    },
+    {
+      "offset": 9259,
+      "value": "zffjA"
+    },
+    {
+      "offset": 9556,
+      "value": "w5CT"
+    },
+    {
+      "offset": 11779,
+      "value": "rffFA"
+    },
+    {
+      "offset": 13364,
+      "value": "ff2B"
+    },
+    {
+      "offset": 14045,
+      "value": "oqF"
+    },
+    {
+      "offset": 14068,
+      "value": "wsqF"
+    },
+    {
+      "offset": 15221,
+      "value": "qCc"
+    },
+    {
+      "offset": 15245,
+      "value": "rCc"
+    },
+    {
+      "offset": 15281,
+      "value": "qAj"
+    },
+    {
+      "offset": 16112,
+      "value": "ffjA"
+    },
+    {
+      "offset": 20372,
+      "value": "ff2B"
+    },
+    {
+      "offset": 20396,
+      "value": "ff2B"
+    },
+    {
+      "offset": 21859,
+      "value": "h33OA"
+    },
+    {
+      "offset": 22613,
+      "value": "dLf"
+    },
+    {
+      "offset": 22637,
+      "value": "fLf"
+    },
+    {
+      "offset": 26163,
+      "value": "A2Cyv"
+    },
+    {
+      "offset": 30284,
+      "value": "ffjA"
+    },
+    {
+      "offset": 32216,
+      "value": "ffjA"
+    },
+    {
+      "offset": 32873,
+      "value": "dVb"
+    },
+    {
+      "offset": 32897,
+      "value": "eVb"
+    },
+    {
+      "offset": 36392,
+      "value": "ffFA"
+    },
+    {
+      "offset": 36727,
+      "value": "J33kA"
+    },
+    {
+      "offset": 36751,
+      "value": "N33kA"
+    },
+    {
+      "offset": 38072,
+      "value": "ffFA"
+    },
+    {
+      "offset": 39149,
+      "value": "OtG"
+    },
+    {
+      "offset": 39365,
+      "value": "M_V"
+    },
+    {
+      "offset": 39872,
+      "value": "ffFA"
+    },
+    {
+      "offset": 40541,
+      "value": "M_V"
+    },
+    {
+      "offset": 40784,
+      "value": "ffFA"
+    },
+    {
+      "offset": 41105,
+      "value": "dVb"
+    },
+    {
+      "offset": 41129,
+      "value": "eVb"
+    },
+    {
+      "offset": 43543,
+      "value": "J33kA"
+    },
+    {
+      "offset": 43567,
+      "value": "N33kA"
+    },
+    {
+      "offset": 45101,
+      "value": "OtG"
+    },
+    {
+      "offset": 45221,
+      "value": "M_V"
+    },
+    {
+      "offset": 47924,
+      "value": "ffjA"
+    },
+    {
+      "offset": 50779,
+      "value": "K33kA"
+    },
+    {
+      "offset": 50803,
+      "value": "O33kA"
+    },
+    {
+      "offset": 63560,
+      "value": "ffFA"
+    },
+    {
+      "offset": 64265,
+      "value": "p:+"
+    },
+    {
+      "offset": 64904,
+      "value": "ffNA"
+    },
+    {
+      "offset": 68132,
+      "value": "ffjA"
+    },
+    {
+      "offset": 70160,
+      "value": "ffFA"
+    },
+    {
+      "offset": 71480,
+      "value": "ffjA"
+    },
+    {
+      "offset": 72272,
+      "value": "ffjA"
+    },
+    {
+      "offset": 72368,
+      "value": "ffNA"
+    },
+    {
+      "offset": 73856,
+      "value": "fffA"
+    },
+    {
+      "offset": 74648,
+      "value": "ff6@"
+    },
+    {
+      "offset": 74768,
+      "value": "ffJA"
+    },
+    {
+      "offset": 77144,
+      "value": "ffJA"
+    },
+    {
+      "offset": 80620,
+      "value": "wm\\U"
+    },
+    {
+      "offset": 80753,
+      "value": "uZM"
+    },
+    {
+      "offset": 82491,
+      "value": "Aw-4G"
+    },
+    {
+      "offset": 82925,
+      "value": "Nv@"
+    },
+    {
+      "offset": 84317,
+      "value": "u30"
+    },
+    {
+      "offset": 85649,
+      "value": "kWj"
+    },
+    {
+      "offset": 87233,
+      "value": "g::"
+    },
+    {
+      "offset": 87257,
+      "value": "f::"
+    },
+    {
+      "offset": 113940,
+      "value": "barbarian8_cheer1_1"
+    },
+    {
+      "offset": 113964,
+      "value": "barbarian12_idle1_3"
+    },
+    {
+      "offset": 113988,
+      "value": "barbarian12_attack1_1"
+    },
+    {
+      "offset": 114016,
+      "value": "barbarian9_cheer1_2"
+    },
+    {
+      "offset": 114040,
+      "value": "barbarian11_idle1_1"
+    },
+    {
+      "offset": 114064,
+      "value": "barbarian8_attack1_1"
+    },
+    {
+      "offset": 114092,
+      "value": "barbarian7_run_3"
+    },
+    {
+      "offset": 114116,
+      "value": "barbarian9_idle1_3"
+    },
+    {
+      "offset": 114140,
+      "value": "barbarian7_pumpkin_run_2"
+    },
+    {
+      "offset": 114172,
+      "value": "barbarian5_run_2"
+    },
+    {
+      "offset": 114196,
+      "value": "barbarian7_pumpkin_idle1_3"
+    },
+    {
+      "offset": 114228,
+      "value": "barbarian5_attack2_3"
+    },
+    {
+      "offset": 114256,
+      "value": "barbarian7_pumpkin_idle1_2"
+    },
+    {
+      "offset": 114288,
+      "value": "barbarian7_pumpkin_cheer1_1"
+    },
+    {
+      "offset": 114320,
+      "value": "barbarian7_pumpkin_attack2_2"
+    },
+    {
+      "offset": 114356,
+      "value": "barbarian7_pumpkin_attack1_1"
+    },
+    {
+      "offset": 114392,
+      "value": "barbarian6_idle1_3"
+    },
+    {
+      "offset": 114416,
+      "value": "barbarian1_attack1_3"
+    },
+    {
+      "offset": 114444,
+      "value": "barbarian7_pumpkin_attack2_1"
+    },
+    {
+      "offset": 114480,
+      "value": "barbarian5_idle1_1"
+    },
+    {
+      "offset": 114504,
+      "value": "barbarian10_run_3"
+    },
+    {
+      "offset": 114528,
+      "value": "barbarian7_pumpkin_attack1_3"
+    },
+    {
+      "offset": 114564,
+      "value": "barbarian8_attack2_1"
+    },
+    {
+      "offset": 114592,
+      "value": "barbarian7_idle1_3"
+    },
+    {
+      "offset": 114616,
+      "value": "barbarian7_pumpkin_cheer1_2"
+    },
+    {
+      "offset": 114648,
+      "value": "barbarian7_idle1_2"
+    },
+    {
+      "offset": 114672,
+      "value": "barbarian9_run_3"
+    },
+    {
+      "offset": 114696,
+      "value": "barbarian7_cheer1_3"
+    },
+    {
+      "offset": 114720,
+      "value": "barbarian12_cheer1_1"
+    },
+    {
+      "offset": 114748,
+      "value": "barbarian7_cheer1_2"
+    },
+    {
+      "offset": 114772,
+      "value": "barbarian6_run_1"
+    },
+    {
+      "offset": 114796,
+      "value": "barbarian6_attack2_2"
+    },
+    {
+      "offset": 114824,
+      "value": "barbarian6_attack1_2"
+    },
+    {
+      "offset": 114852,
+      "value": "barbarian7_cheer1_1"
+    },
+    {
+      "offset": 114876,
+      "value": "barbarian7_attack2_2"
+    },
+    {
+      "offset": 114904,
+      "value": "barbarian3_idle1_2"
+    },
+    {
+      "offset": 114928,
+      "value": "barbarian12_cheer1_2"
+    },
+    {
+      "offset": 114956,
+      "value": "barbarian7_attack2_1"
+    },
+    {
+      "offset": 114984,
+      "value": "barbarian7_attack1_3"
+    },
+    {
+      "offset": 115012,
+      "value": "barbarian8_attack1_3"
+    },
+    {
+      "offset": 115040,
+      "value": "barbarian6_run_3"
+    },
+    {
+      "offset": 115064,
+      "value": "barbarian1_run_2"
+    },
+    {
+      "offset": 115088,
+      "value": "barbarian8_attack2_3"
+    },
+    {
+      "offset": 115116,
+      "value": "barbarian6_idle1_1"
+    },
+    {
+      "offset": 115140,
+      "value": "barbarian9_attack2_2"
+    },
+    {
+      "offset": 115168,
+      "value": "barbarian6_cheer1_3"
+    },
+    {
+      "offset": 115192,
+      "value": "barbarian5_idle1_2"
+    },
+    {
+      "offset": 115216,
+      "value": "barbarian10_cheer1_2"
+    },
+    {
+      "offset": 115244,
+      "value": "barbarian11_attack1_3"
+    },
+    {
+      "offset": 115272,
+      "value": "barbarian6_attack2_3"
+    },
+    {
+      "offset": 115300,
+      "value": "barbarian7_run_1"
+    },
+    {
+      "offset": 115324,
+      "value": "barbarian6_attack2_1"
+    },
+    {
+      "offset": 115352,
+      "value": "barbarian11_run_1"
+    },
+    {
+      "offset": 115376,
+      "value": "barbarian6_attack1_3"
+    },
+    {
+      "offset": 115404,
+      "value": "barbarian12_attack1_3"
+    },
+    {
+      "offset": 115432,
+      "value": "barbarian7_pumpkin_idle1_1"
+    },
+    {
+      "offset": 115464,
+      "value": "barbarian3_idle1_1"
+    },
+    {
+      "offset": 115488,
+      "value": "barbarian6_attack1_1"
+    },
+    {
+      "offset": 115516,
+      "value": "barbarian8_attack1_2"
+    },
+    {
+      "offset": 115544,
+      "value": "barbarian6_idle1_2"
+    },
+    {
+      "offset": 115568,
+      "value": "barbarian7_pumpkin_attack1_2"
+    },
+    {
+      "offset": 115604,
+      "value": "barbarian11_attack2_1"
+    },
+    {
+      "offset": 115632,
+      "value": "barbarian5_run_3"
+    },
+    {
+      "offset": 115656,
+      "value": "barbarian5_run_1"
+    },
+    {
+      "offset": 115680,
+      "value": "barbarian5_idle1_3"
+    },
+    {
+      "offset": 115704,
+      "value": "barbarian7_attack1_1"
+    },
+    {
+      "offset": 115732,
+      "value": "barbarian7_pumpkin_run_1"
+    },
+    {
+      "offset": 115764,
+      "value": "barbarian8_run_3"
+    },
+    {
+      "offset": 115788,
+      "value": "barbarian5_cheer1_2"
+    },
+    {
+      "offset": 115812,
+      "value": "barbarian5_attack2_2"
+    },
+    {
+      "offset": 115840,
+      "value": "barbarian5_attack1_1"
+    },
+    {
+      "offset": 115868,
+      "value": "barbarian10_attack2_1"
+    },
+    {
+      "offset": 115896,
+      "value": "barbarian3_run_3"
+    },
+    {
+      "offset": 115920,
+      "value": "barbarian3_run_2"
+    },
+    {
+      "offset": 115944,
+      "value": "barbarian5_attack2_1"
+    },
+    {
+      "offset": 115972,
+      "value": "barbarian13_cheer1_1"
+    },
+    {
+      "offset": 116000,
+      "value": "barbarian13_attack2_3"
+    },
+    {
+      "offset": 116028,
+      "value": "barbarian3_attack1_3"
+    },
+    {
+      "offset": 116056,
+      "value": "barbarian12_cheer1_3"
+    },
+    {
+      "offset": 116084,
+      "value": "barbarian3_attack1_2"
+    },
+    {
+      "offset": 116112,
+      "value": "barbarian13_attack2_1"
+    },
+    {
+      "offset": 116140,
+      "value": "barbarian12_attack2_3"
+    },
+    {
+      "offset": 116168,
+      "value": "barbarian7_pumpkin_attack2_3"
+    },
+    {
+      "offset": 116204,
+      "value": "barbarian9_attack1_2"
+    },
+    {
+      "offset": 116232,
+      "value": "barbarian9_cheer1_3"
+    },
+    {
+      "offset": 116256,
+      "value": "barbarian5_attack1_3"
+    },
+    {
+      "offset": 116284,
+      "value": "barbarian13_attack1_2"
+    },
+    {
+      "offset": 116312,
+      "value": "barbarian9_attack1_3"
+    },
+    {
+      "offset": 116340,
+      "value": "barbarian10_run_2"
+    },
+    {
+      "offset": 116364,
+      "value": "barbarian13_attack2_2"
+    },
+    {
+      "offset": 116392,
+      "value": "barbarian7_attack1_2"
+    },
+    {
+      "offset": 116420,
+      "value": "barbarian13_attack1_1"
+    },
+    {
+      "offset": 116448,
+      "value": "barbarian6_cheer1_2"
+    },
+    {
+      "offset": 116472,
+      "value": "barbarian13_run_3"
+    },
+    {
+      "offset": 116496,
+      "value": "barbarian13_idle1_2"
+    },
+    {
+      "offset": 116520,
+      "value": "barbarian6_cheer1_1"
+    },
+    {
+      "offset": 116544,
+      "value": "barbarian7_pumpkin_run_3"
+    },
+    {
+      "offset": 116576,
+      "value": "barbarian3_cheer1_3"
+    },
+    {
+      "offset": 116600,
+      "value": "barbarian7_pumpkin_cheer1_3"
+    },
+    {
+      "offset": 116632,
+      "value": "barbarian12_run_3"
+    },
+    {
+      "offset": 116656,
+      "value": "barbarian3_attack1_1"
+    },
+    {
+      "offset": 116684,
+      "value": "barbarian13_cheer1_3"
+    },
+    {
+      "offset": 116712,
+      "value": "barbarian12_idle1_1"
+    },
+    {
+      "offset": 116736,
+      "value": "barbarian5_cheer1_3"
+    },
+    {
+      "offset": 116760,
+      "value": "barbarian11_run_3"
+    },
+    {
+      "offset": 116784,
+      "value": "barbarian1_cheer1_2"
+    },
+    {
+      "offset": 116808,
+      "value": "barbarian13_idle1_3"
+    },
+    {
+      "offset": 116832,
+      "value": "barbarian9_idle1_1"
+    },
+    {
+      "offset": 116856,
+      "value": "barbarian12_attack2_1"
+    },
+    {
+      "offset": 116884,
+      "value": "barbarian3_attack2_1"
+    },
+    {
+      "offset": 116912,
+      "value": "barbarian12_run_2"
+    },
+    {
+      "offset": 116936,
+      "value": "barbarian13_idle1_1"
+    },
+    {
+      "offset": 116960,
+      "value": "barbarian1_attack2_1"
+    },
+    {
+      "offset": 116988,
+      "value": "barbarian3_run_1"
+    },
+    {
+      "offset": 117012,
+      "value": "barbarian1_idle1_1"
+    },
+    {
+      "offset": 117036,
+      "value": "barbarian8_run_1"
+    },
+    {
+      "offset": 117060,
+      "value": "barbarian7_idle1_1"
+    },
+    {
+      "offset": 117084,
+      "value": "barbarian5_cheer1_1"
+    },
+    {
+      "offset": 117108,
+      "value": "barbarian12_attack2_2"
+    },
+    {
+      "offset": 117136,
+      "value": "barbarian8_attack2_2"
+    },
+    {
+      "offset": 117164,
+      "value": "barbarian7_run_2"
+    },
+    {
+      "offset": 117188,
+      "value": "barbarian10_attack1_2"
+    },
+    {
+      "offset": 117216,
+      "value": "barbarian11_attack1_2"
+    },
+    {
+      "offset": 117244,
+      "value": "barbarian13_run_2"
+    },
+    {
+      "offset": 117268,
+      "value": "barbarian13_run_1"
+    },
+    {
+      "offset": 117292,
+      "value": "barbarian5_attack1_2"
+    },
+    {
+      "offset": 117320,
+      "value": "barbarian1_idle1_2"
+    },
+    {
+      "offset": 117344,
+      "value": "barbarian12_run_1"
+    },
+    {
+      "offset": 117368,
+      "value": "barbarian13_attack1_3"
+    },
+    {
+      "offset": 117396,
+      "value": "barbarian11_cheer1_1"
+    },
+    {
+      "offset": 117424,
+      "value": "barbarian1_attack1_2"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000ff030000b400000001000000c0cf010074950000",
+  "decoded_preview_hex": "bccf010018000000000012001400040000000000000008000c0010001200000018ba0100905b01003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

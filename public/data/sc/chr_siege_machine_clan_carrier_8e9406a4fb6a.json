@@ -1,0 +1,398 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_siege_machine_clan_carrier.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_siege_machine_clan_carrier.sc",
+  "sha256_container": "8e9406a4fb6a2786fd2dfca45a994c5c953c0ad03e3a5b433a2a1b389e667c95",
+  "sha256_descriptor": "4f7732bfa98f2ae7427ec4d3919d62f6021492fd6e794d38900bf0b00d588507",
+  "sha256_decoded_payload": "1615e9642f953195ec7391ff22d1d66ff6b472e02238c0d8f3e36d86df12b481",
+  "version": 6,
+  "descriptor_bytes": 1692,
+  "compressed_frame_bytes": 10471,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 50292,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 54
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 25
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 39320
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 8576
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 10472
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 208,
+      "value": "Siege_Machine_CC6_parked1"
+    },
+    {
+      "offset": 272,
+      "value": "Siege_Machine_CC6_idle1"
+    },
+    {
+      "offset": 332,
+      "value": "Siege_Machine_CC6_deploy1"
+    },
+    {
+      "offset": 396,
+      "value": "Siege_Machine_CC6_broken1"
+    },
+    {
+      "offset": 460,
+      "value": "Siege_Machine_CC5_parked1"
+    },
+    {
+      "offset": 524,
+      "value": "Siege_Machine_CC5_idle1"
+    },
+    {
+      "offset": 584,
+      "value": "Siege_Machine_CC5_deploy1"
+    },
+    {
+      "offset": 648,
+      "value": "Siege_Machine_CC5_broken1"
+    },
+    {
+      "offset": 712,
+      "value": "Siege_Machine_CC4_parked1"
+    },
+    {
+      "offset": 776,
+      "value": "Siege_Machine_CC4_idle1"
+    },
+    {
+      "offset": 836,
+      "value": "Siege_Machine_CC4_deploy1"
+    },
+    {
+      "offset": 900,
+      "value": "Siege_Machine_CC4_broken1"
+    },
+    {
+      "offset": 964,
+      "value": "Siege_Machine_CC3_parked1"
+    },
+    {
+      "offset": 1028,
+      "value": "Siege_Machine_CC3_idle1"
+    },
+    {
+      "offset": 1088,
+      "value": "Siege_Machine_CC3_deploy1"
+    },
+    {
+      "offset": 1152,
+      "value": "Siege_Machine_CC3_broken1"
+    },
+    {
+      "offset": 1216,
+      "value": "Siege_Machine_CC2_parked1"
+    },
+    {
+      "offset": 1280,
+      "value": "Siege_Machine_CC2_idle1"
+    },
+    {
+      "offset": 1340,
+      "value": "Siege_Machine_CC2_deploy1"
+    },
+    {
+      "offset": 1404,
+      "value": "Siege_Machine_CC2_broken1"
+    },
+    {
+      "offset": 1468,
+      "value": "Siege_Machine_CC1_parked1"
+    },
+    {
+      "offset": 1532,
+      "value": "Siege_Machine_CC1_idle1"
+    },
+    {
+      "offset": 1592,
+      "value": "Siege_Machine_CC1_deploy1"
+    },
+    {
+      "offset": 1664,
+      "value": "Siege_Machine_CC1_broken1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "Siege_Machine_CC6_parked1",
+    "Siege_Machine_CC6_idle1",
+    "Siege_Machine_CC6_deploy1",
+    "Siege_Machine_CC6_broken1",
+    "Siege_Machine_CC5_parked1",
+    "Siege_Machine_CC5_idle1",
+    "Siege_Machine_CC5_deploy1",
+    "Siege_Machine_CC5_broken1",
+    "Siege_Machine_CC4_parked1",
+    "Siege_Machine_CC4_idle1",
+    "Siege_Machine_CC4_deploy1",
+    "Siege_Machine_CC4_broken1",
+    "Siege_Machine_CC3_parked1",
+    "Siege_Machine_CC3_idle1",
+    "Siege_Machine_CC3_deploy1",
+    "Siege_Machine_CC3_broken1",
+    "Siege_Machine_CC2_parked1",
+    "Siege_Machine_CC2_idle1",
+    "Siege_Machine_CC2_deploy1",
+    "Siege_Machine_CC2_broken1",
+    "Siege_Machine_CC1_parked1",
+    "Siege_Machine_CC1_idle1",
+    "Siege_Machine_CC1_deploy1",
+    "Siege_Machine_CC1_broken1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 685,
+      "value": "p1@"
+    },
+    {
+      "offset": 829,
+      "value": "P1@"
+    },
+    {
+      "offset": 1885,
+      "value": "p0@"
+    },
+    {
+      "offset": 2029,
+      "value": "P0@"
+    },
+    {
+      "offset": 2672,
+      "value": "ff.A"
+    },
+    {
+      "offset": 2696,
+      "value": "ffnA"
+    },
+    {
+      "offset": 4208,
+      "value": "ff.A"
+    },
+    {
+      "offset": 4232,
+      "value": "ffnA"
+    },
+    {
+      "offset": 4381,
+      "value": "p1@"
+    },
+    {
+      "offset": 4525,
+      "value": "P1@"
+    },
+    {
+      "offset": 5581,
+      "value": "p0@"
+    },
+    {
+      "offset": 5725,
+      "value": "P0@"
+    },
+    {
+      "offset": 6685,
+      "value": "p1@"
+    },
+    {
+      "offset": 8005,
+      "value": "p2@"
+    },
+    {
+      "offset": 8096,
+      "value": "ff.A"
+    },
+    {
+      "offset": 8120,
+      "value": "ffnA"
+    },
+    {
+      "offset": 12392,
+      "value": "ff.A"
+    },
+    {
+      "offset": 12512,
+      "value": "ffnA"
+    },
+    {
+      "offset": 14120,
+      "value": "ff.A"
+    },
+    {
+      "offset": 14144,
+      "value": "ffnA"
+    },
+    {
+      "offset": 15569,
+      "value": "LAC"
+    },
+    {
+      "offset": 17297,
+      "value": "LAC"
+    },
+    {
+      "offset": 18353,
+      "value": "LAC"
+    },
+    {
+      "offset": 18467,
+      "value": "Af2"
+    },
+    {
+      "offset": 18515,
+      "value": "ATq"
+    },
+    {
+      "offset": 19405,
+      "value": "z__"
+    },
+    {
+      "offset": 38572,
+      "value": "Siege_Machine_CC2_broken1"
+    },
+    {
+      "offset": 38604,
+      "value": "Siege_Machine_CC6_parked1"
+    },
+    {
+      "offset": 38636,
+      "value": "Siege_Machine_CC1_idle1"
+    },
+    {
+      "offset": 38664,
+      "value": "Siege_Machine_CC5_parked1"
+    },
+    {
+      "offset": 38696,
+      "value": "Siege_Machine_CC1_broken1"
+    },
+    {
+      "offset": 38728,
+      "value": "Siege_Machine_CC5_idle1"
+    },
+    {
+      "offset": 38756,
+      "value": "Siege_Machine_CC4_deploy1"
+    },
+    {
+      "offset": 38788,
+      "value": "Siege_Machine_CC5_deploy1"
+    },
+    {
+      "offset": 38820,
+      "value": "Siege_Machine_CC5_broken1"
+    },
+    {
+      "offset": 38852,
+      "value": "Siege_Machine_CC1_parked1"
+    },
+    {
+      "offset": 38884,
+      "value": "Siege_Machine_CC2_deploy1"
+    },
+    {
+      "offset": 38916,
+      "value": "Siege_Machine_CC2_idle1"
+    },
+    {
+      "offset": 38944,
+      "value": "Siege_Machine_CC6_deploy1"
+    },
+    {
+      "offset": 38976,
+      "value": "Siege_Machine_CC1_deploy1"
+    },
+    {
+      "offset": 39008,
+      "value": "Siege_Machine_CC3_idle1"
+    },
+    {
+      "offset": 39036,
+      "value": "Siege_Machine_CC6_idle1"
+    },
+    {
+      "offset": 39064,
+      "value": "Siege_Machine_CC6_broken1"
+    },
+    {
+      "offset": 39096,
+      "value": "Siege_Machine_CC2_parked1"
+    },
+    {
+      "offset": 39128,
+      "value": "Siege_Machine_CC3_broken1"
+    },
+    {
+      "offset": 39160,
+      "value": "Siege_Machine_CC4_parked1"
+    },
+    {
+      "offset": 39192,
+      "value": "Siege_Machine_CC3_deploy1"
+    },
+    {
+      "offset": 39224,
+      "value": "Siege_Machine_CC3_parked1"
+    },
+    {
+      "offset": 39256,
+      "value": "Siege_Machine_CC4_broken1"
+    },
+    {
+      "offset": 39288,
+      "value": "Siege_Machine_CC4_idle1"
+    },
+    {
+      "offset": 50252,
+      "value": "chr_siege_machine_clan_carrier_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000003600000019000000010000009899000080210000",
+  "decoded_preview_hex": "9499000018000000000012001400040000000000000008000c00100012000000209600009c4c00004c37000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

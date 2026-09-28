@@ -1,0 +1,263 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_ruin_witch.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_ruin_witch.sc",
+  "sha256_container": "865c3cc90943ba269c916d35f3186ceb1b717f71c07e55c55626d9840152d4c2",
+  "sha256_descriptor": "ad2bf5b863edacd4571b8bb968fb88c29e46fbab001edb48ea81ee2c346ee1fb",
+  "sha256_decoded_payload": "d04477e7506439203b1eec06779135a4f266ba0d15c7e1a1b1a7fe64acec2f97",
+  "version": 6,
+  "descriptor_bytes": 312,
+  "compressed_frame_bytes": 88069,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 191208,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 912
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 189656
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 88072
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 156,
+      "value": "unit_ruin_witch_rubble_knight_big"
+    },
+    {
+      "offset": 228,
+      "value": "unit_ruin_witch_big"
+    },
+    {
+      "offset": 292,
+      "value": "card_ruin_witch_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_ruin_witch_rubble_knight_big",
+    "unit_ruin_witch_big",
+    "card_ruin_witch_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 788,
+      "value": "bounds"
+    },
+    {
+      "offset": 800,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 820,
+      "value": "unit_ruin_witch_big"
+    },
+    {
+      "offset": 844,
+      "value": "card_ruin_witch_big"
+    },
+    {
+      "offset": 868,
+      "value": "unit_ruin_witch_rubble_knight_big"
+    },
+    {
+      "offset": 11844,
+      "value": "FB@"
+    },
+    {
+      "offset": 15510,
+      "value": "Z__"
+    },
+    {
+      "offset": 25338,
+      "value": "RmfDf"
+    },
+    {
+      "offset": 30324,
+      "value": "rdjUo"
+    },
+    {
+      "offset": 32303,
+      "value": "L:h"
+    },
+    {
+      "offset": 32929,
+      "value": "PV "
+    },
+    {
+      "offset": 34925,
+      "value": "JB7"
+    },
+    {
+      "offset": 54120,
+      "value": "ACG"
+    },
+    {
+      "offset": 59112,
+      "value": "CAuL0"
+    },
+    {
+      "offset": 59405,
+      "value": "l1@"
+    },
+    {
+      "offset": 60104,
+      "value": "rqk"
+    },
+    {
+      "offset": 60763,
+      "value": "FJZIj"
+    },
+    {
+      "offset": 62405,
+      "value": "JB:o"
+    },
+    {
+      "offset": 64815,
+      "value": "F:d"
+    },
+    {
+      "offset": 65369,
+      "value": "CABBH1J"
+    },
+    {
+      "offset": 65385,
+      "value": "EEFHn9NL"
+    },
+    {
+      "offset": 71685,
+      "value": "JJIo"
+    },
+    {
+      "offset": 75503,
+      "value": "BB\\"
+    },
+    {
+      "offset": 81236,
+      "value": "iOAvo"
+    },
+    {
+      "offset": 90596,
+      "value": "Pml+o"
+    },
+    {
+      "offset": 91942,
+      "value": "u@o"
+    },
+    {
+      "offset": 92847,
+      "value": "B4d"
+    },
+    {
+      "offset": 98207,
+      "value": "B8p"
+    },
+    {
+      "offset": 107602,
+      "value": "EdU"
+    },
+    {
+      "offset": 108960,
+      "value": "h:3"
+    },
+    {
+      "offset": 124010,
+      "value": "bKd"
+    },
+    {
+      "offset": 124507,
+      "value": "Sui"
+    },
+    {
+      "offset": 127259,
+      "value": "QXH@"
+    },
+    {
+      "offset": 127343,
+      "value": "SIb"
+    },
+    {
+      "offset": 136500,
+      "value": "X@@"
+    },
+    {
+      "offset": 141622,
+      "value": "aZo"
+    },
+    {
+      "offset": 144661,
+      "value": "lmmo"
+    },
+    {
+      "offset": 148235,
+      "value": "sax"
+    },
+    {
+      "offset": 166134,
+      "value": "tv_"
+    },
+    {
+      "offset": 166269,
+      "value": "tZ "
+    },
+    {
+      "offset": 174325,
+      "value": "V@ko"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000a101bf6dffd69b8a5e48a6fcb97966ccd152c07c1c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "8c03000018000000000012001400040000000000000008000c00100012000000d4020000ac0200006400000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

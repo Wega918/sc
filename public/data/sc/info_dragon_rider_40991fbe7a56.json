@@ -1,0 +1,206 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_dragon_rider.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_dragon_rider.sc",
+  "sha256_container": "40991fbe7a56380947c8d811352204b471738f8233fee4d610940b37f14205fc",
+  "sha256_descriptor": "4c2830744379836b744534d02d809a0a84e269256dc796d1e2ca876644e9d731",
+  "sha256_decoded_payload": "092cde637b304380e774a7b1706df8621758aef7cff8fb8692b91419f8af558a",
+  "version": 6,
+  "descriptor_bytes": 244,
+  "compressed_frame_bytes": 75009,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 183040,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 440
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 182136
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 75012
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "unit_dragon_rider_big"
+    },
+    {
+      "offset": 220,
+      "value": "card_dragon_rider_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_dragon_rider_big",
+    "card_dragon_rider_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 348,
+      "value": "bounds"
+    },
+    {
+      "offset": 360,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 380,
+      "value": "unit_dragon_rider_big"
+    },
+    {
+      "offset": 408,
+      "value": "card_dragon_rider_big"
+    },
+    {
+      "offset": 25635,
+      "value": "qJ6"
+    },
+    {
+      "offset": 36522,
+      "value": "U@B"
+    },
+    {
+      "offset": 43598,
+      "value": "QQ_"
+    },
+    {
+      "offset": 46935,
+      "value": "O@1"
+    },
+    {
+      "offset": 60350,
+      "value": "d/o"
+    },
+    {
+      "offset": 61833,
+      "value": "kQP"
+    },
+    {
+      "offset": 65500,
+      "value": "WVT"
+    },
+    {
+      "offset": 67965,
+      "value": "eOh_"
+    },
+    {
+      "offset": 69715,
+      "value": "bB "
+    },
+    {
+      "offset": 74934,
+      "value": "j6R"
+    },
+    {
+      "offset": 79778,
+      "value": "bdl"
+    },
+    {
+      "offset": 80654,
+      "value": "w+o"
+    },
+    {
+      "offset": 80990,
+      "value": "ays"
+    },
+    {
+      "offset": 94740,
+      "value": "uJV"
+    },
+    {
+      "offset": 96286,
+      "value": "LzcIe"
+    },
+    {
+      "offset": 98170,
+      "value": "gB6"
+    },
+    {
+      "offset": 123739,
+      "value": "SgIj"
+    },
+    {
+      "offset": 138286,
+      "value": "pp_"
+    },
+    {
+      "offset": 141153,
+      "value": "Gi "
+    },
+    {
+      "offset": 144561,
+      "value": "Cw "
+    },
+    {
+      "offset": 148661,
+      "value": "BGf"
+    },
+    {
+      "offset": 156565,
+      "value": "nOh"
+    },
+    {
+      "offset": 158069,
+      "value": "fC\\"
+    },
+    {
+      "offset": 165573,
+      "value": "z/8"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000006d6100753a6da7f3f9fe028b162b036e0dda30101c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "b401000018000000000012001400040000000000000008000c0010001200000020010000040100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

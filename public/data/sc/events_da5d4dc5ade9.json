@@ -1,0 +1,1219 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "events.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\events.sc",
+  "sha256_container": "da5d4dc5ade93722b26cca2a35d79b0fd2ffbd6fa4bbc56cd49d25bc3c95f8e7",
+  "sha256_descriptor": "3201e6dc056eacb21fa878dcf32ee17142d24fd7a2d675f1ca4ea8cfd5229c56",
+  "sha256_decoded_payload": "cee2ba6ed51898850ad76354d60e41bc174bbca1420ae630d8f89df65a7bf87a",
+  "version": 6,
+  "descriptor_bytes": 4616,
+  "compressed_frame_bytes": 124617,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 218112,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 57
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 117
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 52
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 30728
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 166776
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 124620
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 412,
+      "value": "xp_reward"
+    },
+    {
+      "offset": 460,
+      "value": "star_count_new"
+    },
+    {
+      "offset": 512,
+      "value": "star_count"
+    },
+    {
+      "offset": 560,
+      "value": "magic_item_reward"
+    },
+    {
+      "offset": 616,
+      "value": "generic_webview"
+    },
+    {
+      "offset": 668,
+      "value": "gem_reward"
+    },
+    {
+      "offset": 716,
+      "value": "events_nobitdropping"
+    },
+    {
+      "offset": 776,
+      "value": "event_upcoming_xp_clan_war"
+    },
+    {
+      "offset": 840,
+      "value": "event_upcoming_starbonus"
+    },
+    {
+      "offset": 904,
+      "value": "event_upcoming_generic"
+    },
+    {
+      "offset": 964,
+      "value": "event_upcoming_dynamic_xp"
+    },
+    {
+      "offset": 1028,
+      "value": "event_upcoming_dynamic_holiday"
+    },
+    {
+      "offset": 1096,
+      "value": "event_upcoming_dynamic_generic"
+    },
+    {
+      "offset": 1164,
+      "value": "event_upcoming_dynamic_discount"
+    },
+    {
+      "offset": 1232,
+      "value": "event_upcoming_dynamic_default"
+    },
+    {
+      "offset": 1300,
+      "value": "event_upcoming_dynamic_boost"
+    },
+    {
+      "offset": 1368,
+      "value": "event_upcoming_discount_wizard"
+    },
+    {
+      "offset": 1436,
+      "value": "event_upcoming_discount_witch"
+    },
+    {
+      "offset": 1504,
+      "value": "event_upcoming_discount_pekka"
+    },
+    {
+      "offset": 1572,
+      "value": "event_upcoming_discount_loon"
+    },
+    {
+      "offset": 1640,
+      "value": "event_upcoming_discount_jump_golem"
+    },
+    {
+      "offset": 1712,
+      "value": "event_upcoming_discount_jump"
+    },
+    {
+      "offset": 1780,
+      "value": "event_upcoming_discount_hound"
+    },
+    {
+      "offset": 1848,
+      "value": "event_upcoming_discount_hog"
+    },
+    {
+      "offset": 1912,
+      "value": "event_upcoming_discount_healer"
+    },
+    {
+      "offset": 1980,
+      "value": "event_upcoming_discount_haste_balloon"
+    },
+    {
+      "offset": 2056,
+      "value": "event_upcoming_discount_golem"
+    },
+    {
+      "offset": 2124,
+      "value": "event_upcoming_discount_dragon"
+    },
+    {
+      "offset": 2192,
+      "value": "event_upcoming_default"
+    },
+    {
+      "offset": 2252,
+      "value": "event_upcoming_boost_training_brewing"
+    },
+    {
+      "offset": 2328,
+      "value": "event_upcoming_boost_training"
+    },
+    {
+      "offset": 2396,
+      "value": "event_upcoming_boost_collectors"
+    },
+    {
+      "offset": 2464,
+      "value": "event_upcoming_boost_brewing"
+    },
+    {
+      "offset": 2532,
+      "value": "event_list_empty"
+    },
+    {
+      "offset": 2588,
+      "value": "event_fullscreen_midtitle"
+    },
+    {
+      "offset": 2652,
+      "value": "event_fullscreen_generic"
+    },
+    {
+      "offset": 2716,
+      "value": "event_entry_xp_clan_war"
+    },
+    {
+      "offset": 2776,
+      "value": "event_entry_sub_title"
+    },
+    {
+      "offset": 2836,
+      "value": "event_entry_starbonus"
+    },
+    {
+      "offset": 2896,
+      "value": "event_entry_jump_golem"
+    },
+    {
+      "offset": 2956,
+      "value": "event_entry_haste_balloon"
+    },
+    {
+      "offset": 3020,
+      "value": "event_entry_generic"
+    },
+    {
+      "offset": 3076,
+      "value": "event_entry_discount_wizard"
+    },
+    {
+      "offset": 3140,
+      "value": "event_entry_discount_witch"
+    },
+    {
+      "offset": 3204,
+      "value": "event_entry_discount_pekka"
+    },
+    {
+      "offset": 3268,
+      "value": "event_entry_discount_loon"
+    },
+    {
+      "offset": 3332,
+      "value": "event_entry_discount_jump"
+    },
+    {
+      "offset": 3396,
+      "value": "event_entry_discount_hound"
+    },
+    {
+      "offset": 3460,
+      "value": "event_entry_discount_hog"
+    },
+    {
+      "offset": 3524,
+      "value": "event_entry_discount_healer"
+    },
+    {
+      "offset": 3588,
+      "value": "event_entry_discount_golem"
+    },
+    {
+      "offset": 3652,
+      "value": "event_entry_discount_dragon"
+    },
+    {
+      "offset": 3716,
+      "value": "event_entry_default"
+    },
+    {
+      "offset": 3772,
+      "value": "event_entry_challenge"
+    },
+    {
+      "offset": 3832,
+      "value": "event_entry_boost_training_brewing"
+    },
+    {
+      "offset": 3904,
+      "value": "event_entry_boost_training"
+    },
+    {
+      "offset": 3968,
+      "value": "event_entry_boost_collectors"
+    },
+    {
+      "offset": 4036,
+      "value": "event_entry_boost_brewing"
+    },
+    {
+      "offset": 4100,
+      "value": "event_dynamic_xp"
+    },
+    {
+      "offset": 4156,
+      "value": "event_dynamic_holiday"
+    },
+    {
+      "offset": 4216,
+      "value": "event_dynamic_generic"
+    },
+    {
+      "offset": 4276,
+      "value": "event_dynamic_discount"
+    },
+    {
+      "offset": 4336,
+      "value": "event_dynamic_default"
+    },
+    {
+      "offset": 4396,
+      "value": "event_dynamic_boost"
+    },
+    {
+      "offset": 4452,
+      "value": "event_achievement_item_stars"
+    },
+    {
+      "offset": 4520,
+      "value": "event_achievement_item_new"
+    },
+    {
+      "offset": 4592,
+      "value": "event_achievement_item"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "xp_reward",
+    "star_count_new",
+    "star_count",
+    "magic_item_reward",
+    "generic_webview",
+    "gem_reward",
+    "events_nobitdropping",
+    "event_upcoming_xp_clan_war",
+    "event_upcoming_starbonus",
+    "event_upcoming_generic",
+    "event_upcoming_dynamic_xp",
+    "event_upcoming_dynamic_holiday",
+    "event_upcoming_dynamic_generic",
+    "event_upcoming_dynamic_discount",
+    "event_upcoming_dynamic_default",
+    "event_upcoming_dynamic_boost",
+    "event_upcoming_discount_wizard",
+    "event_upcoming_discount_witch",
+    "event_upcoming_discount_pekka",
+    "event_upcoming_discount_loon",
+    "event_upcoming_discount_jump_golem",
+    "event_upcoming_discount_jump",
+    "event_upcoming_discount_hound",
+    "event_upcoming_discount_hog",
+    "event_upcoming_discount_healer",
+    "event_upcoming_discount_haste_balloon",
+    "event_upcoming_discount_golem",
+    "event_upcoming_discount_dragon",
+    "event_upcoming_default",
+    "event_upcoming_boost_training_brewing",
+    "event_upcoming_boost_training",
+    "event_upcoming_boost_collectors",
+    "event_upcoming_boost_brewing",
+    "event_list_empty",
+    "event_fullscreen_midtitle",
+    "event_fullscreen_generic",
+    "event_entry_xp_clan_war",
+    "event_entry_sub_title",
+    "event_entry_starbonus",
+    "event_entry_jump_golem",
+    "event_entry_haste_balloon",
+    "event_entry_generic",
+    "event_entry_discount_wizard",
+    "event_entry_discount_witch",
+    "event_entry_discount_pekka",
+    "event_entry_discount_loon",
+    "event_entry_discount_jump",
+    "event_entry_discount_hound",
+    "event_entry_discount_hog",
+    "event_entry_discount_healer",
+    "event_entry_discount_golem",
+    "event_entry_discount_dragon",
+    "event_entry_default",
+    "event_entry_challenge",
+    "event_entry_boost_training_brewing",
+    "event_entry_boost_training",
+    "event_entry_boost_collectors",
+    "event_entry_boost_brewing",
+    "event_dynamic_xp",
+    "event_dynamic_holiday",
+    "event_dynamic_generic",
+    "event_dynamic_discount",
+    "event_dynamic_default",
+    "event_dynamic_boost",
+    "event_achievement_item_stars",
+    "event_achievement_item_new",
+    "event_achievement_item"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 492,
+      "value": "gf+B"
+    },
+    {
+      "offset": 540,
+      "value": "gf+B"
+    },
+    {
+      "offset": 1161,
+      "value": "sIC"
+    },
+    {
+      "offset": 1496,
+      "value": "gfv@"
+    },
+    {
+      "offset": 1856,
+      "value": "gfF@"
+    },
+    {
+      "offset": 4185,
+      "value": "sIC"
+    },
+    {
+      "offset": 5867,
+      "value": "Bgf9B"
+    },
+    {
+      "offset": 11223,
+      "value": "B3E3o"
+    },
+    {
+      "offset": 12836,
+      "value": "ffxB"
+    },
+    {
+      "offset": 17300,
+      "value": "ff1B"
+    },
+    {
+      "offset": 17445,
+      "value": "YNC"
+    },
+    {
+      "offset": 17516,
+      "value": "ff+B"
+    },
+    {
+      "offset": 17612,
+      "value": "ff+B"
+    },
+    {
+      "offset": 17804,
+      "value": "ff+B"
+    },
+    {
+      "offset": 18908,
+      "value": "ff8C"
+    },
+    {
+      "offset": 27408,
+      "value": "achievement_progress"
+    },
+    {
+      "offset": 27436,
+      "value": "bar"
+    },
+    {
+      "offset": 27444,
+      "value": "text"
+    },
+    {
+      "offset": 27456,
+      "value": "TID_NO_EVENTS_TITLE"
+    },
+    {
+      "offset": 27480,
+      "value": "TID_NO_EVENTS_CONTENT"
+    },
+    {
+      "offset": 27508,
+      "value": "no_icon"
+    },
+    {
+      "offset": 27520,
+      "value": "icon"
+    },
+    {
+      "offset": 27532,
+      "value": "button_text"
+    },
+    {
+      "offset": 27548,
+      "value": "info_button"
+    },
+    {
+      "offset": 27565,
+      "value": "star"
+    },
+    {
+      "offset": 27577,
+      "value": "star"
+    },
+    {
+      "offset": 27589,
+      "value": "star"
+    },
+    {
+      "offset": 27601,
+      "value": "star"
+    },
+    {
+      "offset": 27613,
+      "value": "star"
+    },
+    {
+      "offset": 27625,
+      "value": "star"
+    },
+    {
+      "offset": 27636,
+      "value": "event_claim_reward_button"
+    },
+    {
+      "offset": 27668,
+      "value": "stars_earned"
+    },
+    {
+      "offset": 27688,
+      "value": "achievement_completed"
+    },
+    {
+      "offset": 27716,
+      "value": "achievement_completed_outline"
+    },
+    {
+      "offset": 27752,
+      "value": "TID_ACHIEVEMENTS_PROGRESS"
+    },
+    {
+      "offset": 27784,
+      "value": "reward"
+    },
+    {
+      "offset": 27796,
+      "value": "achievement_description"
+    },
+    {
+      "offset": 27824,
+      "value": "TID_AVATAR_MESSAGE_BUTTON_CLAIM"
+    },
+    {
+      "offset": 27860,
+      "value": "reward3"
+    },
+    {
+      "offset": 27872,
+      "value": "reward2"
+    },
+    {
+      "offset": 27884,
+      "value": "reward1"
+    },
+    {
+      "offset": 27896,
+      "value": "TID_ACHIEVEMENTS_REWARD"
+    },
+    {
+      "offset": 27925,
+      "value": "star"
+    },
+    {
+      "offset": 27937,
+      "value": "star"
+    },
+    {
+      "offset": 27949,
+      "value": "star"
+    },
+    {
+      "offset": 27960,
+      "value": "zero"
+    },
+    {
+      "offset": 27972,
+      "value": "scout_button"
+    },
+    {
+      "offset": 27992,
+      "value": "attack_button"
+    },
+    {
+      "offset": 28012,
+      "value": "TID_ALLIANCE_WAR_SCOUT"
+    },
+    {
+      "offset": 28040,
+      "value": "TID_BUTTON_ATTACK"
+    },
+    {
+      "offset": 28064,
+      "value": "value_container"
+    },
+    {
+      "offset": 28084,
+      "value": "title"
+    },
+    {
+      "offset": 28096,
+      "value": "value2"
+    },
+    {
+      "offset": 28108,
+      "value": "value1"
+    },
+    {
+      "offset": 28120,
+      "value": "icon2"
+    },
+    {
+      "offset": 28132,
+      "value": "icon1"
+    },
+    {
+      "offset": 28144,
+      "value": "leaderboard_button"
+    },
+    {
+      "offset": 28168,
+      "value": "button"
+    },
+    {
+      "offset": 28180,
+      "value": "badge"
+    },
+    {
+      "offset": 28192,
+      "value": "entry_number"
+    },
+    {
+      "offset": 28212,
+      "value": "top"
+    },
+    {
+      "offset": 28220,
+      "value": "bottom"
+    },
+    {
+      "offset": 28232,
+      "value": "middle"
+    },
+    {
+      "offset": 28244,
+      "value": "image_bg"
+    },
+    {
+      "offset": 28260,
+      "value": "event_subtitle"
+    },
+    {
+      "offset": 28280,
+      "value": "button2"
+    },
+    {
+      "offset": 28292,
+      "value": "clock"
+    },
+    {
+      "offset": 28304,
+      "value": "event_text"
+    },
+    {
+      "offset": 28320,
+      "value": "loading_spinner"
+    },
+    {
+      "offset": 28340,
+      "value": "image_ref"
+    },
+    {
+      "offset": 28356,
+      "value": "darkening"
+    },
+    {
+      "offset": 28372,
+      "value": "bounds"
+    },
+    {
+      "offset": 28384,
+      "value": "bounds_tablet"
+    },
+    {
+      "offset": 28404,
+      "value": "news_button"
+    },
+    {
+      "offset": 28420,
+      "value": "image"
+    },
+    {
+      "offset": 28432,
+      "value": "back_button"
+    },
+    {
+      "offset": 28448,
+      "value": "close_button"
+    },
+    {
+      "offset": 28468,
+      "value": "content"
+    },
+    {
+      "offset": 28480,
+      "value": "event_title"
+    },
+    {
+      "offset": 28496,
+      "value": "TID_EVENT_TIME_LEFT"
+    },
+    {
+      "offset": 28520,
+      "value": "time"
+    },
+    {
+      "offset": 28532,
+      "value": "gems"
+    },
+    {
+      "offset": 28544,
+      "value": "info"
+    },
+    {
+      "offset": 28556,
+      "value": "magic_items"
+    },
+    {
+      "offset": 28572,
+      "value": "Icon"
+    },
+    {
+      "offset": 28592,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 28616,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 28636,
+      "value": "event_upcoming_discount_jump_golem"
+    },
+    {
+      "offset": 28676,
+      "value": "event_upcoming_discount_dragon"
+    },
+    {
+      "offset": 28712,
+      "value": "event_upcoming_discount_jump"
+    },
+    {
+      "offset": 28748,
+      "value": "event_upcoming_discount_hound"
+    },
+    {
+      "offset": 28784,
+      "value": "event_upcoming_discount_hog"
+    },
+    {
+      "offset": 28816,
+      "value": "event_upcoming_discount_golem"
+    },
+    {
+      "offset": 28852,
+      "value": "event_upcoming_dynamic_holiday"
+    },
+    {
+      "offset": 28888,
+      "value": "event_upcoming_discount_haste_balloon"
+    },
+    {
+      "offset": 28932,
+      "value": "event_upcoming_boost_training_brewing"
+    },
+    {
+      "offset": 28976,
+      "value": "generic_webview"
+    },
+    {
+      "offset": 28996,
+      "value": "event_fullscreen_midtitle"
+    },
+    {
+      "offset": 29028,
+      "value": "event_fullscreen_generic"
+    },
+    {
+      "offset": 29060,
+      "value": "star_count"
+    },
+    {
+      "offset": 29076,
+      "value": "event_upcoming_dynamic_generic"
+    },
+    {
+      "offset": 29112,
+      "value": "event_upcoming_discount_healer"
+    },
+    {
+      "offset": 29148,
+      "value": "event_dynamic_default"
+    },
+    {
+      "offset": 29176,
+      "value": "event_dynamic_boost"
+    },
+    {
+      "offset": 29200,
+      "value": "event_entry_discount_witch"
+    },
+    {
+      "offset": 29232,
+      "value": "event_entry_discount_hound"
+    },
+    {
+      "offset": 29264,
+      "value": "event_entry_discount_jump"
+    },
+    {
+      "offset": 29296,
+      "value": "event_entry_discount_pekka"
+    },
+    {
+      "offset": 29328,
+      "value": "event_upcoming_default"
+    },
+    {
+      "offset": 29356,
+      "value": "event_list_empty"
+    },
+    {
+      "offset": 29380,
+      "value": "event_entry_discount_loon"
+    },
+    {
+      "offset": 29412,
+      "value": "event_upcoming_discount_pekka"
+    },
+    {
+      "offset": 29448,
+      "value": "event_entry_discount_healer"
+    },
+    {
+      "offset": 29480,
+      "value": "event_upcoming_dynamic_boost"
+    },
+    {
+      "offset": 29516,
+      "value": "event_entry_discount_golem"
+    },
+    {
+      "offset": 29548,
+      "value": "events_nobitdropping"
+    },
+    {
+      "offset": 29576,
+      "value": "event_entry_discount_wizard"
+    },
+    {
+      "offset": 29608,
+      "value": "event_entry_discount_dragon"
+    },
+    {
+      "offset": 29640,
+      "value": "event_upcoming_boost_training"
+    },
+    {
+      "offset": 29676,
+      "value": "event_entry_haste_balloon"
+    },
+    {
+      "offset": 29708,
+      "value": "event_dynamic_xp"
+    },
+    {
+      "offset": 29732,
+      "value": "event_entry_sub_title"
+    },
+    {
+      "offset": 29760,
+      "value": "event_dynamic_discount"
+    },
+    {
+      "offset": 29788,
+      "value": "event_entry_jump_golem"
+    },
+    {
+      "offset": 29816,
+      "value": "event_entry_challenge"
+    },
+    {
+      "offset": 29844,
+      "value": "event_upcoming_dynamic_discount"
+    },
+    {
+      "offset": 29880,
+      "value": "event_upcoming_boost_collectors"
+    },
+    {
+      "offset": 29916,
+      "value": "event_entry_xp_clan_war"
+    },
+    {
+      "offset": 29944,
+      "value": "event_entry_generic"
+    },
+    {
+      "offset": 29968,
+      "value": "event_upcoming_dynamic_xp"
+    },
+    {
+      "offset": 30000,
+      "value": "event_achievement_item_new"
+    },
+    {
+      "offset": 30032,
+      "value": "event_upcoming_boost_brewing"
+    },
+    {
+      "offset": 30068,
+      "value": "event_entry_starbonus"
+    },
+    {
+      "offset": 30096,
+      "value": "event_entry_default"
+    },
+    {
+      "offset": 30120,
+      "value": "event_upcoming_starbonus"
+    },
+    {
+      "offset": 30152,
+      "value": "event_entry_boost_training"
+    },
+    {
+      "offset": 30184,
+      "value": "xp_reward"
+    },
+    {
+      "offset": 30200,
+      "value": "event_upcoming_xp_clan_war"
+    },
+    {
+      "offset": 30232,
+      "value": "event_dynamic_generic"
+    },
+    {
+      "offset": 30260,
+      "value": "event_entry_discount_hog"
+    },
+    {
+      "offset": 30292,
+      "value": "event_entry_boost_brewing"
+    },
+    {
+      "offset": 30324,
+      "value": "event_entry_boost_training_brewing"
+    },
+    {
+      "offset": 30364,
+      "value": "star_count_new"
+    },
+    {
+      "offset": 30384,
+      "value": "event_achievement_item"
+    },
+    {
+      "offset": 30412,
+      "value": "event_upcoming_generic"
+    },
+    {
+      "offset": 30440,
+      "value": "event_upcoming_dynamic_default"
+    },
+    {
+      "offset": 30476,
+      "value": "event_entry_boost_collectors"
+    },
+    {
+      "offset": 30512,
+      "value": "event_dynamic_holiday"
+    },
+    {
+      "offset": 30540,
+      "value": "event_achievement_item_stars"
+    },
+    {
+      "offset": 30576,
+      "value": "event_upcoming_discount_loon"
+    },
+    {
+      "offset": 30612,
+      "value": "gem_reward"
+    },
+    {
+      "offset": 30628,
+      "value": "event_upcoming_discount_witch"
+    },
+    {
+      "offset": 30664,
+      "value": "event_upcoming_discount_wizard"
+    },
+    {
+      "offset": 30700,
+      "value": "magic_item_reward"
+    },
+    {
+      "offset": 75792,
+      "value": "o o"
+    },
+    {
+      "offset": 81363,
+      "value": "o6E"
+    },
+    {
+      "offset": 83566,
+      "value": "Qvs"
+    },
+    {
+      "offset": 88986,
+      "value": "LC0"
+    },
+    {
+      "offset": 94899,
+      "value": "P:T"
+    },
+    {
+      "offset": 98787,
+      "value": "L8P"
+    },
+    {
+      "offset": 103284,
+      "value": "jzTb"
+    },
+    {
+      "offset": 111083,
+      "value": "LQ@@"
+    },
+    {
+      "offset": 111109,
+      "value": "tJv"
+    },
+    {
+      "offset": 111693,
+      "value": "TixRI"
+    },
+    {
+      "offset": 113220,
+      "value": "Xl@3"
+    },
+    {
+      "offset": 114234,
+      "value": "wn8"
+    },
+    {
+      "offset": 114303,
+      "value": "wbI"
+    },
+    {
+      "offset": 118037,
+      "value": "D /"
+    },
+    {
+      "offset": 119438,
+      "value": "oHs"
+    },
+    {
+      "offset": 120482,
+      "value": "SUot"
+    },
+    {
+      "offset": 121778,
+      "value": "SUot"
+    },
+    {
+      "offset": 124370,
+      "value": "SWot"
+    },
+    {
+      "offset": 125683,
+      "value": "k.G"
+    },
+    {
+      "offset": 127468,
+      "value": "zyn"
+    },
+    {
+      "offset": 128716,
+      "value": "C33"
+    },
+    {
+      "offset": 130036,
+      "value": "XqCD"
+    },
+    {
+      "offset": 131348,
+      "value": "XqCD"
+    },
+    {
+      "offset": 131978,
+      "value": "tpP@"
+    },
+    {
+      "offset": 136180,
+      "value": "COal@"
+    },
+    {
+      "offset": 137303,
+      "value": "l@:"
+    },
+    {
+      "offset": 137509,
+      "value": "I_h@"
+    },
+    {
+      "offset": 137698,
+      "value": "ACW\\"
+    },
+    {
+      "offset": 137899,
+      "value": "rSB"
+    },
+    {
+      "offset": 139639,
+      "value": "_ u"
+    },
+    {
+      "offset": 140003,
+      "value": "AMX"
+    },
+    {
+      "offset": 140019,
+      "value": "SYt"
+    },
+    {
+      "offset": 140052,
+      "value": "Ca_v"
+    },
+    {
+      "offset": 140259,
+      "value": "ASV"
+    },
+    {
+      "offset": 141550,
+      "value": "owO"
+    },
+    {
+      "offset": 142675,
+      "value": "KOj"
+    },
+    {
+      "offset": 145299,
+      "value": "IWh"
+    },
+    {
+      "offset": 145315,
+      "value": "OYr"
+    },
+    {
+      "offset": 145900,
+      "value": "rX@"
+    },
+    {
+      "offset": 148853,
+      "value": "rxW"
+    },
+    {
+      "offset": 155230,
+      "value": "R-_"
+    },
+    {
+      "offset": 156331,
+      "value": "kKR"
+    },
+    {
+      "offset": 160082,
+      "value": "TnXr"
+    },
+    {
+      "offset": 162978,
+      "value": "JfNr"
+    },
+    {
+      "offset": 164274,
+      "value": "TrXv"
+    },
+    {
+      "offset": 166882,
+      "value": "JfNj"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000000340c5667c356a49d9e7ecc2ddb10a5f2903df671c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "047800001800000000001200180004000000000008000c001000140012000000b46800006c6800007c4b00007c2b000004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

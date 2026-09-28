@@ -1,0 +1,175 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_sneaky_goblin.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_sneaky_goblin.sc",
+  "sha256_container": "2e92dfbad314cda725e81f1ddc223ca45f7399d8542e0d3021f5408358396102",
+  "sha256_descriptor": "79a234183c2db6824dace3ff6de4f9d703f08f17a5fbc8d32789e8847ce065fb",
+  "sha256_decoded_payload": "5abbf389e9209ccc947d5550511c9cfd5b339823ce5ddfbd83e6921694aef89f",
+  "version": 6,
+  "descriptor_bytes": 652,
+  "compressed_frame_bytes": 3577,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 9912,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 44
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 9
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 6256
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 1800
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 3584
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "goblin_elite_run1_3"
+    },
+    {
+      "offset": 208,
+      "value": "goblin_elite_run1_2"
+    },
+    {
+      "offset": 264,
+      "value": "goblin_elite_run1_1"
+    },
+    {
+      "offset": 320,
+      "value": "goblin_elite_idle1_3"
+    },
+    {
+      "offset": 380,
+      "value": "goblin_elite_idle1_2"
+    },
+    {
+      "offset": 440,
+      "value": "goblin_elite_idle1_1"
+    },
+    {
+      "offset": 500,
+      "value": "goblin_elite_attack1_3"
+    },
+    {
+      "offset": 560,
+      "value": "goblin_elite_attack1_2"
+    },
+    {
+      "offset": 628,
+      "value": "goblin_elite_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "goblin_elite_run1_3",
+    "goblin_elite_run1_2",
+    "goblin_elite_run1_1",
+    "goblin_elite_idle1_3",
+    "goblin_elite_idle1_2",
+    "goblin_elite_idle1_1",
+    "goblin_elite_attack1_3",
+    "goblin_elite_attack1_2",
+    "goblin_elite_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2312,
+      "value": "ffnA"
+    },
+    {
+      "offset": 2336,
+      "value": "ffnA"
+    },
+    {
+      "offset": 3797,
+      "value": "xgH"
+    },
+    {
+      "offset": 4121,
+      "value": "H+R"
+    },
+    {
+      "offset": 6012,
+      "value": "goblin_elite_run1_2"
+    },
+    {
+      "offset": 6036,
+      "value": "goblin_elite_run1_1"
+    },
+    {
+      "offset": 6060,
+      "value": "goblin_elite_idle1_1"
+    },
+    {
+      "offset": 6088,
+      "value": "goblin_elite_idle1_2"
+    },
+    {
+      "offset": 6116,
+      "value": "goblin_elite_attack1_1"
+    },
+    {
+      "offset": 6144,
+      "value": "goblin_elite_attack1_2"
+    },
+    {
+      "offset": 6172,
+      "value": "goblin_elite_attack1_3"
+    },
+    {
+      "offset": 6200,
+      "value": "goblin_elite_idle1_3"
+    },
+    {
+      "offset": 6228,
+      "value": "goblin_elite_run1_3"
+    },
+    {
+      "offset": 9884,
+      "value": "chr_sneaky_goblin_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000002c000000090000000100000070180000",
+  "decoded_preview_hex": "6c18000018000000000012001400040000000000000008000c001000120000002c1700007c1000005400000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

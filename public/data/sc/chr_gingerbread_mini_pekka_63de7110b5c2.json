@@ -1,0 +1,181 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_gingerbread_mini_pekka.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_gingerbread_mini_pekka.sc",
+  "sha256_container": "63de7110b5c25e52f6dcbdcf0c5e2f2e9668eda6f54ef6ce26579807749057c7",
+  "sha256_descriptor": "ee4e36765b99fe9f0f3049578d40b4a0e0dfe57e62f4e76deb6b05267749d6d6",
+  "sha256_decoded_payload": "83ac54b91052c0819fd4655bd12c8ee2cb3dbd769d4d7745cebfd21ebfa96619",
+  "version": 6,
+  "descriptor_bytes": 932,
+  "compressed_frame_bytes": 6034,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 15732,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 77
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 11
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 10300
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 2812
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 6040
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 160,
+      "value": "gingerbread_mini_pekka_lvl1_Run1_3"
+    },
+    {
+      "offset": 232,
+      "value": "gingerbread_mini_pekka_lvl1_Run1_2"
+    },
+    {
+      "offset": 304,
+      "value": "gingerbread_mini_pekka_lvl1_Run1_1"
+    },
+    {
+      "offset": 376,
+      "value": "gingerbread_mini_pekka_lvl1_Idle1_3"
+    },
+    {
+      "offset": 448,
+      "value": "gingerbread_mini_pekka_lvl1_Idle1_2"
+    },
+    {
+      "offset": 520,
+      "value": "gingerbread_mini_pekka_lvl1_Idle1_1"
+    },
+    {
+      "offset": 592,
+      "value": "gingerbread_mini_pekka_lvl1_Cheer1_1"
+    },
+    {
+      "offset": 668,
+      "value": "gingerbread_mini_pekka_lvl1_Attack1_3"
+    },
+    {
+      "offset": 744,
+      "value": "gingerbread_mini_pekka_lvl1_Attack1_2"
+    },
+    {
+      "offset": 820,
+      "value": "gingerbread_mini_pekka_lvl1_Attack1_1"
+    },
+    {
+      "offset": 904,
+      "value": "gingerbread_mini_pekka_die"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "gingerbread_mini_pekka_lvl1_Run1_3",
+    "gingerbread_mini_pekka_lvl1_Run1_2",
+    "gingerbread_mini_pekka_lvl1_Run1_1",
+    "gingerbread_mini_pekka_lvl1_Idle1_3",
+    "gingerbread_mini_pekka_lvl1_Idle1_2",
+    "gingerbread_mini_pekka_lvl1_Idle1_1",
+    "gingerbread_mini_pekka_lvl1_Cheer1_1",
+    "gingerbread_mini_pekka_lvl1_Attack1_3",
+    "gingerbread_mini_pekka_lvl1_Attack1_2",
+    "gingerbread_mini_pekka_lvl1_Attack1_1",
+    "gingerbread_mini_pekka_die"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 5493,
+      "value": "Bhp"
+    },
+    {
+      "offset": 9848,
+      "value": "gingerbread_mini_pekka_lvl1_Attack1_1"
+    },
+    {
+      "offset": 9892,
+      "value": "gingerbread_mini_pekka_lvl1_Attack1_2"
+    },
+    {
+      "offset": 9936,
+      "value": "gingerbread_mini_pekka_lvl1_Idle1_2"
+    },
+    {
+      "offset": 9976,
+      "value": "gingerbread_mini_pekka_lvl1_Idle1_3"
+    },
+    {
+      "offset": 10016,
+      "value": "gingerbread_mini_pekka_lvl1_Cheer1_1"
+    },
+    {
+      "offset": 10060,
+      "value": "gingerbread_mini_pekka_lvl1_Attack1_3"
+    },
+    {
+      "offset": 10104,
+      "value": "gingerbread_mini_pekka_lvl1_Idle1_1"
+    },
+    {
+      "offset": 10144,
+      "value": "gingerbread_mini_pekka_lvl1_Run1_1"
+    },
+    {
+      "offset": 10184,
+      "value": "gingerbread_mini_pekka_lvl1_Run1_2"
+    },
+    {
+      "offset": 10224,
+      "value": "gingerbread_mini_pekka_lvl1_Run1_3"
+    },
+    {
+      "offset": 10264,
+      "value": "gingerbread_mini_pekka_die"
+    },
+    {
+      "offset": 15696,
+      "value": "chr_gingerbread_mini_pekka_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000004d0000000b000000010000003c280000",
+  "decoded_preview_hex": "3828000018000000000012001400040000000000000008000c00100012000000202600002c1c0000a402000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

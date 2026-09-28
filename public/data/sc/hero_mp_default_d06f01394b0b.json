@@ -1,0 +1,95 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "hero_mp_default.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_mp_default.sc",
+  "sha256_container": "d06f01394b0b1220af36ffa1329ce5b37bed4af8ba95078cf7eb2a639336b022",
+  "sha256_descriptor": "57b8c57ddd3a83208aff4e06188cfa5e6e8cda64c598b94b92de47f563551577",
+  "sha256_decoded_payload": "224653355f72b82ab6a2206f09f61976ce64852f3b740a72dcd57efe52d58366",
+  "version": 6,
+  "descriptor_bytes": 156,
+  "compressed_frame_bytes": 2524,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 5176,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 3520
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 920
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 2528
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "vfx_mp_defaultskin_SleepZ"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "vfx_mp_defaultskin_SleepZ"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3484,
+      "value": "vfx_mp_defaultskin_SleepZ"
+    },
+    {
+      "offset": 4490,
+      "value": "UQ8"
+    },
+    {
+      "offset": 4504,
+      "value": "Ay3E "
+    },
+    {
+      "offset": 4724,
+      "value": "pP@"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000c00d0000",
+  "decoded_preview_hex": "bc0d000018000000000012001400040000000000000008000c001000120000006c0d0000f40a0000bc0a000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

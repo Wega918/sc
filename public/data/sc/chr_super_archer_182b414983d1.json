@@ -1,0 +1,225 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_super_archer.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_archer.sc",
+  "sha256_container": "182b414983d179bb23e7dce372daded2c413327fcb142d33a897aa184673abe0",
+  "sha256_descriptor": "b41ed328e9d6795938a6a13eed3626223be7bc417207b715897044aaf1f1d50c",
+  "sha256_decoded_payload": "93715427ec9edd67a9d4029cca8c19739ef04884389f44647a35c7298fabf480",
+  "version": 6,
+  "descriptor_bytes": 1020,
+  "compressed_frame_bytes": 5621,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 25912,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 59
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 19
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 16692
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 6792
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 5624
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 176,
+      "value": "super_archer_run1_3"
+    },
+    {
+      "offset": 232,
+      "value": "super_archer_run1_2"
+    },
+    {
+      "offset": 288,
+      "value": "super_archer_run1_1"
+    },
+    {
+      "offset": 344,
+      "value": "super_archer_idle1_3"
+    },
+    {
+      "offset": 404,
+      "value": "super_archer_idle1_2"
+    },
+    {
+      "offset": 464,
+      "value": "super_archer_idle1_1"
+    },
+    {
+      "offset": 524,
+      "value": "super_archer_cheer1_3"
+    },
+    {
+      "offset": 584,
+      "value": "super_archer_cheer1_2"
+    },
+    {
+      "offset": 644,
+      "value": "super_archer_cheer1_1"
+    },
+    {
+      "offset": 704,
+      "value": "super_archer_attack1_3"
+    },
+    {
+      "offset": 764,
+      "value": "super_archer_attack1_2"
+    },
+    {
+      "offset": 824,
+      "value": "super_archer_attack1_1"
+    },
+    {
+      "offset": 884,
+      "value": "superArcher_projectile"
+    },
+    {
+      "offset": 944,
+      "value": "star_glow"
+    },
+    {
+      "offset": 1000,
+      "value": "magic_arrow_trail"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "super_archer_run1_3",
+    "super_archer_run1_2",
+    "super_archer_run1_1",
+    "super_archer_idle1_3",
+    "super_archer_idle1_2",
+    "super_archer_idle1_1",
+    "super_archer_cheer1_3",
+    "super_archer_cheer1_2",
+    "super_archer_cheer1_1",
+    "super_archer_attack1_3",
+    "super_archer_attack1_2",
+    "super_archer_attack1_1",
+    "superArcher_projectile",
+    "star_glow",
+    "magic_arrow_trail"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2428,
+      "value": "ffv@"
+    },
+    {
+      "offset": 2524,
+      "value": "fff@"
+    },
+    {
+      "offset": 6252,
+      "value": "ffFA"
+    },
+    {
+      "offset": 16296,
+      "value": "super_archer_run1_2"
+    },
+    {
+      "offset": 16320,
+      "value": "super_archer_run1_1"
+    },
+    {
+      "offset": 16344,
+      "value": "super_archer_cheer1_3"
+    },
+    {
+      "offset": 16372,
+      "value": "super_archer_attack1_3"
+    },
+    {
+      "offset": 16400,
+      "value": "super_archer_idle1_3"
+    },
+    {
+      "offset": 16428,
+      "value": "super_archer_run1_3"
+    },
+    {
+      "offset": 16452,
+      "value": "super_archer_idle1_2"
+    },
+    {
+      "offset": 16480,
+      "value": "magic_arrow_trail"
+    },
+    {
+      "offset": 16504,
+      "value": "super_archer_cheer1_1"
+    },
+    {
+      "offset": 16532,
+      "value": "super_archer_idle1_1"
+    },
+    {
+      "offset": 16560,
+      "value": "super_archer_cheer1_2"
+    },
+    {
+      "offset": 16588,
+      "value": "super_archer_attack1_1"
+    },
+    {
+      "offset": 16616,
+      "value": "super_archer_attack1_2"
+    },
+    {
+      "offset": 16644,
+      "value": "superArcher_projectile"
+    },
+    {
+      "offset": 16672,
+      "value": "star_glow"
+    },
+    {
+      "offset": 25888,
+      "value": "chr_super_archer_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000003b000000130000000100000034410000",
+  "decoded_preview_hex": "3041000018000000000012001400040000000000000008000c00100012000000403f0000801f0000f80e000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

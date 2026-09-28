@@ -1,0 +1,157 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_super_baby_dragon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_baby_dragon.sc",
+  "sha256_container": "36a2357e634a8a42b3eb883067d3d70d09528bb17efc502b747c3a5757f5bd6e",
+  "sha256_descriptor": "0050102d8b9a0d79ec2d8c43d4070261b58ffe3eedfd29dea701b4ba070c07a0",
+  "sha256_decoded_payload": "2f354ed58ee5cac90b5ebd99a156f73c5307fa48f5b83cb8681a235cb93ad0bc",
+  "version": 6,
+  "descriptor_bytes": 500,
+  "compressed_frame_bytes": 5612,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 15640,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 49
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 11672
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 1896
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 5616
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 144,
+      "value": "super_baby_dragon_fly1_3"
+    },
+    {
+      "offset": 208,
+      "value": "super_baby_dragon_fly1_2"
+    },
+    {
+      "offset": 272,
+      "value": "super_baby_dragon_fly1_1"
+    },
+    {
+      "offset": 336,
+      "value": "super_baby_dragon_attack1_3"
+    },
+    {
+      "offset": 400,
+      "value": "super_baby_dragon_attack1_2"
+    },
+    {
+      "offset": 472,
+      "value": "super_baby_dragon_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "super_baby_dragon_fly1_3",
+    "super_baby_dragon_fly1_2",
+    "super_baby_dragon_fly1_1",
+    "super_baby_dragon_attack1_3",
+    "super_baby_dragon_attack1_2",
+    "super_baby_dragon_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1476,
+      "value": "ffv@"
+    },
+    {
+      "offset": 6596,
+      "value": "ff9B"
+    },
+    {
+      "offset": 11412,
+      "value": "action_frame"
+    },
+    {
+      "offset": 11432,
+      "value": "attack_pivot"
+    },
+    {
+      "offset": 11452,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 11476,
+      "value": "super_baby_dragon_attack1_1"
+    },
+    {
+      "offset": 11508,
+      "value": "super_baby_dragon_fly1_1"
+    },
+    {
+      "offset": 11540,
+      "value": "super_baby_dragon_attack1_2"
+    },
+    {
+      "offset": 11572,
+      "value": "super_baby_dragon_fly1_2"
+    },
+    {
+      "offset": 11604,
+      "value": "super_baby_dragon_attack1_3"
+    },
+    {
+      "offset": 11636,
+      "value": "super_baby_dragon_fly1_3"
+    },
+    {
+      "offset": 15608,
+      "value": "chr_super_baby_dragon_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000031000000080000000100000001000000",
+  "decoded_preview_hex": "942d000018000000000012001400040000000000000008000c00100012000000442c0000d02200007011000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

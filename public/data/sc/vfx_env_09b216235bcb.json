@@ -1,0 +1,1469 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "vfx_env.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\vfx_env.sc",
+  "sha256_container": "09b216235bcb79135de125712f77c3cd28f6bbac9477afdcda8ec3a51369a0d7",
+  "sha256_descriptor": "eac5ac870cbb2ac82456b16a45836710d4e2de15c56da132ac5a51dd1fbb87f8",
+  "sha256_decoded_payload": "71f1e9b03888fa560a04cebf65eda4bf49fa5379da2071d9a73618c9e57dc664",
+  "version": 6,
+  "descriptor_bytes": 8140,
+  "compressed_frame_bytes": 63504,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 277964,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 369
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 137
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 7
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 84,
+      "raw_u32": 191816
+    },
+    {
+      "field_index": 9,
+      "offset": 88,
+      "raw_u32": 71268
+    },
+    {
+      "field_index": 10,
+      "offset": 92,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 96,
+      "raw_u32": 63504
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 612,
+      "value": "vfx_trap_tornado_WindSpawn"
+    },
+    {
+      "offset": 676,
+      "value": "vfx_trap_tornado_WindOverlay"
+    },
+    {
+      "offset": 744,
+      "value": "vfx_trap_tornado_Wind"
+    },
+    {
+      "offset": 804,
+      "value": "vfx_trap_tornado_Shadow"
+    },
+    {
+      "offset": 864,
+      "value": "vfx_trap_tornado_Pebble04"
+    },
+    {
+      "offset": 928,
+      "value": "vfx_trap_tornado_Pebble03"
+    },
+    {
+      "offset": 992,
+      "value": "vfx_trap_tornado_Pebble02"
+    },
+    {
+      "offset": 1056,
+      "value": "vfx_trap_tornado_Pebble01"
+    },
+    {
+      "offset": 1120,
+      "value": "vfx_trap_tornado_Model"
+    },
+    {
+      "offset": 1180,
+      "value": "vfx_trap_tornado_Leaf04"
+    },
+    {
+      "offset": 1240,
+      "value": "vfx_trap_tornado_Leaf03"
+    },
+    {
+      "offset": 1300,
+      "value": "vfx_trap_tornado_Leaf02"
+    },
+    {
+      "offset": 1360,
+      "value": "vfx_trap_tornado_Leaf01"
+    },
+    {
+      "offset": 1420,
+      "value": "vfx_trap_tornado_Branch02"
+    },
+    {
+      "offset": 1484,
+      "value": "vfx_trap_tornado_Branch01"
+    },
+    {
+      "offset": 1548,
+      "value": "vfx_scattershot_TrailCloud_06"
+    },
+    {
+      "offset": 1616,
+      "value": "vfx_scattershot_TrailCloud_05"
+    },
+    {
+      "offset": 1684,
+      "value": "vfx_scattershot_TrailCloud_04"
+    },
+    {
+      "offset": 1752,
+      "value": "vfx_scattershot_TrailCloud_03"
+    },
+    {
+      "offset": 1820,
+      "value": "vfx_scattershot_TrailCloud_02"
+    },
+    {
+      "offset": 1888,
+      "value": "vfx_scattershot_TrailCloud_01"
+    },
+    {
+      "offset": 1956,
+      "value": "vfx_revengetower_sparkles_01"
+    },
+    {
+      "offset": 2024,
+      "value": "vfx_revengetower_glow_01"
+    },
+    {
+      "offset": 2088,
+      "value": "vfx_revengetower_explosion_smoke_01"
+    },
+    {
+      "offset": 2160,
+      "value": "vfx_revengetower_explosion_secondary_01"
+    },
+    {
+      "offset": 2236,
+      "value": "vfx_revengetower_explosion_01"
+    },
+    {
+      "offset": 2304,
+      "value": "vfx_revengetower_Trail_03"
+    },
+    {
+      "offset": 2368,
+      "value": "vfx_revengetower_Trail_02"
+    },
+    {
+      "offset": 2432,
+      "value": "vfx_revengetower_Trail_01"
+    },
+    {
+      "offset": 2496,
+      "value": "vfx_revengetower_TrailCloud_06"
+    },
+    {
+      "offset": 2564,
+      "value": "vfx_revengetower_TrailCloud_05"
+    },
+    {
+      "offset": 2632,
+      "value": "vfx_revengetower_TrailCloud_04"
+    },
+    {
+      "offset": 2700,
+      "value": "vfx_revengetower_TrailCloud_03"
+    },
+    {
+      "offset": 2768,
+      "value": "vfx_revengetower_TrailCloud_02"
+    },
+    {
+      "offset": 2836,
+      "value": "vfx_revengetower_TrailCloud_01"
+    },
+    {
+      "offset": 2904,
+      "value": "vfx_revengetower_Spark"
+    },
+    {
+      "offset": 2964,
+      "value": "vfx_revengetower_SoftGlow"
+    },
+    {
+      "offset": 3028,
+      "value": "vfx_revengetower_Rock_02"
+    },
+    {
+      "offset": 3092,
+      "value": "vfx_revengetower_Rock_01"
+    },
+    {
+      "offset": 3156,
+      "value": "vfx_revengetower_Projectile_03"
+    },
+    {
+      "offset": 3224,
+      "value": "vfx_revengetower_Projectile_02"
+    },
+    {
+      "offset": 3292,
+      "value": "vfx_revengetower_Projectile"
+    },
+    {
+      "offset": 3356,
+      "value": "vfx_revengetower_ImpactSpark_01"
+    },
+    {
+      "offset": 3424,
+      "value": "vfx_revengetower_ImpactShockwave_02"
+    },
+    {
+      "offset": 3496,
+      "value": "vfx_revengetower_ImpactShockwave"
+    },
+    {
+      "offset": 3568,
+      "value": "vfx_revengetower_ImpactFlashC"
+    },
+    {
+      "offset": 3636,
+      "value": "vfx_revengetower_ImpactFlash"
+    },
+    {
+      "offset": 3704,
+      "value": "vfx_revengetower_Ember_01"
+    },
+    {
+      "offset": 3768,
+      "value": "vfx_revengetower_DustCloud_04"
+    },
+    {
+      "offset": 3836,
+      "value": "vfx_revengetower_DustCloud_03"
+    },
+    {
+      "offset": 3904,
+      "value": "vfx_revengetower_DustCloud_02"
+    },
+    {
+      "offset": 3972,
+      "value": "vfx_revengetower_DustCloud_01"
+    },
+    {
+      "offset": 4040,
+      "value": "vfx_revengetower_BlueImpact"
+    },
+    {
+      "offset": 4104,
+      "value": "vfx_mp_meteorstrikeFlare_03"
+    },
+    {
+      "offset": 4168,
+      "value": "vfx_mp_meteorstrikeFlare_02"
+    },
+    {
+      "offset": 4232,
+      "value": "vfx_mp_meteorstrikeFlare_01"
+    },
+    {
+      "offset": 4296,
+      "value": "vfx_hotcandle_spark_01"
+    },
+    {
+      "offset": 4356,
+      "value": "vfx_hotcandle_impact_01"
+    },
+    {
+      "offset": 4416,
+      "value": "vfx_hotcandle_fireball_01"
+    },
+    {
+      "offset": 4480,
+      "value": "vfx_hotcandle_fire_projectile_01"
+    },
+    {
+      "offset": 4552,
+      "value": "vfx_hotcandle_fire_impact_01"
+    },
+    {
+      "offset": 4620,
+      "value": "vfx_hotcandle_fire_02"
+    },
+    {
+      "offset": 4680,
+      "value": "vfx_hotcandle_fire_01"
+    },
+    {
+      "offset": 4740,
+      "value": "vfx_hotcandle_attack_01"
+    },
+    {
+      "offset": 4800,
+      "value": "vfx_env_meteorstrike_SmokeCloud04"
+    },
+    {
+      "offset": 4872,
+      "value": "vfx_env_meteorstrike_SmokeCloud03"
+    },
+    {
+      "offset": 4944,
+      "value": "vfx_env_meteorstrike_SmokeCloud02"
+    },
+    {
+      "offset": 5016,
+      "value": "vfx_env_meteorstrike_SmokeCloud01"
+    },
+    {
+      "offset": 5088,
+      "value": "vfx_env_meteorstrike_ScorchMark"
+    },
+    {
+      "offset": 5156,
+      "value": "vfx_env_meteorstrike_Residue"
+    },
+    {
+      "offset": 5224,
+      "value": "vfx_env_meteorstrike_Debris03"
+    },
+    {
+      "offset": 5292,
+      "value": "vfx_env_meteorstrike_Debris02"
+    },
+    {
+      "offset": 5360,
+      "value": "vfx_env_meteorstrike_Debris01"
+    },
+    {
+      "offset": 5428,
+      "value": "vfx_env_meteorstrike_Aura"
+    },
+    {
+      "offset": 5492,
+      "value": "vfx_env_MeteorStrike_Trail"
+    },
+    {
+      "offset": 5556,
+      "value": "vfx_env_MeteorStrike_Projectile"
+    },
+    {
+      "offset": 5624,
+      "value": "vfx_env_MeteorStrike_ImpactCraterEnd"
+    },
+    {
+      "offset": 5700,
+      "value": "vfx_env_MeteorStrike_ImpactCrater"
+    },
+    {
+      "offset": 5772,
+      "value": "vfx_env_MeteorStrike_Impact"
+    },
+    {
+      "offset": 5836,
+      "value": "vfx_chr_mp_meteorstrike_Spark"
+    },
+    {
+      "offset": 5904,
+      "value": "spell_range_marker_graveyard"
+    },
+    {
+      "offset": 5972,
+      "value": "speed_spark_cc"
+    },
+    {
+      "offset": 6024,
+      "value": "speed_ripple_ring_cc"
+    },
+    {
+      "offset": 6084,
+      "value": "speed_range_wave_cc"
+    },
+    {
+      "offset": 6140,
+      "value": "speed_crystal_cc_shadow"
+    },
+    {
+      "offset": 6200,
+      "value": "speed_crystal_cc_deploy"
+    },
+    {
+      "offset": 6260,
+      "value": "speed_crystal_cc"
+    },
+    {
+      "offset": 6316,
+      "value": "reflector_hit_waves_2"
+    },
+    {
+      "offset": 6376,
+      "value": "reflector_hit_waves"
+    },
+    {
+      "offset": 6432,
+      "value": "minion_spawn_trail_purple"
+    },
+    {
+      "offset": 6496,
+      "value": "minion_spawn_trail_blue"
+    },
+    {
+      "offset": 6556,
+      "value": "graveyard_spell_range_marker"
+    },
+    {
+      "offset": 6624,
+      "value": "graveyard_speck"
+    },
+    {
+      "offset": 6676,
+      "value": "graveyard_spark"
+    },
+    {
+      "offset": 6728,
+      "value": "graveyard_smoke_05"
+    },
+    {
+      "offset": 6784,
+      "value": "graveyard_smoke_04"
+    },
+    {
+      "offset": 6840,
+      "value": "graveyard_smoke_03"
+    },
+    {
+      "offset": 6896,
+      "value": "graveyard_smoke_02"
+    },
+    {
+      "offset": 6952,
+      "value": "graveyard_smoke_01"
+    },
+    {
+      "offset": 7008,
+      "value": "graveyard_magic"
+    },
+    {
+      "offset": 7060,
+      "value": "graveyard_glow"
+    },
+    {
+      "offset": 7112,
+      "value": "graveyard_ghost"
+    },
+    {
+      "offset": 7164,
+      "value": "graveyard_bottleDrop_cc"
+    },
+    {
+      "offset": 7224,
+      "value": "fx_th18_Meteor_RevealImpactShockwave_02"
+    },
+    {
+      "offset": 7300,
+      "value": "fx_th18_Meteor_RevealImpactShockwave_01"
+    },
+    {
+      "offset": 7376,
+      "value": "fx_th18_Meteor_RevealImpactGlow"
+    },
+    {
+      "offset": 7444,
+      "value": "fx_th18_Meteor_RevealImpactExplosionRing"
+    },
+    {
+      "offset": 7524,
+      "value": "fx_th18_Meteor_RevealImpactExplosion"
+    },
+    {
+      "offset": 7600,
+      "value": "fx_th18_Meteor_RevealImpactDebris_03"
+    },
+    {
+      "offset": 7676,
+      "value": "fx_th18_Meteor_RevealImpactDebris_02"
+    },
+    {
+      "offset": 7752,
+      "value": "fx_th18_Meteor_RevealImpactDebris_01"
+    },
+    {
+      "offset": 7828,
+      "value": "coin2_cc"
+    },
+    {
+      "offset": 7876,
+      "value": "ballista_trail_lvl1"
+    },
+    {
+      "offset": 7932,
+      "value": "SmokeResidue"
+    },
+    {
+      "offset": 7984,
+      "value": "HullB"
+    },
+    {
+      "offset": 8028,
+      "value": "HullA"
+    },
+    {
+      "offset": 8072,
+      "value": "CursedMeteor"
+    },
+    {
+      "offset": 8132,
+      "value": "Aura"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "vfx_trap_tornado_WindSpawn",
+    "vfx_trap_tornado_WindOverlay",
+    "vfx_trap_tornado_Wind",
+    "vfx_trap_tornado_Shadow",
+    "vfx_trap_tornado_Pebble04",
+    "vfx_trap_tornado_Pebble03",
+    "vfx_trap_tornado_Pebble02",
+    "vfx_trap_tornado_Pebble01",
+    "vfx_trap_tornado_Model",
+    "vfx_trap_tornado_Leaf04",
+    "vfx_trap_tornado_Leaf03",
+    "vfx_trap_tornado_Leaf02",
+    "vfx_trap_tornado_Leaf01",
+    "vfx_trap_tornado_Branch02",
+    "vfx_trap_tornado_Branch01",
+    "vfx_scattershot_TrailCloud_06",
+    "vfx_scattershot_TrailCloud_05",
+    "vfx_scattershot_TrailCloud_04",
+    "vfx_scattershot_TrailCloud_03",
+    "vfx_scattershot_TrailCloud_02",
+    "vfx_scattershot_TrailCloud_01",
+    "vfx_revengetower_sparkles_01",
+    "vfx_revengetower_glow_01",
+    "vfx_revengetower_explosion_smoke_01",
+    "vfx_revengetower_explosion_secondary_01",
+    "vfx_revengetower_explosion_01",
+    "vfx_revengetower_Trail_03",
+    "vfx_revengetower_Trail_02",
+    "vfx_revengetower_Trail_01",
+    "vfx_revengetower_TrailCloud_06",
+    "vfx_revengetower_TrailCloud_05",
+    "vfx_revengetower_TrailCloud_04",
+    "vfx_revengetower_TrailCloud_03",
+    "vfx_revengetower_TrailCloud_02",
+    "vfx_revengetower_TrailCloud_01",
+    "vfx_revengetower_Spark",
+    "vfx_revengetower_SoftGlow",
+    "vfx_revengetower_Rock_02",
+    "vfx_revengetower_Rock_01",
+    "vfx_revengetower_Projectile_03",
+    "vfx_revengetower_Projectile_02",
+    "vfx_revengetower_Projectile",
+    "vfx_revengetower_ImpactSpark_01",
+    "vfx_revengetower_ImpactShockwave_02",
+    "vfx_revengetower_ImpactShockwave",
+    "vfx_revengetower_ImpactFlashC",
+    "vfx_revengetower_ImpactFlash",
+    "vfx_revengetower_Ember_01",
+    "vfx_revengetower_DustCloud_04",
+    "vfx_revengetower_DustCloud_03",
+    "vfx_revengetower_DustCloud_02",
+    "vfx_revengetower_DustCloud_01",
+    "vfx_revengetower_BlueImpact",
+    "vfx_mp_meteorstrikeFlare_03",
+    "vfx_mp_meteorstrikeFlare_02",
+    "vfx_mp_meteorstrikeFlare_01",
+    "vfx_hotcandle_spark_01",
+    "vfx_hotcandle_impact_01",
+    "vfx_hotcandle_fireball_01",
+    "vfx_hotcandle_fire_projectile_01",
+    "vfx_hotcandle_fire_impact_01",
+    "vfx_hotcandle_fire_02",
+    "vfx_hotcandle_fire_01",
+    "vfx_hotcandle_attack_01",
+    "vfx_env_meteorstrike_SmokeCloud04",
+    "vfx_env_meteorstrike_SmokeCloud03",
+    "vfx_env_meteorstrike_SmokeCloud02",
+    "vfx_env_meteorstrike_SmokeCloud01",
+    "vfx_env_meteorstrike_ScorchMark",
+    "vfx_env_meteorstrike_Residue",
+    "vfx_env_meteorstrike_Debris03",
+    "vfx_env_meteorstrike_Debris02",
+    "vfx_env_meteorstrike_Debris01",
+    "vfx_env_meteorstrike_Aura",
+    "vfx_env_MeteorStrike_Trail",
+    "vfx_env_MeteorStrike_Projectile",
+    "vfx_env_MeteorStrike_ImpactCraterEnd",
+    "vfx_env_MeteorStrike_ImpactCrater",
+    "vfx_env_MeteorStrike_Impact",
+    "vfx_chr_mp_meteorstrike_Spark",
+    "spell_range_marker_graveyard",
+    "speed_spark_cc",
+    "speed_ripple_ring_cc",
+    "speed_range_wave_cc",
+    "speed_crystal_cc_shadow",
+    "speed_crystal_cc_deploy",
+    "speed_crystal_cc",
+    "reflector_hit_waves_2",
+    "reflector_hit_waves",
+    "minion_spawn_trail_purple",
+    "minion_spawn_trail_blue",
+    "graveyard_spell_range_marker",
+    "graveyard_speck",
+    "graveyard_spark",
+    "graveyard_smoke_05",
+    "graveyard_smoke_04",
+    "graveyard_smoke_03",
+    "graveyard_smoke_02",
+    "graveyard_smoke_01",
+    "graveyard_magic",
+    "graveyard_glow",
+    "graveyard_ghost",
+    "graveyard_bottleDrop_cc",
+    "fx_th18_Meteor_RevealImpactShockwave_02",
+    "fx_th18_Meteor_RevealImpactShockwave_01",
+    "fx_th18_Meteor_RevealImpactGlow",
+    "fx_th18_Meteor_RevealImpactExplosionRing",
+    "fx_th18_Meteor_RevealImpactExplosion",
+    "fx_th18_Meteor_RevealImpactDebris_03",
+    "fx_th18_Meteor_RevealImpactDebris_02",
+    "fx_th18_Meteor_RevealImpactDebris_01",
+    "coin2_cc",
+    "ballista_trail_lvl1",
+    "SmokeResidue",
+    "HullB",
+    "HullA",
+    "CursedMeteor",
+    "Aura"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3135,
+      "value": "x0FR"
+    },
+    {
+      "offset": 3149,
+      "value": "v4@E"
+    },
+    {
+      "offset": 3156,
+      "value": "n4@E"
+    },
+    {
+      "offset": 3163,
+      "value": "f4@E"
+    },
+    {
+      "offset": 3177,
+      "value": "T4@E"
+    },
+    {
+      "offset": 3184,
+      "value": "M4@E"
+    },
+    {
+      "offset": 3191,
+      "value": "C4@E"
+    },
+    {
+      "offset": 3989,
+      "value": "a0FR"
+    },
+    {
+      "offset": 3996,
+      "value": "_4@E"
+    },
+    {
+      "offset": 4003,
+      "value": "W4@E"
+    },
+    {
+      "offset": 4010,
+      "value": "R4@E"
+    },
+    {
+      "offset": 4017,
+      "value": "J4@E"
+    },
+    {
+      "offset": 5802,
+      "value": "v333"
+    },
+    {
+      "offset": 5809,
+      "value": "l333"
+    },
+    {
+      "offset": 5816,
+      "value": "_333"
+    },
+    {
+      "offset": 5823,
+      "value": "T333"
+    },
+    {
+      "offset": 5830,
+      "value": "J333"
+    },
+    {
+      "offset": 5972,
+      "value": "gfwB"
+    },
+    {
+      "offset": 14080,
+      "value": "gf7B"
+    },
+    {
+      "offset": 14536,
+      "value": "gfxB"
+    },
+    {
+      "offset": 14851,
+      "value": "B33c@"
+    },
+    {
+      "offset": 15019,
+      "value": "BgfvA"
+    },
+    {
+      "offset": 15643,
+      "value": "BgfPB"
+    },
+    {
+      "offset": 15691,
+      "value": "BgfXB"
+    },
+    {
+      "offset": 15715,
+      "value": "B33\\B"
+    },
+    {
+      "offset": 15763,
+      "value": "BgfcB"
+    },
+    {
+      "offset": 15811,
+      "value": "A33jB"
+    },
+    {
+      "offset": 15835,
+      "value": "AgfmB"
+    },
+    {
+      "offset": 15859,
+      "value": "A33pB"
+    },
+    {
+      "offset": 15955,
+      "value": "A33zB"
+    },
+    {
+      "offset": 16556,
+      "value": "gfzB"
+    },
+    {
+      "offset": 16652,
+      "value": "gfpB"
+    },
+    {
+      "offset": 16700,
+      "value": "gfjB"
+    },
+    {
+      "offset": 16796,
+      "value": "gf\\B"
+    },
+    {
+      "offset": 16868,
+      "value": "gfPB"
+    },
+    {
+      "offset": 16892,
+      "value": "gfLB"
+    },
+    {
+      "offset": 16940,
+      "value": "gfCB"
+    },
+    {
+      "offset": 17707,
+      "value": "B33S@"
+    },
+    {
+      "offset": 18258,
+      "value": "kB33/B"
+    },
+    {
+      "offset": 18282,
+      "value": "fBgf5B"
+    },
+    {
+      "offset": 18304,
+      "value": "gfaB"
+    },
+    {
+      "offset": 18402,
+      "value": "LBgfQB"
+    },
+    {
+      "offset": 18496,
+      "value": "gf5B33eB"
+    },
+    {
+      "offset": 18547,
+      "value": "BgfnB"
+    },
+    {
+      "offset": 19072,
+      "value": "gfF@"
+    },
+    {
+      "offset": 19676,
+      "value": "gfnB"
+    },
+    {
+      "offset": 19724,
+      "value": "gfeB"
+    },
+    {
+      "offset": 19820,
+      "value": "gfQB"
+    },
+    {
+      "offset": 22648,
+      "value": "gf:B"
+    },
+    {
+      "offset": 30667,
+      "value": "B333A"
+    },
+    {
+      "offset": 44514,
+      "value": "S@333@"
+    },
+    {
+      "offset": 44852,
+      "value": "gfFA"
+    },
+    {
+      "offset": 47275,
+      "value": "B335B"
+    },
+    {
+      "offset": 50660,
+      "value": "gffA"
+    },
+    {
+      "offset": 52051,
+      "value": "A33sA"
+    },
+    {
+      "offset": 54688,
+      "value": "gfv@"
+    },
+    {
+      "offset": 57547,
+      "value": "Agf6@"
+    },
+    {
+      "offset": 59233,
+      "value": "PH@"
+    },
+    {
+      "offset": 62257,
+      "value": "p8@"
+    },
+    {
+      "offset": 63553,
+      "value": "PE@"
+    },
+    {
+      "offset": 63856,
+      "value": "gFmD"
+    },
+    {
+      "offset": 64266,
+      "value": "eD33UB"
+    },
+    {
+      "offset": 64483,
+      "value": "DgfdB"
+    },
+    {
+      "offset": 64746,
+      "value": "kDgf6B"
+    },
+    {
+      "offset": 64937,
+      "value": "yLD"
+    },
+    {
+      "offset": 65515,
+      "value": "D3sUC"
+    },
+    {
+      "offset": 65680,
+      "value": "g67D"
+    },
+    {
+      "offset": 65801,
+      "value": "yWD"
+    },
+    {
+      "offset": 68180,
+      "value": "gfBA"
+    },
+    {
+      "offset": 69697,
+      "value": "PH@"
+    },
+    {
+      "offset": 70192,
+      "value": "g6RD"
+    },
+    {
+      "offset": 70504,
+      "value": "gFFD"
+    },
+    {
+      "offset": 70816,
+      "value": "gV:D"
+    },
+    {
+      "offset": 70912,
+      "value": "gF2D"
+    },
+    {
+      "offset": 71128,
+      "value": "gf.D"
+    },
+    {
+      "offset": 71585,
+      "value": "l/D"
+    },
+    {
+      "offset": 71681,
+      "value": "y2D"
+    },
+    {
+      "offset": 71777,
+      "value": "S2D"
+    },
+    {
+      "offset": 72505,
+      "value": "p8@"
+    },
+    {
+      "offset": 73705,
+      "value": "PE@"
+    },
+    {
+      "offset": 74153,
+      "value": "LdC"
+    },
+    {
+      "offset": 75160,
+      "value": "gf4B"
+    },
+    {
+      "offset": 77807,
+      "value": "Bf29V"
+    },
+    {
+      "offset": 78339,
+      "value": "SffrA"
+    },
+    {
+      "offset": 78445,
+      "value": "_pY"
+    },
+    {
+      "offset": 78628,
+      "value": "ffVA"
+    },
+    {
+      "offset": 78676,
+      "value": "ffVA"
+    },
+    {
+      "offset": 80788,
+      "value": "ff-B"
+    },
+    {
+      "offset": 83227,
+      "value": "A334C"
+    },
+    {
+      "offset": 85408,
+      "value": "ffgB"
+    },
+    {
+      "offset": 85791,
+      "value": "jffRB"
+    },
+    {
+      "offset": 93769,
+      "value": "S-t"
+    },
+    {
+      "offset": 95512,
+      "value": "ffVB"
+    },
+    {
+      "offset": 96196,
+      "value": "ffkB"
+    },
+    {
+      "offset": 96659,
+      "value": "CRRqv"
+    },
+    {
+      "offset": 98857,
+      "value": "G.d"
+    },
+    {
+      "offset": 101219,
+      "value": "AgO"
+    },
+    {
+      "offset": 102184,
+      "value": "ffFA"
+    },
+    {
+      "offset": 103472,
+      "value": "ffPB"
+    },
+    {
+      "offset": 104293,
+      "value": "V\\H"
+    },
+    {
+      "offset": 104369,
+      "value": "s3C"
+    },
+    {
+      "offset": 104536,
+      "value": "ffEC"
+    },
+    {
+      "offset": 104849,
+      "value": "Y+C"
+    },
+    {
+      "offset": 188008,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 188032,
+      "value": "vfx_revengetower_explosion_smoke_01"
+    },
+    {
+      "offset": 188072,
+      "value": "vfx_revengetower_Rock_01"
+    },
+    {
+      "offset": 188104,
+      "value": "reflector_hit_waves_2"
+    },
+    {
+      "offset": 188132,
+      "value": "vfx_revengetower_glow_01"
+    },
+    {
+      "offset": 188164,
+      "value": "vfx_chr_mp_meteorstrike_Spark"
+    },
+    {
+      "offset": 188200,
+      "value": "vfx_revengetower_explosion_01"
+    },
+    {
+      "offset": 188236,
+      "value": "vfx_revengetower_Trail_02"
+    },
+    {
+      "offset": 188268,
+      "value": "vfx_hotcandle_spark_01"
+    },
+    {
+      "offset": 188296,
+      "value": "vfx_trap_tornado_Wind"
+    },
+    {
+      "offset": 188324,
+      "value": "vfx_revengetower_Trail_01"
+    },
+    {
+      "offset": 188356,
+      "value": "vfx_hotcandle_fire_impact_01"
+    },
+    {
+      "offset": 188392,
+      "value": "vfx_hotcandle_impact_01"
+    },
+    {
+      "offset": 188420,
+      "value": "vfx_revengetower_DustCloud_01"
+    },
+    {
+      "offset": 188456,
+      "value": "vfx_revengetower_DustCloud_03"
+    },
+    {
+      "offset": 188492,
+      "value": "vfx_revengetower_Projectile"
+    },
+    {
+      "offset": 188524,
+      "value": "vfx_revengetower_Spark"
+    },
+    {
+      "offset": 188552,
+      "value": "spell_range_marker_graveyard"
+    },
+    {
+      "offset": 188588,
+      "value": "HullA"
+    },
+    {
+      "offset": 188600,
+      "value": "vfx_hotcandle_fire_01"
+    },
+    {
+      "offset": 188628,
+      "value": "vfx_hotcandle_attack_01"
+    },
+    {
+      "offset": 188656,
+      "value": "vfx_revengetower_TrailCloud_01"
+    },
+    {
+      "offset": 188692,
+      "value": "vfx_hotcandle_fire_02"
+    },
+    {
+      "offset": 188720,
+      "value": "vfx_revengetower_ImpactShockwave"
+    },
+    {
+      "offset": 188760,
+      "value": "vfx_hotcandle_fire_projectile_01"
+    },
+    {
+      "offset": 188800,
+      "value": "graveyard_bottleDrop_cc"
+    },
+    {
+      "offset": 188828,
+      "value": "vfx_revengetower_Rock_02"
+    },
+    {
+      "offset": 188860,
+      "value": "vfx_trap_tornado_Pebble02"
+    },
+    {
+      "offset": 188892,
+      "value": "fx_th18_Meteor_RevealImpactGlow"
+    },
+    {
+      "offset": 188928,
+      "value": "vfx_trap_tornado_Model"
+    },
+    {
+      "offset": 188956,
+      "value": "vfx_trap_tornado_WindOverlay"
+    },
+    {
+      "offset": 188992,
+      "value": "vfx_env_meteorstrike_Debris01"
+    },
+    {
+      "offset": 189028,
+      "value": "fx_th18_Meteor_RevealImpactShockwave_01"
+    },
+    {
+      "offset": 189072,
+      "value": "vfx_revengetower_explosion_secondary_01"
+    },
+    {
+      "offset": 189116,
+      "value": "vfx_trap_tornado_Branch02"
+    },
+    {
+      "offset": 189148,
+      "value": "vfx_trap_tornado_Leaf04"
+    },
+    {
+      "offset": 189176,
+      "value": "vfx_trap_tornado_Leaf01"
+    },
+    {
+      "offset": 189204,
+      "value": "vfx_env_MeteorStrike_Trail"
+    },
+    {
+      "offset": 189236,
+      "value": "vfx_trap_tornado_Pebble04"
+    },
+    {
+      "offset": 189268,
+      "value": "vfx_scattershot_TrailCloud_04"
+    },
+    {
+      "offset": 189304,
+      "value": "graveyard_ghost"
+    },
+    {
+      "offset": 189324,
+      "value": "speed_spark_cc"
+    },
+    {
+      "offset": 189344,
+      "value": "vfx_env_meteorstrike_ScorchMark"
+    },
+    {
+      "offset": 189380,
+      "value": "speed_ripple_ring_cc"
+    },
+    {
+      "offset": 189408,
+      "value": "speed_range_wave_cc"
+    },
+    {
+      "offset": 189432,
+      "value": "graveyard_spark"
+    },
+    {
+      "offset": 189452,
+      "value": "speed_crystal_cc"
+    },
+    {
+      "offset": 189476,
+      "value": "vfx_env_meteorstrike_SmokeCloud04"
+    },
+    {
+      "offset": 189516,
+      "value": "vfx_hotcandle_fireball_01"
+    },
+    {
+      "offset": 189548,
+      "value": "graveyard_spell_range_marker"
+    },
+    {
+      "offset": 189584,
+      "value": "vfx_revengetower_TrailCloud_02"
+    },
+    {
+      "offset": 189620,
+      "value": "graveyard_smoke_04"
+    },
+    {
+      "offset": 189644,
+      "value": "vfx_revengetower_Projectile_02"
+    },
+    {
+      "offset": 189680,
+      "value": "HullB"
+    },
+    {
+      "offset": 189692,
+      "value": "speed_crystal_cc_shadow"
+    },
+    {
+      "offset": 189720,
+      "value": "vfx_env_meteorstrike_SmokeCloud01"
+    },
+    {
+      "offset": 189760,
+      "value": "minion_spawn_trail_purple"
+    },
+    {
+      "offset": 189792,
+      "value": "SmokeResidue"
+    },
+    {
+      "offset": 189812,
+      "value": "vfx_trap_tornado_Pebble03"
+    },
+    {
+      "offset": 189844,
+      "value": "reflector_hit_waves"
+    },
+    {
+      "offset": 189868,
+      "value": "vfx_env_meteorstrike_Aura"
+    },
+    {
+      "offset": 189900,
+      "value": "vfx_trap_tornado_Pebble01"
+    },
+    {
+      "offset": 189932,
+      "value": "minion_spawn_trail_blue"
+    },
+    {
+      "offset": 189960,
+      "value": "coin2_cc"
+    },
+    {
+      "offset": 189976,
+      "value": "vfx_trap_tornado_WindSpawn"
+    },
+    {
+      "offset": 190008,
+      "value": "vfx_revengetower_TrailCloud_04"
+    },
+    {
+      "offset": 190044,
+      "value": "vfx_revengetower_TrailCloud_06"
+    },
+    {
+      "offset": 190080,
+      "value": "vfx_scattershot_TrailCloud_06"
+    },
+    {
+      "offset": 190116,
+      "value": "graveyard_smoke_03"
+    },
+    {
+      "offset": 190140,
+      "value": "vfx_mp_meteorstrikeFlare_01"
+    },
+    {
+      "offset": 190172,
+      "value": "graveyard_speck"
+    },
+    {
+      "offset": 190192,
+      "value": "graveyard_glow"
+    },
+    {
+      "offset": 190212,
+      "value": "graveyard_magic"
+    },
+    {
+      "offset": 190232,
+      "value": "vfx_trap_tornado_Leaf03"
+    },
+    {
+      "offset": 190260,
+      "value": "vfx_trap_tornado_Branch01"
+    },
+    {
+      "offset": 190292,
+      "value": "vfx_trap_tornado_Leaf02"
+    },
+    {
+      "offset": 190320,
+      "value": "graveyard_smoke_01"
+    },
+    {
+      "offset": 190344,
+      "value": "graveyard_smoke_02"
+    },
+    {
+      "offset": 190368,
+      "value": "graveyard_smoke_05"
+    },
+    {
+      "offset": 190392,
+      "value": "ballista_trail_lvl1"
+    },
+    {
+      "offset": 190416,
+      "value": "vfx_env_meteorstrike_SmokeCloud02"
+    },
+    {
+      "offset": 190456,
+      "value": "vfx_env_MeteorStrike_ImpactCraterEnd"
+    },
+    {
+      "offset": 190500,
+      "value": "vfx_revengetower_Trail_03"
+    },
+    {
+      "offset": 190532,
+      "value": "vfx_revengetower_ImpactFlash"
+    },
+    {
+      "offset": 190568,
+      "value": "speed_crystal_cc_deploy"
+    },
+    {
+      "offset": 190596,
+      "value": "vfx_trap_tornado_Shadow"
+    },
+    {
+      "offset": 190624,
+      "value": "vfx_revengetower_sparkles_01"
+    },
+    {
+      "offset": 190660,
+      "value": "vfx_revengetower_ImpactFlashC"
+    },
+    {
+      "offset": 190696,
+      "value": "Aura"
+    },
+    {
+      "offset": 190708,
+      "value": "fx_th18_Meteor_RevealImpactExplosionRing"
+    },
+    {
+      "offset": 190756,
+      "value": "vfx_revengetower_BlueImpact"
+    },
+    {
+      "offset": 190788,
+      "value": "vfx_scattershot_TrailCloud_02"
+    },
+    {
+      "offset": 190824,
+      "value": "vfx_revengetower_Projectile_03"
+    },
+    {
+      "offset": 190860,
+      "value": "vfx_revengetower_TrailCloud_03"
+    },
+    {
+      "offset": 190896,
+      "value": "vfx_revengetower_TrailCloud_05"
+    },
+    {
+      "offset": 190932,
+      "value": "vfx_revengetower_Ember_01"
+    },
+    {
+      "offset": 190964,
+      "value": "vfx_revengetower_DustCloud_02"
+    }
+  ],
+  "descriptor_preview_hex": "380000001400000040c2ee905830177439db402c1d7bef73d60969911c002c00040008000c00100014001800000000001c002000240028001c00000001000000",
+  "decoded_preview_hex": "44ed020018000000000012001400040000000000000008000c0010001200000060dc020040a40100c028010004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

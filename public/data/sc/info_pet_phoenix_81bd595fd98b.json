@@ -1,0 +1,380 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_pet_phoenix.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_pet_phoenix.sc",
+  "sha256_container": "81bd595fd98b91f330abe61b7ee96b5cee02a2d3d18698d1ffbf6d6901bb65c6",
+  "sha256_descriptor": "edd902c2142f918f82babfc5bde531d3c2c9fa74e7d82501e9c1f79ea5a38fe0",
+  "sha256_decoded_payload": "3655e69c743fac02f227efacf284bd2117970f59e821cfc931b09384990f94b1",
+  "version": 6,
+  "descriptor_bytes": 156,
+  "compressed_frame_bytes": 102402,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 184092,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 224
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 183608
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 102408
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 132,
+      "value": "unit_pet_phoenix_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_pet_phoenix_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 192,
+      "value": "unit_pet_phoenix_big"
+    },
+    {
+      "offset": 7064,
+      "value": "lvgWO"
+    },
+    {
+      "offset": 7249,
+      "value": "JMl"
+    },
+    {
+      "offset": 8634,
+      "value": "__O"
+    },
+    {
+      "offset": 8828,
+      "value": "s@e"
+    },
+    {
+      "offset": 8849,
+      "value": "zWn"
+    },
+    {
+      "offset": 9753,
+      "value": "vtj3BS"
+    },
+    {
+      "offset": 10490,
+      "value": "vm3BM"
+    },
+    {
+      "offset": 10550,
+      "value": "C0X"
+    },
+    {
+      "offset": 13409,
+      "value": "Cun"
+    },
+    {
+      "offset": 18337,
+      "value": "QITA"
+    },
+    {
+      "offset": 21313,
+      "value": "o_f"
+    },
+    {
+      "offset": 21329,
+      "value": "Ied"
+    },
+    {
+      "offset": 21965,
+      "value": "B_8"
+    },
+    {
+      "offset": 23517,
+      "value": "BuD"
+    },
+    {
+      "offset": 23565,
+      "value": "BO."
+    },
+    {
+      "offset": 23579,
+      "value": "d3Bq@"
+    },
+    {
+      "offset": 23597,
+      "value": "B_6"
+    },
+    {
+      "offset": 25117,
+      "value": "ByF"
+    },
+    {
+      "offset": 25165,
+      "value": "GiQ"
+    },
+    {
+      "offset": 27600,
+      "value": "Ewwz"
+    },
+    {
+      "offset": 29784,
+      "value": "jBL"
+    },
+    {
+      "offset": 31021,
+      "value": "BY4"
+    },
+    {
+      "offset": 32225,
+      "value": "Yqv"
+    },
+    {
+      "offset": 32589,
+      "value": "Bc:"
+    },
+    {
+      "offset": 33889,
+      "value": "iqn"
+    },
+    {
+      "offset": 34300,
+      "value": "RB5"
+    },
+    {
+      "offset": 38609,
+      "value": "oer"
+    },
+    {
+      "offset": 43079,
+      "value": "L20"
+    },
+    {
+      "offset": 43249,
+      "value": "ykj"
+    },
+    {
+      "offset": 44913,
+      "value": "qet"
+    },
+    {
+      "offset": 47027,
+      "value": "W3V"
+    },
+    {
+      "offset": 47121,
+      "value": "t_v"
+    },
+    {
+      "offset": 51905,
+      "value": "moh"
+    },
+    {
+      "offset": 52833,
+      "value": "yed"
+    },
+    {
+      "offset": 53741,
+      "value": "Ba8"
+    },
+    {
+      "offset": 57825,
+      "value": "mcj"
+    },
+    {
+      "offset": 58348,
+      "value": "qBQ"
+    },
+    {
+      "offset": 59745,
+      "value": "Wgr"
+    },
+    {
+      "offset": 60657,
+      "value": "ogn"
+    },
+    {
+      "offset": 62273,
+      "value": "sgf"
+    },
+    {
+      "offset": 65616,
+      "value": "rG5"
+    },
+    {
+      "offset": 69162,
+      "value": "KG_"
+    },
+    {
+      "offset": 72145,
+      "value": "XUd"
+    },
+    {
+      "offset": 76466,
+      "value": "PI@"
+    },
+    {
+      "offset": 78033,
+      "value": "B F"
+    },
+    {
+      "offset": 84268,
+      "value": "QBS"
+    },
+    {
+      "offset": 84273,
+      "value": "ZMd"
+    },
+    {
+      "offset": 86113,
+      "value": "h0:"
+    },
+    {
+      "offset": 87487,
+      "value": "k\\F"
+    },
+    {
+      "offset": 89153,
+      "value": "j0X"
+    },
+    {
+      "offset": 102012,
+      "value": "NGI"
+    },
+    {
+      "offset": 105169,
+      "value": "TYz"
+    },
+    {
+      "offset": 105228,
+      "value": "ABE"
+    },
+    {
+      "offset": 105275,
+      "value": "jNGM"
+    },
+    {
+      "offset": 106236,
+      "value": "QBS"
+    },
+    {
+      "offset": 107788,
+      "value": "QB9"
+    },
+    {
+      "offset": 121970,
+      "value": "FMF"
+    },
+    {
+      "offset": 121980,
+      "value": "QBu"
+    },
+    {
+      "offset": 125148,
+      "value": "BB1"
+    },
+    {
+      "offset": 125164,
+      "value": "QBo"
+    },
+    {
+      "offset": 125218,
+      "value": "pH@"
+    },
+    {
+      "offset": 128451,
+      "value": "oVQ"
+    },
+    {
+      "offset": 132712,
+      "value": "tVA"
+    },
+    {
+      "offset": 137672,
+      "value": "sac"
+    },
+    {
+      "offset": 141067,
+      "value": "g3BU"
+    },
+    {
+      "offset": 141195,
+      "value": "y3B1"
+    },
+    {
+      "offset": 145181,
+      "value": "CMn"
+    },
+    {
+      "offset": 149908,
+      "value": "C2 "
+    },
+    {
+      "offset": 154376,
+      "value": "pQ8"
+    },
+    {
+      "offset": 156425,
+      "value": "Eq7o"
+    },
+    {
+      "offset": 160890,
+      "value": "auo"
+    },
+    {
+      "offset": 168106,
+      "value": "UBo"
+    },
+    {
+      "offset": 171761,
+      "value": "tDD"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000010000000100000003000000",
+  "decoded_preview_hex": "dc00000018000000000012001400040000000000000008000c001000120000009000000080000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

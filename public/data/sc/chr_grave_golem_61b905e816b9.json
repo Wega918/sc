@@ -1,0 +1,249 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_grave_golem.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_grave_golem.sc",
+  "sha256_container": "61b905e816b91fd2b38afebd856c7b61155f78ea7585d412e64f2a56f9773bef",
+  "sha256_descriptor": "d620f06f2afd06a3462b0f6cace8345b31bb92b607f824740d36958ed42bf2d6",
+  "sha256_decoded_payload": "08c6aca2f8a70a10a6da98334751fa977363b7011b3ecbacdf893b306cf73d60",
+  "version": 6,
+  "descriptor_bytes": 1012,
+  "compressed_frame_bytes": 12177,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 39248,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 154
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 15
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 27672
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 5728
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 12184
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 176,
+      "value": "grave_golem_walk1_3"
+    },
+    {
+      "offset": 232,
+      "value": "grave_golem_walk1_2"
+    },
+    {
+      "offset": 288,
+      "value": "grave_golem_walk1_1"
+    },
+    {
+      "offset": 344,
+      "value": "grave_golem_summon1_3"
+    },
+    {
+      "offset": 404,
+      "value": "grave_golem_summon1_2"
+    },
+    {
+      "offset": 464,
+      "value": "grave_golem_summon1_1"
+    },
+    {
+      "offset": 524,
+      "value": "grave_golem_idle1_3"
+    },
+    {
+      "offset": 580,
+      "value": "grave_golem_idle1_2"
+    },
+    {
+      "offset": 636,
+      "value": "grave_golem_idle1_1"
+    },
+    {
+      "offset": 692,
+      "value": "grave_golem_die1_3"
+    },
+    {
+      "offset": 748,
+      "value": "grave_golem_die1_2"
+    },
+    {
+      "offset": 804,
+      "value": "grave_golem_die1_1"
+    },
+    {
+      "offset": 860,
+      "value": "grave_golem_attack1_3"
+    },
+    {
+      "offset": 920,
+      "value": "grave_golem_attack1_2"
+    },
+    {
+      "offset": 988,
+      "value": "grave_golem_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "grave_golem_walk1_3",
+    "grave_golem_walk1_2",
+    "grave_golem_walk1_1",
+    "grave_golem_summon1_3",
+    "grave_golem_summon1_2",
+    "grave_golem_summon1_1",
+    "grave_golem_idle1_3",
+    "grave_golem_idle1_2",
+    "grave_golem_idle1_1",
+    "grave_golem_die1_3",
+    "grave_golem_die1_2",
+    "grave_golem_die1_1",
+    "grave_golem_attack1_3",
+    "grave_golem_attack1_2",
+    "grave_golem_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 7997,
+      "value": "hMs"
+    },
+    {
+      "offset": 10988,
+      "value": "ffIB"
+    },
+    {
+      "offset": 11393,
+      "value": "nIP"
+    },
+    {
+      "offset": 12233,
+      "value": "QFr"
+    },
+    {
+      "offset": 12245,
+      "value": "Yfh"
+    },
+    {
+      "offset": 13928,
+      "value": "ff9B"
+    },
+    {
+      "offset": 15680,
+      "value": "ffF@"
+    },
+    {
+      "offset": 16568,
+      "value": "ffgB"
+    },
+    {
+      "offset": 17420,
+      "value": "ffgB"
+    },
+    {
+      "offset": 27284,
+      "value": "grave_golem_die1_3"
+    },
+    {
+      "offset": 27308,
+      "value": "grave_golem_die1_2"
+    },
+    {
+      "offset": 27332,
+      "value": "grave_golem_attack1_3"
+    },
+    {
+      "offset": 27360,
+      "value": "grave_golem_idle1_3"
+    },
+    {
+      "offset": 27384,
+      "value": "grave_golem_die1_1"
+    },
+    {
+      "offset": 27408,
+      "value": "grave_golem_idle1_1"
+    },
+    {
+      "offset": 27432,
+      "value": "grave_golem_idle1_2"
+    },
+    {
+      "offset": 27456,
+      "value": "grave_golem_attack1_2"
+    },
+    {
+      "offset": 27484,
+      "value": "grave_golem_attack1_1"
+    },
+    {
+      "offset": 27512,
+      "value": "grave_golem_walk1_2"
+    },
+    {
+      "offset": 27536,
+      "value": "grave_golem_walk1_3"
+    },
+    {
+      "offset": 27560,
+      "value": "grave_golem_summon1_3"
+    },
+    {
+      "offset": 27588,
+      "value": "grave_golem_walk1_1"
+    },
+    {
+      "offset": 27612,
+      "value": "grave_golem_summon1_1"
+    },
+    {
+      "offset": 27640,
+      "value": "grave_golem_summon1_2"
+    },
+    {
+      "offset": 39224,
+      "value": "chr_grave_golem_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000009a0000000f00000001000000186c0000",
+  "decoded_preview_hex": "146c000018000000000012001400040000000000000008000c001000120000002c6a0000604400006c0c000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

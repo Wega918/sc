@@ -1,0 +1,336 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_archer.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_archer.sc",
+  "sha256_container": "d370ac39f27bace40a054b741005280abfe1b455851e86f22a274fa6c0bf8093",
+  "sha256_descriptor": "34dc570ffd581cf101736c169d64049c7029f8d782f7623e4354eed6a3fd29ca",
+  "sha256_decoded_payload": "3981338a88ce53b62c41c15c3796bef4382313ce58f7b2280bdf08c211918a2e",
+  "version": 6,
+  "descriptor_bytes": 364,
+  "compressed_frame_bytes": 142993,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 294968,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 5
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 772
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 293384
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 142996
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 160,
+      "value": "unit_archer_big"
+    },
+    {
+      "offset": 212,
+      "value": "unit_archerQueen_big"
+    },
+    {
+      "offset": 272,
+      "value": "unit_archerQueen_ability1_big"
+    },
+    {
+      "offset": 348,
+      "value": "card_archer_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_archer_big",
+    "unit_archerQueen_big",
+    "unit_archerQueen_ability1_big",
+    "card_archer_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 632,
+      "value": "bounds"
+    },
+    {
+      "offset": 644,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 664,
+      "value": "unit_archer_big"
+    },
+    {
+      "offset": 684,
+      "value": "card_archer_big"
+    },
+    {
+      "offset": 704,
+      "value": "unit_archerQueen_ability1_big"
+    },
+    {
+      "offset": 740,
+      "value": "unit_archerQueen_big"
+    },
+    {
+      "offset": 43373,
+      "value": "rT/B"
+    },
+    {
+      "offset": 49920,
+      "value": "AER"
+    },
+    {
+      "offset": 53140,
+      "value": "AQq"
+    },
+    {
+      "offset": 61499,
+      "value": "oSE"
+    },
+    {
+      "offset": 63687,
+      "value": "qBI"
+    },
+    {
+      "offset": 65742,
+      "value": "THe"
+    },
+    {
+      "offset": 73720,
+      "value": "o@cz"
+    },
+    {
+      "offset": 82910,
+      "value": "B3j"
+    },
+    {
+      "offset": 87062,
+      "value": "JIO"
+    },
+    {
+      "offset": 88859,
+      "value": "LFK"
+    },
+    {
+      "offset": 98217,
+      "value": "B_k"
+    },
+    {
+      "offset": 102634,
+      "value": "CJdtLb"
+    },
+    {
+      "offset": 107321,
+      "value": "Co."
+    },
+    {
+      "offset": 108684,
+      "value": "GDh"
+    },
+    {
+      "offset": 112934,
+      "value": "gp_"
+    },
+    {
+      "offset": 114557,
+      "value": "f2:"
+    },
+    {
+      "offset": 126229,
+      "value": "c-7_"
+    },
+    {
+      "offset": 145530,
+      "value": "dtJ"
+    },
+    {
+      "offset": 147606,
+      "value": "Uo_"
+    },
+    {
+      "offset": 170932,
+      "value": "hrL"
+    },
+    {
+      "offset": 172580,
+      "value": "Xnj"
+    },
+    {
+      "offset": 180920,
+      "value": "o@mF"
+    },
+    {
+      "offset": 182664,
+      "value": "o@_E"
+    },
+    {
+      "offset": 188163,
+      "value": "RZJ"
+    },
+    {
+      "offset": 193907,
+      "value": "DYVA"
+    },
+    {
+      "offset": 196065,
+      "value": "Ky-"
+    },
+    {
+      "offset": 200290,
+      "value": "X@@"
+    },
+    {
+      "offset": 204565,
+      "value": "wByo"
+    },
+    {
+      "offset": 218341,
+      "value": "ol9o"
+    },
+    {
+      "offset": 218717,
+      "value": "E-:"
+    },
+    {
+      "offset": 219622,
+      "value": "nyO"
+    },
+    {
+      "offset": 222782,
+      "value": "iw9"
+    },
+    {
+      "offset": 224253,
+      "value": "vY5"
+    },
+    {
+      "offset": 224955,
+      "value": "Asu7"
+    },
+    {
+      "offset": 227749,
+      "value": "TURO"
+    },
+    {
+      "offset": 229466,
+      "value": "AV.DTx"
+    },
+    {
+      "offset": 233011,
+      "value": "a0Z."
+    },
+    {
+      "offset": 233318,
+      "value": "M@_"
+    },
+    {
+      "offset": 240308,
+      "value": "DHP"
+    },
+    {
+      "offset": 242221,
+      "value": "ASx"
+    },
+    {
+      "offset": 243636,
+      "value": "bfD"
+    },
+    {
+      "offset": 243643,
+      "value": "GhFZF"
+    },
+    {
+      "offset": 244598,
+      "value": "oa_"
+    },
+    {
+      "offset": 246582,
+      "value": "QM_"
+    },
+    {
+      "offset": 253829,
+      "value": "I\\4_"
+    },
+    {
+      "offset": 255814,
+      "value": "c4o"
+    },
+    {
+      "offset": 260950,
+      "value": "Cxo"
+    },
+    {
+      "offset": 267606,
+      "value": "_6_"
+    },
+    {
+      "offset": 272502,
+      "value": "xN_"
+    },
+    {
+      "offset": 274853,
+      "value": "i/l_"
+    },
+    {
+      "offset": 276526,
+      "value": "f1W"
+    },
+    {
+      "offset": 279275,
+      "value": "SS4"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000008e94dcd3f02d64319ece6786eaa389c672f119b51c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "0003000018000000000012001400040000000000000008000c0010001200000034020000f4010000cc00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

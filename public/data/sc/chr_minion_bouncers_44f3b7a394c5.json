@@ -1,0 +1,464 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_minion_bouncers.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_minion_bouncers.sc",
+  "sha256_container": "44f3b7a394c592943a868cad13f572b0579aa0fefaa010c33f23ba3684648ccd",
+  "sha256_descriptor": "c3fd8fb8e948d7172123a6d46df3c9089a4aed0846a8ea7ecd3927718db74493",
+  "sha256_decoded_payload": "a08d496e6f6291f194a680cdf823c41adbd33f4cfe53187eb69672b6ba684d43",
+  "version": 6,
+  "descriptor_bytes": 2236,
+  "compressed_frame_bytes": 24663,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 86148,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 277
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 36
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 61400
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 14428
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 24664
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 236,
+      "value": "minion_bouncer_stumpy_run1_3"
+    },
+    {
+      "offset": 304,
+      "value": "minion_bouncer_stumpy_run1_2"
+    },
+    {
+      "offset": 372,
+      "value": "minion_bouncer_stumpy_run1_1"
+    },
+    {
+      "offset": 440,
+      "value": "minion_bouncer_stumpy_idle1_3"
+    },
+    {
+      "offset": 508,
+      "value": "minion_bouncer_stumpy_idle1_2"
+    },
+    {
+      "offset": 576,
+      "value": "minion_bouncer_stumpy_idle1_1"
+    },
+    {
+      "offset": 644,
+      "value": "minion_bouncer_stumpy_attack3_3"
+    },
+    {
+      "offset": 712,
+      "value": "minion_bouncer_stumpy_attack3_2"
+    },
+    {
+      "offset": 780,
+      "value": "minion_bouncer_stumpy_attack3_1"
+    },
+    {
+      "offset": 848,
+      "value": "minion_bouncer_stumpy_attack2_3"
+    },
+    {
+      "offset": 916,
+      "value": "minion_bouncer_stumpy_attack2_2"
+    },
+    {
+      "offset": 984,
+      "value": "minion_bouncer_stumpy_attack2_1"
+    },
+    {
+      "offset": 1052,
+      "value": "minion_bouncer_stumpy_attack1_3"
+    },
+    {
+      "offset": 1120,
+      "value": "minion_bouncer_stumpy_attack1_2"
+    },
+    {
+      "offset": 1188,
+      "value": "minion_bouncer_stumpy_attack1_1"
+    },
+    {
+      "offset": 1256,
+      "value": "minion_bouncer_spike_run1_3"
+    },
+    {
+      "offset": 1320,
+      "value": "minion_bouncer_spike_run1_2"
+    },
+    {
+      "offset": 1384,
+      "value": "minion_bouncer_spike_run1_1"
+    },
+    {
+      "offset": 1448,
+      "value": "minion_bouncer_spike_idle1_3"
+    },
+    {
+      "offset": 1516,
+      "value": "minion_bouncer_spike_idle1_2"
+    },
+    {
+      "offset": 1584,
+      "value": "minion_bouncer_spike_idle1_1"
+    },
+    {
+      "offset": 1652,
+      "value": "minion_bouncer_spike_attack3_3"
+    },
+    {
+      "offset": 1720,
+      "value": "minion_bouncer_spike_attack3_2"
+    },
+    {
+      "offset": 1788,
+      "value": "minion_bouncer_spike_attack3_1"
+    },
+    {
+      "offset": 1856,
+      "value": "minion_bouncer_spike_attack2_3"
+    },
+    {
+      "offset": 1924,
+      "value": "minion_bouncer_spike_attack2_2"
+    },
+    {
+      "offset": 1992,
+      "value": "minion_bouncer_spike_attack2_1"
+    },
+    {
+      "offset": 2060,
+      "value": "minion_bouncer_spike_attack1_3"
+    },
+    {
+      "offset": 2128,
+      "value": "minion_bouncer_spike_attack1_2"
+    },
+    {
+      "offset": 2204,
+      "value": "minion_bouncer_spike_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "minion_bouncer_stumpy_run1_3",
+    "minion_bouncer_stumpy_run1_2",
+    "minion_bouncer_stumpy_run1_1",
+    "minion_bouncer_stumpy_idle1_3",
+    "minion_bouncer_stumpy_idle1_2",
+    "minion_bouncer_stumpy_idle1_1",
+    "minion_bouncer_stumpy_attack3_3",
+    "minion_bouncer_stumpy_attack3_2",
+    "minion_bouncer_stumpy_attack3_1",
+    "minion_bouncer_stumpy_attack2_3",
+    "minion_bouncer_stumpy_attack2_2",
+    "minion_bouncer_stumpy_attack2_1",
+    "minion_bouncer_stumpy_attack1_3",
+    "minion_bouncer_stumpy_attack1_2",
+    "minion_bouncer_stumpy_attack1_1",
+    "minion_bouncer_spike_run1_3",
+    "minion_bouncer_spike_run1_2",
+    "minion_bouncer_spike_run1_1",
+    "minion_bouncer_spike_idle1_3",
+    "minion_bouncer_spike_idle1_2",
+    "minion_bouncer_spike_idle1_1",
+    "minion_bouncer_spike_attack3_3",
+    "minion_bouncer_spike_attack3_2",
+    "minion_bouncer_spike_attack3_1",
+    "minion_bouncer_spike_attack2_3",
+    "minion_bouncer_spike_attack2_2",
+    "minion_bouncer_spike_attack2_1",
+    "minion_bouncer_spike_attack1_3",
+    "minion_bouncer_spike_attack1_2",
+    "minion_bouncer_spike_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 816,
+      "value": "ff6@"
+    },
+    {
+      "offset": 2192,
+      "value": "Qu8R"
+    },
+    {
+      "offset": 2216,
+      "value": "Qw8R"
+    },
+    {
+      "offset": 4533,
+      "value": "iqd"
+    },
+    {
+      "offset": 6068,
+      "value": "jAT4"
+    },
+    {
+      "offset": 6672,
+      "value": "ff6@"
+    },
+    {
+      "offset": 8048,
+      "value": "Qu8R"
+    },
+    {
+      "offset": 8072,
+      "value": "Qw8R"
+    },
+    {
+      "offset": 8504,
+      "value": "t_6o"
+    },
+    {
+      "offset": 11952,
+      "value": "ff.A"
+    },
+    {
+      "offset": 17940,
+      "value": "ff6@"
+    },
+    {
+      "offset": 24876,
+      "value": "ff6@"
+    },
+    {
+      "offset": 31185,
+      "value": "Ro:"
+    },
+    {
+      "offset": 32124,
+      "value": "ff6@"
+    },
+    {
+      "offset": 32136,
+      "value": "fffA"
+    },
+    {
+      "offset": 32698,
+      "value": "QCffJA"
+    },
+    {
+      "offset": 38469,
+      "value": "Ro:"
+    },
+    {
+      "offset": 39432,
+      "value": "ff6@"
+    },
+    {
+      "offset": 39444,
+      "value": "fffA"
+    },
+    {
+      "offset": 39684,
+      "value": "ffJA"
+    },
+    {
+      "offset": 40030,
+      "value": "QCffJA"
+    },
+    {
+      "offset": 44457,
+      "value": "Iux"
+    },
+    {
+      "offset": 45096,
+      "value": "ff6@"
+    },
+    {
+      "offset": 48057,
+      "value": "EryffJA"
+    },
+    {
+      "offset": 48659,
+      "value": "l33oA"
+    },
+    {
+      "offset": 48850,
+      "value": "pO33SA"
+    },
+    {
+      "offset": 50037,
+      "value": "nHT"
+    },
+    {
+      "offset": 50063,
+      "value": "Uff6@"
+    },
+    {
+      "offset": 50193,
+      "value": "KsNffJA"
+    },
+    {
+      "offset": 60328,
+      "value": "minion_bouncer_stumpy_attack3_2"
+    },
+    {
+      "offset": 60364,
+      "value": "minion_bouncer_stumpy_attack3_1"
+    },
+    {
+      "offset": 60400,
+      "value": "minion_bouncer_stumpy_idle1_3"
+    },
+    {
+      "offset": 60436,
+      "value": "minion_bouncer_stumpy_attack2_3"
+    },
+    {
+      "offset": 60472,
+      "value": "minion_bouncer_spike_attack2_3"
+    },
+    {
+      "offset": 60508,
+      "value": "minion_bouncer_spike_attack3_2"
+    },
+    {
+      "offset": 60544,
+      "value": "minion_bouncer_stumpy_run1_2"
+    },
+    {
+      "offset": 60580,
+      "value": "minion_bouncer_spike_attack2_1"
+    },
+    {
+      "offset": 60616,
+      "value": "minion_bouncer_stumpy_attack1_3"
+    },
+    {
+      "offset": 60652,
+      "value": "minion_bouncer_stumpy_attack1_1"
+    },
+    {
+      "offset": 60688,
+      "value": "minion_bouncer_spike_attack3_3"
+    },
+    {
+      "offset": 60724,
+      "value": "minion_bouncer_spike_attack3_1"
+    },
+    {
+      "offset": 60760,
+      "value": "minion_bouncer_stumpy_attack1_2"
+    },
+    {
+      "offset": 60796,
+      "value": "minion_bouncer_spike_attack1_3"
+    },
+    {
+      "offset": 60832,
+      "value": "minion_bouncer_spike_idle1_1"
+    },
+    {
+      "offset": 60868,
+      "value": "minion_bouncer_spike_idle1_2"
+    },
+    {
+      "offset": 60904,
+      "value": "minion_bouncer_spike_attack1_1"
+    },
+    {
+      "offset": 60940,
+      "value": "minion_bouncer_stumpy_attack2_2"
+    },
+    {
+      "offset": 60976,
+      "value": "minion_bouncer_spike_attack1_2"
+    },
+    {
+      "offset": 61012,
+      "value": "minion_bouncer_stumpy_idle1_2"
+    },
+    {
+      "offset": 61048,
+      "value": "minion_bouncer_stumpy_attack2_1"
+    },
+    {
+      "offset": 61084,
+      "value": "minion_bouncer_spike_attack2_2"
+    },
+    {
+      "offset": 61120,
+      "value": "minion_bouncer_spike_run1_2"
+    },
+    {
+      "offset": 61152,
+      "value": "minion_bouncer_spike_idle1_3"
+    },
+    {
+      "offset": 61188,
+      "value": "minion_bouncer_stumpy_run1_1"
+    },
+    {
+      "offset": 61224,
+      "value": "minion_bouncer_spike_run1_1"
+    },
+    {
+      "offset": 61256,
+      "value": "minion_bouncer_spike_run1_3"
+    },
+    {
+      "offset": 61288,
+      "value": "minion_bouncer_stumpy_idle1_1"
+    },
+    {
+      "offset": 61324,
+      "value": "minion_bouncer_stumpy_run1_3"
+    },
+    {
+      "offset": 61360,
+      "value": "minion_bouncer_stumpy_attack3_3"
+    },
+    {
+      "offset": 86120,
+      "value": "chr_minion_bouncers_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000150100002400000001000000d8ef0000",
+  "decoded_preview_hex": "d4ef000018000000000012001400040000000000000008000c0010001200000004eb0000b8c500006c01000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

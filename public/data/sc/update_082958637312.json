@@ -1,0 +1,78 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "update.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\update.sc",
+  "sha256_container": "082958637312d762c849edd25f40208f59ffcce37e8975e0b5233fcdb1deecb5",
+  "sha256_descriptor": "24cecc26302e5bca574de5d3bbee1b5fd1111f8ae7eb8a942410d9b215e822de",
+  "sha256_decoded_payload": "4d3546f28b307ff04e93b464c6e4ea1eebe88ff9ef92d7033fa436880ede8605",
+  "version": 6,
+  "descriptor_bytes": 140,
+  "compressed_frame_bytes": 109,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 292,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 52,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 96
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 88
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 112
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 124,
+      "value": "update_empty"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "update_empty"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 72,
+      "value": "update_empty"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c0024000400080000000c000000000000001000140018001c0020001c000000010000000100000001000000030000006000000058000000",
+  "decoded_preview_hex": "5c00000018000000000012000c00040000000000000000000000080012000000180000000400000001000000080000000400040004000000020000001c000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

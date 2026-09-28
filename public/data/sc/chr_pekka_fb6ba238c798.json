@@ -1,0 +1,1579 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_pekka.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_pekka.sc",
+  "sha256_container": "fb6ba238c798c5c119df7ee9764c2338f7eecd3710df0431707c4e2bb0754de9",
+  "sha256_descriptor": "c8a6eaaff2fda07490551ad454d6edca7ad38a930e9cea8f1904982b112127d1",
+  "sha256_decoded_payload": "0e5e7b9af10f4e5f962638aceca4d2b7e5f14b5711c5eb08d3f025eeb0aa3b4f",
+  "version": 6,
+  "descriptor_bytes": 8244,
+  "compressed_frame_bytes": 61666,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 316456,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 1197
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 147
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 223228
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 47084
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 61672
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 676,
+      "value": "pekka_walk1_3"
+    },
+    {
+      "offset": 728,
+      "value": "pekka_walk1_2"
+    },
+    {
+      "offset": 780,
+      "value": "pekka_walk1_1"
+    },
+    {
+      "offset": 832,
+      "value": "pekka_idle1_3"
+    },
+    {
+      "offset": 884,
+      "value": "pekka_idle1_2"
+    },
+    {
+      "offset": 936,
+      "value": "pekka_idle1_1"
+    },
+    {
+      "offset": 988,
+      "value": "pekka_attack1_3"
+    },
+    {
+      "offset": 1040,
+      "value": "pekka_attack1_2"
+    },
+    {
+      "offset": 1092,
+      "value": "pekka_attack1_1"
+    },
+    {
+      "offset": 1144,
+      "value": "pekka9_walk1_3"
+    },
+    {
+      "offset": 1196,
+      "value": "pekka9_walk1_2"
+    },
+    {
+      "offset": 1248,
+      "value": "pekka9_walk1_1"
+    },
+    {
+      "offset": 1300,
+      "value": "pekka9_idle1_3"
+    },
+    {
+      "offset": 1352,
+      "value": "pekka9_idle1_2"
+    },
+    {
+      "offset": 1404,
+      "value": "pekka9_idle1_1"
+    },
+    {
+      "offset": 1456,
+      "value": "pekka9_attack2_3"
+    },
+    {
+      "offset": 1512,
+      "value": "pekka9_attack2_2"
+    },
+    {
+      "offset": 1568,
+      "value": "pekka9_attack2_1"
+    },
+    {
+      "offset": 1624,
+      "value": "pekka9_attack1_3"
+    },
+    {
+      "offset": 1680,
+      "value": "pekka9_attack1_2"
+    },
+    {
+      "offset": 1736,
+      "value": "pekka9_attack1_1"
+    },
+    {
+      "offset": 1792,
+      "value": "pekka8_walk1_3"
+    },
+    {
+      "offset": 1844,
+      "value": "pekka8_walk1_2"
+    },
+    {
+      "offset": 1896,
+      "value": "pekka8_walk1_1"
+    },
+    {
+      "offset": 1948,
+      "value": "pekka8_idle1_3"
+    },
+    {
+      "offset": 2000,
+      "value": "pekka8_idle1_2"
+    },
+    {
+      "offset": 2052,
+      "value": "pekka8_idle1_1"
+    },
+    {
+      "offset": 2104,
+      "value": "pekka8_attack2_3"
+    },
+    {
+      "offset": 2160,
+      "value": "pekka8_attack2_2"
+    },
+    {
+      "offset": 2216,
+      "value": "pekka8_attack2_1"
+    },
+    {
+      "offset": 2272,
+      "value": "pekka8_attack1_3"
+    },
+    {
+      "offset": 2328,
+      "value": "pekka8_attack1_2"
+    },
+    {
+      "offset": 2384,
+      "value": "pekka8_attack1_1"
+    },
+    {
+      "offset": 2440,
+      "value": "pekka7_walk1_3"
+    },
+    {
+      "offset": 2492,
+      "value": "pekka7_walk1_2"
+    },
+    {
+      "offset": 2544,
+      "value": "pekka7_walk1_1"
+    },
+    {
+      "offset": 2596,
+      "value": "pekka7_idle1_3"
+    },
+    {
+      "offset": 2648,
+      "value": "pekka7_idle1_2"
+    },
+    {
+      "offset": 2700,
+      "value": "pekka7_idle1_1"
+    },
+    {
+      "offset": 2752,
+      "value": "pekka7_attack2_3"
+    },
+    {
+      "offset": 2808,
+      "value": "pekka7_attack2_2"
+    },
+    {
+      "offset": 2864,
+      "value": "pekka7_attack2_1"
+    },
+    {
+      "offset": 2920,
+      "value": "pekka7_attack1_3"
+    },
+    {
+      "offset": 2976,
+      "value": "pekka7_attack1_2"
+    },
+    {
+      "offset": 3032,
+      "value": "pekka7_attack1_1"
+    },
+    {
+      "offset": 3088,
+      "value": "pekka6_walk1_3"
+    },
+    {
+      "offset": 3140,
+      "value": "pekka6_walk1_2"
+    },
+    {
+      "offset": 3192,
+      "value": "pekka6_walk1_1"
+    },
+    {
+      "offset": 3244,
+      "value": "pekka6_idle1_3"
+    },
+    {
+      "offset": 3296,
+      "value": "pekka6_idle1_2"
+    },
+    {
+      "offset": 3348,
+      "value": "pekka6_idle1_1"
+    },
+    {
+      "offset": 3400,
+      "value": "pekka6_attack2_3"
+    },
+    {
+      "offset": 3456,
+      "value": "pekka6_attack2_2"
+    },
+    {
+      "offset": 3512,
+      "value": "pekka6_attack2_1"
+    },
+    {
+      "offset": 3568,
+      "value": "pekka6_attack1_3"
+    },
+    {
+      "offset": 3624,
+      "value": "pekka6_attack1_2"
+    },
+    {
+      "offset": 3680,
+      "value": "pekka6_attack1_1"
+    },
+    {
+      "offset": 3736,
+      "value": "pekka5_walk1_3"
+    },
+    {
+      "offset": 3788,
+      "value": "pekka5_walk1_2"
+    },
+    {
+      "offset": 3840,
+      "value": "pekka5_walk1_1"
+    },
+    {
+      "offset": 3892,
+      "value": "pekka5_idle1_3"
+    },
+    {
+      "offset": 3944,
+      "value": "pekka5_idle1_2"
+    },
+    {
+      "offset": 3996,
+      "value": "pekka5_idle1_1"
+    },
+    {
+      "offset": 4048,
+      "value": "pekka5_attack2_3"
+    },
+    {
+      "offset": 4104,
+      "value": "pekka5_attack2_2"
+    },
+    {
+      "offset": 4160,
+      "value": "pekka5_attack2_1"
+    },
+    {
+      "offset": 4216,
+      "value": "pekka5_attack1_3"
+    },
+    {
+      "offset": 4272,
+      "value": "pekka5_attack1_2"
+    },
+    {
+      "offset": 4328,
+      "value": "pekka5_attack1_1"
+    },
+    {
+      "offset": 4384,
+      "value": "pekka4_walk1_3"
+    },
+    {
+      "offset": 4436,
+      "value": "pekka4_walk1_2"
+    },
+    {
+      "offset": 4488,
+      "value": "pekka4_walk1_1"
+    },
+    {
+      "offset": 4540,
+      "value": "pekka4_idle1_3"
+    },
+    {
+      "offset": 4592,
+      "value": "pekka4_idle1_2"
+    },
+    {
+      "offset": 4644,
+      "value": "pekka4_idle1_1"
+    },
+    {
+      "offset": 4696,
+      "value": "pekka4_attack2_3"
+    },
+    {
+      "offset": 4752,
+      "value": "pekka4_attack2_2"
+    },
+    {
+      "offset": 4808,
+      "value": "pekka4_attack2_1"
+    },
+    {
+      "offset": 4864,
+      "value": "pekka4_attack1_3"
+    },
+    {
+      "offset": 4920,
+      "value": "pekka4_attack1_2"
+    },
+    {
+      "offset": 4976,
+      "value": "pekka4_attack1_1"
+    },
+    {
+      "offset": 5032,
+      "value": "pekka2_walk1_3"
+    },
+    {
+      "offset": 5084,
+      "value": "pekka2_walk1_2"
+    },
+    {
+      "offset": 5136,
+      "value": "pekka2_walk1_1"
+    },
+    {
+      "offset": 5188,
+      "value": "pekka2_idle1_3"
+    },
+    {
+      "offset": 5240,
+      "value": "pekka2_idle1_2"
+    },
+    {
+      "offset": 5292,
+      "value": "pekka2_idle1_1"
+    },
+    {
+      "offset": 5344,
+      "value": "pekka2_attack1_3"
+    },
+    {
+      "offset": 5400,
+      "value": "pekka2_attack1_2"
+    },
+    {
+      "offset": 5456,
+      "value": "pekka2_attack1_1"
+    },
+    {
+      "offset": 5512,
+      "value": "pekka13_walk1_3"
+    },
+    {
+      "offset": 5564,
+      "value": "pekka13_walk1_2"
+    },
+    {
+      "offset": 5616,
+      "value": "pekka13_walk1_1"
+    },
+    {
+      "offset": 5668,
+      "value": "pekka13_idle1_3"
+    },
+    {
+      "offset": 5720,
+      "value": "pekka13_idle1_2"
+    },
+    {
+      "offset": 5772,
+      "value": "pekka13_idle1_1"
+    },
+    {
+      "offset": 5824,
+      "value": "pekka13_attack2_3"
+    },
+    {
+      "offset": 5880,
+      "value": "pekka13_attack2_2"
+    },
+    {
+      "offset": 5936,
+      "value": "pekka13_attack2_1"
+    },
+    {
+      "offset": 5992,
+      "value": "pekka13_attack1_3"
+    },
+    {
+      "offset": 6048,
+      "value": "pekka13_attack1_2"
+    },
+    {
+      "offset": 6104,
+      "value": "pekka13_attack1_1"
+    },
+    {
+      "offset": 6160,
+      "value": "pekka12_walk1_3"
+    },
+    {
+      "offset": 6212,
+      "value": "pekka12_walk1_2"
+    },
+    {
+      "offset": 6264,
+      "value": "pekka12_walk1_1"
+    },
+    {
+      "offset": 6316,
+      "value": "pekka12_idle1_3"
+    },
+    {
+      "offset": 6368,
+      "value": "pekka12_idle1_2"
+    },
+    {
+      "offset": 6420,
+      "value": "pekka12_idle1_1"
+    },
+    {
+      "offset": 6472,
+      "value": "pekka12_attack2_3"
+    },
+    {
+      "offset": 6528,
+      "value": "pekka12_attack2_2"
+    },
+    {
+      "offset": 6584,
+      "value": "pekka12_attack2_1"
+    },
+    {
+      "offset": 6640,
+      "value": "pekka12_attack1_3"
+    },
+    {
+      "offset": 6696,
+      "value": "pekka12_attack1_2"
+    },
+    {
+      "offset": 6752,
+      "value": "pekka12_attack1_1"
+    },
+    {
+      "offset": 6808,
+      "value": "pekka11_walk1_3"
+    },
+    {
+      "offset": 6860,
+      "value": "pekka11_walk1_2"
+    },
+    {
+      "offset": 6912,
+      "value": "pekka11_walk1_1"
+    },
+    {
+      "offset": 6964,
+      "value": "pekka11_idle1_3"
+    },
+    {
+      "offset": 7016,
+      "value": "pekka11_idle1_2"
+    },
+    {
+      "offset": 7068,
+      "value": "pekka11_idle1_1"
+    },
+    {
+      "offset": 7120,
+      "value": "pekka11_attack2_3"
+    },
+    {
+      "offset": 7176,
+      "value": "pekka11_attack2_2"
+    },
+    {
+      "offset": 7232,
+      "value": "pekka11_attack2_1"
+    },
+    {
+      "offset": 7288,
+      "value": "pekka11_attack1_3"
+    },
+    {
+      "offset": 7344,
+      "value": "pekka11_attack1_2"
+    },
+    {
+      "offset": 7400,
+      "value": "pekka11_attack1_1"
+    },
+    {
+      "offset": 7456,
+      "value": "pekka10_walk1_3"
+    },
+    {
+      "offset": 7508,
+      "value": "pekka10_walk1_2"
+    },
+    {
+      "offset": 7560,
+      "value": "pekka10_walk1_1"
+    },
+    {
+      "offset": 7612,
+      "value": "pekka10_idle1_3"
+    },
+    {
+      "offset": 7664,
+      "value": "pekka10_idle1_2"
+    },
+    {
+      "offset": 7716,
+      "value": "pekka10_idle1_1"
+    },
+    {
+      "offset": 7768,
+      "value": "pekka10_attack2_3"
+    },
+    {
+      "offset": 7824,
+      "value": "pekka10_attack2_2"
+    },
+    {
+      "offset": 7880,
+      "value": "pekka10_attack2_1"
+    },
+    {
+      "offset": 7936,
+      "value": "pekka10_attack1_3"
+    },
+    {
+      "offset": 7992,
+      "value": "pekka10_attack1_2"
+    },
+    {
+      "offset": 8048,
+      "value": "pekka10_attack1_1"
+    },
+    {
+      "offset": 8104,
+      "value": "butterfly_pekka1_3"
+    },
+    {
+      "offset": 8160,
+      "value": "butterfly_pekka1_2"
+    },
+    {
+      "offset": 8224,
+      "value": "butterfly_pekka1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "pekka_walk1_3",
+    "pekka_walk1_2",
+    "pekka_walk1_1",
+    "pekka_idle1_3",
+    "pekka_idle1_2",
+    "pekka_idle1_1",
+    "pekka_attack1_3",
+    "pekka_attack1_2",
+    "pekka_attack1_1",
+    "pekka9_walk1_3",
+    "pekka9_walk1_2",
+    "pekka9_walk1_1",
+    "pekka9_idle1_3",
+    "pekka9_idle1_2",
+    "pekka9_idle1_1",
+    "pekka9_attack2_3",
+    "pekka9_attack2_2",
+    "pekka9_attack2_1",
+    "pekka9_attack1_3",
+    "pekka9_attack1_2",
+    "pekka9_attack1_1",
+    "pekka8_walk1_3",
+    "pekka8_walk1_2",
+    "pekka8_walk1_1",
+    "pekka8_idle1_3",
+    "pekka8_idle1_2",
+    "pekka8_idle1_1",
+    "pekka8_attack2_3",
+    "pekka8_attack2_2",
+    "pekka8_attack2_1",
+    "pekka8_attack1_3",
+    "pekka8_attack1_2",
+    "pekka8_attack1_1",
+    "pekka7_walk1_3",
+    "pekka7_walk1_2",
+    "pekka7_walk1_1",
+    "pekka7_idle1_3",
+    "pekka7_idle1_2",
+    "pekka7_idle1_1",
+    "pekka7_attack2_3",
+    "pekka7_attack2_2",
+    "pekka7_attack2_1",
+    "pekka7_attack1_3",
+    "pekka7_attack1_2",
+    "pekka7_attack1_1",
+    "pekka6_walk1_3",
+    "pekka6_walk1_2",
+    "pekka6_walk1_1",
+    "pekka6_idle1_3",
+    "pekka6_idle1_2",
+    "pekka6_idle1_1",
+    "pekka6_attack2_3",
+    "pekka6_attack2_2",
+    "pekka6_attack2_1",
+    "pekka6_attack1_3",
+    "pekka6_attack1_2",
+    "pekka6_attack1_1",
+    "pekka5_walk1_3",
+    "pekka5_walk1_2",
+    "pekka5_walk1_1",
+    "pekka5_idle1_3",
+    "pekka5_idle1_2",
+    "pekka5_idle1_1",
+    "pekka5_attack2_3",
+    "pekka5_attack2_2",
+    "pekka5_attack2_1",
+    "pekka5_attack1_3",
+    "pekka5_attack1_2",
+    "pekka5_attack1_1",
+    "pekka4_walk1_3",
+    "pekka4_walk1_2",
+    "pekka4_walk1_1",
+    "pekka4_idle1_3",
+    "pekka4_idle1_2",
+    "pekka4_idle1_1",
+    "pekka4_attack2_3",
+    "pekka4_attack2_2",
+    "pekka4_attack2_1",
+    "pekka4_attack1_3",
+    "pekka4_attack1_2",
+    "pekka4_attack1_1",
+    "pekka2_walk1_3",
+    "pekka2_walk1_2",
+    "pekka2_walk1_1",
+    "pekka2_idle1_3",
+    "pekka2_idle1_2",
+    "pekka2_idle1_1",
+    "pekka2_attack1_3",
+    "pekka2_attack1_2",
+    "pekka2_attack1_1",
+    "pekka13_walk1_3",
+    "pekka13_walk1_2",
+    "pekka13_walk1_1",
+    "pekka13_idle1_3",
+    "pekka13_idle1_2",
+    "pekka13_idle1_1",
+    "pekka13_attack2_3",
+    "pekka13_attack2_2",
+    "pekka13_attack2_1",
+    "pekka13_attack1_3",
+    "pekka13_attack1_2",
+    "pekka13_attack1_1",
+    "pekka12_walk1_3",
+    "pekka12_walk1_2",
+    "pekka12_walk1_1",
+    "pekka12_idle1_3",
+    "pekka12_idle1_2",
+    "pekka12_idle1_1",
+    "pekka12_attack2_3",
+    "pekka12_attack2_2",
+    "pekka12_attack2_1",
+    "pekka12_attack1_3",
+    "pekka12_attack1_2",
+    "pekka12_attack1_1",
+    "pekka11_walk1_3",
+    "pekka11_walk1_2",
+    "pekka11_walk1_1",
+    "pekka11_idle1_3",
+    "pekka11_idle1_2",
+    "pekka11_idle1_1",
+    "pekka11_attack2_3",
+    "pekka11_attack2_2",
+    "pekka11_attack2_1",
+    "pekka11_attack1_3",
+    "pekka11_attack1_2",
+    "pekka11_attack1_1",
+    "pekka10_walk1_3",
+    "pekka10_walk1_2",
+    "pekka10_walk1_1",
+    "pekka10_idle1_3",
+    "pekka10_idle1_2",
+    "pekka10_idle1_1",
+    "pekka10_attack2_3",
+    "pekka10_attack2_2",
+    "pekka10_attack2_1",
+    "pekka10_attack1_3",
+    "pekka10_attack1_2",
+    "pekka10_attack1_1",
+    "butterfly_pekka1_3",
+    "butterfly_pekka1_2",
+    "butterfly_pekka1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3744,
+      "value": "ffJB"
+    },
+    {
+      "offset": 3905,
+      "value": "Mov"
+    },
+    {
+      "offset": 8348,
+      "value": "ffjA"
+    },
+    {
+      "offset": 8551,
+      "value": "dffNA"
+    },
+    {
+      "offset": 8912,
+      "value": "ffNA"
+    },
+    {
+      "offset": 9836,
+      "value": "ffNA"
+    },
+    {
+      "offset": 13721,
+      "value": "IcJ"
+    },
+    {
+      "offset": 16000,
+      "value": "LguP"
+    },
+    {
+      "offset": 16324,
+      "value": "t_i\\"
+    },
+    {
+      "offset": 16411,
+      "value": "KffNA"
+    },
+    {
+      "offset": 18056,
+      "value": "ffNA"
+    },
+    {
+      "offset": 19712,
+      "value": "ffjA"
+    },
+    {
+      "offset": 24152,
+      "value": "ffNA"
+    },
+    {
+      "offset": 24295,
+      "value": "cffNA"
+    },
+    {
+      "offset": 27932,
+      "value": "ffjA"
+    },
+    {
+      "offset": 28364,
+      "value": "ffNA"
+    },
+    {
+      "offset": 29084,
+      "value": "ffNA"
+    },
+    {
+      "offset": 30208,
+      "value": "CLCg"
+    },
+    {
+      "offset": 32033,
+      "value": "q@."
+    },
+    {
+      "offset": 32057,
+      "value": "p@."
+    },
+    {
+      "offset": 33812,
+      "value": "ffNA"
+    },
+    {
+      "offset": 34219,
+      "value": "rffNA"
+    },
+    {
+      "offset": 36800,
+      "value": "ffjA"
+    },
+    {
+      "offset": 38996,
+      "value": "ffNA"
+    },
+    {
+      "offset": 42044,
+      "value": "ffjA"
+    },
+    {
+      "offset": 42740,
+      "value": "ffNA"
+    },
+    {
+      "offset": 45716,
+      "value": "ffNA"
+    },
+    {
+      "offset": 45932,
+      "value": "ffNA"
+    },
+    {
+      "offset": 46132,
+      "value": "h9F"
+    },
+    {
+      "offset": 48812,
+      "value": "ffNA"
+    },
+    {
+      "offset": 50564,
+      "value": "ffjA"
+    },
+    {
+      "offset": 50716,
+      "value": "nL.@"
+    },
+    {
+      "offset": 50741,
+      "value": "K.@"
+    },
+    {
+      "offset": 51308,
+      "value": "ffjA"
+    },
+    {
+      "offset": 51908,
+      "value": "ffNA"
+    },
+    {
+      "offset": 54811,
+      "value": "offNA"
+    },
+    {
+      "offset": 57356,
+      "value": "ffNA"
+    },
+    {
+      "offset": 60068,
+      "value": "ffjA"
+    },
+    {
+      "offset": 62276,
+      "value": "ffjA"
+    },
+    {
+      "offset": 62717,
+      "value": "yWN"
+    },
+    {
+      "offset": 63668,
+      "value": "ffjA"
+    },
+    {
+      "offset": 64700,
+      "value": "ffNA"
+    },
+    {
+      "offset": 69548,
+      "value": "ffNA"
+    },
+    {
+      "offset": 70096,
+      "value": "CL/"
+    },
+    {
+      "offset": 70769,
+      "value": "v4R"
+    },
+    {
+      "offset": 71912,
+      "value": "ffjA"
+    },
+    {
+      "offset": 73988,
+      "value": "ffNA"
+    },
+    {
+      "offset": 78232,
+      "value": "uau0"
+    },
+    {
+      "offset": 78524,
+      "value": "ffjA"
+    },
+    {
+      "offset": 79508,
+      "value": "ffjA"
+    },
+    {
+      "offset": 80252,
+      "value": "ffNA"
+    },
+    {
+      "offset": 81224,
+      "value": "ffjA"
+    },
+    {
+      "offset": 83084,
+      "value": "ffNA"
+    },
+    {
+      "offset": 84511,
+      "value": "GffjA"
+    },
+    {
+      "offset": 84869,
+      "value": "kU5"
+    },
+    {
+      "offset": 84953,
+      "value": "uUU"
+    },
+    {
+      "offset": 85171,
+      "value": "OffjA"
+    },
+    {
+      "offset": 85265,
+      "value": "VZo33OA"
+    },
+    {
+      "offset": 87017,
+      "value": "Sro"
+    },
+    {
+      "offset": 87041,
+      "value": "Tro"
+    },
+    {
+      "offset": 87064,
+      "value": "s\\7s"
+    },
+    {
+      "offset": 88325,
+      "value": "IC7"
+    },
+    {
+      "offset": 90764,
+      "value": "ff2B"
+    },
+    {
+      "offset": 91263,
+      "value": "A@C"
+    },
+    {
+      "offset": 91287,
+      "value": "Aj@"
+    },
+    {
+      "offset": 92239,
+      "value": "CffjA"
+    },
+    {
+      "offset": 92899,
+      "value": "RffjA"
+    },
+    {
+      "offset": 92995,
+      "value": "o33OA"
+    },
+    {
+      "offset": 101420,
+      "value": "ffjA"
+    },
+    {
+      "offset": 103268,
+      "value": "ffjA"
+    },
+    {
+      "offset": 104684,
+      "value": "ffjA"
+    },
+    {
+      "offset": 106100,
+      "value": "ffjA"
+    },
+    {
+      "offset": 220140,
+      "value": "pekka10_attack2_3"
+    },
+    {
+      "offset": 220164,
+      "value": "pekka12_attack1_3"
+    },
+    {
+      "offset": 220188,
+      "value": "pekka10_attack2_2"
+    },
+    {
+      "offset": 220212,
+      "value": "pekka8_idle1_1"
+    },
+    {
+      "offset": 220232,
+      "value": "pekka10_attack2_1"
+    },
+    {
+      "offset": 220256,
+      "value": "pekka10_attack1_3"
+    },
+    {
+      "offset": 220280,
+      "value": "pekka10_attack1_2"
+    },
+    {
+      "offset": 220304,
+      "value": "pekka6_attack2_2"
+    },
+    {
+      "offset": 220328,
+      "value": "pekka10_attack1_1"
+    },
+    {
+      "offset": 220352,
+      "value": "pekka2_walk1_2"
+    },
+    {
+      "offset": 220372,
+      "value": "pekka9_walk1_2"
+    },
+    {
+      "offset": 220392,
+      "value": "pekka9_idle1_3"
+    },
+    {
+      "offset": 220412,
+      "value": "pekka13_walk1_2"
+    },
+    {
+      "offset": 220432,
+      "value": "pekka9_attack2_3"
+    },
+    {
+      "offset": 220456,
+      "value": "pekka10_idle1_2"
+    },
+    {
+      "offset": 220476,
+      "value": "pekka9_attack1_2"
+    },
+    {
+      "offset": 220500,
+      "value": "pekka13_idle1_2"
+    },
+    {
+      "offset": 220520,
+      "value": "pekka9_attack1_1"
+    },
+    {
+      "offset": 220544,
+      "value": "pekka8_walk1_2"
+    },
+    {
+      "offset": 220564,
+      "value": "pekka8_idle1_3"
+    },
+    {
+      "offset": 220584,
+      "value": "pekka8_idle1_2"
+    },
+    {
+      "offset": 220604,
+      "value": "pekka8_attack1_1"
+    },
+    {
+      "offset": 220628,
+      "value": "pekka8_attack2_3"
+    },
+    {
+      "offset": 220652,
+      "value": "pekka8_attack2_2"
+    },
+    {
+      "offset": 220676,
+      "value": "pekka_attack1_2"
+    },
+    {
+      "offset": 220696,
+      "value": "pekka4_idle1_1"
+    },
+    {
+      "offset": 220716,
+      "value": "pekka7_walk1_1"
+    },
+    {
+      "offset": 220736,
+      "value": "pekka7_idle1_2"
+    },
+    {
+      "offset": 220756,
+      "value": "pekka7_attack2_3"
+    },
+    {
+      "offset": 220780,
+      "value": "pekka7_attack1_3"
+    },
+    {
+      "offset": 220804,
+      "value": "pekka6_walk1_2"
+    },
+    {
+      "offset": 220824,
+      "value": "pekka6_walk1_1"
+    },
+    {
+      "offset": 220844,
+      "value": "pekka4_attack2_3"
+    },
+    {
+      "offset": 220868,
+      "value": "pekka6_idle1_3"
+    },
+    {
+      "offset": 220888,
+      "value": "pekka6_idle1_1"
+    },
+    {
+      "offset": 220908,
+      "value": "pekka2_attack1_2"
+    },
+    {
+      "offset": 220932,
+      "value": "pekka6_attack2_1"
+    },
+    {
+      "offset": 220956,
+      "value": "pekka11_walk1_3"
+    },
+    {
+      "offset": 220976,
+      "value": "pekka6_attack1_3"
+    },
+    {
+      "offset": 221000,
+      "value": "pekka11_walk1_1"
+    },
+    {
+      "offset": 221020,
+      "value": "pekka6_attack1_1"
+    },
+    {
+      "offset": 221044,
+      "value": "pekka9_attack2_2"
+    },
+    {
+      "offset": 221068,
+      "value": "butterfly_pekka1_1"
+    },
+    {
+      "offset": 221092,
+      "value": "pekka5_walk1_2"
+    },
+    {
+      "offset": 221112,
+      "value": "pekka6_idle1_2"
+    },
+    {
+      "offset": 221132,
+      "value": "pekka5_idle1_3"
+    },
+    {
+      "offset": 221152,
+      "value": "pekka5_idle1_1"
+    },
+    {
+      "offset": 221172,
+      "value": "pekka5_attack1_1"
+    },
+    {
+      "offset": 221196,
+      "value": "pekka5_attack2_3"
+    },
+    {
+      "offset": 221220,
+      "value": "pekka6_attack2_3"
+    },
+    {
+      "offset": 221244,
+      "value": "pekka5_attack1_3"
+    },
+    {
+      "offset": 221268,
+      "value": "pekka4_idle1_3"
+    },
+    {
+      "offset": 221288,
+      "value": "pekka5_attack1_2"
+    },
+    {
+      "offset": 221312,
+      "value": "pekka12_attack2_1"
+    },
+    {
+      "offset": 221336,
+      "value": "pekka4_walk1_2"
+    },
+    {
+      "offset": 221356,
+      "value": "pekka7_idle1_3"
+    },
+    {
+      "offset": 221376,
+      "value": "pekka7_attack1_2"
+    },
+    {
+      "offset": 221400,
+      "value": "pekka4_idle1_2"
+    },
+    {
+      "offset": 221420,
+      "value": "pekka2_walk1_3"
+    },
+    {
+      "offset": 221440,
+      "value": "pekka13_idle1_1"
+    },
+    {
+      "offset": 221460,
+      "value": "pekka9_walk1_1"
+    },
+    {
+      "offset": 221480,
+      "value": "pekka6_attack1_2"
+    },
+    {
+      "offset": 221504,
+      "value": "pekka13_attack1_3"
+    },
+    {
+      "offset": 221528,
+      "value": "pekka9_attack1_3"
+    },
+    {
+      "offset": 221552,
+      "value": "pekka4_attack1_1"
+    },
+    {
+      "offset": 221576,
+      "value": "pekka8_walk1_1"
+    },
+    {
+      "offset": 221596,
+      "value": "pekka11_attack2_2"
+    },
+    {
+      "offset": 221620,
+      "value": "pekka13_attack1_2"
+    },
+    {
+      "offset": 221644,
+      "value": "pekka13_attack1_1"
+    },
+    {
+      "offset": 221668,
+      "value": "pekka11_attack1_2"
+    },
+    {
+      "offset": 221692,
+      "value": "pekka7_attack2_1"
+    },
+    {
+      "offset": 221716,
+      "value": "pekka13_walk1_3"
+    },
+    {
+      "offset": 221736,
+      "value": "pekka9_attack2_1"
+    },
+    {
+      "offset": 221760,
+      "value": "pekka_walk1_1"
+    },
+    {
+      "offset": 221780,
+      "value": "pekka12_walk1_1"
+    },
+    {
+      "offset": 221800,
+      "value": "pekka_idle1_2"
+    },
+    {
+      "offset": 221820,
+      "value": "pekka12_idle1_3"
+    },
+    {
+      "offset": 221840,
+      "value": "pekka5_walk1_1"
+    },
+    {
+      "offset": 221860,
+      "value": "pekka12_attack2_2"
+    },
+    {
+      "offset": 221884,
+      "value": "pekka2_idle1_1"
+    },
+    {
+      "offset": 221904,
+      "value": "pekka7_idle1_1"
+    },
+    {
+      "offset": 221924,
+      "value": "pekka12_idle1_2"
+    },
+    {
+      "offset": 221944,
+      "value": "pekka12_attack2_3"
+    },
+    {
+      "offset": 221968,
+      "value": "pekka7_walk1_3"
+    },
+    {
+      "offset": 221988,
+      "value": "pekka8_walk1_3"
+    },
+    {
+      "offset": 222008,
+      "value": "pekka5_attack2_2"
+    },
+    {
+      "offset": 222032,
+      "value": "pekka_walk1_3"
+    },
+    {
+      "offset": 222052,
+      "value": "pekka12_idle1_1"
+    },
+    {
+      "offset": 222072,
+      "value": "pekka11_attack2_1"
+    },
+    {
+      "offset": 222096,
+      "value": "pekka10_idle1_1"
+    },
+    {
+      "offset": 222116,
+      "value": "pekka12_attack1_1"
+    },
+    {
+      "offset": 222140,
+      "value": "pekka13_attack2_2"
+    },
+    {
+      "offset": 222164,
+      "value": "pekka11_walk1_2"
+    },
+    {
+      "offset": 222184,
+      "value": "pekka5_attack2_1"
+    },
+    {
+      "offset": 222208,
+      "value": "pekka12_walk1_3"
+    },
+    {
+      "offset": 222228,
+      "value": "pekka4_attack2_2"
+    },
+    {
+      "offset": 222252,
+      "value": "pekka7_attack1_1"
+    },
+    {
+      "offset": 222276,
+      "value": "pekka6_walk1_3"
+    },
+    {
+      "offset": 222296,
+      "value": "pekka10_walk1_3"
+    },
+    {
+      "offset": 222316,
+      "value": "pekka12_walk1_2"
+    },
+    {
+      "offset": 222336,
+      "value": "pekka4_walk1_3"
+    },
+    {
+      "offset": 222356,
+      "value": "pekka8_attack1_3"
+    },
+    {
+      "offset": 222380,
+      "value": "pekka7_walk1_2"
+    },
+    {
+      "offset": 222400,
+      "value": "pekka8_attack1_2"
+    },
+    {
+      "offset": 222424,
+      "value": "pekka5_idle1_2"
+    },
+    {
+      "offset": 222444,
+      "value": "pekka_idle1_3"
+    },
+    {
+      "offset": 222464,
+      "value": "pekka_walk1_2"
+    },
+    {
+      "offset": 222484,
+      "value": "pekka12_attack1_2"
+    },
+    {
+      "offset": 222508,
+      "value": "pekka_attack1_3"
+    },
+    {
+      "offset": 222528,
+      "value": "pekka13_walk1_1"
+    },
+    {
+      "offset": 222548,
+      "value": "butterfly_pekka1_3"
+    },
+    {
+      "offset": 222572,
+      "value": "pekka9_idle1_2"
+    },
+    {
+      "offset": 222592,
+      "value": "pekka2_idle1_2"
+    },
+    {
+      "offset": 222612,
+      "value": "pekka_idle1_1"
+    },
+    {
+      "offset": 222632,
+      "value": "pekka9_idle1_1"
+    },
+    {
+      "offset": 222652,
+      "value": "butterfly_pekka1_2"
+    },
+    {
+      "offset": 222676,
+      "value": "pekka5_walk1_3"
+    },
+    {
+      "offset": 222696,
+      "value": "pekka13_attack2_1"
+    },
+    {
+      "offset": 222720,
+      "value": "pekka2_attack1_1"
+    },
+    {
+      "offset": 222744,
+      "value": "pekka_attack1_1"
+    },
+    {
+      "offset": 222764,
+      "value": "pekka2_attack1_3"
+    },
+    {
+      "offset": 222788,
+      "value": "pekka2_idle1_3"
+    },
+    {
+      "offset": 222808,
+      "value": "pekka13_attack2_3"
+    },
+    {
+      "offset": 222832,
+      "value": "pekka2_walk1_1"
+    },
+    {
+      "offset": 222852,
+      "value": "pekka4_attack2_1"
+    },
+    {
+      "offset": 222876,
+      "value": "pekka8_attack2_1"
+    },
+    {
+      "offset": 222900,
+      "value": "pekka13_idle1_3"
+    },
+    {
+      "offset": 222920,
+      "value": "pekka4_walk1_1"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000ad0400009300000001000000fc670300ecb70000",
+  "decoded_preview_hex": "f867030018000000000012001400040000000000000008000c001000120000008c590300ac9f0100cc0c000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

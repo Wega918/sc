@@ -1,0 +1,207 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_golem.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_golem.sc",
+  "sha256_container": "dff2525f412b65e53f2fbc096fed7fc20947944ce91188280e5538c320732b2b",
+  "sha256_descriptor": "1a4e9f7f672a1431b9c1ede94a2460dc1fe54c6b1971144884df3608a44efdce",
+  "sha256_decoded_payload": "ee7bcd742f06f83b6b3f071a5c51e01cb733da06a1d6761376c0fda433401b12",
+  "version": 6,
+  "descriptor_bytes": 296,
+  "compressed_frame_bytes": 57889,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 79112,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 584
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 77976
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 57892
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 156,
+      "value": "unit_golem_secondary_big"
+    },
+    {
+      "offset": 220,
+      "value": "unit_golem_big"
+    },
+    {
+      "offset": 280,
+      "value": "card_golem_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_golem_secondary_big",
+    "unit_golem_big",
+    "card_golem_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 476,
+      "value": "bounds"
+    },
+    {
+      "offset": 488,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 508,
+      "value": "unit_golem_big"
+    },
+    {
+      "offset": 528,
+      "value": "card_golem_big"
+    },
+    {
+      "offset": 548,
+      "value": "unit_golem_secondary_big"
+    },
+    {
+      "offset": 1817,
+      "value": "F_m"
+    },
+    {
+      "offset": 7814,
+      "value": "dP_"
+    },
+    {
+      "offset": 8948,
+      "value": "hl.SO"
+    },
+    {
+      "offset": 18008,
+      "value": "o@9J"
+    },
+    {
+      "offset": 22008,
+      "value": "o@_o"
+    },
+    {
+      "offset": 27804,
+      "value": "f2x0"
+    },
+    {
+      "offset": 28710,
+      "value": "hD_"
+    },
+    {
+      "offset": 30485,
+      "value": "Gb:o"
+    },
+    {
+      "offset": 33336,
+      "value": "O@iXB"
+    },
+    {
+      "offset": 34422,
+      "value": "hcn"
+    },
+    {
+      "offset": 37845,
+      "value": "NcI_"
+    },
+    {
+      "offset": 38204,
+      "value": "jt@L"
+    },
+    {
+      "offset": 41845,
+      "value": "NWe_"
+    },
+    {
+      "offset": 44438,
+      "value": "TJo"
+    },
+    {
+      "offset": 45357,
+      "value": "h6@"
+    },
+    {
+      "offset": 49797,
+      "value": "iAM_"
+    },
+    {
+      "offset": 51590,
+      "value": "bT_"
+    },
+    {
+      "offset": 54758,
+      "value": "vun"
+    },
+    {
+      "offset": 57444,
+      "value": "k+K"
+    },
+    {
+      "offset": 65638,
+      "value": "jYo"
+    },
+    {
+      "offset": 74598,
+      "value": "MP_"
+    },
+    {
+      "offset": 75667,
+      "value": "NX."
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000d40d2b6fcb6f07c5933982ea5214b8ac746717c71c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "4402000018000000000012001400040000000000000008000c001000120000009c0100007c0100005400000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

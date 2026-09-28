@@ -1,0 +1,179 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_party_wizard.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_party_wizard.sc",
+  "sha256_container": "a00599d8bba8f4ff0e69caf46b40ef6851e13c48e8cf3c8c23f22a5cb1d83bb0",
+  "sha256_descriptor": "260497e2b9e23681032e1e8a9fa3cc12e5c3fe8fbe3aa49d067af28b497a3129",
+  "sha256_decoded_payload": "abbec6f15f5595812eee2998b94318c2e80842b429f861f65d3097fd08d3b904",
+  "version": 6,
+  "descriptor_bytes": 660,
+  "compressed_frame_bytes": 4414,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 13076,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 55
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 10
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 8852
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 2020
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 4416
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 148,
+      "value": "party_wizard1_run1_3"
+    },
+    {
+      "offset": 208,
+      "value": "party_wizard1_run1_2"
+    },
+    {
+      "offset": 268,
+      "value": "party_wizard1_run1_1"
+    },
+    {
+      "offset": 328,
+      "value": "party_wizard1_idle1_3"
+    },
+    {
+      "offset": 388,
+      "value": "party_wizard1_idle1_2"
+    },
+    {
+      "offset": 448,
+      "value": "party_wizard1_idle1_1"
+    },
+    {
+      "offset": 508,
+      "value": "party_wizard1_attack1_3"
+    },
+    {
+      "offset": 568,
+      "value": "party_wizard1_attack1_2"
+    },
+    {
+      "offset": 636,
+      "value": "party_wizard1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "party_wizard1_run1_3",
+    "party_wizard1_run1_2",
+    "party_wizard1_run1_1",
+    "party_wizard1_idle1_3",
+    "party_wizard1_idle1_2",
+    "party_wizard1_idle1_1",
+    "party_wizard1_attack1_3",
+    "party_wizard1_attack1_2",
+    "party_wizard1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3422,
+      "value": "vv33kA"
+    },
+    {
+      "offset": 4945,
+      "value": "Lgg"
+    },
+    {
+      "offset": 5632,
+      "value": "ffF@"
+    },
+    {
+      "offset": 5881,
+      "value": "z77"
+    },
+    {
+      "offset": 5905,
+      "value": "z::"
+    },
+    {
+      "offset": 8596,
+      "value": "party_wizard1_attack1_1"
+    },
+    {
+      "offset": 8624,
+      "value": "party_wizard1_attack1_2"
+    },
+    {
+      "offset": 8652,
+      "value": "party_wizard1_attack1_3"
+    },
+    {
+      "offset": 8680,
+      "value": "party_wizard1_run1_1"
+    },
+    {
+      "offset": 8708,
+      "value": "party_wizard1_idle1_1"
+    },
+    {
+      "offset": 8736,
+      "value": "party_wizard1_idle1_2"
+    },
+    {
+      "offset": 8764,
+      "value": "party_wizard1_idle1_3"
+    },
+    {
+      "offset": 8792,
+      "value": "party_wizard1_run1_2"
+    },
+    {
+      "offset": 8820,
+      "value": "party_wizard1_run1_3"
+    },
+    {
+      "offset": 13052,
+      "value": "chr_party_wizard_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000370000000a0000000100000094220000e4070000",
+  "decoded_preview_hex": "9022000018000000000012001400040000000000000008000c0010001200000044210000fc1600009407000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

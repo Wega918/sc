@@ -1,0 +1,421 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_super_hog_rider.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_hog_rider.sc",
+  "sha256_container": "b90e9be571722c4ae74c4ddb5b65d5dd3e799b643f2faed19d29fb68eed8d0d3",
+  "sha256_descriptor": "de6a73039618c9364a4c0f43fc9186f9a455ebfd20d477f35c75e7b1bc9c13c4",
+  "sha256_decoded_payload": "1005bf8c8d355897edd73aff1bda7dd629d90e9041f7dd4482f1b4b9f35b72a7",
+  "version": 6,
+  "descriptor_bytes": 2140,
+  "compressed_frame_bytes": 19205,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 55996,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 256
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 34
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 37376
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 9256
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 19208
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 240,
+      "value": "super_h_rider_saddle_death1_3"
+    },
+    {
+      "offset": 308,
+      "value": "super_h_rider_saddle_death1_2"
+    },
+    {
+      "offset": 376,
+      "value": "super_h_rider_saddle_death1_1"
+    },
+    {
+      "offset": 444,
+      "value": "super_h_rider_fly_projectile1"
+    },
+    {
+      "offset": 512,
+      "value": "super_h_rider_c_run1_3"
+    },
+    {
+      "offset": 572,
+      "value": "super_h_rider_c_run1_2"
+    },
+    {
+      "offset": 632,
+      "value": "super_h_rider_c_run1_1"
+    },
+    {
+      "offset": 692,
+      "value": "super_h_rider_c_idle1_3"
+    },
+    {
+      "offset": 752,
+      "value": "super_h_rider_c_idle1_2"
+    },
+    {
+      "offset": 812,
+      "value": "super_h_rider_c_idle1_1"
+    },
+    {
+      "offset": 872,
+      "value": "super_h_rider_c_attack1_3"
+    },
+    {
+      "offset": 936,
+      "value": "super_h_rider_c_attack1_2"
+    },
+    {
+      "offset": 1000,
+      "value": "super_h_rider_c_attack1_1"
+    },
+    {
+      "offset": 1064,
+      "value": "super_h_rider_b_run1_3"
+    },
+    {
+      "offset": 1124,
+      "value": "super_h_rider_b_run1_2"
+    },
+    {
+      "offset": 1184,
+      "value": "super_h_rider_b_run1_1"
+    },
+    {
+      "offset": 1244,
+      "value": "super_h_rider_b_idle1_3"
+    },
+    {
+      "offset": 1304,
+      "value": "super_h_rider_b_idle1_2"
+    },
+    {
+      "offset": 1364,
+      "value": "super_h_rider_b_idle1_1"
+    },
+    {
+      "offset": 1424,
+      "value": "super_h_rider_b_attack1_3"
+    },
+    {
+      "offset": 1488,
+      "value": "super_h_rider_b_attack1_2"
+    },
+    {
+      "offset": 1552,
+      "value": "super_h_rider_b_attack1_1"
+    },
+    {
+      "offset": 1616,
+      "value": "super_h_rider_a_run1_3"
+    },
+    {
+      "offset": 1676,
+      "value": "super_h_rider_a_run1_2"
+    },
+    {
+      "offset": 1736,
+      "value": "super_h_rider_a_run1_1"
+    },
+    {
+      "offset": 1796,
+      "value": "super_h_rider_a_idle1_3"
+    },
+    {
+      "offset": 1856,
+      "value": "super_h_rider_a_idle1_2"
+    },
+    {
+      "offset": 1916,
+      "value": "super_h_rider_a_idle1_1"
+    },
+    {
+      "offset": 1976,
+      "value": "super_h_rider_a_attack1_3"
+    },
+    {
+      "offset": 2040,
+      "value": "super_h_rider_a_attack1_2"
+    },
+    {
+      "offset": 2112,
+      "value": "super_h_rider_a_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "super_h_rider_saddle_death1_3",
+    "super_h_rider_saddle_death1_2",
+    "super_h_rider_saddle_death1_1",
+    "super_h_rider_fly_projectile1",
+    "super_h_rider_c_run1_3",
+    "super_h_rider_c_run1_2",
+    "super_h_rider_c_run1_1",
+    "super_h_rider_c_idle1_3",
+    "super_h_rider_c_idle1_2",
+    "super_h_rider_c_idle1_1",
+    "super_h_rider_c_attack1_3",
+    "super_h_rider_c_attack1_2",
+    "super_h_rider_c_attack1_1",
+    "super_h_rider_b_run1_3",
+    "super_h_rider_b_run1_2",
+    "super_h_rider_b_run1_1",
+    "super_h_rider_b_idle1_3",
+    "super_h_rider_b_idle1_2",
+    "super_h_rider_b_idle1_1",
+    "super_h_rider_b_attack1_3",
+    "super_h_rider_b_attack1_2",
+    "super_h_rider_b_attack1_1",
+    "super_h_rider_a_run1_3",
+    "super_h_rider_a_run1_2",
+    "super_h_rider_a_run1_1",
+    "super_h_rider_a_idle1_3",
+    "super_h_rider_a_idle1_2",
+    "super_h_rider_a_idle1_1",
+    "super_h_rider_a_attack1_3",
+    "super_h_rider_a_attack1_2",
+    "super_h_rider_a_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 5168,
+      "value": "ff.B"
+    },
+    {
+      "offset": 5256,
+      "value": "fff@"
+    },
+    {
+      "offset": 5407,
+      "value": "CffFA"
+    },
+    {
+      "offset": 6761,
+      "value": "aPI"
+    },
+    {
+      "offset": 7145,
+      "value": "kkq"
+    },
+    {
+      "offset": 8129,
+      "value": "kH2"
+    },
+    {
+      "offset": 8936,
+      "value": "ff6B"
+    },
+    {
+      "offset": 10457,
+      "value": "K7u"
+    },
+    {
+      "offset": 14765,
+      "value": "nEy"
+    },
+    {
+      "offset": 19968,
+      "value": "fffA"
+    },
+    {
+      "offset": 19992,
+      "value": "fffA"
+    },
+    {
+      "offset": 21644,
+      "value": "fff@"
+    },
+    {
+      "offset": 22016,
+      "value": "ffnB"
+    },
+    {
+      "offset": 22184,
+      "value": "fffB"
+    },
+    {
+      "offset": 22472,
+      "value": "ffNB"
+    },
+    {
+      "offset": 25616,
+      "value": "fff@"
+    },
+    {
+      "offset": 36436,
+      "value": "super_h_rider_c_idle1_3"
+    },
+    {
+      "offset": 36464,
+      "value": "super_h_rider_c_idle1_2"
+    },
+    {
+      "offset": 36492,
+      "value": "super_h_rider_a_idle1_2"
+    },
+    {
+      "offset": 36520,
+      "value": "super_h_rider_c_idle1_1"
+    },
+    {
+      "offset": 36548,
+      "value": "super_h_rider_b_attack1_1"
+    },
+    {
+      "offset": 36580,
+      "value": "super_h_rider_c_attack1_2"
+    },
+    {
+      "offset": 36612,
+      "value": "super_h_rider_c_attack1_1"
+    },
+    {
+      "offset": 36644,
+      "value": "super_h_rider_saddle_death1_1"
+    },
+    {
+      "offset": 36680,
+      "value": "super_h_rider_b_idle1_2"
+    },
+    {
+      "offset": 36708,
+      "value": "super_h_rider_c_run1_3"
+    },
+    {
+      "offset": 36736,
+      "value": "super_h_rider_saddle_death1_2"
+    },
+    {
+      "offset": 36772,
+      "value": "super_h_rider_b_idle1_1"
+    },
+    {
+      "offset": 36800,
+      "value": "super_h_rider_c_run1_1"
+    },
+    {
+      "offset": 36828,
+      "value": "super_h_rider_saddle_death1_3"
+    },
+    {
+      "offset": 36864,
+      "value": "super_h_rider_a_idle1_1"
+    },
+    {
+      "offset": 36892,
+      "value": "super_h_rider_a_run1_1"
+    },
+    {
+      "offset": 36920,
+      "value": "super_h_rider_a_attack1_3"
+    },
+    {
+      "offset": 36952,
+      "value": "super_h_rider_b_attack1_2"
+    },
+    {
+      "offset": 36984,
+      "value": "super_h_rider_a_run1_3"
+    },
+    {
+      "offset": 37012,
+      "value": "super_h_rider_b_attack1_3"
+    },
+    {
+      "offset": 37044,
+      "value": "super_h_rider_a_run1_2"
+    },
+    {
+      "offset": 37072,
+      "value": "super_h_rider_c_attack1_3"
+    },
+    {
+      "offset": 37104,
+      "value": "super_h_rider_a_idle1_3"
+    },
+    {
+      "offset": 37132,
+      "value": "super_h_rider_b_run1_1"
+    },
+    {
+      "offset": 37160,
+      "value": "super_h_rider_a_attack1_2"
+    },
+    {
+      "offset": 37192,
+      "value": "super_h_rider_c_run1_2"
+    },
+    {
+      "offset": 37220,
+      "value": "super_h_rider_a_attack1_1"
+    },
+    {
+      "offset": 37252,
+      "value": "super_h_rider_b_run1_3"
+    },
+    {
+      "offset": 37280,
+      "value": "super_h_rider_b_idle1_3"
+    },
+    {
+      "offset": 37308,
+      "value": "super_h_rider_b_run1_2"
+    },
+    {
+      "offset": 37336,
+      "value": "super_h_rider_fly_projectile1"
+    },
+    {
+      "offset": 55968,
+      "value": "chr_super_hog_rider_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c000000010000000100000000010000220000000100000000920000",
+  "decoded_preview_hex": "fc91000018000000000012001400040000000000000008000c00100012000000ac8d0000346a0000040e000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

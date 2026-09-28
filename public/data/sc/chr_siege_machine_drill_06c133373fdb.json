@@ -1,0 +1,2049 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_siege_machine_drill.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_siege_machine_drill.sc",
+  "sha256_container": "06c133373fdb34ea2f2f2da2cb900c3e90769b75de26183dc3384b0901d8596f",
+  "sha256_descriptor": "3733404f722ff04d9c0bbca5999578909c12a3971a7d57c7ea28d2cbb45a686e",
+  "sha256_decoded_payload": "0df993fd02fb86e08b38953a8436ead1b9454ad886bf1d6559f6815f0b598737",
+  "version": 6,
+  "descriptor_bytes": 14364,
+  "compressed_frame_bytes": 73448,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 387196,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 1045
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 238
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 283008
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 53244
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 73448
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 1052,
+      "value": "SM_drill5_walk1_9"
+    },
+    {
+      "offset": 1108,
+      "value": "SM_drill5_walk1_8"
+    },
+    {
+      "offset": 1164,
+      "value": "SM_drill5_walk1_7"
+    },
+    {
+      "offset": 1220,
+      "value": "SM_drill5_walk1_6"
+    },
+    {
+      "offset": 1276,
+      "value": "SM_drill5_walk1_5"
+    },
+    {
+      "offset": 1332,
+      "value": "SM_drill5_walk1_4"
+    },
+    {
+      "offset": 1388,
+      "value": "SM_drill5_walk1_3"
+    },
+    {
+      "offset": 1444,
+      "value": "SM_drill5_walk1_2"
+    },
+    {
+      "offset": 1500,
+      "value": "SM_drill5_walk1_1"
+    },
+    {
+      "offset": 1556,
+      "value": "SM_drill5_parked1_3"
+    },
+    {
+      "offset": 1612,
+      "value": "SM_drill5_idle1_9"
+    },
+    {
+      "offset": 1668,
+      "value": "SM_drill5_idle1_8"
+    },
+    {
+      "offset": 1724,
+      "value": "SM_drill5_idle1_7"
+    },
+    {
+      "offset": 1780,
+      "value": "SM_drill5_idle1_6"
+    },
+    {
+      "offset": 1836,
+      "value": "SM_drill5_idle1_5"
+    },
+    {
+      "offset": 1892,
+      "value": "SM_drill5_idle1_4"
+    },
+    {
+      "offset": 1948,
+      "value": "SM_drill5_idle1_3"
+    },
+    {
+      "offset": 2004,
+      "value": "SM_drill5_idle1_2"
+    },
+    {
+      "offset": 2060,
+      "value": "SM_drill5_idle1_1"
+    },
+    {
+      "offset": 2116,
+      "value": "SM_drill5_digup1_9"
+    },
+    {
+      "offset": 2172,
+      "value": "SM_drill5_digup1_8"
+    },
+    {
+      "offset": 2228,
+      "value": "SM_drill5_digup1_7"
+    },
+    {
+      "offset": 2284,
+      "value": "SM_drill5_digup1_6"
+    },
+    {
+      "offset": 2340,
+      "value": "SM_drill5_digup1_5"
+    },
+    {
+      "offset": 2396,
+      "value": "SM_drill5_digup1_4"
+    },
+    {
+      "offset": 2452,
+      "value": "SM_drill5_digup1_3"
+    },
+    {
+      "offset": 2508,
+      "value": "SM_drill5_digup1_2"
+    },
+    {
+      "offset": 2564,
+      "value": "SM_drill5_digup1_1"
+    },
+    {
+      "offset": 2620,
+      "value": "SM_drill5_digdown1_9"
+    },
+    {
+      "offset": 2680,
+      "value": "SM_drill5_digdown1_8"
+    },
+    {
+      "offset": 2740,
+      "value": "SM_drill5_digdown1_7"
+    },
+    {
+      "offset": 2800,
+      "value": "SM_drill5_digdown1_6"
+    },
+    {
+      "offset": 2860,
+      "value": "SM_drill5_digdown1_5"
+    },
+    {
+      "offset": 2920,
+      "value": "SM_drill5_digdown1_4"
+    },
+    {
+      "offset": 2980,
+      "value": "SM_drill5_digdown1_3"
+    },
+    {
+      "offset": 3040,
+      "value": "SM_drill5_digdown1_2"
+    },
+    {
+      "offset": 3100,
+      "value": "SM_drill5_digdown1_1"
+    },
+    {
+      "offset": 3160,
+      "value": "SM_drill5_deploy1_1"
+    },
+    {
+      "offset": 3216,
+      "value": "SM_drill5_attack1_9"
+    },
+    {
+      "offset": 3272,
+      "value": "SM_drill5_attack1_8"
+    },
+    {
+      "offset": 3328,
+      "value": "SM_drill5_attack1_7"
+    },
+    {
+      "offset": 3384,
+      "value": "SM_drill5_attack1_6"
+    },
+    {
+      "offset": 3440,
+      "value": "SM_drill5_attack1_5"
+    },
+    {
+      "offset": 3496,
+      "value": "SM_drill5_attack1_4"
+    },
+    {
+      "offset": 3552,
+      "value": "SM_drill5_attack1_3"
+    },
+    {
+      "offset": 3608,
+      "value": "SM_drill5_attack1_2"
+    },
+    {
+      "offset": 3664,
+      "value": "SM_drill5_attack1_1"
+    },
+    {
+      "offset": 3720,
+      "value": "SM_drill4_walk1_9"
+    },
+    {
+      "offset": 3776,
+      "value": "SM_drill4_walk1_8"
+    },
+    {
+      "offset": 3832,
+      "value": "SM_drill4_walk1_7"
+    },
+    {
+      "offset": 3888,
+      "value": "SM_drill4_walk1_6"
+    },
+    {
+      "offset": 3944,
+      "value": "SM_drill4_walk1_5"
+    },
+    {
+      "offset": 4000,
+      "value": "SM_drill4_walk1_4"
+    },
+    {
+      "offset": 4056,
+      "value": "SM_drill4_walk1_3"
+    },
+    {
+      "offset": 4112,
+      "value": "SM_drill4_walk1_2"
+    },
+    {
+      "offset": 4168,
+      "value": "SM_drill4_walk1_1"
+    },
+    {
+      "offset": 4224,
+      "value": "SM_drill4_parked1_3"
+    },
+    {
+      "offset": 4280,
+      "value": "SM_drill4_idle1_9"
+    },
+    {
+      "offset": 4336,
+      "value": "SM_drill4_idle1_8"
+    },
+    {
+      "offset": 4392,
+      "value": "SM_drill4_idle1_7"
+    },
+    {
+      "offset": 4448,
+      "value": "SM_drill4_idle1_6"
+    },
+    {
+      "offset": 4504,
+      "value": "SM_drill4_idle1_5"
+    },
+    {
+      "offset": 4560,
+      "value": "SM_drill4_idle1_4"
+    },
+    {
+      "offset": 4616,
+      "value": "SM_drill4_idle1_3"
+    },
+    {
+      "offset": 4672,
+      "value": "SM_drill4_idle1_2"
+    },
+    {
+      "offset": 4728,
+      "value": "SM_drill4_idle1_1"
+    },
+    {
+      "offset": 4784,
+      "value": "SM_drill4_digup1_9"
+    },
+    {
+      "offset": 4840,
+      "value": "SM_drill4_digup1_8"
+    },
+    {
+      "offset": 4896,
+      "value": "SM_drill4_digup1_7"
+    },
+    {
+      "offset": 4952,
+      "value": "SM_drill4_digup1_6"
+    },
+    {
+      "offset": 5008,
+      "value": "SM_drill4_digup1_5"
+    },
+    {
+      "offset": 5064,
+      "value": "SM_drill4_digup1_4"
+    },
+    {
+      "offset": 5120,
+      "value": "SM_drill4_digup1_3"
+    },
+    {
+      "offset": 5176,
+      "value": "SM_drill4_digup1_2"
+    },
+    {
+      "offset": 5232,
+      "value": "SM_drill4_digup1_1"
+    },
+    {
+      "offset": 5288,
+      "value": "SM_drill4_digdown1_9"
+    },
+    {
+      "offset": 5348,
+      "value": "SM_drill4_digdown1_8"
+    },
+    {
+      "offset": 5408,
+      "value": "SM_drill4_digdown1_7"
+    },
+    {
+      "offset": 5468,
+      "value": "SM_drill4_digdown1_6"
+    },
+    {
+      "offset": 5528,
+      "value": "SM_drill4_digdown1_5"
+    },
+    {
+      "offset": 5588,
+      "value": "SM_drill4_digdown1_4"
+    },
+    {
+      "offset": 5648,
+      "value": "SM_drill4_digdown1_3"
+    },
+    {
+      "offset": 5708,
+      "value": "SM_drill4_digdown1_2"
+    },
+    {
+      "offset": 5768,
+      "value": "SM_drill4_digdown1_1"
+    },
+    {
+      "offset": 5828,
+      "value": "SM_drill4_deploy1_1"
+    },
+    {
+      "offset": 5884,
+      "value": "SM_drill4_attack1_9"
+    },
+    {
+      "offset": 5940,
+      "value": "SM_drill4_attack1_8"
+    },
+    {
+      "offset": 5996,
+      "value": "SM_drill4_attack1_7"
+    },
+    {
+      "offset": 6052,
+      "value": "SM_drill4_attack1_6"
+    },
+    {
+      "offset": 6108,
+      "value": "SM_drill4_attack1_5"
+    },
+    {
+      "offset": 6164,
+      "value": "SM_drill4_attack1_4"
+    },
+    {
+      "offset": 6220,
+      "value": "SM_drill4_attack1_3"
+    },
+    {
+      "offset": 6276,
+      "value": "SM_drill4_attack1_2"
+    },
+    {
+      "offset": 6332,
+      "value": "SM_drill4_attack1_1"
+    },
+    {
+      "offset": 6388,
+      "value": "SM_drill3_walk1_9"
+    },
+    {
+      "offset": 6444,
+      "value": "SM_drill3_walk1_8"
+    },
+    {
+      "offset": 6500,
+      "value": "SM_drill3_walk1_7"
+    },
+    {
+      "offset": 6556,
+      "value": "SM_drill3_walk1_6"
+    },
+    {
+      "offset": 6612,
+      "value": "SM_drill3_walk1_5"
+    },
+    {
+      "offset": 6668,
+      "value": "SM_drill3_walk1_4"
+    },
+    {
+      "offset": 6724,
+      "value": "SM_drill3_walk1_3"
+    },
+    {
+      "offset": 6780,
+      "value": "SM_drill3_walk1_2"
+    },
+    {
+      "offset": 6836,
+      "value": "SM_drill3_walk1_1"
+    },
+    {
+      "offset": 6892,
+      "value": "SM_drill3_parked1_3"
+    },
+    {
+      "offset": 6948,
+      "value": "SM_drill3_idle1_9"
+    },
+    {
+      "offset": 7004,
+      "value": "SM_drill3_idle1_8"
+    },
+    {
+      "offset": 7060,
+      "value": "SM_drill3_idle1_7"
+    },
+    {
+      "offset": 7116,
+      "value": "SM_drill3_idle1_6"
+    },
+    {
+      "offset": 7172,
+      "value": "SM_drill3_idle1_5"
+    },
+    {
+      "offset": 7228,
+      "value": "SM_drill3_idle1_4"
+    },
+    {
+      "offset": 7284,
+      "value": "SM_drill3_idle1_3"
+    },
+    {
+      "offset": 7340,
+      "value": "SM_drill3_idle1_2"
+    },
+    {
+      "offset": 7396,
+      "value": "SM_drill3_idle1_1"
+    },
+    {
+      "offset": 7452,
+      "value": "SM_drill3_digup1_9"
+    },
+    {
+      "offset": 7508,
+      "value": "SM_drill3_digup1_8"
+    },
+    {
+      "offset": 7564,
+      "value": "SM_drill3_digup1_7"
+    },
+    {
+      "offset": 7620,
+      "value": "SM_drill3_digup1_6"
+    },
+    {
+      "offset": 7676,
+      "value": "SM_drill3_digup1_5"
+    },
+    {
+      "offset": 7732,
+      "value": "SM_drill3_digup1_4"
+    },
+    {
+      "offset": 7788,
+      "value": "SM_drill3_digup1_3"
+    },
+    {
+      "offset": 7844,
+      "value": "SM_drill3_digup1_2"
+    },
+    {
+      "offset": 7900,
+      "value": "SM_drill3_digup1_1"
+    },
+    {
+      "offset": 7956,
+      "value": "SM_drill3_digdown1_9"
+    },
+    {
+      "offset": 8016,
+      "value": "SM_drill3_digdown1_8"
+    },
+    {
+      "offset": 8076,
+      "value": "SM_drill3_digdown1_7"
+    },
+    {
+      "offset": 8136,
+      "value": "SM_drill3_digdown1_6"
+    },
+    {
+      "offset": 8196,
+      "value": "SM_drill3_digdown1_5"
+    },
+    {
+      "offset": 8256,
+      "value": "SM_drill3_digdown1_4"
+    },
+    {
+      "offset": 8316,
+      "value": "SM_drill3_digdown1_3"
+    },
+    {
+      "offset": 8376,
+      "value": "SM_drill3_digdown1_2"
+    },
+    {
+      "offset": 8436,
+      "value": "SM_drill3_digdown1_1"
+    },
+    {
+      "offset": 8496,
+      "value": "SM_drill3_deploy1_1"
+    },
+    {
+      "offset": 8552,
+      "value": "SM_drill3_attack1_9"
+    },
+    {
+      "offset": 8608,
+      "value": "SM_drill3_attack1_8"
+    },
+    {
+      "offset": 8664,
+      "value": "SM_drill3_attack1_7"
+    },
+    {
+      "offset": 8720,
+      "value": "SM_drill3_attack1_6"
+    },
+    {
+      "offset": 8776,
+      "value": "SM_drill3_attack1_5"
+    },
+    {
+      "offset": 8832,
+      "value": "SM_drill3_attack1_4"
+    },
+    {
+      "offset": 8888,
+      "value": "SM_drill3_attack1_3"
+    },
+    {
+      "offset": 8944,
+      "value": "SM_drill3_attack1_2"
+    },
+    {
+      "offset": 9000,
+      "value": "SM_drill3_attack1_1"
+    },
+    {
+      "offset": 9056,
+      "value": "SM_drill2_walk1_9"
+    },
+    {
+      "offset": 9112,
+      "value": "SM_drill2_walk1_8"
+    },
+    {
+      "offset": 9168,
+      "value": "SM_drill2_walk1_7"
+    },
+    {
+      "offset": 9224,
+      "value": "SM_drill2_walk1_6"
+    },
+    {
+      "offset": 9280,
+      "value": "SM_drill2_walk1_5"
+    },
+    {
+      "offset": 9336,
+      "value": "SM_drill2_walk1_4"
+    },
+    {
+      "offset": 9392,
+      "value": "SM_drill2_walk1_3"
+    },
+    {
+      "offset": 9448,
+      "value": "SM_drill2_walk1_2"
+    },
+    {
+      "offset": 9504,
+      "value": "SM_drill2_walk1_1"
+    },
+    {
+      "offset": 9560,
+      "value": "SM_drill2_parked1_3"
+    },
+    {
+      "offset": 9616,
+      "value": "SM_drill2_idle1_9"
+    },
+    {
+      "offset": 9672,
+      "value": "SM_drill2_idle1_8"
+    },
+    {
+      "offset": 9728,
+      "value": "SM_drill2_idle1_7"
+    },
+    {
+      "offset": 9784,
+      "value": "SM_drill2_idle1_6"
+    },
+    {
+      "offset": 9840,
+      "value": "SM_drill2_idle1_5"
+    },
+    {
+      "offset": 9896,
+      "value": "SM_drill2_idle1_4"
+    },
+    {
+      "offset": 9952,
+      "value": "SM_drill2_idle1_3"
+    },
+    {
+      "offset": 10008,
+      "value": "SM_drill2_idle1_2"
+    },
+    {
+      "offset": 10064,
+      "value": "SM_drill2_idle1_1"
+    },
+    {
+      "offset": 10120,
+      "value": "SM_drill2_digup1_9"
+    },
+    {
+      "offset": 10176,
+      "value": "SM_drill2_digup1_8"
+    },
+    {
+      "offset": 10232,
+      "value": "SM_drill2_digup1_7"
+    },
+    {
+      "offset": 10288,
+      "value": "SM_drill2_digup1_6"
+    },
+    {
+      "offset": 10344,
+      "value": "SM_drill2_digup1_5"
+    },
+    {
+      "offset": 10400,
+      "value": "SM_drill2_digup1_4"
+    },
+    {
+      "offset": 10456,
+      "value": "SM_drill2_digup1_3"
+    },
+    {
+      "offset": 10512,
+      "value": "SM_drill2_digup1_2"
+    },
+    {
+      "offset": 10568,
+      "value": "SM_drill2_digup1_1"
+    },
+    {
+      "offset": 10624,
+      "value": "SM_drill2_digdown1_9"
+    },
+    {
+      "offset": 10684,
+      "value": "SM_drill2_digdown1_8"
+    },
+    {
+      "offset": 10744,
+      "value": "SM_drill2_digdown1_7"
+    },
+    {
+      "offset": 10804,
+      "value": "SM_drill2_digdown1_6"
+    },
+    {
+      "offset": 10864,
+      "value": "SM_drill2_digdown1_5"
+    },
+    {
+      "offset": 10924,
+      "value": "SM_drill2_digdown1_4"
+    },
+    {
+      "offset": 10984,
+      "value": "SM_drill2_digdown1_3"
+    },
+    {
+      "offset": 11044,
+      "value": "SM_drill2_digdown1_2"
+    },
+    {
+      "offset": 11104,
+      "value": "SM_drill2_digdown1_1"
+    },
+    {
+      "offset": 11164,
+      "value": "SM_drill2_deploy1_1"
+    },
+    {
+      "offset": 11220,
+      "value": "SM_drill2_attack1_9"
+    },
+    {
+      "offset": 11276,
+      "value": "SM_drill2_attack1_8"
+    },
+    {
+      "offset": 11332,
+      "value": "SM_drill2_attack1_7"
+    },
+    {
+      "offset": 11388,
+      "value": "SM_drill2_attack1_6"
+    },
+    {
+      "offset": 11444,
+      "value": "SM_drill2_attack1_5"
+    },
+    {
+      "offset": 11500,
+      "value": "SM_drill2_attack1_4"
+    },
+    {
+      "offset": 11556,
+      "value": "SM_drill2_attack1_3"
+    },
+    {
+      "offset": 11612,
+      "value": "SM_drill2_attack1_2"
+    },
+    {
+      "offset": 11668,
+      "value": "SM_drill2_attack1_1"
+    },
+    {
+      "offset": 11724,
+      "value": "SM_drill1_walk1_9"
+    },
+    {
+      "offset": 11780,
+      "value": "SM_drill1_walk1_8"
+    },
+    {
+      "offset": 11836,
+      "value": "SM_drill1_walk1_7"
+    },
+    {
+      "offset": 11892,
+      "value": "SM_drill1_walk1_6"
+    },
+    {
+      "offset": 11948,
+      "value": "SM_drill1_walk1_5"
+    },
+    {
+      "offset": 12004,
+      "value": "SM_drill1_walk1_4"
+    },
+    {
+      "offset": 12060,
+      "value": "SM_drill1_walk1_3"
+    },
+    {
+      "offset": 12116,
+      "value": "SM_drill1_walk1_2"
+    },
+    {
+      "offset": 12172,
+      "value": "SM_drill1_walk1_1"
+    },
+    {
+      "offset": 12228,
+      "value": "SM_drill1_parked1_3"
+    },
+    {
+      "offset": 12284,
+      "value": "SM_drill1_idle1_9"
+    },
+    {
+      "offset": 12340,
+      "value": "SM_drill1_idle1_8"
+    },
+    {
+      "offset": 12396,
+      "value": "SM_drill1_idle1_7"
+    },
+    {
+      "offset": 12452,
+      "value": "SM_drill1_idle1_6"
+    },
+    {
+      "offset": 12508,
+      "value": "SM_drill1_idle1_5"
+    },
+    {
+      "offset": 12564,
+      "value": "SM_drill1_idle1_4"
+    },
+    {
+      "offset": 12620,
+      "value": "SM_drill1_idle1_3"
+    },
+    {
+      "offset": 12676,
+      "value": "SM_drill1_idle1_2"
+    },
+    {
+      "offset": 12732,
+      "value": "SM_drill1_idle1_1"
+    },
+    {
+      "offset": 12788,
+      "value": "SM_drill1_digup1_9"
+    },
+    {
+      "offset": 12844,
+      "value": "SM_drill1_digup1_8"
+    },
+    {
+      "offset": 12900,
+      "value": "SM_drill1_digup1_7"
+    },
+    {
+      "offset": 12956,
+      "value": "SM_drill1_digup1_6"
+    },
+    {
+      "offset": 13012,
+      "value": "SM_drill1_digup1_5"
+    },
+    {
+      "offset": 13068,
+      "value": "SM_drill1_digup1_4"
+    },
+    {
+      "offset": 13124,
+      "value": "SM_drill1_digup1_3"
+    },
+    {
+      "offset": 13180,
+      "value": "SM_drill1_digup1_2"
+    },
+    {
+      "offset": 13236,
+      "value": "SM_drill1_digup1_1"
+    },
+    {
+      "offset": 13292,
+      "value": "SM_drill1_digdown1_9"
+    },
+    {
+      "offset": 13352,
+      "value": "SM_drill1_digdown1_8"
+    },
+    {
+      "offset": 13412,
+      "value": "SM_drill1_digdown1_7"
+    },
+    {
+      "offset": 13472,
+      "value": "SM_drill1_digdown1_6"
+    },
+    {
+      "offset": 13532,
+      "value": "SM_drill1_digdown1_5"
+    },
+    {
+      "offset": 13592,
+      "value": "SM_drill1_digdown1_4"
+    },
+    {
+      "offset": 13652,
+      "value": "SM_drill1_digdown1_3"
+    },
+    {
+      "offset": 13712,
+      "value": "SM_drill1_digdown1_2"
+    },
+    {
+      "offset": 13772,
+      "value": "SM_drill1_digdown1_1"
+    },
+    {
+      "offset": 13832,
+      "value": "SM_drill1_deploy1_1"
+    },
+    {
+      "offset": 13888,
+      "value": "SM_drill1_attack1_9"
+    },
+    {
+      "offset": 13944,
+      "value": "SM_drill1_attack1_8"
+    },
+    {
+      "offset": 14000,
+      "value": "SM_drill1_attack1_7"
+    },
+    {
+      "offset": 14056,
+      "value": "SM_drill1_attack1_6"
+    },
+    {
+      "offset": 14112,
+      "value": "SM_drill1_attack1_5"
+    },
+    {
+      "offset": 14168,
+      "value": "SM_drill1_attack1_4"
+    },
+    {
+      "offset": 14224,
+      "value": "SM_drill1_attack1_3"
+    },
+    {
+      "offset": 14280,
+      "value": "SM_drill1_attack1_2"
+    },
+    {
+      "offset": 14344,
+      "value": "SM_drill1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "SM_drill5_walk1_9",
+    "SM_drill5_walk1_8",
+    "SM_drill5_walk1_7",
+    "SM_drill5_walk1_6",
+    "SM_drill5_walk1_5",
+    "SM_drill5_walk1_4",
+    "SM_drill5_walk1_3",
+    "SM_drill5_walk1_2",
+    "SM_drill5_walk1_1",
+    "SM_drill5_parked1_3",
+    "SM_drill5_idle1_9",
+    "SM_drill5_idle1_8",
+    "SM_drill5_idle1_7",
+    "SM_drill5_idle1_6",
+    "SM_drill5_idle1_5",
+    "SM_drill5_idle1_4",
+    "SM_drill5_idle1_3",
+    "SM_drill5_idle1_2",
+    "SM_drill5_idle1_1",
+    "SM_drill5_digup1_9",
+    "SM_drill5_digup1_8",
+    "SM_drill5_digup1_7",
+    "SM_drill5_digup1_6",
+    "SM_drill5_digup1_5",
+    "SM_drill5_digup1_4",
+    "SM_drill5_digup1_3",
+    "SM_drill5_digup1_2",
+    "SM_drill5_digup1_1",
+    "SM_drill5_digdown1_9",
+    "SM_drill5_digdown1_8",
+    "SM_drill5_digdown1_7",
+    "SM_drill5_digdown1_6",
+    "SM_drill5_digdown1_5",
+    "SM_drill5_digdown1_4",
+    "SM_drill5_digdown1_3",
+    "SM_drill5_digdown1_2",
+    "SM_drill5_digdown1_1",
+    "SM_drill5_deploy1_1",
+    "SM_drill5_attack1_9",
+    "SM_drill5_attack1_8",
+    "SM_drill5_attack1_7",
+    "SM_drill5_attack1_6",
+    "SM_drill5_attack1_5",
+    "SM_drill5_attack1_4",
+    "SM_drill5_attack1_3",
+    "SM_drill5_attack1_2",
+    "SM_drill5_attack1_1",
+    "SM_drill4_walk1_9",
+    "SM_drill4_walk1_8",
+    "SM_drill4_walk1_7",
+    "SM_drill4_walk1_6",
+    "SM_drill4_walk1_5",
+    "SM_drill4_walk1_4",
+    "SM_drill4_walk1_3",
+    "SM_drill4_walk1_2",
+    "SM_drill4_walk1_1",
+    "SM_drill4_parked1_3",
+    "SM_drill4_idle1_9",
+    "SM_drill4_idle1_8",
+    "SM_drill4_idle1_7",
+    "SM_drill4_idle1_6",
+    "SM_drill4_idle1_5",
+    "SM_drill4_idle1_4",
+    "SM_drill4_idle1_3",
+    "SM_drill4_idle1_2",
+    "SM_drill4_idle1_1",
+    "SM_drill4_digup1_9",
+    "SM_drill4_digup1_8",
+    "SM_drill4_digup1_7",
+    "SM_drill4_digup1_6",
+    "SM_drill4_digup1_5",
+    "SM_drill4_digup1_4",
+    "SM_drill4_digup1_3",
+    "SM_drill4_digup1_2",
+    "SM_drill4_digup1_1",
+    "SM_drill4_digdown1_9",
+    "SM_drill4_digdown1_8",
+    "SM_drill4_digdown1_7",
+    "SM_drill4_digdown1_6",
+    "SM_drill4_digdown1_5",
+    "SM_drill4_digdown1_4",
+    "SM_drill4_digdown1_3",
+    "SM_drill4_digdown1_2",
+    "SM_drill4_digdown1_1",
+    "SM_drill4_deploy1_1",
+    "SM_drill4_attack1_9",
+    "SM_drill4_attack1_8",
+    "SM_drill4_attack1_7",
+    "SM_drill4_attack1_6",
+    "SM_drill4_attack1_5",
+    "SM_drill4_attack1_4",
+    "SM_drill4_attack1_3",
+    "SM_drill4_attack1_2",
+    "SM_drill4_attack1_1",
+    "SM_drill3_walk1_9",
+    "SM_drill3_walk1_8",
+    "SM_drill3_walk1_7",
+    "SM_drill3_walk1_6",
+    "SM_drill3_walk1_5",
+    "SM_drill3_walk1_4",
+    "SM_drill3_walk1_3",
+    "SM_drill3_walk1_2",
+    "SM_drill3_walk1_1",
+    "SM_drill3_parked1_3",
+    "SM_drill3_idle1_9",
+    "SM_drill3_idle1_8",
+    "SM_drill3_idle1_7",
+    "SM_drill3_idle1_6",
+    "SM_drill3_idle1_5",
+    "SM_drill3_idle1_4",
+    "SM_drill3_idle1_3",
+    "SM_drill3_idle1_2",
+    "SM_drill3_idle1_1",
+    "SM_drill3_digup1_9",
+    "SM_drill3_digup1_8",
+    "SM_drill3_digup1_7",
+    "SM_drill3_digup1_6",
+    "SM_drill3_digup1_5",
+    "SM_drill3_digup1_4",
+    "SM_drill3_digup1_3",
+    "SM_drill3_digup1_2",
+    "SM_drill3_digup1_1",
+    "SM_drill3_digdown1_9",
+    "SM_drill3_digdown1_8",
+    "SM_drill3_digdown1_7",
+    "SM_drill3_digdown1_6",
+    "SM_drill3_digdown1_5",
+    "SM_drill3_digdown1_4",
+    "SM_drill3_digdown1_3",
+    "SM_drill3_digdown1_2",
+    "SM_drill3_digdown1_1",
+    "SM_drill3_deploy1_1",
+    "SM_drill3_attack1_9",
+    "SM_drill3_attack1_8",
+    "SM_drill3_attack1_7",
+    "SM_drill3_attack1_6",
+    "SM_drill3_attack1_5",
+    "SM_drill3_attack1_4",
+    "SM_drill3_attack1_3",
+    "SM_drill3_attack1_2",
+    "SM_drill3_attack1_1",
+    "SM_drill2_walk1_9",
+    "SM_drill2_walk1_8",
+    "SM_drill2_walk1_7",
+    "SM_drill2_walk1_6",
+    "SM_drill2_walk1_5",
+    "SM_drill2_walk1_4",
+    "SM_drill2_walk1_3",
+    "SM_drill2_walk1_2",
+    "SM_drill2_walk1_1",
+    "SM_drill2_parked1_3",
+    "SM_drill2_idle1_9",
+    "SM_drill2_idle1_8",
+    "SM_drill2_idle1_7",
+    "SM_drill2_idle1_6",
+    "SM_drill2_idle1_5",
+    "SM_drill2_idle1_4",
+    "SM_drill2_idle1_3",
+    "SM_drill2_idle1_2",
+    "SM_drill2_idle1_1",
+    "SM_drill2_digup1_9",
+    "SM_drill2_digup1_8",
+    "SM_drill2_digup1_7",
+    "SM_drill2_digup1_6",
+    "SM_drill2_digup1_5",
+    "SM_drill2_digup1_4",
+    "SM_drill2_digup1_3",
+    "SM_drill2_digup1_2",
+    "SM_drill2_digup1_1",
+    "SM_drill2_digdown1_9",
+    "SM_drill2_digdown1_8",
+    "SM_drill2_digdown1_7",
+    "SM_drill2_digdown1_6",
+    "SM_drill2_digdown1_5",
+    "SM_drill2_digdown1_4",
+    "SM_drill2_digdown1_3",
+    "SM_drill2_digdown1_2",
+    "SM_drill2_digdown1_1",
+    "SM_drill2_deploy1_1",
+    "SM_drill2_attack1_9",
+    "SM_drill2_attack1_8",
+    "SM_drill2_attack1_7",
+    "SM_drill2_attack1_6",
+    "SM_drill2_attack1_5",
+    "SM_drill2_attack1_4",
+    "SM_drill2_attack1_3",
+    "SM_drill2_attack1_2",
+    "SM_drill2_attack1_1",
+    "SM_drill1_walk1_9",
+    "SM_drill1_walk1_8",
+    "SM_drill1_walk1_7",
+    "SM_drill1_walk1_6",
+    "SM_drill1_walk1_5",
+    "SM_drill1_walk1_4",
+    "SM_drill1_walk1_3",
+    "SM_drill1_walk1_2",
+    "SM_drill1_walk1_1",
+    "SM_drill1_parked1_3",
+    "SM_drill1_idle1_9",
+    "SM_drill1_idle1_8",
+    "SM_drill1_idle1_7",
+    "SM_drill1_idle1_6",
+    "SM_drill1_idle1_5",
+    "SM_drill1_idle1_4",
+    "SM_drill1_idle1_3",
+    "SM_drill1_idle1_2",
+    "SM_drill1_idle1_1",
+    "SM_drill1_digup1_9",
+    "SM_drill1_digup1_8",
+    "SM_drill1_digup1_7",
+    "SM_drill1_digup1_6",
+    "SM_drill1_digup1_5",
+    "SM_drill1_digup1_4",
+    "SM_drill1_digup1_3",
+    "SM_drill1_digup1_2",
+    "SM_drill1_digup1_1",
+    "SM_drill1_digdown1_9",
+    "SM_drill1_digdown1_8",
+    "SM_drill1_digdown1_7",
+    "SM_drill1_digdown1_6",
+    "SM_drill1_digdown1_5",
+    "SM_drill1_digdown1_4",
+    "SM_drill1_digdown1_3",
+    "SM_drill1_digdown1_2",
+    "SM_drill1_digdown1_1",
+    "SM_drill1_deploy1_1",
+    "SM_drill1_attack1_9",
+    "SM_drill1_attack1_8",
+    "SM_drill1_attack1_7",
+    "SM_drill1_attack1_6",
+    "SM_drill1_attack1_5",
+    "SM_drill1_attack1_4",
+    "SM_drill1_attack1_3",
+    "SM_drill1_attack1_2",
+    "SM_drill1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1195,
+      "value": "BffV@"
+    },
+    {
+      "offset": 1216,
+      "value": "ffzB"
+    },
+    {
+      "offset": 5084,
+      "value": "fff@"
+    },
+    {
+      "offset": 6644,
+      "value": "ffaB"
+    },
+    {
+      "offset": 7196,
+      "value": "ffcB"
+    },
+    {
+      "offset": 7626,
+      "value": "mA33LB"
+    },
+    {
+      "offset": 7652,
+      "value": "ffSB"
+    },
+    {
+      "offset": 7915,
+      "value": "A334B"
+    },
+    {
+      "offset": 8155,
+      "value": "Aff_B"
+    },
+    {
+      "offset": 8275,
+      "value": "AffeB"
+    },
+    {
+      "offset": 8395,
+      "value": "Aff@B"
+    },
+    {
+      "offset": 8419,
+      "value": "AffmB"
+    },
+    {
+      "offset": 8443,
+      "value": "B33JB"
+    },
+    {
+      "offset": 8491,
+      "value": "A334B"
+    },
+    {
+      "offset": 8516,
+      "value": "ffrA"
+    },
+    {
+      "offset": 8659,
+      "value": "A33LB"
+    },
+    {
+      "offset": 8827,
+      "value": "Aff0B"
+    },
+    {
+      "offset": 9163,
+      "value": "B33@B"
+    },
+    {
+      "offset": 9808,
+      "value": "ffGBffBB"
+    },
+    {
+      "offset": 10747,
+      "value": "Bff2A"
+    },
+    {
+      "offset": 15088,
+      "value": "ffvA"
+    },
+    {
+      "offset": 19768,
+      "value": "ffV@"
+    },
+    {
+      "offset": 20060,
+      "value": "ffzA"
+    },
+    {
+      "offset": 29113,
+      "value": "_7p"
+    },
+    {
+      "offset": 36389,
+      "value": "s+C"
+    },
+    {
+      "offset": 38357,
+      "value": "Y.C"
+    },
+    {
+      "offset": 40768,
+      "value": "ff+C"
+    },
+    {
+      "offset": 41295,
+      "value": "cff+C"
+    },
+    {
+      "offset": 43133,
+      "value": "sBC"
+    },
+    {
+      "offset": 45077,
+      "value": "s+C"
+    },
+    {
+      "offset": 45865,
+      "value": "w0A"
+    },
+    {
+      "offset": 53477,
+      "value": "s+C"
+    },
+    {
+      "offset": 55085,
+      "value": "Y.C"
+    },
+    {
+      "offset": 56031,
+      "value": "cff+C"
+    },
+    {
+      "offset": 56416,
+      "value": "ff+C"
+    },
+    {
+      "offset": 57677,
+      "value": "sBC"
+    },
+    {
+      "offset": 58777,
+      "value": "w0A"
+    },
+    {
+      "offset": 59357,
+      "value": "s+C"
+    },
+    {
+      "offset": 59617,
+      "value": "XY3"
+    },
+    {
+      "offset": 68475,
+      "value": "G33DC"
+    },
+    {
+      "offset": 69395,
+      "value": "B/s"
+    },
+    {
+      "offset": 69419,
+      "value": "BXm"
+    },
+    {
+      "offset": 70450,
+      "value": "fB/@"
+    },
+    {
+      "offset": 71509,
+      "value": "A1C"
+    },
+    {
+      "offset": 71581,
+      "value": "Hj5"
+    },
+    {
+      "offset": 72109,
+      "value": "ZG/"
+    },
+    {
+      "offset": 73667,
+      "value": "BTwBE"
+    },
+    {
+      "offset": 74125,
+      "value": "PcG"
+    },
+    {
+      "offset": 74149,
+      "value": "UpA"
+    },
+    {
+      "offset": 74551,
+      "value": "B33oBVExQ"
+    },
+    {
+      "offset": 75937,
+      "value": "Ki2"
+    },
+    {
+      "offset": 76109,
+      "value": "slC"
+    },
+    {
+      "offset": 76204,
+      "value": "ff:C"
+    },
+    {
+      "offset": 78155,
+      "value": "BJH"
+    },
+    {
+      "offset": 78508,
+      "value": "ffBC"
+    },
+    {
+      "offset": 78533,
+      "value": "LkC"
+    },
+    {
+      "offset": 79037,
+      "value": "sBC"
+    },
+    {
+      "offset": 79325,
+      "value": "YXC"
+    },
+    {
+      "offset": 80645,
+      "value": "YIC"
+    },
+    {
+      "offset": 81988,
+      "value": "ffMC"
+    },
+    {
+      "offset": 84557,
+      "value": "Y2C"
+    },
+    {
+      "offset": 84581,
+      "value": "Y2C"
+    },
+    {
+      "offset": 85849,
+      "value": "wQD"
+    },
+    {
+      "offset": 91177,
+      "value": "_7p"
+    },
+    {
+      "offset": 99629,
+      "value": "sBC"
+    },
+    {
+      "offset": 100805,
+      "value": "s+C"
+    },
+    {
+      "offset": 101305,
+      "value": "w0A"
+    },
+    {
+      "offset": 108459,
+      "value": "G33DC"
+    },
+    {
+      "offset": 109379,
+      "value": "B/s"
+    },
+    {
+      "offset": 109403,
+      "value": "BXm"
+    },
+    {
+      "offset": 110797,
+      "value": "A1C"
+    },
+    {
+      "offset": 110869,
+      "value": "Hj5"
+    },
+    {
+      "offset": 111397,
+      "value": "ZG/"
+    },
+    {
+      "offset": 113167,
+      "value": "B33oBVExQ"
+    },
+    {
+      "offset": 114553,
+      "value": "Ki2"
+    },
+    {
+      "offset": 114725,
+      "value": "slC"
+    },
+    {
+      "offset": 115547,
+      "value": "BHmad"
+    },
+    {
+      "offset": 116051,
+      "value": "BJH"
+    },
+    {
+      "offset": 116404,
+      "value": "ffBC"
+    },
+    {
+      "offset": 116429,
+      "value": "LkC"
+    },
+    {
+      "offset": 117221,
+      "value": "YXC"
+    },
+    {
+      "offset": 117833,
+      "value": "YIC"
+    },
+    {
+      "offset": 117929,
+      "value": "Y.C"
+    },
+    {
+      "offset": 118121,
+      "value": "Y2C"
+    },
+    {
+      "offset": 119368,
+      "value": "ffMC"
+    },
+    {
+      "offset": 126167,
+      "value": "BSCk7"
+    },
+    {
+      "offset": 129455,
+      "value": "BB5"
+    },
+    {
+      "offset": 129959,
+      "value": "Bf8ZV"
+    },
+    {
+      "offset": 134153,
+      "value": "sBC"
+    },
+    {
+      "offset": 135281,
+      "value": "s+C"
+    },
+    {
+      "offset": 135781,
+      "value": "w0A"
+    },
+    {
+      "offset": 136201,
+      "value": "NRF"
+    },
+    {
+      "offset": 136225,
+      "value": "PRF"
+    },
+    {
+      "offset": 137713,
+      "value": "BBE"
+    },
+    {
+      "offset": 137735,
+      "value": "BwFBE"
+    },
+    {
+      "offset": 140607,
+      "value": "G33DC"
+    },
+    {
+      "offset": 141047,
+      "value": "B/s"
+    },
+    {
+      "offset": 141071,
+      "value": "BXm"
+    },
+    {
+      "offset": 141769,
+      "value": "oZv"
+    },
+    {
+      "offset": 141793,
+      "value": "A1C"
+    },
+    {
+      "offset": 141865,
+      "value": "Hj5"
+    },
+    {
+      "offset": 142105,
+      "value": "ZG/"
+    },
+    {
+      "offset": 143011,
+      "value": "B33oBVExQ"
+    },
+    {
+      "offset": 143821,
+      "value": "Ki2"
+    },
+    {
+      "offset": 143921,
+      "value": "slC"
+    },
+    {
+      "offset": 144671,
+      "value": "BJH"
+    },
+    {
+      "offset": 144832,
+      "value": "ffBC"
+    },
+    {
+      "offset": 144857,
+      "value": "LkC"
+    },
+    {
+      "offset": 145265,
+      "value": "YXC"
+    },
+    {
+      "offset": 145601,
+      "value": "YIC"
+    },
+    {
+      "offset": 146368,
+      "value": "ffMC"
+    },
+    {
+      "offset": 153353,
+      "value": "sBC"
+    },
+    {
+      "offset": 153949,
+      "value": "XY3"
+    },
+    {
+      "offset": 153977,
+      "value": "s+C"
+    },
+    {
+      "offset": 154261,
+      "value": "w0A"
+    },
+    {
+      "offset": 158413,
+      "value": "w0A"
+    },
+    {
+      "offset": 159209,
+      "value": "s+C"
+    },
+    {
+      "offset": 159541,
+      "value": "XY3"
+    },
+    {
+      "offset": 161177,
+      "value": "sBC"
+    },
+    {
+      "offset": 163155,
+      "value": "cff+C"
+    },
+    {
+      "offset": 163684,
+      "value": "ff+C"
+    },
+    {
+      "offset": 165973,
+      "value": "qi3"
+    },
+    {
+      "offset": 166169,
+      "value": "Y.C"
+    },
+    {
+      "offset": 168185,
+      "value": "s+C"
+    },
+    {
+      "offset": 172001,
+      "value": "s3C"
+    },
+    {
+      "offset": 172291,
+      "value": "C3s"
+    },
+    {
+      "offset": 180497,
+      "value": "s+C"
+    },
+    {
+      "offset": 181501,
+      "value": "w0A"
+    },
+    {
+      "offset": 183665,
+      "value": "sBC"
+    },
+    {
+      "offset": 186340,
+      "value": "ff+C"
+    },
+    {
+      "offset": 187011,
+      "value": "cff+C"
+    },
+    {
+      "offset": 188801,
+      "value": "Y.C"
+    },
+    {
+      "offset": 189229,
+      "value": "qi3"
+    },
+    {
+      "offset": 191957,
+      "value": "s+C"
+    },
+    {
+      "offset": 198787,
+      "value": "C3s"
+    },
+    {
+      "offset": 199169,
+      "value": "s3C"
+    },
+    {
+      "offset": 200389,
+      "value": "_7p"
+    },
+    {
+      "offset": 277184,
+      "value": "SM_drill2_idle1_4"
+    },
+    {
+      "offset": 277208,
+      "value": "SM_drill4_attack1_9"
+    },
+    {
+      "offset": 277232,
+      "value": "SM_drill2_idle1_1"
+    },
+    {
+      "offset": 277256,
+      "value": "SM_drill5_walk1_5"
+    },
+    {
+      "offset": 277280,
+      "value": "SM_drill5_digdown1_7"
+    },
+    {
+      "offset": 277308,
+      "value": "SM_drill2_idle1_2"
+    },
+    {
+      "offset": 277332,
+      "value": "SM_drill3_walk1_2"
+    },
+    {
+      "offset": 277356,
+      "value": "SM_drill2_digup1_9"
+    },
+    {
+      "offset": 277380,
+      "value": "SM_drill2_digup1_8"
+    },
+    {
+      "offset": 277404,
+      "value": "SM_drill2_digup1_7"
+    },
+    {
+      "offset": 277428,
+      "value": "SM_drill4_digdown1_7"
+    },
+    {
+      "offset": 277456,
+      "value": "SM_drill2_digup1_6"
+    },
+    {
+      "offset": 277480,
+      "value": "SM_drill2_digup1_2"
+    },
+    {
+      "offset": 277504,
+      "value": "SM_drill2_attack1_3"
+    },
+    {
+      "offset": 277528,
+      "value": "SM_drill1_idle1_9"
+    },
+    {
+      "offset": 277552,
+      "value": "SM_drill5_digup1_3"
+    },
+    {
+      "offset": 277576,
+      "value": "SM_drill5_digdown1_4"
+    },
+    {
+      "offset": 277604,
+      "value": "SM_drill2_digdown1_8"
+    },
+    {
+      "offset": 277632,
+      "value": "SM_drill4_idle1_1"
+    },
+    {
+      "offset": 277656,
+      "value": "SM_drill2_digdown1_3"
+    },
+    {
+      "offset": 277684,
+      "value": "SM_drill1_attack1_3"
+    },
+    {
+      "offset": 277708,
+      "value": "SM_drill2_attack1_9"
+    },
+    {
+      "offset": 277732,
+      "value": "SM_drill5_idle1_1"
+    },
+    {
+      "offset": 277756,
+      "value": "SM_drill2_attack1_8"
+    },
+    {
+      "offset": 277780,
+      "value": "SM_drill2_idle1_5"
+    },
+    {
+      "offset": 277804,
+      "value": "SM_drill2_digdown1_6"
+    },
+    {
+      "offset": 277832,
+      "value": "SM_drill4_attack1_4"
+    },
+    {
+      "offset": 277856,
+      "value": "SM_drill4_digdown1_2"
+    },
+    {
+      "offset": 277884,
+      "value": "SM_drill2_attack1_6"
+    },
+    {
+      "offset": 277908,
+      "value": "SM_drill2_attack1_5"
+    },
+    {
+      "offset": 277932,
+      "value": "SM_drill1_digup1_6"
+    },
+    {
+      "offset": 277956,
+      "value": "SM_drill2_attack1_2"
+    },
+    {
+      "offset": 277980,
+      "value": "SM_drill4_idle1_5"
+    },
+    {
+      "offset": 278004,
+      "value": "SM_drill1_walk1_8"
+    },
+    {
+      "offset": 278028,
+      "value": "SM_drill1_walk1_5"
+    },
+    {
+      "offset": 278052,
+      "value": "SM_drill1_attack1_8"
+    },
+    {
+      "offset": 278076,
+      "value": "SM_drill4_walk1_6"
+    },
+    {
+      "offset": 278100,
+      "value": "SM_drill2_attack1_1"
+    },
+    {
+      "offset": 278124,
+      "value": "SM_drill1_walk1_4"
+    },
+    {
+      "offset": 278148,
+      "value": "SM_drill1_walk1_1"
+    },
+    {
+      "offset": 278172,
+      "value": "SM_drill1_walk1_3"
+    },
+    {
+      "offset": 278196,
+      "value": "SM_drill1_digup1_3"
+    },
+    {
+      "offset": 278220,
+      "value": "SM_drill1_parked1_3"
+    },
+    {
+      "offset": 278244,
+      "value": "SM_drill1_idle1_7"
+    },
+    {
+      "offset": 278268,
+      "value": "SM_drill1_digup1_1"
+    },
+    {
+      "offset": 278292,
+      "value": "SM_drill1_attack1_5"
+    },
+    {
+      "offset": 278316,
+      "value": "SM_drill3_digup1_8"
+    },
+    {
+      "offset": 278340,
+      "value": "SM_drill3_idle1_7"
+    },
+    {
+      "offset": 278364,
+      "value": "SM_drill1_idle1_6"
+    },
+    {
+      "offset": 278388,
+      "value": "SM_drill4_digup1_5"
+    },
+    {
+      "offset": 278412,
+      "value": "SM_drill1_idle1_5"
+    },
+    {
+      "offset": 278436,
+      "value": "SM_drill5_walk1_3"
+    },
+    {
+      "offset": 278460,
+      "value": "SM_drill1_idle1_4"
+    },
+    {
+      "offset": 278484,
+      "value": "SM_drill1_digup1_7"
+    },
+    {
+      "offset": 278508,
+      "value": "SM_drill1_idle1_3"
+    },
+    {
+      "offset": 278532,
+      "value": "SM_drill2_idle1_7"
+    },
+    {
+      "offset": 278556,
+      "value": "SM_drill2_walk1_5"
+    },
+    {
+      "offset": 278580,
+      "value": "SM_drill1_walk1_9"
+    },
+    {
+      "offset": 278604,
+      "value": "SM_drill2_walk1_4"
+    },
+    {
+      "offset": 278628,
+      "value": "SM_drill1_idle1_2"
+    },
+    {
+      "offset": 278652,
+      "value": "SM_drill1_idle1_8"
+    },
+    {
+      "offset": 278676,
+      "value": "SM_drill1_idle1_1"
+    },
+    {
+      "offset": 278700,
+      "value": "SM_drill2_digdown1_1"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c000000010000000100000015040000ee0000000100000080510400fccf0000",
+  "decoded_preview_hex": "7c51040018000000000012001400040000000000000008000c00100012000000e8360400ac180300704f000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

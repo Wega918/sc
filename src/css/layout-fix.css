@@ -1,0 +1,22 @@
+/* Keep the long horizontal army list from enlarging the game grid. */
+html,
+body,
+.game-shell,
+.topbar,
+.battle-wrap,
+.army-panel,
+.cards {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.game-shell,
+.battle-wrap,
+.army-panel,
+.cards {
+  width: 100%;
+}
+
+.cards {
+  contain: inline-size;
+}

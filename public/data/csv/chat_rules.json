@@ -1,0 +1,1 @@
+{"format":"runtime-table-v1","table":"chat_rules","entries":{"GlobalChatRules":{"version":1,"rules":"TID_CHAT_RULES_RESPECT","rows":[{"rules":"TID_CHAT_RULES_PRIVATE"},{"rules":"TID_CHAT_RULES_MUTE"},{"rules":"TID_CHAT_RULES_REPORT"}]},"ClanChatRules":{"version":1,"rules":"TID_CHAT_RULES_RESPECT","rows":[{"rules":"TID_CHAT_RULES_PRIVATE"},{"rules":"TID_CHAT_RULES_REPORT"}]}}}

@@ -1,0 +1,263 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "tutorial_characters.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\tutorial_characters.sc",
+  "sha256_container": "e10ee9b2855b7c941376e48b42f0f5994546dc3ee41514fab77e2e86d945d0a9",
+  "sha256_descriptor": "5b76c1ee88dacdc1ba4da277f532c1dbccb716716d3af9af8180c5b90990778d",
+  "sha256_decoded_payload": "46f90a708850b5d8d234f9c11e36a7899af0af5d194d22955aa4ac9c20545bc9",
+  "version": 6,
+  "descriptor_bytes": 364,
+  "compressed_frame_bytes": 74754,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 148724,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 740
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 147384
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 74760
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 132,
+      "value": "character_friendly_scared_war"
+    },
+    {
+      "offset": 200,
+      "value": "character_friendly_scared_small"
+    },
+    {
+      "offset": 268,
+      "value": "character_friendly_scared"
+    },
+    {
+      "offset": 340,
+      "value": "character_enemy_goblin"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "character_friendly_scared_war",
+    "character_friendly_scared_small",
+    "character_friendly_scared",
+    "character_enemy_goblin"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 604,
+      "value": "character_friendly_scared"
+    },
+    {
+      "offset": 636,
+      "value": "character_enemy_goblin"
+    },
+    {
+      "offset": 664,
+      "value": "character_friendly_scared_war"
+    },
+    {
+      "offset": 700,
+      "value": "character_friendly_scared_small"
+    },
+    {
+      "offset": 3917,
+      "value": "YP "
+    },
+    {
+      "offset": 26681,
+      "value": "Mkt"
+    },
+    {
+      "offset": 27062,
+      "value": "_@P"
+    },
+    {
+      "offset": 34120,
+      "value": "kjJ"
+    },
+    {
+      "offset": 34396,
+      "value": "Og "
+    },
+    {
+      "offset": 36546,
+      "value": "eIo"
+    },
+    {
+      "offset": 39321,
+      "value": "wEj"
+    },
+    {
+      "offset": 43769,
+      "value": "h 6@"
+    },
+    {
+      "offset": 45982,
+      "value": "X ."
+    },
+    {
+      "offset": 46058,
+      "value": "H1p"
+    },
+    {
+      "offset": 54354,
+      "value": "NnRI"
+    },
+    {
+      "offset": 57072,
+      "value": "B5 "
+    },
+    {
+      "offset": 58218,
+      "value": "XQ@"
+    },
+    {
+      "offset": 58583,
+      "value": "v0n"
+    },
+    {
+      "offset": 59593,
+      "value": "MOd"
+    },
+    {
+      "offset": 69514,
+      "value": "v:d"
+    },
+    {
+      "offset": 80400,
+      "value": "QIj"
+    },
+    {
+      "offset": 80616,
+      "value": "o@ i"
+    },
+    {
+      "offset": 89078,
+      "value": "b+MP"
+    },
+    {
+      "offset": 90107,
+      "value": "ZA: "
+    },
+    {
+      "offset": 90629,
+      "value": "qrM"
+    },
+    {
+      "offset": 96122,
+      "value": "u@X"
+    },
+    {
+      "offset": 99551,
+      "value": "sCJB"
+    },
+    {
+      "offset": 103686,
+      "value": "sTm"
+    },
+    {
+      "offset": 105860,
+      "value": "BqsL"
+    },
+    {
+      "offset": 107274,
+      "value": "Ne "
+    },
+    {
+      "offset": 120151,
+      "value": "U-u"
+    },
+    {
+      "offset": 120453,
+      "value": "Hk5cgpKa"
+    },
+    {
+      "offset": 122114,
+      "value": "__n"
+    },
+    {
+      "offset": 128958,
+      "value": "M-K2A"
+    },
+    {
+      "offset": 131682,
+      "value": "l__"
+    },
+    {
+      "offset": 133018,
+      "value": "xC@"
+    },
+    {
+      "offset": 134628,
+      "value": "AC7S"
+    },
+    {
+      "offset": 135335,
+      "value": "Q-Aop"
+    },
+    {
+      "offset": 136721,
+      "value": "hIho"
+    },
+    {
+      "offset": 137039,
+      "value": "KxOo"
+    },
+    {
+      "offset": 142157,
+      "value": "iMRS"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000004000000040000000100000003000000e4020000",
+  "decoded_preview_hex": "e002000018000000000012001400040000000000000008000c001000120000002002000000020000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_zappy_wagon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_zappy_wagon.sc",
+  "sha256_container": "dab05d7a4d2fdae7bff7b97cc7f3bc85800bf4fb634854571400cce462d54da4",
+  "sha256_descriptor": "63652b601670cf6c8f9f840ba08cde62ad8a40233a52cad58b2c536b71dbb4b7",
+  "sha256_decoded_payload": "5d25e494d83e340d2eb43c5c18d6e4ca1adbe022068b4508f78c75bb1c21e20c",
+  "version": 6,
+  "descriptor_bytes": 2404,
+  "compressed_frame_bytes": 58965,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 338536,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 583
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 83
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 260124
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 52056
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 58968
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 268,
+      "value": "sparky_hit"
+    },
+    {
+      "offset": 316,
+      "value": "sparky_attack_projectile"
+    },
+    {
+      "offset": 380,
+      "value": "ZappieWagon_Walk1_9"
+    },
+    {
+      "offset": 436,
+      "value": "ZappieWagon_Walk1_8"
+    },
+    {
+      "offset": 492,
+      "value": "ZappieWagon_Walk1_7"
+    },
+    {
+      "offset": 548,
+      "value": "ZappieWagon_Walk1_6"
+    },
+    {
+      "offset": 604,
+      "value": "ZappieWagon_Walk1_5"
+    },
+    {
+      "offset": 660,
+      "value": "ZappieWagon_Walk1_4"
+    },
+    {
+      "offset": 716,
+      "value": "ZappieWagon_Walk1_3"
+    },
+    {
+      "offset": 772,
+      "value": "ZappieWagon_Walk1_2"
+    },
+    {
+      "offset": 828,
+      "value": "ZappieWagon_Walk1_1"
+    },
+    {
+      "offset": 884,
+      "value": "ZappieWagon_Idle1_9"
+    },
+    {
+      "offset": 940,
+      "value": "ZappieWagon_Idle1_8"
+    },
+    {
+      "offset": 996,
+      "value": "ZappieWagon_Idle1_7"
+    },
+    {
+      "offset": 1052,
+      "value": "ZappieWagon_Idle1_6"
+    },
+    {
+      "offset": 1108,
+      "value": "ZappieWagon_Idle1_5"
+    },
+    {
+      "offset": 1164,
+      "value": "ZappieWagon_Idle1_4"
+    },
+    {
+      "offset": 1220,
+      "value": "ZappieWagon_Idle1_3"
+    },
+    {
+      "offset": 1276,
+      "value": "ZappieWagon_Idle1_2"
+    },
+    {
+      "offset": 1332,
+      "value": "ZappieWagon_Idle1_1"
+    },
+    {
+      "offset": 1388,
+      "value": "ZappieWagon_Die1_9"
+    },
+    {
+      "offset": 1444,
+      "value": "ZappieWagon_Die1_8"
+    },
+    {
+      "offset": 1500,
+      "value": "ZappieWagon_Die1_7"
+    },
+    {
+      "offset": 1556,
+      "value": "ZappieWagon_Die1_6"
+    },
+    {
+      "offset": 1612,
+      "value": "ZappieWagon_Die1_5"
+    },
+    {
+      "offset": 1668,
+      "value": "ZappieWagon_Die1_4"
+    },
+    {
+      "offset": 1724,
+      "value": "ZappieWagon_Die1_3"
+    },
+    {
+      "offset": 1780,
+      "value": "ZappieWagon_Die1_2"
+    },
+    {
+      "offset": 1836,
+      "value": "ZappieWagon_Die1_1"
+    },
+    {
+      "offset": 1892,
+      "value": "ZappieWagon_Attack1_9"
+    },
+    {
+      "offset": 1952,
+      "value": "ZappieWagon_Attack1_8"
+    },
+    {
+      "offset": 2012,
+      "value": "ZappieWagon_Attack1_7"
+    },
+    {
+      "offset": 2072,
+      "value": "ZappieWagon_Attack1_6"
+    },
+    {
+      "offset": 2132,
+      "value": "ZappieWagon_Attack1_5"
+    },
+    {
+      "offset": 2192,
+      "value": "ZappieWagon_Attack1_4"
+    },
+    {
+      "offset": 2252,
+      "value": "ZappieWagon_Attack1_3"
+    },
+    {
+      "offset": 2312,
+      "value": "ZappieWagon_Attack1_2"
+    },
+    {
+      "offset": 2380,
+      "value": "ZappieWagon_Attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "sparky_hit",
+    "sparky_attack_projectile",
+    "ZappieWagon_Walk1_9",
+    "ZappieWagon_Walk1_8",
+    "ZappieWagon_Walk1_7",
+    "ZappieWagon_Walk1_6",
+    "ZappieWagon_Walk1_5",
+    "ZappieWagon_Walk1_4",
+    "ZappieWagon_Walk1_3",
+    "ZappieWagon_Walk1_2",
+    "ZappieWagon_Walk1_1",
+    "ZappieWagon_Idle1_9",
+    "ZappieWagon_Idle1_8",
+    "ZappieWagon_Idle1_7",
+    "ZappieWagon_Idle1_6",
+    "ZappieWagon_Idle1_5",
+    "ZappieWagon_Idle1_4",
+    "ZappieWagon_Idle1_3",
+    "ZappieWagon_Idle1_2",
+    "ZappieWagon_Idle1_1",
+    "ZappieWagon_Die1_9",
+    "ZappieWagon_Die1_8",
+    "ZappieWagon_Die1_7",
+    "ZappieWagon_Die1_6",
+    "ZappieWagon_Die1_5",
+    "ZappieWagon_Die1_4",
+    "ZappieWagon_Die1_3",
+    "ZappieWagon_Die1_2",
+    "ZappieWagon_Die1_1",
+    "ZappieWagon_Attack1_9",
+    "ZappieWagon_Attack1_8",
+    "ZappieWagon_Attack1_7",
+    "ZappieWagon_Attack1_6",
+    "ZappieWagon_Attack1_5",
+    "ZappieWagon_Attack1_4",
+    "ZappieWagon_Attack1_3",
+    "ZappieWagon_Attack1_2",
+    "ZappieWagon_Attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1712,
+      "value": "ffF@fff@"
+    },
+    {
+      "offset": 2652,
+      "value": "ff6@"
+    },
+    {
+      "offset": 3564,
+      "value": "ff.A"
+    },
+    {
+      "offset": 6011,
+      "value": "AffF@"
+    },
+    {
+      "offset": 6060,
+      "value": "ffZA"
+    },
+    {
+      "offset": 6560,
+      "value": "ffJAffv@"
+    },
+    {
+      "offset": 9405,
+      "value": "pF@"
+    },
+    {
+      "offset": 9659,
+      "value": "B33+A"
+    },
+    {
+      "offset": 10269,
+      "value": "P4@"
+    },
+    {
+      "offset": 11700,
+      "value": "ffZA"
+    },
+    {
+      "offset": 11892,
+      "value": "fff@"
+    },
+    {
+      "offset": 14672,
+      "value": "ff2A"
+    },
+    {
+      "offset": 15464,
+      "value": "ff+B"
+    },
+    {
+      "offset": 15780,
+      "value": "ff.A"
+    },
+    {
+      "offset": 16865,
+      "value": "P4@"
+    },
+    {
+      "offset": 17100,
+      "value": "ff:A"
+    },
+    {
+      "offset": 21252,
+      "value": "ffRA"
+    },
+    {
+      "offset": 21324,
+      "value": "ff:A"
+    },
+    {
+      "offset": 24396,
+      "value": "ffOB"
+    },
+    {
+      "offset": 26627,
+      "value": "C3s+C"
+    },
+    {
+      "offset": 36388,
+      "value": "AFqF"
+    },
+    {
+      "offset": 36398,
+      "value": "PAAF.I"
+    },
+    {
+      "offset": 36412,
+      "value": "nCqF"
+    },
+    {
+      "offset": 46685,
+      "value": "cTT"
+    },
+    {
+      "offset": 46721,
+      "value": "vDV"
+    },
+    {
+      "offset": 46767,
+      "value": "C0tQ "
+    },
+    {
+      "offset": 46793,
+      "value": "qQ "
+    },
+    {
+      "offset": 48869,
+      "value": "OMm"
+    },
+    {
+      "offset": 49853,
+      "value": "L_E"
+    },
+    {
+      "offset": 49864,
+      "value": "xRtO"
+    },
+    {
+      "offset": 49877,
+      "value": "P_E"
+    },
+    {
+      "offset": 52541,
+      "value": "q64"
+    },
+    {
+      "offset": 52744,
+      "value": "Pl89"
+    },
+    {
+      "offset": 52817,
+      "value": "c1Q"
+    },
+    {
+      "offset": 52841,
+      "value": "g1Q"
+    },
+    {
+      "offset": 52865,
+      "value": "pcO"
+    },
+    {
+      "offset": 52889,
+      "value": "prI"
+    },
+    {
+      "offset": 58781,
+      "value": "yom"
+    },
+    {
+      "offset": 58864,
+      "value": "wgnj"
+    },
+    {
+      "offset": 59009,
+      "value": "KwW"
+    },
+    {
+      "offset": 59741,
+      "value": "wSR"
+    },
+    {
+      "offset": 60172,
+      "value": "lMni"
+    },
+    {
+      "offset": 62043,
+      "value": "BkB"
+    },
+    {
+      "offset": 63413,
+      "value": "KEZ"
+    },
+    {
+      "offset": 63425,
+      "value": "Rmg"
+    },
+    {
+      "offset": 63447,
+      "value": "AqOmg"
+    },
+    {
+      "offset": 63641,
+      "value": "P0y"
+    },
+    {
+      "offset": 65200,
+      "value": "B16_"
+    },
+    {
+      "offset": 65224,
+      "value": "B14X"
+    },
+    {
+      "offset": 65308,
+      "value": "TcF0"
+    },
+    {
+      "offset": 65393,
+      "value": "bDW"
+    },
+    {
+      "offset": 65417,
+      "value": "bTS"
+    },
+    {
+      "offset": 65477,
+      "value": "lpD"
+    },
+    {
+      "offset": 65969,
+      "value": "TrJ"
+    },
+    {
+      "offset": 66701,
+      "value": "X. "
+    },
+    {
+      "offset": 66725,
+      "value": "X. "
+    },
+    {
+      "offset": 69188,
+      "value": "ff6@"
+    },
+    {
+      "offset": 70532,
+      "value": "ff.A"
+    },
+    {
+      "offset": 71048,
+      "value": "ffjA"
+    },
+    {
+      "offset": 71252,
+      "value": "ff7B"
+    },
+    {
+      "offset": 71803,
+      "value": "U33dB"
+    },
+    {
+      "offset": 71815,
+      "value": "W33dB"
+    },
+    {
+      "offset": 72739,
+      "value": "o33dB"
+    },
+    {
+      "offset": 72751,
+      "value": "q33dB"
+    },
+    {
+      "offset": 73676,
+      "value": "ffRA"
+    },
+    {
+      "offset": 73688,
+      "value": "ffRA"
+    },
+    {
+      "offset": 75476,
+      "value": "ff-B"
+    },
+    {
+      "offset": 77612,
+      "value": "ff3B"
+    },
+    {
+      "offset": 77624,
+      "value": "ff3B"
+    },
+    {
+      "offset": 77819,
+      "value": "B33"
+    },
+    {
+      "offset": 77843,
+      "value": "B33"
+    },
+    {
+      "offset": 77861,
+      "value": "wSR"
+    },
+    {
+      "offset": 78005,
+      "value": "wSR"
+    },
+    {
+      "offset": 82664,
+      "value": "ffVA"
+    },
+    {
+      "offset": 88668,
+      "value": "fffA0tQ "
+    },
+    {
+      "offset": 88959,
+      "value": "A0tQ "
+    },
+    {
+      "offset": 88985,
+      "value": "qQ "
+    },
+    {
+      "offset": 89410,
+      "value": "XA33"
+    },
+    {
+      "offset": 89435,
+      "value": "B33"
+    },
+    {
+      "offset": 90932,
+      "value": "ffJA"
+    },
+    {
+      "offset": 91628,
+      "value": "ff B"
+    },
+    {
+      "offset": 91640,
+      "value": "ff B"
+    },
+    {
+      "offset": 95319,
+      "value": "C0tQ "
+    },
+    {
+      "offset": 95345,
+      "value": "qQ "
+    },
+    {
+      "offset": 96603,
+      "value": "BkB"
+    },
+    {
+      "offset": 97469,
+      "value": "wSR"
+    },
+    {
+      "offset": 259172,
+      "value": "ZappieWagon_Attack1_1"
+    },
+    {
+      "offset": 259200,
+      "value": "ZappieWagon_Die1_4"
+    },
+    {
+      "offset": 259224,
+      "value": "ZappieWagon_Idle1_9"
+    },
+    {
+      "offset": 259248,
+      "value": "ZappieWagon_Idle1_8"
+    },
+    {
+      "offset": 259272,
+      "value": "ZappieWagon_Idle1_1"
+    },
+    {
+      "offset": 259296,
+      "value": "ZappieWagon_Die1_3"
+    },
+    {
+      "offset": 259320,
+      "value": "ZappieWagon_Walk1_1"
+    },
+    {
+      "offset": 259344,
+      "value": "ZappieWagon_Die1_1"
+    },
+    {
+      "offset": 259368,
+      "value": "ZappieWagon_Die1_9"
+    },
+    {
+      "offset": 259392,
+      "value": "ZappieWagon_Idle1_6"
+    },
+    {
+      "offset": 259416,
+      "value": "ZappieWagon_Idle1_2"
+    },
+    {
+      "offset": 259440,
+      "value": "sparky_attack_projectile"
+    },
+    {
+      "offset": 259472,
+      "value": "ZappieWagon_Idle1_5"
+    },
+    {
+      "offset": 259496,
+      "value": "ZappieWagon_Die1_2"
+    },
+    {
+      "offset": 259520,
+      "value": "ZappieWagon_Walk1_5"
+    },
+    {
+      "offset": 259544,
+      "value": "ZappieWagon_Attack1_8"
+    },
+    {
+      "offset": 259572,
+      "value": "ZappieWagon_Attack1_2"
+    },
+    {
+      "offset": 259600,
+      "value": "ZappieWagon_Idle1_7"
+    },
+    {
+      "offset": 259624,
+      "value": "sparky_hit"
+    },
+    {
+      "offset": 259640,
+      "value": "ZappieWagon_Idle1_4"
+    },
+    {
+      "offset": 259664,
+      "value": "ZappieWagon_Walk1_2"
+    },
+    {
+      "offset": 259688,
+      "value": "ZappieWagon_Walk1_3"
+    },
+    {
+      "offset": 259712,
+      "value": "ZappieWagon_Idle1_3"
+    },
+    {
+      "offset": 259736,
+      "value": "ZappieWagon_Attack1_5"
+    },
+    {
+      "offset": 259764,
+      "value": "ZappieWagon_Walk1_4"
+    },
+    {
+      "offset": 259788,
+      "value": "ZappieWagon_Walk1_8"
+    },
+    {
+      "offset": 259812,
+      "value": "ZappieWagon_Walk1_9"
+    },
+    {
+      "offset": 259836,
+      "value": "ZappieWagon_Walk1_6"
+    },
+    {
+      "offset": 259860,
+      "value": "ZappieWagon_Die1_7"
+    },
+    {
+      "offset": 259884,
+      "value": "ZappieWagon_Walk1_7"
+    },
+    {
+      "offset": 259908,
+      "value": "ZappieWagon_Die1_5"
+    },
+    {
+      "offset": 259932,
+      "value": "ZappieWagon_Attack1_3"
+    },
+    {
+      "offset": 259960,
+      "value": "ZappieWagon_Die1_6"
+    },
+    {
+      "offset": 259984,
+      "value": "ZappieWagon_Die1_8"
+    },
+    {
+      "offset": 260008,
+      "value": "ZappieWagon_Attack1_4"
+    },
+    {
+      "offset": 260036,
+      "value": "ZappieWagon_Attack1_6"
+    },
+    {
+      "offset": 260064,
+      "value": "ZappieWagon_Attack1_7"
+    },
+    {
+      "offset": 260092,
+      "value": "ZappieWagon_Attack1_9"
+    },
+    {
+      "offset": 338512,
+      "value": "chr_zappy_wagon_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000004702000053000000010000001cf80300",
+  "decoded_preview_hex": "18f8030018000000000012001400040000000000000008000c00100012000000a0f30300c08b0100688b000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_super_dragon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_super_dragon.sc",
+  "sha256_container": "89a3b8d1e76c64f90dd51c4aae59e1bba37666043f3bb636183e2e451cd89f1c",
+  "sha256_descriptor": "043cea07a9570fa141c1cc49b130b41710e039cc0ca6bc94e45a12edd31c4a88",
+  "sha256_decoded_payload": "e1ec14da0bf0c8f5d7576011d55d862360a55ef6da17903f1476a66c95a77653",
+  "version": 6,
+  "descriptor_bytes": 244,
+  "compressed_frame_bytes": 77890,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 166108,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 368
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 165320
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 77892
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "unit_superdragon_big"
+    },
+    {
+      "offset": 220,
+      "value": "card_superdragon_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_superdragon_big",
+    "card_superdragon_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 276,
+      "value": "bounds"
+    },
+    {
+      "offset": 288,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 308,
+      "value": "unit_superdragon_big"
+    },
+    {
+      "offset": 336,
+      "value": "card_superdragon_big"
+    },
+    {
+      "offset": 5201,
+      "value": "CVD@"
+    },
+    {
+      "offset": 31930,
+      "value": "a _"
+    },
+    {
+      "offset": 36504,
+      "value": "RnV"
+    },
+    {
+      "offset": 42008,
+      "value": "yzc"
+    },
+    {
+      "offset": 73495,
+      "value": "RNJ\\"
+    },
+    {
+      "offset": 80364,
+      "value": "aBIA "
+    },
+    {
+      "offset": 86650,
+      "value": "M8_"
+    },
+    {
+      "offset": 103619,
+      "value": "GCP"
+    },
+    {
+      "offset": 104698,
+      "value": "P@o"
+    },
+    {
+      "offset": 104711,
+      "value": "Zvhjio"
+    },
+    {
+      "offset": 124061,
+      "value": "CI-"
+    },
+    {
+      "offset": 125617,
+      "value": "QgU"
+    },
+    {
+      "offset": 126136,
+      "value": "yM."
+    },
+    {
+      "offset": 127030,
+      "value": "hYp0"
+    },
+    {
+      "offset": 129368,
+      "value": "ZBL"
+    },
+    {
+      "offset": 130455,
+      "value": "T @"
+    },
+    {
+      "offset": 133616,
+      "value": "KtK"
+    },
+    {
+      "offset": 135070,
+      "value": "JUIVk"
+    },
+    {
+      "offset": 135530,
+      "value": "b2o"
+    },
+    {
+      "offset": 138869,
+      "value": "pBb"
+    },
+    {
+      "offset": 157916,
+      "value": "NGUE"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000ac94911b6afe47d4f7fa243e7b8af805822792a41c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "6c01000018000000000012001400040000000000000008000c00100012000000d8000000bc0000005400000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_football_barbarian.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_football_barbarian.sc",
+  "sha256_container": "5be0bd88d91e34328d761e00d1ddf14c6c6278bef0095789657459c8d8629393",
+  "sha256_descriptor": "56824837ccedd580ca75672301daf1cfc8647805cbb24ac46d23453266e6796a",
+  "sha256_decoded_payload": "253a13789c6ea2051ac6a1041e8c2811e6c03651fbff60be7de7c0259fbe8a7c",
+  "version": 6,
+  "descriptor_bytes": 228,
+  "compressed_frame_bytes": 91578,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 171376,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 404
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 170600
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 91584
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 124,
+      "value": "unit_football_barbarian_big"
+    },
+    {
+      "offset": 196,
+      "value": "unit_football_barbarian2026_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_football_barbarian_big",
+    "unit_football_barbarian2026_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 332,
+      "value": "unit_football_barbarian_big"
+    },
+    {
+      "offset": 364,
+      "value": "unit_football_barbarian2026_big"
+    },
+    {
+      "offset": 6905,
+      "value": "vR."
+    },
+    {
+      "offset": 6969,
+      "value": "i4dd"
+    },
+    {
+      "offset": 7011,
+      "value": "Scs"
+    },
+    {
+      "offset": 14161,
+      "value": "FCa"
+    },
+    {
+      "offset": 18528,
+      "value": "mh2T"
+    },
+    {
+      "offset": 30686,
+      "value": "j-_"
+    },
+    {
+      "offset": 36556,
+      "value": "e9X"
+    },
+    {
+      "offset": 37796,
+      "value": "cp2J"
+    },
+    {
+      "offset": 45254,
+      "value": "D0Y"
+    },
+    {
+      "offset": 47478,
+      "value": "ldr"
+    },
+    {
+      "offset": 54709,
+      "value": "d_:"
+    },
+    {
+      "offset": 54950,
+      "value": "ddt"
+    },
+    {
+      "offset": 61802,
+      "value": "n6b"
+    },
+    {
+      "offset": 70398,
+      "value": "tao"
+    },
+    {
+      "offset": 70412,
+      "value": "KJJ"
+    },
+    {
+      "offset": 73911,
+      "value": "E@p"
+    },
+    {
+      "offset": 74798,
+      "value": "m8o"
+    },
+    {
+      "offset": 75148,
+      "value": "MYZU_"
+    },
+    {
+      "offset": 75182,
+      "value": "hMo"
+    },
+    {
+      "offset": 77453,
+      "value": "R:Mo"
+    },
+    {
+      "offset": 82548,
+      "value": "HuV"
+    },
+    {
+      "offset": 83847,
+      "value": "EsQ"
+    },
+    {
+      "offset": 85110,
+      "value": "zFlr"
+    },
+    {
+      "offset": 96950,
+      "value": "V26"
+    },
+    {
+      "offset": 112026,
+      "value": "cdVcK"
+    },
+    {
+      "offset": 114386,
+      "value": "NSa"
+    },
+    {
+      "offset": 116281,
+      "value": "icJ"
+    },
+    {
+      "offset": 122649,
+      "value": "QH2"
+    },
+    {
+      "offset": 133208,
+      "value": "mz.@"
+    },
+    {
+      "offset": 140596,
+      "value": "FtF"
+    },
+    {
+      "offset": 141758,
+      "value": "tHo"
+    },
+    {
+      "offset": 144128,
+      "value": "oH0"
+    },
+    {
+      "offset": 150678,
+      "value": "S3-8"
+    },
+    {
+      "offset": 151351,
+      "value": "p@l"
+    },
+    {
+      "offset": 154717,
+      "value": "w-mo"
+    },
+    {
+      "offset": 162758,
+      "value": "um "
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c00000001000000010000000200000002000000010000000300000094010000",
+  "decoded_preview_hex": "9001000018000000000012001400040000000000000008000c0010001200000018010000040100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

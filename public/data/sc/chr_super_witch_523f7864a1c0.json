@@ -1,0 +1,324 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_super_witch.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_witch.sc",
+  "sha256_container": "523f7864a1c0d076a1d6bd304a745be0efc8daa9b9878ae7f2d491d6c217e596",
+  "sha256_descriptor": "8e2671090d913144517a5587223f1d19a83118e67e0bb8584ba7d5e2d20f8b7b",
+  "sha256_decoded_payload": "bb3f8f5034eab8432619a072e939053d09c276232e357de56d1ba80873f32484",
+  "version": 6,
+  "descriptor_bytes": 1652,
+  "compressed_frame_bytes": 10329,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 32280,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 110
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 24
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 22832
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 5092
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 10336
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 200,
+      "value": "super_necromancer_lvl1_summon_3"
+    },
+    {
+      "offset": 268,
+      "value": "super_necromancer_lvl1_summon_2"
+    },
+    {
+      "offset": 336,
+      "value": "super_necromancer_lvl1_summon_1"
+    },
+    {
+      "offset": 404,
+      "value": "super_necromancer_lvl1_run_3"
+    },
+    {
+      "offset": 472,
+      "value": "super_necromancer_lvl1_run_2"
+    },
+    {
+      "offset": 540,
+      "value": "super_necromancer_lvl1_run_1"
+    },
+    {
+      "offset": 608,
+      "value": "super_necromancer_lvl1_idle1_3"
+    },
+    {
+      "offset": 676,
+      "value": "super_necromancer_lvl1_idle1_2"
+    },
+    {
+      "offset": 744,
+      "value": "super_necromancer_lvl1_idle1_1"
+    },
+    {
+      "offset": 812,
+      "value": "super_necromancer_lvl1_attack1_3"
+    },
+    {
+      "offset": 884,
+      "value": "super_necromancer_lvl1_attack1_2"
+    },
+    {
+      "offset": 956,
+      "value": "super_necromancer_lvl1_attack1_1"
+    },
+    {
+      "offset": 1028,
+      "value": "big_skele_warrior1_spawn1_3"
+    },
+    {
+      "offset": 1092,
+      "value": "big_skele_warrior1_run1_3"
+    },
+    {
+      "offset": 1156,
+      "value": "big_skele_warrior1_run1_2"
+    },
+    {
+      "offset": 1220,
+      "value": "big_skele_warrior1_run1_1"
+    },
+    {
+      "offset": 1284,
+      "value": "big_skele_warrior1_idle1_3"
+    },
+    {
+      "offset": 1348,
+      "value": "big_skele_warrior1_idle1_2"
+    },
+    {
+      "offset": 1412,
+      "value": "big_skele_warrior1_idle1_1"
+    },
+    {
+      "offset": 1476,
+      "value": "big_skele_warrior1_attack1_3"
+    },
+    {
+      "offset": 1544,
+      "value": "big_skele_warrior1_attack1_2"
+    },
+    {
+      "offset": 1620,
+      "value": "big_skele_warrior1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "super_necromancer_lvl1_summon_3",
+    "super_necromancer_lvl1_summon_2",
+    "super_necromancer_lvl1_summon_1",
+    "super_necromancer_lvl1_run_3",
+    "super_necromancer_lvl1_run_2",
+    "super_necromancer_lvl1_run_1",
+    "super_necromancer_lvl1_idle1_3",
+    "super_necromancer_lvl1_idle1_2",
+    "super_necromancer_lvl1_idle1_1",
+    "super_necromancer_lvl1_attack1_3",
+    "super_necromancer_lvl1_attack1_2",
+    "super_necromancer_lvl1_attack1_1",
+    "big_skele_warrior1_spawn1_3",
+    "big_skele_warrior1_run1_3",
+    "big_skele_warrior1_run1_2",
+    "big_skele_warrior1_run1_1",
+    "big_skele_warrior1_idle1_3",
+    "big_skele_warrior1_idle1_2",
+    "big_skele_warrior1_idle1_1",
+    "big_skele_warrior1_attack1_3",
+    "big_skele_warrior1_attack1_2",
+    "big_skele_warrior1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 6603,
+      "value": "m33OA"
+    },
+    {
+      "offset": 7465,
+      "value": "NNw"
+    },
+    {
+      "offset": 8008,
+      "value": "ffjA"
+    },
+    {
+      "offset": 9311,
+      "value": "A-b"
+    },
+    {
+      "offset": 10396,
+      "value": "ffjA"
+    },
+    {
+      "offset": 10635,
+      "value": "SffIB"
+    },
+    {
+      "offset": 12644,
+      "value": "ffFA"
+    },
+    {
+      "offset": 12932,
+      "value": "ffFA"
+    },
+    {
+      "offset": 12956,
+      "value": "ffFA"
+    },
+    {
+      "offset": 13388,
+      "value": "ffFA"
+    },
+    {
+      "offset": 13410,
+      "value": "tAffFA"
+    },
+    {
+      "offset": 22052,
+      "value": "big_skele_warrior1_run1_2"
+    },
+    {
+      "offset": 22084,
+      "value": "big_skele_warrior1_attack1_2"
+    },
+    {
+      "offset": 22120,
+      "value": "super_necromancer_lvl1_summon_3"
+    },
+    {
+      "offset": 22156,
+      "value": "big_skele_warrior1_run1_1"
+    },
+    {
+      "offset": 22188,
+      "value": "super_necromancer_lvl1_run_3"
+    },
+    {
+      "offset": 22224,
+      "value": "big_skele_warrior1_idle1_3"
+    },
+    {
+      "offset": 22256,
+      "value": "big_skele_warrior1_idle1_2"
+    },
+    {
+      "offset": 22288,
+      "value": "super_necromancer_lvl1_idle1_3"
+    },
+    {
+      "offset": 22324,
+      "value": "big_skele_warrior1_idle1_1"
+    },
+    {
+      "offset": 22356,
+      "value": "big_skele_warrior1_attack1_1"
+    },
+    {
+      "offset": 22392,
+      "value": "super_necromancer_lvl1_idle1_2"
+    },
+    {
+      "offset": 22428,
+      "value": "super_necromancer_lvl1_attack1_1"
+    },
+    {
+      "offset": 22468,
+      "value": "big_skele_warrior1_attack1_3"
+    },
+    {
+      "offset": 22504,
+      "value": "super_necromancer_lvl1_attack1_2"
+    },
+    {
+      "offset": 22544,
+      "value": "big_skele_warrior1_run1_3"
+    },
+    {
+      "offset": 22576,
+      "value": "big_skele_warrior1_spawn1_3"
+    },
+    {
+      "offset": 22608,
+      "value": "super_necromancer_lvl1_attack1_3"
+    },
+    {
+      "offset": 22648,
+      "value": "super_necromancer_lvl1_run_2"
+    },
+    {
+      "offset": 22684,
+      "value": "super_necromancer_lvl1_idle1_1"
+    },
+    {
+      "offset": 22720,
+      "value": "super_necromancer_lvl1_run_1"
+    },
+    {
+      "offset": 22756,
+      "value": "super_necromancer_lvl1_summon_1"
+    },
+    {
+      "offset": 22792,
+      "value": "super_necromancer_lvl1_summon_2"
+    },
+    {
+      "offset": 32184,
+      "value": "chr_super_witch_1.sctx"
+    },
+    {
+      "offset": 32256,
+      "value": "chr_super_witch_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000006e000000180000000200000030590000e4130000",
+  "decoded_preview_hex": "2c59000018000000000012001400040000000000000008000c00100012000000a0550000083e0000f818000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_drop_ship.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_drop_ship.sc",
+  "sha256_container": "e00f09e6863c1de0c593f1edf8437d64dad1d49537bec596bd4c29ea692728a5",
+  "sha256_descriptor": "7fe67def09c987d665db45650df78d3978fafc056657353cd22e3b0b6a4add09",
+  "sha256_decoded_payload": "a5ff843c17f19fcd1b68f4c3e2a7654a094ded3e18929a13ad975a9b148361c2",
+  "version": 6,
+  "descriptor_bytes": 1068,
+  "compressed_frame_bytes": 4920,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 29136,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 40
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 20
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 20960
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 5708
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 4920
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 180,
+      "value": "tiny_balloon5_idle1"
+    },
+    {
+      "offset": 236,
+      "value": "tiny_balloon5_die1"
+    },
+    {
+      "offset": 292,
+      "value": "tiny_balloon5_attack1"
+    },
+    {
+      "offset": 352,
+      "value": "tiny_balloon4_idle1"
+    },
+    {
+      "offset": 408,
+      "value": "tiny_balloon4_die1"
+    },
+    {
+      "offset": 464,
+      "value": "tiny_balloon4_attack1"
+    },
+    {
+      "offset": 524,
+      "value": "tiny_balloon3_idle1"
+    },
+    {
+      "offset": 580,
+      "value": "tiny_balloon3_die1"
+    },
+    {
+      "offset": 636,
+      "value": "tiny_balloon3_attack1"
+    },
+    {
+      "offset": 696,
+      "value": "tiny_balloon2_idle1"
+    },
+    {
+      "offset": 752,
+      "value": "tiny_balloon2_die1"
+    },
+    {
+      "offset": 808,
+      "value": "tiny_balloon2_attack1"
+    },
+    {
+      "offset": 868,
+      "value": "tiny_balloon1_idle1"
+    },
+    {
+      "offset": 924,
+      "value": "tiny_balloon1_die1"
+    },
+    {
+      "offset": 980,
+      "value": "tiny_balloon1_attack1"
+    },
+    {
+      "offset": 1048,
+      "value": "barrel_bomb_drop"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "tiny_balloon5_idle1",
+    "tiny_balloon5_die1",
+    "tiny_balloon5_attack1",
+    "tiny_balloon4_idle1",
+    "tiny_balloon4_die1",
+    "tiny_balloon4_attack1",
+    "tiny_balloon3_idle1",
+    "tiny_balloon3_die1",
+    "tiny_balloon3_attack1",
+    "tiny_balloon2_idle1",
+    "tiny_balloon2_die1",
+    "tiny_balloon2_attack1",
+    "tiny_balloon1_idle1",
+    "tiny_balloon1_die1",
+    "tiny_balloon1_attack1",
+    "barrel_bomb_drop"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3571,
+      "value": "BffZB"
+    },
+    {
+      "offset": 3587,
+      "value": "BSc"
+    },
+    {
+      "offset": 4195,
+      "value": "BffZB"
+    },
+    {
+      "offset": 4211,
+      "value": "BSc"
+    },
+    {
+      "offset": 4723,
+      "value": "BffZB"
+    },
+    {
+      "offset": 4739,
+      "value": "BSc"
+    },
+    {
+      "offset": 5155,
+      "value": "BffZB"
+    },
+    {
+      "offset": 5171,
+      "value": "BSc"
+    },
+    {
+      "offset": 5515,
+      "value": "BffZB"
+    },
+    {
+      "offset": 5531,
+      "value": "BSc"
+    },
+    {
+      "offset": 5899,
+      "value": "BffZB"
+    },
+    {
+      "offset": 5915,
+      "value": "BSc"
+    },
+    {
+      "offset": 6259,
+      "value": "BffZB"
+    },
+    {
+      "offset": 6275,
+      "value": "BSc"
+    },
+    {
+      "offset": 8416,
+      "value": "ff2B"
+    },
+    {
+      "offset": 8440,
+      "value": "ff2B"
+    },
+    {
+      "offset": 8743,
+      "value": "BffZB"
+    },
+    {
+      "offset": 8759,
+      "value": "BSc"
+    },
+    {
+      "offset": 9007,
+      "value": "BffZB"
+    },
+    {
+      "offset": 9023,
+      "value": "BSc"
+    },
+    {
+      "offset": 9343,
+      "value": "BffZB"
+    },
+    {
+      "offset": 9359,
+      "value": "BSc"
+    },
+    {
+      "offset": 20532,
+      "value": "projectile_bomb"
+    },
+    {
+      "offset": 20552,
+      "value": "tiny_balloon2_die1"
+    },
+    {
+      "offset": 20576,
+      "value": "tiny_balloon1_idle1"
+    },
+    {
+      "offset": 20600,
+      "value": "tiny_balloon5_idle1"
+    },
+    {
+      "offset": 20624,
+      "value": "tiny_balloon5_attack1"
+    },
+    {
+      "offset": 20652,
+      "value": "tiny_balloon2_idle1"
+    },
+    {
+      "offset": 20676,
+      "value": "barrel_bomb_drop"
+    },
+    {
+      "offset": 20700,
+      "value": "tiny_balloon4_idle1"
+    },
+    {
+      "offset": 20724,
+      "value": "tiny_balloon1_attack1"
+    },
+    {
+      "offset": 20752,
+      "value": "tiny_balloon1_die1"
+    },
+    {
+      "offset": 20776,
+      "value": "tiny_balloon3_idle1"
+    },
+    {
+      "offset": 20800,
+      "value": "tiny_balloon3_attack1"
+    },
+    {
+      "offset": 20828,
+      "value": "tiny_balloon4_attack1"
+    },
+    {
+      "offset": 20856,
+      "value": "tiny_balloon2_attack1"
+    },
+    {
+      "offset": 20884,
+      "value": "tiny_balloon3_die1"
+    },
+    {
+      "offset": 20908,
+      "value": "tiny_balloon4_die1"
+    },
+    {
+      "offset": 20932,
+      "value": "tiny_balloon5_die1"
+    },
+    {
+      "offset": 29112,
+      "value": "chr_drop_ship_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000280000001400000001000000e0510000",
+  "decoded_preview_hex": "dc51000018000000000012001400040000000000000008000c00100012000000c44f0000fc250000880d000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

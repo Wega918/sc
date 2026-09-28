@@ -1,0 +1,207 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_moving_cannon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_moving_cannon.sc",
+  "sha256_container": "3dfaa56f4cfb1724d68ebceac39f8b9455d7f5482358f1077675e9b68c62071b",
+  "sha256_descriptor": "4b8e8ecaa756a3a3589c3ecdc42be75a14142acac087c33d14c279df5ea55443",
+  "sha256_decoded_payload": "9c8832a15ba587e97a99a01660ff74119a8467c1ec29464550cd706c9408408a",
+  "version": 6,
+  "descriptor_bytes": 312,
+  "compressed_frame_bytes": 68138,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 107028,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 576
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 105880
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 68140
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 156,
+      "value": "unit_movingCannon_big_02"
+    },
+    {
+      "offset": 220,
+      "value": "unit_movingCannon_big"
+    },
+    {
+      "offset": 288,
+      "value": "card_movingCannon_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_movingCannon_big_02",
+    "unit_movingCannon_big",
+    "card_movingCannon_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 452,
+      "value": "bounds"
+    },
+    {
+      "offset": 464,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 484,
+      "value": "unit_movingCannon_big"
+    },
+    {
+      "offset": 512,
+      "value": "card_movingCannon_big"
+    },
+    {
+      "offset": 540,
+      "value": "unit_movingCannon_big_02"
+    },
+    {
+      "offset": 5849,
+      "value": "rY:"
+    },
+    {
+      "offset": 19577,
+      "value": "fHN"
+    },
+    {
+      "offset": 21369,
+      "value": "fDH"
+    },
+    {
+      "offset": 25665,
+      "value": "Yuz_"
+    },
+    {
+      "offset": 26729,
+      "value": "d24"
+    },
+    {
+      "offset": 31242,
+      "value": "lRc"
+    },
+    {
+      "offset": 31430,
+      "value": "mzJX8B"
+    },
+    {
+      "offset": 32738,
+      "value": "ln_"
+    },
+    {
+      "offset": 40850,
+      "value": "Ii_"
+    },
+    {
+      "offset": 49921,
+      "value": "TPJo"
+    },
+    {
+      "offset": 68274,
+      "value": "dGO"
+    },
+    {
+      "offset": 68968,
+      "value": "dnDN"
+    },
+    {
+      "offset": 69170,
+      "value": "Bk_"
+    },
+    {
+      "offset": 69864,
+      "value": "dnDL"
+    },
+    {
+      "offset": 75506,
+      "value": "XuO"
+    },
+    {
+      "offset": 86710,
+      "value": "kxVhFZ"
+    },
+    {
+      "offset": 91602,
+      "value": "vso"
+    },
+    {
+      "offset": 92553,
+      "value": "R+J"
+    },
+    {
+      "offset": 94784,
+      "value": "uLE"
+    },
+    {
+      "offset": 100475,
+      "value": "kVJ"
+    },
+    {
+      "offset": 101322,
+      "value": "x:M"
+    },
+    {
+      "offset": 102271,
+      "value": "uYq0so"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000002f8344b283109f7901fb6632f29fd0a19643cbe11c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "3c02000018000000000012001400040000000000000008000c0010001200000084010000640100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

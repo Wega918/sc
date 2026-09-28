@@ -1,0 +1,667 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_football_barbarian.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_football_barbarian.sc",
+  "sha256_container": "fdffa19a25b443fabff20054b2be5d60c4c53e6f76b0d9dc4a2fb7c0132ef565",
+  "sha256_descriptor": "42901b006ce48386449a7a1422cd7f6dc4e512f870544614e3c3f96b2c0e1757",
+  "sha256_decoded_payload": "b2e2c33f8c78b0392a8c4584f313b72fd316bed5d3e36127f29719b12d796ded",
+  "version": 6,
+  "descriptor_bytes": 2916,
+  "compressed_frame_bytes": 40106,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 145260,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 824
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 47
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 94700
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 29704
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 40112
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 292,
+      "value": "fball_bk_windup1_3"
+    },
+    {
+      "offset": 348,
+      "value": "fball_bk_windup1_2"
+    },
+    {
+      "offset": 404,
+      "value": "fball_bk_windup1_1"
+    },
+    {
+      "offset": 460,
+      "value": "fball_bk_run_ball1_3"
+    },
+    {
+      "offset": 520,
+      "value": "fball_bk_run_ball1_2"
+    },
+    {
+      "offset": 580,
+      "value": "fball_bk_run_ball1_1"
+    },
+    {
+      "offset": 640,
+      "value": "fball_bk_run1_3"
+    },
+    {
+      "offset": 692,
+      "value": "fball_bk_run1_2"
+    },
+    {
+      "offset": 744,
+      "value": "fball_bk_run1_1"
+    },
+    {
+      "offset": 796,
+      "value": "fball_bk_idle_ball1_3"
+    },
+    {
+      "offset": 856,
+      "value": "fball_bk_idle_ball1_2"
+    },
+    {
+      "offset": 916,
+      "value": "fball_bk_idle_ball1_1"
+    },
+    {
+      "offset": 976,
+      "value": "fball_bk_idle1_3"
+    },
+    {
+      "offset": 1032,
+      "value": "fball_bk_idle1_2"
+    },
+    {
+      "offset": 1088,
+      "value": "fball_bk_idle1_1"
+    },
+    {
+      "offset": 1144,
+      "value": "fball_bk_cheer1_3"
+    },
+    {
+      "offset": 1200,
+      "value": "fball_bk_cheer1_2"
+    },
+    {
+      "offset": 1256,
+      "value": "fball_bk_cheer1_1"
+    },
+    {
+      "offset": 1312,
+      "value": "fball_bk_attack1_3"
+    },
+    {
+      "offset": 1368,
+      "value": "fball_bk_attack1_2"
+    },
+    {
+      "offset": 1424,
+      "value": "fball_bk_attack1_1"
+    },
+    {
+      "offset": 1480,
+      "value": "fball_bk2026_windup1_3"
+    },
+    {
+      "offset": 1540,
+      "value": "fball_bk2026_windup1_2"
+    },
+    {
+      "offset": 1600,
+      "value": "fball_bk2026_windup1_1"
+    },
+    {
+      "offset": 1660,
+      "value": "fball_bk2026_run_ball1_3"
+    },
+    {
+      "offset": 1724,
+      "value": "fball_bk2026_run_ball1_2"
+    },
+    {
+      "offset": 1788,
+      "value": "fball_bk2026_run_ball1_1"
+    },
+    {
+      "offset": 1852,
+      "value": "fball_bk2026_run1_3"
+    },
+    {
+      "offset": 1908,
+      "value": "fball_bk2026_run1_2"
+    },
+    {
+      "offset": 1964,
+      "value": "fball_bk2026_run1_1"
+    },
+    {
+      "offset": 2020,
+      "value": "fball_bk2026_idle_ball1_3"
+    },
+    {
+      "offset": 2084,
+      "value": "fball_bk2026_idle_ball1_2"
+    },
+    {
+      "offset": 2148,
+      "value": "fball_bk2026_idle_ball1_1"
+    },
+    {
+      "offset": 2212,
+      "value": "fball_bk2026_idle1_3"
+    },
+    {
+      "offset": 2272,
+      "value": "fball_bk2026_idle1_2"
+    },
+    {
+      "offset": 2332,
+      "value": "fball_bk2026_idle1_1"
+    },
+    {
+      "offset": 2392,
+      "value": "fball_bk2026_freekick1_3"
+    },
+    {
+      "offset": 2456,
+      "value": "fball_bk2026_freekick1_2"
+    },
+    {
+      "offset": 2520,
+      "value": "fball_bk2026_freekick1_1"
+    },
+    {
+      "offset": 2584,
+      "value": "fball_bk2026_cheer1_3"
+    },
+    {
+      "offset": 2644,
+      "value": "fball_bk2026_cheer1_2"
+    },
+    {
+      "offset": 2704,
+      "value": "fball_bk2026_cheer1_1"
+    },
+    {
+      "offset": 2764,
+      "value": "fball_bk2026_attack1_3"
+    },
+    {
+      "offset": 2824,
+      "value": "fball_bk2026_attack1_2"
+    },
+    {
+      "offset": 2892,
+      "value": "fball_bk2026_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "fball_bk_windup1_3",
+    "fball_bk_windup1_2",
+    "fball_bk_windup1_1",
+    "fball_bk_run_ball1_3",
+    "fball_bk_run_ball1_2",
+    "fball_bk_run_ball1_1",
+    "fball_bk_run1_3",
+    "fball_bk_run1_2",
+    "fball_bk_run1_1",
+    "fball_bk_idle_ball1_3",
+    "fball_bk_idle_ball1_2",
+    "fball_bk_idle_ball1_1",
+    "fball_bk_idle1_3",
+    "fball_bk_idle1_2",
+    "fball_bk_idle1_1",
+    "fball_bk_cheer1_3",
+    "fball_bk_cheer1_2",
+    "fball_bk_cheer1_1",
+    "fball_bk_attack1_3",
+    "fball_bk_attack1_2",
+    "fball_bk_attack1_1",
+    "fball_bk2026_windup1_3",
+    "fball_bk2026_windup1_2",
+    "fball_bk2026_windup1_1",
+    "fball_bk2026_run_ball1_3",
+    "fball_bk2026_run_ball1_2",
+    "fball_bk2026_run_ball1_1",
+    "fball_bk2026_run1_3",
+    "fball_bk2026_run1_2",
+    "fball_bk2026_run1_1",
+    "fball_bk2026_idle_ball1_3",
+    "fball_bk2026_idle_ball1_2",
+    "fball_bk2026_idle_ball1_1",
+    "fball_bk2026_idle1_3",
+    "fball_bk2026_idle1_2",
+    "fball_bk2026_idle1_1",
+    "fball_bk2026_freekick1_3",
+    "fball_bk2026_freekick1_2",
+    "fball_bk2026_freekick1_1",
+    "fball_bk2026_cheer1_3",
+    "fball_bk2026_cheer1_2",
+    "fball_bk2026_cheer1_1",
+    "fball_bk2026_attack1_3",
+    "fball_bk2026_attack1_2",
+    "fball_bk2026_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 446,
+      "value": "P@33c@"
+    },
+    {
+      "offset": 3252,
+      "value": "ff6@"
+    },
+    {
+      "offset": 6393,
+      "value": "d5T"
+    },
+    {
+      "offset": 6417,
+      "value": "iLZ"
+    },
+    {
+      "offset": 7523,
+      "value": "jffjA"
+    },
+    {
+      "offset": 7737,
+      "value": "AWM"
+    },
+    {
+      "offset": 9018,
+      "value": "l@8r+Z"
+    },
+    {
+      "offset": 9045,
+      "value": "pZX"
+    },
+    {
+      "offset": 9069,
+      "value": "pVT"
+    },
+    {
+      "offset": 9468,
+      "value": "ffFA"
+    },
+    {
+      "offset": 10737,
+      "value": "DXF"
+    },
+    {
+      "offset": 10833,
+      "value": "TB@"
+    },
+    {
+      "offset": 10928,
+      "value": "jVkH"
+    },
+    {
+      "offset": 12633,
+      "value": "Bti"
+    },
+    {
+      "offset": 12668,
+      "value": "Y4Nl"
+    },
+    {
+      "offset": 20831,
+      "value": "F33OA"
+    },
+    {
+      "offset": 20865,
+      "value": "fAG"
+    },
+    {
+      "offset": 21165,
+      "value": "YM3"
+    },
+    {
+      "offset": 30177,
+      "value": "Dwt"
+    },
+    {
+      "offset": 30189,
+      "value": "M_u"
+    },
+    {
+      "offset": 30647,
+      "value": "k33sA"
+    },
+    {
+      "offset": 30707,
+      "value": "i33sA"
+    },
+    {
+      "offset": 31556,
+      "value": "jUc "
+    },
+    {
+      "offset": 38758,
+      "value": "pS33kA"
+    },
+    {
+      "offset": 39227,
+      "value": "bffjA"
+    },
+    {
+      "offset": 39692,
+      "value": "eRhV"
+    },
+    {
+      "offset": 39836,
+      "value": "tiJC"
+    },
+    {
+      "offset": 40713,
+      "value": "h3g"
+    },
+    {
+      "offset": 40748,
+      "value": "ZXUk"
+    },
+    {
+      "offset": 40772,
+      "value": "ZXTg"
+    },
+    {
+      "offset": 41172,
+      "value": "ffFA"
+    },
+    {
+      "offset": 42381,
+      "value": "y51"
+    },
+    {
+      "offset": 46221,
+      "value": "c4L"
+    },
+    {
+      "offset": 46775,
+      "value": "z333A"
+    },
+    {
+      "offset": 51264,
+      "value": "ffFA"
+    },
+    {
+      "offset": 51405,
+      "value": "wMn"
+    },
+    {
+      "offset": 52725,
+      "value": "WKG"
+    },
+    {
+      "offset": 52749,
+      "value": "RKG"
+    },
+    {
+      "offset": 57417,
+      "value": "PWs"
+    },
+    {
+      "offset": 57441,
+      "value": "LWs"
+    },
+    {
+      "offset": 62219,
+      "value": "i33sA"
+    },
+    {
+      "offset": 62900,
+      "value": "Ekk "
+    },
+    {
+      "offset": 65168,
+      "value": "E+ei"
+    },
+    {
+      "offset": 65805,
+      "value": "khV"
+    },
+    {
+      "offset": 66020,
+      "value": "r7Xw"
+    },
+    {
+      "offset": 93484,
+      "value": "fball_bk2026_run_ball1_3"
+    },
+    {
+      "offset": 93516,
+      "value": "fball_bk2026_run1_1"
+    },
+    {
+      "offset": 93540,
+      "value": "fball_bk2026_run_ball1_2"
+    },
+    {
+      "offset": 93572,
+      "value": "fball_bk2026_windup1_2"
+    },
+    {
+      "offset": 93600,
+      "value": "fball_bk2026_freekick1_2"
+    },
+    {
+      "offset": 93632,
+      "value": "fball_bk_attack1_2"
+    },
+    {
+      "offset": 93656,
+      "value": "fball_bk2026_freekick1_3"
+    },
+    {
+      "offset": 93688,
+      "value": "fball_bk_run_ball1_2"
+    },
+    {
+      "offset": 93716,
+      "value": "fball_bk_idle1_3"
+    },
+    {
+      "offset": 93740,
+      "value": "fball_bk_idle_ball1_2"
+    },
+    {
+      "offset": 93768,
+      "value": "fball_bk_idle1_1"
+    },
+    {
+      "offset": 93792,
+      "value": "fball_bk_cheer1_2"
+    },
+    {
+      "offset": 93816,
+      "value": "fball_bk2026_run1_3"
+    },
+    {
+      "offset": 93840,
+      "value": "fball_bk_attack1_3"
+    },
+    {
+      "offset": 93864,
+      "value": "fball_bk_run_ball1_3"
+    },
+    {
+      "offset": 93892,
+      "value": "fball_bk_idle1_2"
+    },
+    {
+      "offset": 93916,
+      "value": "fball_bk_run1_2"
+    },
+    {
+      "offset": 93936,
+      "value": "fball_bk_run1_1"
+    },
+    {
+      "offset": 93956,
+      "value": "fball_bk_cheer1_3"
+    },
+    {
+      "offset": 93980,
+      "value": "fball_bk_idle_ball1_3"
+    },
+    {
+      "offset": 94008,
+      "value": "fball_bk_run1_3"
+    },
+    {
+      "offset": 94028,
+      "value": "fball_bk_windup1_2"
+    },
+    {
+      "offset": 94052,
+      "value": "fball_bk_windup1_1"
+    },
+    {
+      "offset": 94076,
+      "value": "fball_bk_idle_ball1_1"
+    },
+    {
+      "offset": 94104,
+      "value": "fball_bk2026_run1_2"
+    },
+    {
+      "offset": 94128,
+      "value": "fball_bk2026_freekick1_1"
+    },
+    {
+      "offset": 94160,
+      "value": "fball_bk2026_idle_ball1_1"
+    },
+    {
+      "offset": 94192,
+      "value": "fball_bk_run_ball1_1"
+    },
+    {
+      "offset": 94220,
+      "value": "fball_bk2026_cheer1_1"
+    },
+    {
+      "offset": 94248,
+      "value": "fball_bk_windup1_3"
+    },
+    {
+      "offset": 94272,
+      "value": "fball_bk2026_idle1_3"
+    },
+    {
+      "offset": 94300,
+      "value": "fball_bk2026_run_ball1_1"
+    },
+    {
+      "offset": 94332,
+      "value": "fball_bk_attack1_1"
+    },
+    {
+      "offset": 94356,
+      "value": "fball_bk_cheer1_1"
+    },
+    {
+      "offset": 94380,
+      "value": "fball_bk2026_windup1_1"
+    },
+    {
+      "offset": 94408,
+      "value": "fball_bk2026_windup1_3"
+    },
+    {
+      "offset": 94436,
+      "value": "fball_bk2026_idle_ball1_2"
+    },
+    {
+      "offset": 94468,
+      "value": "fball_bk2026_idle_ball1_3"
+    },
+    {
+      "offset": 94500,
+      "value": "fball_bk2026_cheer1_2"
+    },
+    {
+      "offset": 94528,
+      "value": "fball_bk2026_cheer1_3"
+    },
+    {
+      "offset": 94556,
+      "value": "fball_bk2026_idle1_1"
+    },
+    {
+      "offset": 94584,
+      "value": "fball_bk2026_idle1_2"
+    },
+    {
+      "offset": 94612,
+      "value": "fball_bk2026_attack1_1"
+    },
+    {
+      "offset": 94640,
+      "value": "fball_bk2026_attack1_2"
+    },
+    {
+      "offset": 94668,
+      "value": "fball_bk2026_attack1_3"
+    },
+    {
+      "offset": 145148,
+      "value": "chr_football_barbarian_1.sctx"
+    },
+    {
+      "offset": 145228,
+      "value": "chr_football_barbarian_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000380300002f00000002000000ec71010008740000",
+  "decoded_preview_hex": "e871010018000000000012001400040000000000000008000c001000120000004c6c01005c060100940f000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

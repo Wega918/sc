@@ -1,0 +1,2654 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "shop.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\shop.sc",
+  "sha256_container": "ff7b068a89237091ad9d8a4d05673c669c538ee5b82bd3e65d69ce5881b6f4dd",
+  "sha256_descriptor": "fba8e1c80bd0b1149eb55a2a0cfcfbeb047fd0cbb7ab8ae88d3d0c3d7e1590ab",
+  "sha256_decoded_payload": "0c5451d83112278473a79d500754140e855aec55d99cb482f7e5a4b004d10e37",
+  "version": 6,
+  "descriptor_bytes": 23328,
+  "compressed_frame_bytes": 3999809,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 6510532,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 425
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 600
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 264
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 598968
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 5662044
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 3999812
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 1560,
+      "value": "trader_item_info3"
+    },
+    {
+      "offset": 1616,
+      "value": "trader_item_info2"
+    },
+    {
+      "offset": 1672,
+      "value": "trader_item_info1"
+    },
+    {
+      "offset": 1728,
+      "value": "trader_item_image"
+    },
+    {
+      "offset": 1784,
+      "value": "trader_item3"
+    },
+    {
+      "offset": 1836,
+      "value": "trader_item2"
+    },
+    {
+      "offset": 1888,
+      "value": "trader_item1"
+    },
+    {
+      "offset": 1940,
+      "value": "super_troop_screen"
+    },
+    {
+      "offset": 1996,
+      "value": "super_troop_item"
+    },
+    {
+      "offset": 2052,
+      "value": "super_troop_info_block"
+    },
+    {
+      "offset": 2112,
+      "value": "special_offer_shop_item_spell"
+    },
+    {
+      "offset": 2180,
+      "value": "special_offer_shop_item_resource_big"
+    },
+    {
+      "offset": 2256,
+      "value": "special_offer_shop_item_resource"
+    },
+    {
+      "offset": 2328,
+      "value": "special_offer_shop_item_magic_item_big"
+    },
+    {
+      "offset": 2404,
+      "value": "special_offer_shop_item_magic_item"
+    },
+    {
+      "offset": 2476,
+      "value": "special_offer_shop_item_building_big"
+    },
+    {
+      "offset": 2552,
+      "value": "special_offer_shop_item_building"
+    },
+    {
+      "offset": 2624,
+      "value": "special_offer_shop_item_bg_big"
+    },
+    {
+      "offset": 2692,
+      "value": "special_offer_shop_item_bg"
+    },
+    {
+      "offset": 2756,
+      "value": "special_offer_shop_bigitem_heroskin"
+    },
+    {
+      "offset": 2828,
+      "value": "special_offer_shop_bigitem"
+    },
+    {
+      "offset": 2892,
+      "value": "special_offer_item_sour_elixir_1"
+    },
+    {
+      "offset": 2964,
+      "value": "special_offer_item_raid_medals_1"
+    },
+    {
+      "offset": 3036,
+      "value": "special_offer_item_halloween_event_tokens_1"
+    },
+    {
+      "offset": 3116,
+      "value": "special_offer_item_gold_1_v2"
+    },
+    {
+      "offset": 3184,
+      "value": "special_offer_item_gold_1"
+    },
+    {
+      "offset": 3248,
+      "value": "special_offer_item_gem_5"
+    },
+    {
+      "offset": 3312,
+      "value": "special_offer_item_gem_4"
+    },
+    {
+      "offset": 3376,
+      "value": "special_offer_item_gem_3"
+    },
+    {
+      "offset": 3440,
+      "value": "special_offer_item_gem_2"
+    },
+    {
+      "offset": 3504,
+      "value": "special_offer_item_gem_1"
+    },
+    {
+      "offset": 3568,
+      "value": "special_offer_item_gem_0"
+    },
+    {
+      "offset": 3632,
+      "value": "special_offer_item_gear_resource3"
+    },
+    {
+      "offset": 3704,
+      "value": "special_offer_item_gear_resource2"
+    },
+    {
+      "offset": 3776,
+      "value": "special_offer_item_gear_resource1"
+    },
+    {
+      "offset": 3848,
+      "value": "special_offer_item_elixir_1_v2"
+    },
+    {
+      "offset": 3916,
+      "value": "special_offer_item_elixir_1"
+    },
+    {
+      "offset": 3980,
+      "value": "special_offer_item_dark_1"
+    },
+    {
+      "offset": 4044,
+      "value": "special_offer_item_capital_gold_1"
+    },
+    {
+      "offset": 4116,
+      "value": "special_offer_gift"
+    },
+    {
+      "offset": 4172,
+      "value": "sparkle_rainbow_03"
+    },
+    {
+      "offset": 4228,
+      "value": "sparkle_rainbow_02"
+    },
+    {
+      "offset": 4284,
+      "value": "sparkle_rainbow_01"
+    },
+    {
+      "offset": 4340,
+      "value": "shop_village2"
+    },
+    {
+      "offset": 4392,
+      "value": "shop_top_bar_village2"
+    },
+    {
+      "offset": 4452,
+      "value": "shop_price_gold_icon"
+    },
+    {
+      "offset": 4512,
+      "value": "shop_price_elixir_icon"
+    },
+    {
+      "offset": 4572,
+      "value": "shop_price_diamond_icon"
+    },
+    {
+      "offset": 4632,
+      "value": "shop_price_dark_elixir_icon"
+    },
+    {
+      "offset": 4696,
+      "value": "shop_price_bonus_icon"
+    },
+    {
+      "offset": 4756,
+      "value": "shop_noBitDropping"
+    },
+    {
+      "offset": 4812,
+      "value": "shop_item_townhall_pack_3items"
+    },
+    {
+      "offset": 4880,
+      "value": "shop_item_townhall_pack_2items"
+    },
+    {
+      "offset": 4948,
+      "value": "shop_item_townhall_pack5"
+    },
+    {
+      "offset": 5012,
+      "value": "shop_item_townhall_pack4"
+    },
+    {
+      "offset": 5076,
+      "value": "shop_item_townhall_pack3"
+    },
+    {
+      "offset": 5140,
+      "value": "shop_item_townhall_pack2"
+    },
+    {
+      "offset": 5204,
+      "value": "shop_item_townhall_pack"
+    },
+    {
+      "offset": 5264,
+      "value": "shop_item_special_resource_pack2"
+    },
+    {
+      "offset": 5336,
+      "value": "shop_item_special_resource_pack"
+    },
+    {
+      "offset": 5404,
+      "value": "shop_item_special_pack_info"
+    },
+    {
+      "offset": 5468,
+      "value": "shop_item_special_offer_pack4"
+    },
+    {
+      "offset": 5536,
+      "value": "shop_item_special_offer_pack3"
+    },
+    {
+      "offset": 5604,
+      "value": "shop_item_special_offer_pack2"
+    },
+    {
+      "offset": 5672,
+      "value": "shop_item_special_offer_pack1"
+    },
+    {
+      "offset": 5740,
+      "value": "shop_item_shield_02"
+    },
+    {
+      "offset": 5796,
+      "value": "shop_item_shield"
+    },
+    {
+      "offset": 5852,
+      "value": "shop_item_resource_pack"
+    },
+    {
+      "offset": 5912,
+      "value": "shop_item_research_pack4"
+    },
+    {
+      "offset": 5976,
+      "value": "shop_item_research_pack3"
+    },
+    {
+      "offset": 6040,
+      "value": "shop_item_research_pack2"
+    },
+    {
+      "offset": 6104,
+      "value": "shop_item_research_pack1"
+    },
+    {
+      "offset": 6168,
+      "value": "shop_item_red_pack_info"
+    },
+    {
+      "offset": 6228,
+      "value": "shop_item_red_pack2"
+    },
+    {
+      "offset": 6284,
+      "value": "shop_item_red"
+    },
+    {
+      "offset": 6336,
+      "value": "shop_item_pack_info"
+    },
+    {
+      "offset": 6392,
+      "value": "shop_item_magic_item_pack5"
+    },
+    {
+      "offset": 6456,
+      "value": "shop_item_magic_item_pack4"
+    },
+    {
+      "offset": 6520,
+      "value": "shop_item_magic_item_pack3"
+    },
+    {
+      "offset": 6584,
+      "value": "shop_item_magic_item_pack2"
+    },
+    {
+      "offset": 6648,
+      "value": "shop_item_magic_item_pack1"
+    },
+    {
+      "offset": 6712,
+      "value": "shop_item_magic_item_pack"
+    },
+    {
+      "offset": 6776,
+      "value": "shop_item_info"
+    },
+    {
+      "offset": 6828,
+      "value": "shop_item_heroes_pack4"
+    },
+    {
+      "offset": 6888,
+      "value": "shop_item_heroes_pack3"
+    },
+    {
+      "offset": 6948,
+      "value": "shop_item_heroes_pack2"
+    },
+    {
+      "offset": 7008,
+      "value": "shop_item_heroes_pack1"
+    },
+    {
+      "offset": 7068,
+      "value": "shop_item_gift_pack_info"
+    },
+    {
+      "offset": 7132,
+      "value": "shop_item_generic_scenery"
+    },
+    {
+      "offset": 7196,
+      "value": "shop_item_diamond_pack_red"
+    },
+    {
+      "offset": 7260,
+      "value": "shop_item_diamond_pack_normal"
+    },
+    {
+      "offset": 7328,
+      "value": "shop_item_diamond_pack_medium"
+    },
+    {
+      "offset": 7396,
+      "value": "shop_item_diamond_pack_large"
+    },
+    {
+      "offset": 7464,
+      "value": "shop_item_deco_vfx_prestige_info"
+    },
+    {
+      "offset": 7536,
+      "value": "shop_item_deco_vfx_prestige"
+    },
+    {
+      "offset": 7600,
+      "value": "shop_item_cosmetics_tiers"
+    },
+    {
+      "offset": 7664,
+      "value": "shop_item_cosmetics_prestige"
+    },
+    {
+      "offset": 7732,
+      "value": "shop_item_builder_pack"
+    },
+    {
+      "offset": 7792,
+      "value": "shop_item_build_pack4"
+    },
+    {
+      "offset": 7852,
+      "value": "shop_item_build_pack3"
+    },
+    {
+      "offset": 7912,
+      "value": "shop_item_build_pack2"
+    },
+    {
+      "offset": 7972,
+      "value": "shop_item_build_pack1"
+    },
+    {
+      "offset": 8032,
+      "value": "shop_item_birthdayl_pack2"
+    },
+    {
+      "offset": 8096,
+      "value": "shop_item_birthday_pack"
+    },
+    {
+      "offset": 8156,
+      "value": "shop_item"
+    },
+    {
+      "offset": 8204,
+      "value": "shop_info_item_kr_village2"
+    },
+    {
+      "offset": 8268,
+      "value": "shop_info_item_kr"
+    },
+    {
+      "offset": 8324,
+      "value": "shop_indicator_right"
+    },
+    {
+      "offset": 8384,
+      "value": "shop_indicator_left"
+    },
+    {
+      "offset": 8440,
+      "value": "shop_image_scid_card"
+    },
+    {
+      "offset": 8500,
+      "value": "shop_divider"
+    },
+    {
+      "offset": 8552,
+      "value": "shop_category"
+    },
+    {
+      "offset": 8604,
+      "value": "shop_bottom_bar_village2"
+    },
+    {
+      "offset": 8668,
+      "value": "shop_bottom_bar_kr_village2"
+    },
+    {
+      "offset": 8732,
+      "value": "shop_bottom_bar_kr"
+    },
+    {
+      "offset": 8788,
+      "value": "shop_bottom_bar_dark_elixir_kr"
+    },
+    {
+      "offset": 8856,
+      "value": "shop2_scid_content"
+    },
+    {
+      "offset": 8912,
+      "value": "shop2_item_merge_back"
+    },
+    {
+      "offset": 8972,
+      "value": "shop2_item_merge"
+    },
+    {
+      "offset": 9028,
+      "value": "shop2_item_info"
+    },
+    {
+      "offset": 9080,
+      "value": "shop2_item"
+    },
+    {
+      "offset": 9128,
+      "value": "shop2_icon_shield"
+    },
+    {
+      "offset": 9184,
+      "value": "shop2_icon_scid"
+    },
+    {
+      "offset": 9236,
+      "value": "shop2_icon_sapphire"
+    },
+    {
+      "offset": 9292,
+      "value": "shop2_icon_resources_home"
+    },
+    {
+      "offset": 9356,
+      "value": "shop2_icon_resources_bb"
+    },
+    {
+      "offset": 9416,
+      "value": "shop2_icon_prize_shop"
+    },
+    {
+      "offset": 9476,
+      "value": "shop2_icon_offers_bb"
+    },
+    {
+      "offset": 9536,
+      "value": "shop2_icon_offers"
+    },
+    {
+      "offset": 9592,
+      "value": "shop2_icon_decos"
+    },
+    {
+      "offset": 9648,
+      "value": "shop2_icon_cosmetics"
+    },
+    {
+      "offset": 9708,
+      "value": "shop2_icon_build"
+    },
+    {
+      "offset": 9764,
+      "value": "shop2_currency_container_all"
+    },
+    {
+      "offset": 9832,
+      "value": "shop2_bottom_bar"
+    },
+    {
+      "offset": 9888,
+      "value": "shop2_bg_img"
+    },
+    {
+      "offset": 9940,
+      "value": "shop2"
+    },
+    {
+      "offset": 9984,
+      "value": "shop"
+    },
+    {
+      "offset": 10028,
+      "value": "shield_standard_angle"
+    },
+    {
+      "offset": 10088,
+      "value": "shield_legend_angle"
+    },
+    {
+      "offset": 10144,
+      "value": "prestige_shop_deco_vfx_grass_bg"
+    },
+    {
+      "offset": 10212,
+      "value": "presentOpen_sparkle"
+    },
+    {
+      "offset": 10268,
+      "value": "phone_shop_item_townhall_pack_3items"
+    },
+    {
+      "offset": 10344,
+      "value": "phone_shop_item_townhall_pack_2items"
+    },
+    {
+      "offset": 10420,
+      "value": "phone_shop_item_townhall_pack5"
+    },
+    {
+      "offset": 10488,
+      "value": "phone_shop_item_townhall_pack4"
+    },
+    {
+      "offset": 10556,
+      "value": "phone_shop_item_townhall_pack3"
+    },
+    {
+      "offset": 10624,
+      "value": "phone_shop_item_townhall_pack2"
+    },
+    {
+      "offset": 10692,
+      "value": "phone_shop_item_townhall_pack"
+    },
+    {
+      "offset": 10760,
+      "value": "phone_shop_item_special_offer_pack4"
+    },
+    {
+      "offset": 10832,
+      "value": "phone_shop_item_special_offer_pack3"
+    },
+    {
+      "offset": 10904,
+      "value": "phone_shop_item_special_offer_pack2"
+    },
+    {
+      "offset": 10976,
+      "value": "phone_shop_item_special_offer_pack1"
+    },
+    {
+      "offset": 11048,
+      "value": "phone_shop_item_research_pack4"
+    },
+    {
+      "offset": 11116,
+      "value": "phone_shop_item_research_pack3"
+    },
+    {
+      "offset": 11184,
+      "value": "phone_shop_item_research_pack2"
+    },
+    {
+      "offset": 11252,
+      "value": "phone_shop_item_research_pack1"
+    },
+    {
+      "offset": 11320,
+      "value": "phone_shop_item_magic_item_pack5"
+    },
+    {
+      "offset": 11392,
+      "value": "phone_shop_item_magic_item_pack4"
+    },
+    {
+      "offset": 11464,
+      "value": "phone_shop_item_magic_item_pack3"
+    },
+    {
+      "offset": 11536,
+      "value": "phone_shop_item_magic_item_pack2"
+    },
+    {
+      "offset": 11608,
+      "value": "phone_shop_item_magic_item_pack1"
+    },
+    {
+      "offset": 11680,
+      "value": "phone_shop_item_magic_item_pack"
+    },
+    {
+      "offset": 11748,
+      "value": "phone_shop_item_heroes_pack4"
+    },
+    {
+      "offset": 11816,
+      "value": "phone_shop_item_heroes_pack3"
+    },
+    {
+      "offset": 11884,
+      "value": "phone_shop_item_heroes_pack2"
+    },
+    {
+      "offset": 11952,
+      "value": "phone_shop_item_heroes_pack1"
+    },
+    {
+      "offset": 12020,
+      "value": "phone_shop_item_gift_pack_info"
+    },
+    {
+      "offset": 12088,
+      "value": "phone_shop_item_gift_pack"
+    },
+    {
+      "offset": 12152,
+      "value": "phone_shop_item_build_pack4"
+    },
+    {
+      "offset": 12216,
+      "value": "phone_shop_item_build_pack3"
+    },
+    {
+      "offset": 12280,
+      "value": "phone_shop_item_build_pack2"
+    },
+    {
+      "offset": 12344,
+      "value": "phone_shop_item_build_pack1"
+    },
+    {
+      "offset": 12408,
+      "value": "phone_shop_item_birthday_pack2"
+    },
+    {
+      "offset": 12476,
+      "value": "phone_shop_item_birthday_pack"
+    },
+    {
+      "offset": 12544,
+      "value": "offer_puzzle_image_3"
+    },
+    {
+      "offset": 12604,
+      "value": "offer_puzzle_image_2"
+    },
+    {
+      "offset": 12664,
+      "value": "offer_puzzle_image_1"
+    },
+    {
+      "offset": 12724,
+      "value": "offer_item_small_info"
+    },
+    {
+      "offset": 12784,
+      "value": "offer_item_small"
+    },
+    {
+      "offset": 12840,
+      "value": "offer_item_battlepass_info"
+    },
+    {
+      "offset": 12904,
+      "value": "offer_item_battlepass"
+    },
+    {
+      "offset": 12964,
+      "value": "offer_item"
+    },
+    {
+      "offset": 13012,
+      "value": "offer_info"
+    },
+    {
+      "offset": 13060,
+      "value": "offer_bg_xmas_pack_old"
+    },
+    {
+      "offset": 13120,
+      "value": "offer_bg_xmas_pack_chinese"
+    },
+    {
+      "offset": 13184,
+      "value": "offer_bg_xmas_pack"
+    },
+    {
+      "offset": 13240,
+      "value": "offer_bg_winter_pack"
+    },
+    {
+      "offset": 13300,
+      "value": "offer_bg_training_pack"
+    },
+    {
+      "offset": 13360,
+      "value": "offer_bg_townhall_pack"
+    },
+    {
+      "offset": 13420,
+      "value": "offer_bg_th17_5items_bg"
+    },
+    {
+      "offset": 13480,
+      "value": "offer_bg_th17_4items_bg"
+    },
+    {
+      "offset": 13540,
+      "value": "offer_bg_th15_5items_bg"
+    },
+    {
+      "offset": 13600,
+      "value": "offer_bg_th15_2items_bg"
+    },
+    {
+      "offset": 13660,
+      "value": "offer_bg_resources_pack"
+    },
+    {
+      "offset": 13720,
+      "value": "offer_bg_minionprince_5items_bg"
+    },
+    {
+      "offset": 13788,
+      "value": "offer_bg_minionprince_4items_bg"
+    },
+    {
+      "offset": 13856,
+      "value": "offer_bg_magic_items_pack"
+    },
+    {
+      "offset": 13920,
+      "value": "offer_bg_heroes_pack"
+    },
+    {
+      "offset": 13980,
+      "value": "offer_bg_halloween_pack"
+    },
+    {
+      "offset": 14040,
+      "value": "offer_bg_gift_pack_xmas"
+    },
+    {
+      "offset": 14100,
+      "value": "offer_bg_football_pack"
+    },
+    {
+      "offset": 14160,
+      "value": "offer_bg_defense_pack"
+    },
+    {
+      "offset": 14220,
+      "value": "offer_bg_cny_pack"
+    },
+    {
+      "offset": 14276,
+      "value": "offer_bg_builder_pack"
+    },
+    {
+      "offset": 14336,
+      "value": "offer_bg_birthday_pack"
+    },
+    {
+      "offset": 14396,
+      "value": "offer_bg_bb_5items_bg"
+    },
+    {
+      "offset": 14456,
+      "value": "offer_bg_bb_2items_bg"
+    },
+    {
+      "offset": 14516,
+      "value": "offer_bg_7items_xmas"
+    },
+    {
+      "offset": 14576,
+      "value": "offer_bg_7items_goldmine"
+    },
+    {
+      "offset": 14640,
+      "value": "offer_bg_7items_deco"
+    },
+    {
+      "offset": 14700,
+      "value": "offer_bg_7items_clancastle"
+    },
+    {
+      "offset": 14764,
+      "value": "offer_bg_5items_magic_item"
+    },
+    {
+      "offset": 14828,
+      "value": "offer_bg_5items_hero"
+    },
+    {
+      "offset": 14888,
+      "value": "offer_bg_5items_gift"
+    },
+    {
+      "offset": 14948,
+      "value": "offer_bg_5items_cny_gold"
+    },
+    {
+      "offset": 15012,
+      "value": "offer2_theme_image"
+    },
+    {
+      "offset": 15068,
+      "value": "offer2_item"
+    },
+    {
+      "offset": 15116,
+      "value": "offer2_info"
+    },
+    {
+      "offset": 15164,
+      "value": "number_of_entrys_new_shop"
+    },
+    {
+      "offset": 15228,
+      "value": "number_of_entrys"
+    },
+    {
+      "offset": 15284,
+      "value": "new_item_bg"
+    },
+    {
+      "offset": 15332,
+      "value": "layouts_window_village2"
+    },
+    {
+      "offset": 15392,
+      "value": "layouts_window_02"
+    },
+    {
+      "offset": 15448,
+      "value": "layouts_window"
+    },
+    {
+      "offset": 15500,
+      "value": "layout_window_village2_02"
+    },
+    {
+      "offset": 15564,
+      "value": "iphonex_layouts_window_village2"
+    },
+    {
+      "offset": 15632,
+      "value": "iphonex_layouts_window"
+    },
+    {
+      "offset": 15692,
+      "value": "iphone_shop_village2"
+    },
+    {
+      "offset": 15752,
+      "value": "iphone_shop_top_bar_village2"
+    },
+    {
+      "offset": 15820,
+      "value": "iphone_shop_item_special_pack_info"
+    },
+    {
+      "offset": 15892,
+      "value": "iphone_shop_item_shield_02"
+    },
+    {
+      "offset": 15956,
+      "value": "iphone_shop_item_shield"
+    },
+    {
+      "offset": 16016,
+      "value": "iphone_shop_item_resource_pack"
+    },
+    {
+      "offset": 16084,
+      "value": "iphone_shop_item_red_pack_info"
+    },
+    {
+      "offset": 16152,
+      "value": "iphone_shop_item_red_pack2"
+    },
+    {
+      "offset": 16216,
+      "value": "iphone_shop_item_pack_info"
+    },
+    {
+      "offset": 16280,
+      "value": "iphone_shop_item_info"
+    },
+    {
+      "offset": 16340,
+      "value": "iphone_shop_item_diamond_pack_red"
+    },
+    {
+      "offset": 16412,
+      "value": "iphone_shop_item_diamond_pack_normal"
+    },
+    {
+      "offset": 16488,
+      "value": "iphone_shop_item_diamond_pack_medium"
+    },
+    {
+      "offset": 16564,
+      "value": "iphone_shop_item_diamond_pack_large"
+    },
+    {
+      "offset": 16636,
+      "value": "iphone_shop_item_builder_pack"
+    },
+    {
+      "offset": 16704,
+      "value": "iphone_shop_info_item_kr_village2"
+    },
+    {
+      "offset": 16776,
+      "value": "iphone_shop_info_item_kr"
+    },
+    {
+      "offset": 16840,
+      "value": "iphone_shop_bottom_bar_village2"
+    },
+    {
+      "offset": 16908,
+      "value": "iphone_shop_bottom_bar_kr_village2"
+    },
+    {
+      "offset": 16980,
+      "value": "iphone_shop_bottom_bar_kr"
+    },
+    {
+      "offset": 17044,
+      "value": "iphone_shop_bottom_bar"
+    },
+    {
+      "offset": 17104,
+      "value": "iphone_shop2"
+    },
+    {
+      "offset": 17156,
+      "value": "iphone_shop"
+    },
+    {
+      "offset": 17204,
+      "value": "iphone_phone_shop_item_gift_pack_info"
+    },
+    {
+      "offset": 17280,
+      "value": "iphone_phone_shop_item_gift_pack"
+    },
+    {
+      "offset": 17352,
+      "value": "iphone_offer_item_small_info"
+    },
+    {
+      "offset": 17420,
+      "value": "iphone_offer_item_small"
+    },
+    {
+      "offset": 17480,
+      "value": "iphone_layouts_window_village2"
+    },
+    {
+      "offset": 17548,
+      "value": "iphone_layouts_window"
+    },
+    {
+      "offset": 17608,
+      "value": "iphone_icon_gem_tiny_noscale"
+    },
+    {
+      "offset": 17676,
+      "value": "iphone_icon_gem_tiny"
+    },
+    {
+      "offset": 17736,
+      "value": "iphone_icon_gem_small_noscale"
+    },
+    {
+      "offset": 17804,
+      "value": "iphone_icon_gem_small"
+    },
+    {
+      "offset": 17864,
+      "value": "iphone_icon_gem_red_noscale"
+    },
+    {
+      "offset": 17928,
+      "value": "iphone_icon_gem_red"
+    },
+    {
+      "offset": 17984,
+      "value": "iphone_icon_gem_normal_noscale"
+    },
+    {
+      "offset": 18052,
+      "value": "iphone_icon_gem_normal"
+    },
+    {
+      "offset": 18112,
+      "value": "iphone_icon_gem_medium_noscale"
+    },
+    {
+      "offset": 18180,
+      "value": "iphone_icon_gem_medium"
+    },
+    {
+      "offset": 18240,
+      "value": "iphone_icon_gem_large_noscale"
+    },
+    {
+      "offset": 18308,
+      "value": "iphone_icon_gem_large"
+    },
+    {
+      "offset": 18368,
+      "value": "iphone_icon_gem_huge_noscale"
+    },
+    {
+      "offset": 18436,
+      "value": "iphone_icon_gem_huge"
+    },
+    {
+      "offset": 18496,
+      "value": "iphone5_shop_village2"
+    },
+    {
+      "offset": 18556,
+      "value": "iphone5_shop_item_red"
+    },
+    {
+      "offset": 18616,
+      "value": "iphone5_shop_bottom_bar_kr_village2"
+    },
+    {
+      "offset": 18688,
+      "value": "iphone5_shop_bottom_bar_kr"
+    },
+    {
+      "offset": 18752,
+      "value": "iphone5_shop_bottom_bar_dark_elixir_kr"
+    },
+    {
+      "offset": 18828,
+      "value": "iphone5_shop_bottom_bar"
+    },
+    {
+      "offset": 18888,
+      "value": "iphone5_shop2"
+    },
+    {
+      "offset": 18940,
+      "value": "iphone5_shop"
+    },
+    {
+      "offset": 18992,
+      "value": "iphone5_offer_item_small_info"
+    },
+    {
+      "offset": 19060,
+      "value": "iphone5_offer_item_small"
+    },
+    {
+      "offset": 19124,
+      "value": "iphone5_layouts_window_village2"
+    },
+    {
+      "offset": 19192,
+      "value": "iphone5_layouts_window"
+    },
+    {
+      "offset": 19252,
+      "value": "icon_treasure"
+    },
+    {
+      "offset": 19304,
+      "value": "icon_starry_ore"
+    },
+    {
+      "offset": 19356,
+      "value": "icon_shiny_ore"
+    },
+    {
+      "offset": 19408,
+      "value": "icon_shield_4"
+    },
+    {
+      "offset": 19460,
+      "value": "icon_shield_3"
+    },
+    {
+      "offset": 19512,
+      "value": "icon_shield_2"
+    },
+    {
+      "offset": 19564,
+      "value": "icon_shield_1"
+    },
+    {
+      "offset": 19616,
+      "value": "icon_shield"
+    },
+    {
+      "offset": 19664,
+      "value": "icon_resource_buildings"
+    },
+    {
+      "offset": 19724,
+      "value": "icon_halloween_event_token"
+    },
+    {
+      "offset": 19788,
+      "value": "icon_gold_small_square_noscale"
+    },
+    {
+      "offset": 19856,
+      "value": "icon_gold_small_square"
+    },
+    {
+      "offset": 19916,
+      "value": "icon_gold_small_noscale"
+    },
+    {
+      "offset": 19976,
+      "value": "icon_gold_small"
+    },
+    {
+      "offset": 20028,
+      "value": "icon_gold_medium_square_noscale"
+    },
+    {
+      "offset": 20096,
+      "value": "icon_gold_medium_square"
+    },
+    {
+      "offset": 20156,
+      "value": "icon_gold_medium_noscale"
+    },
+    {
+      "offset": 20220,
+      "value": "icon_gold_medium"
+    },
+    {
+      "offset": 20276,
+      "value": "icon_gold_big_square_noscale"
+    },
+    {
+      "offset": 20344,
+      "value": "icon_gold_big_square"
+    },
+    {
+      "offset": 20404,
+      "value": "icon_gold_big_noscale"
+    },
+    {
+      "offset": 20464,
+      "value": "icon_gold_big"
+    },
+    {
+      "offset": 20516,
+      "value": "icon_gold2"
+    },
+    {
+      "offset": 20564,
+      "value": "icon_glowy_ore"
+    },
+    {
+      "offset": 20616,
+      "value": "icon_giftcard"
+    },
+    {
+      "offset": 20668,
+      "value": "icon_gem_tiny_noscale"
+    },
+    {
+      "offset": 20728,
+      "value": "icon_gem_tiny"
+    },
+    {
+      "offset": 20780,
+      "value": "icon_gem_small_noscale"
+    },
+    {
+      "offset": 20840,
+      "value": "icon_gem_small"
+    },
+    {
+      "offset": 20892,
+      "value": "icon_gem_red_noscale"
+    },
+    {
+      "offset": 20952,
+      "value": "icon_gem_red"
+    },
+    {
+      "offset": 21004,
+      "value": "icon_gem_normal_noscale"
+    },
+    {
+      "offset": 21064,
+      "value": "icon_gem_normal"
+    },
+    {
+      "offset": 21116,
+      "value": "icon_gem_medium_noscale"
+    },
+    {
+      "offset": 21176,
+      "value": "icon_gem_medium"
+    },
+    {
+      "offset": 21228,
+      "value": "icon_gem_large_noscale"
+    },
+    {
+      "offset": 21288,
+      "value": "icon_gem_large"
+    },
+    {
+      "offset": 21340,
+      "value": "icon_gem_huge_noscale"
+    },
+    {
+      "offset": 21400,
+      "value": "icon_gem_huge"
+    },
+    {
+      "offset": 21452,
+      "value": "icon_elixir_small_v2_noscale"
+    },
+    {
+      "offset": 21520,
+      "value": "icon_elixir_small_v2"
+    },
+    {
+      "offset": 21580,
+      "value": "icon_elixir_small_noscale"
+    },
+    {
+      "offset": 21644,
+      "value": "icon_elixir_small"
+    },
+    {
+      "offset": 21700,
+      "value": "icon_elixir_medium_v2_noscale"
+    },
+    {
+      "offset": 21768,
+      "value": "icon_elixir_medium_v2"
+    },
+    {
+      "offset": 21828,
+      "value": "icon_elixir_medium_noscale"
+    },
+    {
+      "offset": 21892,
+      "value": "icon_elixir_medium"
+    },
+    {
+      "offset": 21948,
+      "value": "icon_elixir_big_v2"
+    },
+    {
+      "offset": 22004,
+      "value": "icon_elixir_big_noscale"
+    },
+    {
+      "offset": 22064,
+      "value": "icon_elixir_big"
+    },
+    {
+      "offset": 22116,
+      "value": "icon_elixir2"
+    },
+    {
+      "offset": 22168,
+      "value": "icon_defense_buildings"
+    },
+    {
+      "offset": 22228,
+      "value": "icon_decos"
+    },
+    {
+      "offset": 22276,
+      "value": "icon_dark_elixir_small_noscale"
+    },
+    {
+      "offset": 22344,
+      "value": "icon_dark_elixir_small"
+    },
+    {
+      "offset": 22404,
+      "value": "icon_dark_elixir_medium"
+    },
+    {
+      "offset": 22464,
+      "value": "icon_dark_elixir_big_noscale"
+    },
+    {
+      "offset": 22532,
+      "value": "icon_dark_elixir_big"
+    },
+    {
+      "offset": 22592,
+      "value": "icon_dark_elixir1_noscale"
+    },
+    {
+      "offset": 22656,
+      "value": "icon_dark_elixir1"
+    },
+    {
+      "offset": 22712,
+      "value": "icon_clock_booster"
+    },
+    {
+      "offset": 22768,
+      "value": "icon_clock"
+    },
+    {
+      "offset": 22816,
+      "value": "icon_capital_gold_noscale"
+    },
+    {
+      "offset": 22880,
+      "value": "icon_army_buildings"
+    },
+    {
+      "offset": 22936,
+      "value": "fireball3b_purple"
+    },
+    {
+      "offset": 22992,
+      "value": "confetti4"
+    },
+    {
+      "offset": 23040,
+      "value": "confetti3"
+    },
+    {
+      "offset": 23088,
+      "value": "confetti2"
+    },
+    {
+      "offset": 23136,
+      "value": "confetti1"
+    },
+    {
+      "offset": 23184,
+      "value": "claim_reward_popup"
+    },
+    {
+      "offset": 23240,
+      "value": "background_images"
+    },
+    {
+      "offset": 23304,
+      "value": "background_container"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "trader_item_info3",
+    "trader_item_info2",
+    "trader_item_info1",
+    "trader_item_image",
+    "trader_item3",
+    "trader_item2",
+    "trader_item1",
+    "super_troop_screen",
+    "super_troop_item",
+    "super_troop_info_block",
+    "special_offer_shop_item_spell",
+    "special_offer_shop_item_resource_big",
+    "special_offer_shop_item_resource",
+    "special_offer_shop_item_magic_item_big",
+    "special_offer_shop_item_magic_item",
+    "special_offer_shop_item_building_big",
+    "special_offer_shop_item_building",
+    "special_offer_shop_item_bg_big",
+    "special_offer_shop_item_bg",
+    "special_offer_shop_bigitem_heroskin",
+    "special_offer_shop_bigitem",
+    "special_offer_item_sour_elixir_1",
+    "special_offer_item_raid_medals_1",
+    "special_offer_item_halloween_event_tokens_1",
+    "special_offer_item_gold_1_v2",
+    "special_offer_item_gold_1",
+    "special_offer_item_gem_5",
+    "special_offer_item_gem_4",
+    "special_offer_item_gem_3",
+    "special_offer_item_gem_2",
+    "special_offer_item_gem_1",
+    "special_offer_item_gem_0",
+    "special_offer_item_gear_resource3",
+    "special_offer_item_gear_resource2",
+    "special_offer_item_gear_resource1",
+    "special_offer_item_elixir_1_v2",
+    "special_offer_item_elixir_1",
+    "special_offer_item_dark_1",
+    "special_offer_item_capital_gold_1",
+    "special_offer_gift",
+    "sparkle_rainbow_03",
+    "sparkle_rainbow_02",
+    "sparkle_rainbow_01",
+    "shop_village2",
+    "shop_top_bar_village2",
+    "shop_price_gold_icon",
+    "shop_price_elixir_icon",
+    "shop_price_diamond_icon",
+    "shop_price_dark_elixir_icon",
+    "shop_price_bonus_icon",
+    "shop_noBitDropping",
+    "shop_item_townhall_pack_3items",
+    "shop_item_townhall_pack_2items",
+    "shop_item_townhall_pack5",
+    "shop_item_townhall_pack4",
+    "shop_item_townhall_pack3",
+    "shop_item_townhall_pack2",
+    "shop_item_townhall_pack",
+    "shop_item_special_resource_pack2",
+    "shop_item_special_resource_pack",
+    "shop_item_special_pack_info",
+    "shop_item_special_offer_pack4",
+    "shop_item_special_offer_pack3",
+    "shop_item_special_offer_pack2",
+    "shop_item_special_offer_pack1",
+    "shop_item_shield_02",
+    "shop_item_shield",
+    "shop_item_resource_pack",
+    "shop_item_research_pack4",
+    "shop_item_research_pack3",
+    "shop_item_research_pack2",
+    "shop_item_research_pack1",
+    "shop_item_red_pack_info",
+    "shop_item_red_pack2",
+    "shop_item_red",
+    "shop_item_pack_info",
+    "shop_item_magic_item_pack5",
+    "shop_item_magic_item_pack4",
+    "shop_item_magic_item_pack3",
+    "shop_item_magic_item_pack2",
+    "shop_item_magic_item_pack1",
+    "shop_item_magic_item_pack",
+    "shop_item_info",
+    "shop_item_heroes_pack4",
+    "shop_item_heroes_pack3",
+    "shop_item_heroes_pack2",
+    "shop_item_heroes_pack1",
+    "shop_item_gift_pack_info",
+    "shop_item_generic_scenery",
+    "shop_item_diamond_pack_red",
+    "shop_item_diamond_pack_normal",
+    "shop_item_diamond_pack_medium",
+    "shop_item_diamond_pack_large",
+    "shop_item_deco_vfx_prestige_info",
+    "shop_item_deco_vfx_prestige",
+    "shop_item_cosmetics_tiers",
+    "shop_item_cosmetics_prestige",
+    "shop_item_builder_pack",
+    "shop_item_build_pack4",
+    "shop_item_build_pack3",
+    "shop_item_build_pack2",
+    "shop_item_build_pack1",
+    "shop_item_birthdayl_pack2",
+    "shop_item_birthday_pack",
+    "shop_item",
+    "shop_info_item_kr_village2",
+    "shop_info_item_kr",
+    "shop_indicator_right",
+    "shop_indicator_left",
+    "shop_image_scid_card",
+    "shop_divider",
+    "shop_category",
+    "shop_bottom_bar_village2",
+    "shop_bottom_bar_kr_village2",
+    "shop_bottom_bar_kr",
+    "shop_bottom_bar_dark_elixir_kr",
+    "shop2_scid_content",
+    "shop2_item_merge_back",
+    "shop2_item_merge",
+    "shop2_item_info",
+    "shop2_item",
+    "shop2_icon_shield",
+    "shop2_icon_scid",
+    "shop2_icon_sapphire",
+    "shop2_icon_resources_home",
+    "shop2_icon_resources_bb",
+    "shop2_icon_prize_shop",
+    "shop2_icon_offers_bb",
+    "shop2_icon_offers",
+    "shop2_icon_decos",
+    "shop2_icon_cosmetics",
+    "shop2_icon_build",
+    "shop2_currency_container_all",
+    "shop2_bottom_bar",
+    "shop2_bg_img",
+    "shop2",
+    "shop",
+    "shield_standard_angle",
+    "shield_legend_angle",
+    "prestige_shop_deco_vfx_grass_bg",
+    "presentOpen_sparkle",
+    "phone_shop_item_townhall_pack_3items",
+    "phone_shop_item_townhall_pack_2items",
+    "phone_shop_item_townhall_pack5",
+    "phone_shop_item_townhall_pack4",
+    "phone_shop_item_townhall_pack3",
+    "phone_shop_item_townhall_pack2",
+    "phone_shop_item_townhall_pack",
+    "phone_shop_item_special_offer_pack4",
+    "phone_shop_item_special_offer_pack3",
+    "phone_shop_item_special_offer_pack2",
+    "phone_shop_item_special_offer_pack1",
+    "phone_shop_item_research_pack4",
+    "phone_shop_item_research_pack3",
+    "phone_shop_item_research_pack2",
+    "phone_shop_item_research_pack1",
+    "phone_shop_item_magic_item_pack5",
+    "phone_shop_item_magic_item_pack4",
+    "phone_shop_item_magic_item_pack3",
+    "phone_shop_item_magic_item_pack2",
+    "phone_shop_item_magic_item_pack1",
+    "phone_shop_item_magic_item_pack",
+    "phone_shop_item_heroes_pack4",
+    "phone_shop_item_heroes_pack3",
+    "phone_shop_item_heroes_pack2",
+    "phone_shop_item_heroes_pack1",
+    "phone_shop_item_gift_pack_info",
+    "phone_shop_item_gift_pack",
+    "phone_shop_item_build_pack4",
+    "phone_shop_item_build_pack3",
+    "phone_shop_item_build_pack2",
+    "phone_shop_item_build_pack1",
+    "phone_shop_item_birthday_pack2",
+    "phone_shop_item_birthday_pack",
+    "offer_puzzle_image_3",
+    "offer_puzzle_image_2",
+    "offer_puzzle_image_1",
+    "offer_item_small_info",
+    "offer_item_small",
+    "offer_item_battlepass_info",
+    "offer_item_battlepass",
+    "offer_item",
+    "offer_info",
+    "offer_bg_xmas_pack_old",
+    "offer_bg_xmas_pack_chinese",
+    "offer_bg_xmas_pack",
+    "offer_bg_winter_pack",
+    "offer_bg_training_pack",
+    "offer_bg_townhall_pack",
+    "offer_bg_th17_5items_bg",
+    "offer_bg_th17_4items_bg",
+    "offer_bg_th15_5items_bg",
+    "offer_bg_th15_2items_bg",
+    "offer_bg_resources_pack",
+    "offer_bg_minionprince_5items_bg",
+    "offer_bg_minionprince_4items_bg",
+    "offer_bg_magic_items_pack",
+    "offer_bg_heroes_pack",
+    "offer_bg_halloween_pack",
+    "offer_bg_gift_pack_xmas",
+    "offer_bg_football_pack",
+    "offer_bg_defense_pack",
+    "offer_bg_cny_pack",
+    "offer_bg_builder_pack",
+    "offer_bg_birthday_pack",
+    "offer_bg_bb_5items_bg",
+    "offer_bg_bb_2items_bg",
+    "offer_bg_7items_xmas",
+    "offer_bg_7items_goldmine",
+    "offer_bg_7items_deco",
+    "offer_bg_7items_clancastle",
+    "offer_bg_5items_magic_item",
+    "offer_bg_5items_hero",
+    "offer_bg_5items_gift",
+    "offer_bg_5items_cny_gold",
+    "offer2_theme_image",
+    "offer2_item",
+    "offer2_info",
+    "number_of_entrys_new_shop",
+    "number_of_entrys",
+    "new_item_bg",
+    "layouts_window_village2",
+    "layouts_window_02",
+    "layouts_window",
+    "layout_window_village2_02",
+    "iphonex_layouts_window_village2",
+    "iphonex_layouts_window",
+    "iphone_shop_village2",
+    "iphone_shop_top_bar_village2",
+    "iphone_shop_item_special_pack_info",
+    "iphone_shop_item_shield_02",
+    "iphone_shop_item_shield",
+    "iphone_shop_item_resource_pack",
+    "iphone_shop_item_red_pack_info",
+    "iphone_shop_item_red_pack2",
+    "iphone_shop_item_pack_info",
+    "iphone_shop_item_info",
+    "iphone_shop_item_diamond_pack_red",
+    "iphone_shop_item_diamond_pack_normal",
+    "iphone_shop_item_diamond_pack_medium",
+    "iphone_shop_item_diamond_pack_large",
+    "iphone_shop_item_builder_pack",
+    "iphone_shop_info_item_kr_village2",
+    "iphone_shop_info_item_kr",
+    "iphone_shop_bottom_bar_village2",
+    "iphone_shop_bottom_bar_kr_village2",
+    "iphone_shop_bottom_bar_kr",
+    "iphone_shop_bottom_bar",
+    "iphone_shop2",
+    "iphone_shop",
+    "iphone_phone_shop_item_gift_pack_info",
+    "iphone_phone_shop_item_gift_pack",
+    "iphone_offer_item_small_info",
+    "iphone_offer_item_small",
+    "iphone_layouts_window_village2",
+    "iphone_layouts_window",
+    "iphone_icon_gem_tiny_noscale",
+    "iphone_icon_gem_tiny",
+    "iphone_icon_gem_small_noscale",
+    "iphone_icon_gem_small",
+    "iphone_icon_gem_red_noscale",
+    "iphone_icon_gem_red",
+    "iphone_icon_gem_normal_noscale",
+    "iphone_icon_gem_normal",
+    "iphone_icon_gem_medium_noscale",
+    "iphone_icon_gem_medium",
+    "iphone_icon_gem_large_noscale",
+    "iphone_icon_gem_large",
+    "iphone_icon_gem_huge_noscale",
+    "iphone_icon_gem_huge",
+    "iphone5_shop_village2",
+    "iphone5_shop_item_red",
+    "iphone5_shop_bottom_bar_kr_village2",
+    "iphone5_shop_bottom_bar_kr",
+    "iphone5_shop_bottom_bar_dark_elixir_kr",
+    "iphone5_shop_bottom_bar",
+    "iphone5_shop2",
+    "iphone5_shop",
+    "iphone5_offer_item_small_info",
+    "iphone5_offer_item_small",
+    "iphone5_layouts_window_village2",
+    "iphone5_layouts_window",
+    "icon_treasure",
+    "icon_starry_ore",
+    "icon_shiny_ore",
+    "icon_shield_4",
+    "icon_shield_3",
+    "icon_shield_2",
+    "icon_shield_1",
+    "icon_shield",
+    "icon_resource_buildings",
+    "icon_halloween_event_token",
+    "icon_gold_small_square_noscale",
+    "icon_gold_small_square",
+    "icon_gold_small_noscale",
+    "icon_gold_small",
+    "icon_gold_medium_square_noscale",
+    "icon_gold_medium_square",
+    "icon_gold_medium_noscale",
+    "icon_gold_medium",
+    "icon_gold_big_square_noscale",
+    "icon_gold_big_square",
+    "icon_gold_big_noscale",
+    "icon_gold_big",
+    "icon_gold2",
+    "icon_glowy_ore",
+    "icon_giftcard",
+    "icon_gem_tiny_noscale",
+    "icon_gem_tiny",
+    "icon_gem_small_noscale",
+    "icon_gem_small",
+    "icon_gem_red_noscale",
+    "icon_gem_red",
+    "icon_gem_normal_noscale",
+    "icon_gem_normal",
+    "icon_gem_medium_noscale",
+    "icon_gem_medium",
+    "icon_gem_large_noscale",
+    "icon_gem_large",
+    "icon_gem_huge_noscale",
+    "icon_gem_huge",
+    "icon_elixir_small_v2_noscale",
+    "icon_elixir_small_v2",
+    "icon_elixir_small_noscale",
+    "icon_elixir_small",
+    "icon_elixir_medium_v2_noscale",
+    "icon_elixir_medium_v2",
+    "icon_elixir_medium_noscale",
+    "icon_elixir_medium",
+    "icon_elixir_big_v2",
+    "icon_elixir_big_noscale",
+    "icon_elixir_big",
+    "icon_elixir2",
+    "icon_defense_buildings",
+    "icon_decos",
+    "icon_dark_elixir_small_noscale",
+    "icon_dark_elixir_small",
+    "icon_dark_elixir_medium",
+    "icon_dark_elixir_big_noscale",
+    "icon_dark_elixir_big",
+    "icon_dark_elixir1_noscale",
+    "icon_dark_elixir1",
+    "icon_clock_booster",
+    "icon_clock",
+    "icon_capital_gold_noscale",
+    "icon_army_buildings",
+    "fireball3b_purple",
+    "confetti4",
+    "confetti3",
+    "confetti2",
+    "confetti1",
+    "claim_reward_popup",
+    "background_images",
+    "background_container"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 7676,
+      "value": "gfJA"
+    },
+    {
+      "offset": 12093,
+      "value": "Y+C"
+    },
+    {
+      "offset": 12695,
+      "value": "Cgf6@"
+    },
+    {
+      "offset": 12908,
+      "value": "gfBC"
+    },
+    {
+      "offset": 13126,
+      "value": "GC33wA"
+    },
+    {
+      "offset": 13341,
+      "value": "sLC"
+    },
+    {
+      "offset": 13533,
+      "value": "YPC"
+    },
+    {
+      "offset": 13869,
+      "value": "LVC"
+    },
+    {
+      "offset": 13941,
+      "value": "sWC"
+    },
+    {
+      "offset": 13966,
+      "value": "WCgf-B"
+    },
+    {
+      "offset": 14014,
+      "value": "XC334B"
+    },
+    {
+      "offset": 14134,
+      "value": "ZCgfEB"
+    },
+    {
+      "offset": 14182,
+      "value": "ZCgfLB"
+    },
+    {
+      "offset": 14231,
+      "value": "CgfSB"
+    },
+    {
+      "offset": 14279,
+      "value": "CgfZB"
+    },
+    {
+      "offset": 14327,
+      "value": "CgfaB"
+    },
+    {
+      "offset": 14375,
+      "value": "CgfhB"
+    },
+    {
+      "offset": 14447,
+      "value": "C33sB"
+    },
+    {
+      "offset": 14495,
+      "value": "C33zB"
+    },
+    {
+      "offset": 14900,
+      "value": "gfaC"
+    },
+    {
+      "offset": 15117,
+      "value": "LbC"
+    },
+    {
+      "offset": 15189,
+      "value": "sbC"
+    },
+    {
+      "offset": 15572,
+      "value": "gfbC"
+    },
+    {
+      "offset": 15861,
+      "value": "LaC"
+    },
+    {
+      "offset": 16988,
+      "value": "gfTC"
+    },
+    {
+      "offset": 17518,
+      "value": "ICgf-C"
+    },
+    {
+      "offset": 17614,
+      "value": "GCgf0C"
+    },
+    {
+      "offset": 17713,
+      "value": "L3C"
+    },
+    {
+      "offset": 17757,
+      "value": "LDC"
+    },
+    {
+      "offset": 17782,
+      "value": "CC3s5C"
+    },
+    {
+      "offset": 17877,
+      "value": "LAC"
+    },
+    {
+      "offset": 17953,
+      "value": "Y:C"
+    },
+    {
+      "offset": 19823,
+      "value": "C33C@"
+    },
+    {
+      "offset": 19847,
+      "value": "C33S@"
+    },
+    {
+      "offset": 19871,
+      "value": "Cgff@"
+    },
+    {
+      "offset": 19895,
+      "value": "Cgfv@"
+    },
+    {
+      "offset": 20423,
+      "value": "C333A"
+    },
+    {
+      "offset": 20519,
+      "value": "C33KA"
+    },
+    {
+      "offset": 20567,
+      "value": "C33WA"
+    },
+    {
+      "offset": 20639,
+      "value": "CgfjA"
+    },
+    {
+      "offset": 20687,
+      "value": "C33wA"
+    },
+    {
+      "offset": 22079,
+      "value": "C33/B"
+    },
+    {
+      "offset": 22173,
+      "value": "Y7C338B"
+    },
+    {
+      "offset": 22319,
+      "value": "C33FB"
+    },
+    {
+      "offset": 22343,
+      "value": "CgfHB"
+    },
+    {
+      "offset": 22391,
+      "value": "C33MB"
+    },
+    {
+      "offset": 22413,
+      "value": "L:CgfOB"
+    },
+    {
+      "offset": 22463,
+      "value": "C33TB"
+    },
+    {
+      "offset": 22607,
+      "value": "CgfbB"
+    },
+    {
+      "offset": 22655,
+      "value": "CgfgB"
+    },
+    {
+      "offset": 22703,
+      "value": "C33lB"
+    },
+    {
+      "offset": 22775,
+      "value": "CgfsB"
+    },
+    {
+      "offset": 22823,
+      "value": "CgfxB"
+    },
+    {
+      "offset": 24021,
+      "value": "LDC"
+    },
+    {
+      "offset": 24141,
+      "value": "YDC"
+    },
+    {
+      "offset": 24620,
+      "value": "gfCC"
+    },
+    {
+      "offset": 24837,
+      "value": "sBC"
+    },
+    {
+      "offset": 25149,
+      "value": "s@C"
+    },
+    {
+      "offset": 26637,
+      "value": "Y.C"
+    },
+    {
+      "offset": 26805,
+      "value": "s+C"
+    },
+    {
+      "offset": 27215,
+      "value": "C3s+C"
+    },
+    {
+      "offset": 27381,
+      "value": "s C"
+    },
+    {
+      "offset": 27431,
+      "value": "Cgf/C"
+    },
+    {
+      "offset": 27479,
+      "value": "C330C"
+    },
+    {
+      "offset": 27551,
+      "value": "Cgf1C"
+    },
+    {
+      "offset": 27671,
+      "value": "Cgf3C"
+    },
+    {
+      "offset": 27863,
+      "value": "Cgf6C"
+    },
+    {
+      "offset": 27935,
+      "value": "C3s7C"
+    },
+    {
+      "offset": 28007,
+      "value": "C3s8C"
+    },
+    {
+      "offset": 28079,
+      "value": "C3s9C"
+    },
+    {
+      "offset": 28151,
+      "value": "C3s:C"
+    },
+    {
+      "offset": 28657,
+      "value": "L@C"
+    },
+    {
+      "offset": 28775,
+      "value": "C3sAC"
+    },
+    {
+      "offset": 28873,
+      "value": "LBC"
+    },
+    {
+      "offset": 28993,
+      "value": "LCC"
+    },
+    {
+      "offset": 29111,
+      "value": "B33DC"
+    },
+    {
+      "offset": 29137,
+      "value": "LDC"
+    },
+    {
+      "offset": 29159,
+      "value": "B3sDC"
+    },
+    {
+      "offset": 29279,
+      "value": "B33EC"
+    },
+    {
+      "offset": 29305,
+      "value": "YEC"
+    },
+    {
+      "offset": 29471,
+      "value": "B33FC"
+    },
+    {
+      "offset": 29497,
+      "value": "LFC"
+    },
+    {
+      "offset": 29519,
+      "value": "BgfFC"
+    },
+    {
+      "offset": 29759,
+      "value": "B33GC"
+    },
+    {
+      "offset": 29833,
+      "value": "YGC"
+    },
+    {
+      "offset": 29857,
+      "value": "YGC"
+    },
+    {
+      "offset": 29879,
+      "value": "B3sGC"
+    },
+    {
+      "offset": 29903,
+      "value": "B3sGC"
+    },
+    {
+      "offset": 29927,
+      "value": "B3sGC"
+    },
+    {
+      "offset": 31031,
+      "value": "A335B"
+    },
+    {
+      "offset": 33623,
+      "value": "Bgf_B"
+    },
+    {
+      "offset": 33646,
+      "value": "DBgfYB"
+    },
+    {
+      "offset": 33668,
+      "value": "gfLB33SB"
+    },
+    {
+      "offset": 33694,
+      "value": "TB33MB"
+    },
+    {
+      "offset": 33764,
+      "value": "gfmB"
+    },
+    {
+      "offset": 33790,
+      "value": "tBgf5B"
+    },
+    {
+      "offset": 34343,
+      "value": "B33KA"
+    },
+    {
+      "offset": 34367,
+      "value": "B33gA"
+    },
+    {
+      "offset": 34439,
+      "value": "BgfFA"
+    },
+    {
+      "offset": 34463,
+      "value": "Bgf:A"
+    },
+    {
+      "offset": 34679,
+      "value": "Bgf6A"
+    },
+    {
+      "offset": 34727,
+      "value": "Bgf2A"
+    },
+    {
+      "offset": 34799,
+      "value": "B33+A"
+    },
+    {
+      "offset": 35999,
+      "value": "B33s@"
+    },
+    {
+      "offset": 36047,
+      "value": "B33c@"
+    },
+    {
+      "offset": 36119,
+      "value": "BgfF@"
+    },
+    {
+      "offset": 36167,
+      "value": "B333@"
+    },
+    {
+      "offset": 36837,
+      "value": "pPD"
+    },
+    {
+      "offset": 36862,
+      "value": "xDgfAC"
+    },
+    {
+      "offset": 37301,
+      "value": "lYA"
+    },
+    {
+      "offset": 38737,
+      "value": "L2C"
+    },
+    {
+      "offset": 39069,
+      "value": "Y3D"
+    },
+    {
+      "offset": 44039,
+      "value": "CgfLB"
+    },
+    {
+      "offset": 44063,
+      "value": "BgfLB"
+    },
+    {
+      "offset": 44135,
+      "value": "Cgf+B"
+    },
+    {
+      "offset": 44616,
+      "value": "gfbA"
+    },
+    {
+      "offset": 44640,
+      "value": "gfbA"
+    },
+    {
+      "offset": 44664,
+      "value": "gfbA"
+    },
+    {
+      "offset": 44880,
+      "value": "gffA"
+    },
+    {
+      "offset": 44928,
+      "value": "gffA"
+    },
+    {
+      "offset": 45144,
+      "value": "gfjA"
+    },
+    {
+      "offset": 45192,
+      "value": "gfjA"
+    },
+    {
+      "offset": 45216,
+      "value": "gfjA"
+    },
+    {
+      "offset": 45432,
+      "value": "gfnA"
+    },
+    {
+      "offset": 45456,
+      "value": "gfnA"
+    },
+    {
+      "offset": 45480,
+      "value": "gfnA"
+    },
+    {
+      "offset": 45696,
+      "value": "gfrA"
+    },
+    {
+      "offset": 45744,
+      "value": "gfrA"
+    },
+    {
+      "offset": 53016,
+      "value": "gfoB"
+    },
+    {
+      "offset": 65660,
+      "value": "gfxB"
+    },
+    {
+      "offset": 70919,
+      "value": "Agff@"
+    },
+    {
+      "offset": 74854,
+      "value": "L@gf6@"
+    },
+    {
+      "offset": 75094,
+      "value": "L@33_A"
+    },
+    {
+      "offset": 75648,
+      "value": "gfQB"
+    },
+    {
+      "offset": 75718,
+      "value": "L@gf+B"
+    },
+    {
+      "offset": 75766,
+      "value": "L@334B"
+    },
+    {
+      "offset": 77470,
+      "value": "sAgfUB"
+    },
+    {
+      "offset": 77519,
+      "value": "A33DB"
+    },
+    {
+      "offset": 77903,
+      "value": "A33kA"
+    },
+    {
+      "offset": 79056,
+      "value": "gfbA"
+    },
+    {
+      "offset": 79774,
+      "value": "L@gfDB"
+    },
+    {
+      "offset": 80688,
+      "value": "gfvB"
+    },
+    {
+      "offset": 80736,
+      "value": "gfiB"
+    },
+    {
+      "offset": 81406,
+      "value": "L@33NB"
+    },
+    {
+      "offset": 82294,
+      "value": "L@gf9B"
+    },
+    {
+      "offset": 82342,
+      "value": "L@33JB"
+    },
+    {
+      "offset": 82438,
+      "value": "L@gfkB"
+    },
+    {
+      "offset": 83926,
+      "value": "tA33"
+    },
+    {
+      "offset": 84046,
+      "value": "L@gfvB"
+    },
+    {
+      "offset": 84094,
+      "value": "L@gfnB"
+    },
+    {
+      "offset": 84406,
+      "value": "L@gf7B"
+    },
+    {
+      "offset": 84454,
+      "value": "L@gf/B"
+    },
+    {
+      "offset": 84742,
+      "value": "L@gf"
+    },
+    {
+      "offset": 85174,
+      "value": "L@gffA"
+    },
+    {
+      "offset": 85222,
+      "value": "L@33GA"
+    },
+    {
+      "offset": 91604,
+      "value": "gfCB"
+    },
+    {
+      "offset": 92492,
+      "value": "gfuB"
+    },
+    {
+      "offset": 94460,
+      "value": "gf.B"
+    },
+    {
+      "offset": 100007,
+      "value": "B33/A"
+    },
+    {
+      "offset": 100871,
+      "value": "Bgf6A"
+    },
+    {
+      "offset": 102311,
+      "value": "BgfBA"
+    },
+    {
+      "offset": 102887,
+      "value": "C33GA"
+    },
+    {
+      "offset": 103751,
+      "value": "CgfNA"
+    },
+    {
+      "offset": 107064,
+      "value": "gfMB"
+    },
+    {
+      "offset": 107639,
+      "value": "A33HB"
+    },
+    {
+      "offset": 108648,
+      "value": "gf_B"
+    },
+    {
+      "offset": 108887,
+      "value": "Bgf_B"
+    },
+    {
+      "offset": 109175,
+      "value": "B33eB"
+    },
+    {
+      "offset": 109463,
+      "value": "B33kB"
+    },
+    {
+      "offset": 111287,
+      "value": "B333@"
+    },
+    {
+      "offset": 112175,
+      "value": "Bgf4B"
+    },
+    {
+      "offset": 112272,
+      "value": "gf:B"
+    },
+    {
+      "offset": 112991,
+      "value": "B333A"
+    },
+    {
+      "offset": 113015,
+      "value": "B33EB"
+    },
+    {
+      "offset": 113591,
+      "value": "BgfPB"
+    },
+    {
+      "offset": 113712,
+      "value": "gfZA"
+    },
+    {
+      "offset": 113855,
+      "value": "BgfZA"
+    },
+    {
+      "offset": 114167,
+      "value": "BgfOB"
+    },
+    {
+      "offset": 114719,
+      "value": "BgfJA"
+    },
+    {
+      "offset": 115052,
+      "value": "gfbAgf+C"
+    },
+    {
+      "offset": 115244,
+      "value": "gf.AgffA"
+    },
+    {
+      "offset": 115753,
+      "value": "L.C"
+    },
+    {
+      "offset": 116112,
+      "value": "gf:C"
+    },
+    {
+      "offset": 116376,
+      "value": "gfAB"
+    },
+    {
+      "offset": 116398,
+      "value": "KCgfKB"
+    },
+    {
+      "offset": 117241,
+      "value": "L-C"
+    },
+    {
+      "offset": 117383,
+      "value": "BgfBA"
+    },
+    {
+      "offset": 117864,
+      "value": "gf/B"
+    },
+    {
+      "offset": 119255,
+      "value": "B33wA"
+    },
+    {
+      "offset": 119879,
+      "value": "B3s"
+    },
+    {
+      "offset": 125636,
+      "value": "gfiB"
+    },
+    {
+      "offset": 132476,
+      "value": "gfSB"
+    },
+    {
+      "offset": 133127,
+      "value": "Bgff@"
+    },
+    {
+      "offset": 133991,
+      "value": "B33/A"
+    },
+    {
+      "offset": 134279,
+      "value": "BgfVA"
+    },
+    {
+      "offset": 135095,
+      "value": "C33C@"
+    },
+    {
+      "offset": 136247,
+      "value": "CgfNA"
+    },
+    {
+      "offset": 136510,
+      "value": "JB33KA"
+    },
+    {
+      "offset": 136655,
+      "value": "C333A"
+    },
+    {
+      "offset": 136798,
+      "value": "GB33sA"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000dbd1ddc4401a0114b304c09d464d8d14f0eb62e01c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "b42309001800000000001200180004000000000008000c001000140012000000c4d70800dcd40800dca0050070b4040004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

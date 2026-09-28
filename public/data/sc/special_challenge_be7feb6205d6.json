@@ -1,0 +1,914 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "special_challenge.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\special_challenge.sc",
+  "sha256_container": "be7feb6205d6b97ccc23d0a27653d7f2128ed403871d1cdfc31d63c30e21a9ae",
+  "sha256_descriptor": "573d4e6d87a335eb27d72508e714c9f3c30115becf348f2e33c12f9a9dbaac27",
+  "sha256_decoded_payload": "e662c20ab391869181129703d0543c26b24721a60f3a58dfda03689d51145aa1",
+  "version": 6,
+  "descriptor_bytes": 444,
+  "compressed_frame_bytes": 1907173,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 2537120,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 53
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 38
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 20
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 27732
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 2498104
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 1907176
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 144,
+      "value": "wall_with_frames_small"
+    },
+    {
+      "offset": 204,
+      "value": "special_challenge_popup"
+    },
+    {
+      "offset": 264,
+      "value": "clashmas_challenges"
+    },
+    {
+      "offset": 320,
+      "value": "bb2_stars"
+    },
+    {
+      "offset": 368,
+      "value": "bb2_challenges"
+    },
+    {
+      "offset": 428,
+      "value": "arcade_frame"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "wall_with_frames_small",
+    "special_challenge_popup",
+    "clashmas_challenges",
+    "bb2_stars",
+    "bb2_challenges",
+    "arcade_frame"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1045,
+      "value": "UNE"
+    },
+    {
+      "offset": 1309,
+      "value": "OeE"
+    },
+    {
+      "offset": 1331,
+      "value": "BfJPE"
+    },
+    {
+      "offset": 5963,
+      "value": "A33c@"
+    },
+    {
+      "offset": 6107,
+      "value": "Aff2A"
+    },
+    {
+      "offset": 6203,
+      "value": "AffzA"
+    },
+    {
+      "offset": 7020,
+      "value": "ffnA"
+    },
+    {
+      "offset": 9561,
+      "value": "LAC"
+    },
+    {
+      "offset": 9777,
+      "value": "sLC"
+    },
+    {
+      "offset": 9946,
+      "value": "MCffnA"
+    },
+    {
+      "offset": 10114,
+      "value": "FCffQB"
+    },
+    {
+      "offset": 10138,
+      "value": "ECfffB"
+    },
+    {
+      "offset": 11657,
+      "value": "hyA"
+    },
+    {
+      "offset": 11681,
+      "value": "H_A"
+    },
+    {
+      "offset": 11693,
+      "value": "pLA"
+    },
+    {
+      "offset": 12437,
+      "value": "MPb"
+    },
+    {
+      "offset": 13134,
+      "value": "Dh330C"
+    },
+    {
+      "offset": 14933,
+      "value": "vPb"
+    },
+    {
+      "offset": 15501,
+      "value": "cMD"
+    },
+    {
+      "offset": 19088,
+      "value": "ffVB"
+    },
+    {
+      "offset": 19100,
+      "value": "ffVB"
+    },
+    {
+      "offset": 19232,
+      "value": "ffVB"
+    },
+    {
+      "offset": 19244,
+      "value": "ffVB"
+    },
+    {
+      "offset": 19376,
+      "value": "ffVB"
+    },
+    {
+      "offset": 19520,
+      "value": "ffVB"
+    },
+    {
+      "offset": 19532,
+      "value": "ffVB"
+    },
+    {
+      "offset": 19664,
+      "value": "ffVB"
+    },
+    {
+      "offset": 19676,
+      "value": "ffVB"
+    },
+    {
+      "offset": 19808,
+      "value": "ffVB"
+    },
+    {
+      "offset": 19952,
+      "value": "ffVB"
+    },
+    {
+      "offset": 19964,
+      "value": "ffVB"
+    },
+    {
+      "offset": 20096,
+      "value": "ffVB"
+    },
+    {
+      "offset": 20108,
+      "value": "ffVB"
+    },
+    {
+      "offset": 20240,
+      "value": "ffVB"
+    },
+    {
+      "offset": 20575,
+      "value": "Wff.A"
+    },
+    {
+      "offset": 20745,
+      "value": "Y+C"
+    },
+    {
+      "offset": 26220,
+      "value": "title"
+    },
+    {
+      "offset": 26232,
+      "value": "stars_collected"
+    },
+    {
+      "offset": 26252,
+      "value": "reward_01"
+    },
+    {
+      "offset": 26268,
+      "value": "reward_02"
+    },
+    {
+      "offset": 26284,
+      "value": "reward_03"
+    },
+    {
+      "offset": 26300,
+      "value": "reward_04"
+    },
+    {
+      "offset": 26316,
+      "value": "reward_05"
+    },
+    {
+      "offset": 26332,
+      "value": "reward_06"
+    },
+    {
+      "offset": 26348,
+      "value": "scrollable"
+    },
+    {
+      "offset": 26364,
+      "value": "locked_bg"
+    },
+    {
+      "offset": 26380,
+      "value": "lock"
+    },
+    {
+      "offset": 26392,
+      "value": "checkmark_animation"
+    },
+    {
+      "offset": 26416,
+      "value": "button_claim_scenery"
+    },
+    {
+      "offset": 26444,
+      "value": "button_claim"
+    },
+    {
+      "offset": 26464,
+      "value": "reward_amount"
+    },
+    {
+      "offset": 26484,
+      "value": "reward_area"
+    },
+    {
+      "offset": 26500,
+      "value": "amount_of_stars"
+    },
+    {
+      "offset": 26520,
+      "value": "dark_bg"
+    },
+    {
+      "offset": 26532,
+      "value": "not_started_bg"
+    },
+    {
+      "offset": 26552,
+      "value": "in_progress_bg"
+    },
+    {
+      "offset": 26572,
+      "value": "won_bg"
+    },
+    {
+      "offset": 26584,
+      "value": "reward_item_big"
+    },
+    {
+      "offset": 26604,
+      "value": "download"
+    },
+    {
+      "offset": 26620,
+      "value": "reward_item"
+    },
+    {
+      "offset": 26636,
+      "value": "amount"
+    },
+    {
+      "offset": 26648,
+      "value": "game"
+    },
+    {
+      "offset": 26660,
+      "value": "close_button"
+    },
+    {
+      "offset": 26680,
+      "value": "bounds"
+    },
+    {
+      "offset": 26692,
+      "value": "challenge_09"
+    },
+    {
+      "offset": 26712,
+      "value": "challenge_08"
+    },
+    {
+      "offset": 26732,
+      "value": "challenge_07"
+    },
+    {
+      "offset": 26752,
+      "value": "challenge_06"
+    },
+    {
+      "offset": 26772,
+      "value": "bh_level"
+    },
+    {
+      "offset": 26788,
+      "value": "star3"
+    },
+    {
+      "offset": 26800,
+      "value": "star2"
+    },
+    {
+      "offset": 26812,
+      "value": "star1"
+    },
+    {
+      "offset": 26824,
+      "value": "builder_hall"
+    },
+    {
+      "offset": 26844,
+      "value": "silver"
+    },
+    {
+      "offset": 26856,
+      "value": "bronze"
+    },
+    {
+      "offset": 26868,
+      "value": "empty"
+    },
+    {
+      "offset": 26880,
+      "value": "presents"
+    },
+    {
+      "offset": 26896,
+      "value": "challenge_05"
+    },
+    {
+      "offset": 26916,
+      "value": "challenge_04"
+    },
+    {
+      "offset": 26936,
+      "value": "challenge_03"
+    },
+    {
+      "offset": 26956,
+      "value": "challenge_02"
+    },
+    {
+      "offset": 26976,
+      "value": "challenge_01"
+    },
+    {
+      "offset": 26996,
+      "value": "frame_11"
+    },
+    {
+      "offset": 27012,
+      "value": "frame_02"
+    },
+    {
+      "offset": 27028,
+      "value": "frame_01"
+    },
+    {
+      "offset": 27044,
+      "value": "frame_04"
+    },
+    {
+      "offset": 27060,
+      "value": "frame_03"
+    },
+    {
+      "offset": 27076,
+      "value": "frame_06"
+    },
+    {
+      "offset": 27092,
+      "value": "frame_05"
+    },
+    {
+      "offset": 27108,
+      "value": "frame_08"
+    },
+    {
+      "offset": 27124,
+      "value": "frame_07"
+    },
+    {
+      "offset": 27140,
+      "value": "frame_10"
+    },
+    {
+      "offset": 27156,
+      "value": "frame_09"
+    },
+    {
+      "offset": 27172,
+      "value": "uncompleted_challenge"
+    },
+    {
+      "offset": 27200,
+      "value": "locked_challenge"
+    },
+    {
+      "offset": 27224,
+      "value": "star_count"
+    },
+    {
+      "offset": 27240,
+      "value": "button_play"
+    },
+    {
+      "offset": 27256,
+      "value": "info"
+    },
+    {
+      "offset": 27268,
+      "value": "year"
+    },
+    {
+      "offset": 27280,
+      "value": "images"
+    },
+    {
+      "offset": 27292,
+      "value": "uncompleted_text"
+    },
+    {
+      "offset": 27316,
+      "value": "time"
+    },
+    {
+      "offset": 27328,
+      "value": "playable_in"
+    },
+    {
+      "offset": 27345,
+      "value": "star"
+    },
+    {
+      "offset": 27357,
+      "value": "star"
+    },
+    {
+      "offset": 27369,
+      "value": "star"
+    },
+    {
+      "offset": 27380,
+      "value": "zero"
+    },
+    {
+      "offset": 27392,
+      "value": "Text"
+    },
+    {
+      "offset": 27404,
+      "value": "boss"
+    },
+    {
+      "offset": 27548,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 27572,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 27592,
+      "value": "special_challenge_popup"
+    },
+    {
+      "offset": 27620,
+      "value": "arcade_frame"
+    },
+    {
+      "offset": 27640,
+      "value": "bb2_challenges"
+    },
+    {
+      "offset": 27660,
+      "value": "bb2_stars"
+    },
+    {
+      "offset": 27676,
+      "value": "clashmas_challenges"
+    },
+    {
+      "offset": 27700,
+      "value": "wall_with_frames_small"
+    },
+    {
+      "offset": 42142,
+      "value": "Z_s"
+    },
+    {
+      "offset": 51118,
+      "value": "A-n"
+    },
+    {
+      "offset": 56317,
+      "value": "sUUn"
+    },
+    {
+      "offset": 56461,
+      "value": "bTQn"
+    },
+    {
+      "offset": 66265,
+      "value": "pp6"
+    },
+    {
+      "offset": 71565,
+      "value": "oYin"
+    },
+    {
+      "offset": 72434,
+      "value": "aDQ./"
+    },
+    {
+      "offset": 72829,
+      "value": "QK/n"
+    },
+    {
+      "offset": 79563,
+      "value": "R88"
+    },
+    {
+      "offset": 92078,
+      "value": "uMn"
+    },
+    {
+      "offset": 92590,
+      "value": "bMs"
+    },
+    {
+      "offset": 108986,
+      "value": "V86"
+    },
+    {
+      "offset": 109630,
+      "value": "m-n"
+    },
+    {
+      "offset": 118508,
+      "value": "qat"
+    },
+    {
+      "offset": 126555,
+      "value": "qsP"
+    },
+    {
+      "offset": 126827,
+      "value": "Jmfffn"
+    },
+    {
+      "offset": 127646,
+      "value": "K@n"
+    },
+    {
+      "offset": 127907,
+      "value": "Do0M"
+    },
+    {
+      "offset": 135436,
+      "value": "QWUUn"
+    },
+    {
+      "offset": 145995,
+      "value": "H3D"
+    },
+    {
+      "offset": 147811,
+      "value": "Dw0S"
+    },
+    {
+      "offset": 151806,
+      "value": "NUn"
+    },
+    {
+      "offset": 152000,
+      "value": "qAG@6"
+    },
+    {
+      "offset": 153465,
+      "value": "D80@"
+    },
+    {
+      "offset": 158432,
+      "value": "MHZa"
+    },
+    {
+      "offset": 168989,
+      "value": "ZI+n"
+    },
+    {
+      "offset": 170957,
+      "value": "mFDO"
+    },
+    {
+      "offset": 172030,
+      "value": "jBn"
+    },
+    {
+      "offset": 174734,
+      "value": "Van"
+    },
+    {
+      "offset": 175784,
+      "value": "OUp"
+    },
+    {
+      "offset": 176072,
+      "value": "dsk+"
+    },
+    {
+      "offset": 177667,
+      "value": "Do.M"
+    },
+    {
+      "offset": 182227,
+      "value": "a3zk"
+    },
+    {
+      "offset": 184766,
+      "value": "jIn"
+    },
+    {
+      "offset": 188718,
+      "value": "M+n"
+    },
+    {
+      "offset": 189054,
+      "value": "oen"
+    },
+    {
+      "offset": 190542,
+      "value": "ryn"
+    },
+    {
+      "offset": 192302,
+      "value": "A9n"
+    },
+    {
+      "offset": 195453,
+      "value": "mG9n"
+    },
+    {
+      "offset": 195854,
+      "value": "z0n"
+    },
+    {
+      "offset": 196494,
+      "value": "Y0s"
+    },
+    {
+      "offset": 199694,
+      "value": "hbn"
+    },
+    {
+      "offset": 200222,
+      "value": "jfO"
+    },
+    {
+      "offset": 200908,
+      "value": "k @"
+    },
+    {
+      "offset": 205948,
+      "value": "oNk"
+    },
+    {
+      "offset": 209772,
+      "value": "WucUO"
+    },
+    {
+      "offset": 210734,
+      "value": "HPO"
+    },
+    {
+      "offset": 210843,
+      "value": "BBB"
+    },
+    {
+      "offset": 222638,
+      "value": "Mon"
+    },
+    {
+      "offset": 224349,
+      "value": "wi-O"
+    },
+    {
+      "offset": 224381,
+      "value": "Woon"
+    },
+    {
+      "offset": 227310,
+      "value": "tmn"
+    },
+    {
+      "offset": 232222,
+      "value": "l3n"
+    },
+    {
+      "offset": 237674,
+      "value": "Hqw"
+    },
+    {
+      "offset": 238261,
+      "value": "XBV"
+    },
+    {
+      "offset": 240013,
+      "value": "Eaan"
+    },
+    {
+      "offset": 242750,
+      "value": "HeO"
+    },
+    {
+      "offset": 243204,
+      "value": "TtPb"
+    },
+    {
+      "offset": 245067,
+      "value": "su."
+    },
+    {
+      "offset": 245486,
+      "value": "zps"
+    },
+    {
+      "offset": 248798,
+      "value": "VEn"
+    },
+    {
+      "offset": 248894,
+      "value": "ubn"
+    },
+    {
+      "offset": 250430,
+      "value": "FUs"
+    },
+    {
+      "offset": 250558,
+      "value": "_PO"
+    },
+    {
+      "offset": 257006,
+      "value": "IHO"
+    },
+    {
+      "offset": 258300,
+      "value": "aPjSs"
+    },
+    {
+      "offset": 258686,
+      "value": "h_O"
+    },
+    {
+      "offset": 258748,
+      "value": "LhjMn"
+    },
+    {
+      "offset": 259770,
+      "value": "e6lX"
+    },
+    {
+      "offset": 260556,
+      "value": "ngKHs"
+    },
+    {
+      "offset": 260650,
+      "value": "YZAj"
+    },
+    {
+      "offset": 263156,
+      "value": "DdBX"
+    },
+    {
+      "offset": 263662,
+      "value": "ain"
+    },
+    {
+      "offset": 264605,
+      "value": "Xhan"
+    },
+    {
+      "offset": 265484,
+      "value": "WCJ"
+    },
+    {
+      "offset": 267903,
+      "value": "BbAkdV"
+    },
+    {
+      "offset": 269453,
+      "value": "Veen"
+    },
+    {
+      "offset": 272172,
+      "value": "K u"
+    },
+    {
+      "offset": 273318,
+      "value": "c a"
+    },
+    {
+      "offset": 276107,
+      "value": "JZaj-O"
+    },
+    {
+      "offset": 276554,
+      "value": "_jD"
+    },
+    {
+      "offset": 280110,
+      "value": "Vxn"
+    },
+    {
+      "offset": 280990,
+      "value": "keO"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c003000040008000c0010001400180000001c002000240028002c001c00000001000000010000003500000026000000010000001400000003000000",
+  "decoded_preview_hex": "506c00001800000000001200180004000000000008000c001000140012000000d064000008640000d8520000fc2f000004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

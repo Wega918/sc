@@ -1,0 +1,3609 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "buildings2.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\buildings2.sc",
+  "sha256_container": "9a97a5b9f1cb81915ac8813717c64511591d13af62ffd752c12d5e7f0aaa1eec",
+  "sha256_descriptor": "ebe5a64d797594b26ba8d7a88acad464b51a3e2b624d0c97c844a0689ef3f166",
+  "sha256_decoded_payload": "bdc8fd66e19b07ef88bf55406eaea6b2c0d7644b9a8a335983b24d4125fda5c4",
+  "version": 6,
+  "descriptor_bytes": 34432,
+  "compressed_frame_bytes": 224705,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 1519052,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 2353
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 668
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 8,
+      "offset": 84,
+      "raw_u32": 1072412
+    },
+    {
+      "field_index": 9,
+      "offset": 88,
+      "raw_u32": 334536
+    },
+    {
+      "field_index": 10,
+      "offset": 92,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 96,
+      "raw_u32": 224708
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 2320,
+      "value": "worker_building_halloween"
+    },
+    {
+      "offset": 2384,
+      "value": "trap_2x2_upg"
+    },
+    {
+      "offset": 2436,
+      "value": "trap_1x1_upg"
+    },
+    {
+      "offset": 2488,
+      "value": "sleep_zzz_3"
+    },
+    {
+      "offset": 2536,
+      "value": "sleep_zzz_2"
+    },
+    {
+      "offset": 2584,
+      "value": "sleep_zzz"
+    },
+    {
+      "offset": 2632,
+      "value": "secondVillage_wall_lvl9_corner_3"
+    },
+    {
+      "offset": 2704,
+      "value": "secondVillage_wall_lvl9_corner_2"
+    },
+    {
+      "offset": 2776,
+      "value": "secondVillage_wall_lvl9_corner_1"
+    },
+    {
+      "offset": 2848,
+      "value": "secondVillage_wall_lvl9_corner"
+    },
+    {
+      "offset": 2916,
+      "value": "secondVillage_wall_lvl9_3"
+    },
+    {
+      "offset": 2980,
+      "value": "secondVillage_wall_lvl9_2"
+    },
+    {
+      "offset": 3044,
+      "value": "secondVillage_wall_lvl9_1"
+    },
+    {
+      "offset": 3108,
+      "value": "secondVillage_wall_lvl9"
+    },
+    {
+      "offset": 3168,
+      "value": "secondVillage_wall_lvl8_corner_3"
+    },
+    {
+      "offset": 3240,
+      "value": "secondVillage_wall_lvl8_corner_2"
+    },
+    {
+      "offset": 3312,
+      "value": "secondVillage_wall_lvl8_corner_1"
+    },
+    {
+      "offset": 3384,
+      "value": "secondVillage_wall_lvl8_corner"
+    },
+    {
+      "offset": 3452,
+      "value": "secondVillage_wall_lvl8_3"
+    },
+    {
+      "offset": 3516,
+      "value": "secondVillage_wall_lvl8_2"
+    },
+    {
+      "offset": 3580,
+      "value": "secondVillage_wall_lvl8_1"
+    },
+    {
+      "offset": 3644,
+      "value": "secondVillage_wall_lvl8"
+    },
+    {
+      "offset": 3704,
+      "value": "secondVillage_wall_lvl7_corner_3"
+    },
+    {
+      "offset": 3776,
+      "value": "secondVillage_wall_lvl7_corner_2"
+    },
+    {
+      "offset": 3848,
+      "value": "secondVillage_wall_lvl7_corner_1"
+    },
+    {
+      "offset": 3920,
+      "value": "secondVillage_wall_lvl7_corner"
+    },
+    {
+      "offset": 3988,
+      "value": "secondVillage_wall_lvl7_3"
+    },
+    {
+      "offset": 4052,
+      "value": "secondVillage_wall_lvl7_2"
+    },
+    {
+      "offset": 4116,
+      "value": "secondVillage_wall_lvl7_1"
+    },
+    {
+      "offset": 4180,
+      "value": "secondVillage_wall_lvl7"
+    },
+    {
+      "offset": 4240,
+      "value": "secondVillage_wall_lvl6_corner_3"
+    },
+    {
+      "offset": 4312,
+      "value": "secondVillage_wall_lvl6_corner_2"
+    },
+    {
+      "offset": 4384,
+      "value": "secondVillage_wall_lvl6_corner_1"
+    },
+    {
+      "offset": 4456,
+      "value": "secondVillage_wall_lvl6_corner"
+    },
+    {
+      "offset": 4524,
+      "value": "secondVillage_wall_lvl6_3"
+    },
+    {
+      "offset": 4588,
+      "value": "secondVillage_wall_lvl6_2"
+    },
+    {
+      "offset": 4652,
+      "value": "secondVillage_wall_lvl6_1"
+    },
+    {
+      "offset": 4716,
+      "value": "secondVillage_wall_lvl6"
+    },
+    {
+      "offset": 4776,
+      "value": "secondVillage_wall_lvl5_corner_3"
+    },
+    {
+      "offset": 4848,
+      "value": "secondVillage_wall_lvl5_corner_2"
+    },
+    {
+      "offset": 4920,
+      "value": "secondVillage_wall_lvl5_corner_1"
+    },
+    {
+      "offset": 4992,
+      "value": "secondVillage_wall_lvl5_corner"
+    },
+    {
+      "offset": 5060,
+      "value": "secondVillage_wall_lvl5_3"
+    },
+    {
+      "offset": 5124,
+      "value": "secondVillage_wall_lvl5_2"
+    },
+    {
+      "offset": 5188,
+      "value": "secondVillage_wall_lvl5_1"
+    },
+    {
+      "offset": 5252,
+      "value": "secondVillage_wall_lvl5"
+    },
+    {
+      "offset": 5312,
+      "value": "secondVillage_wall_lvl4_corner_3"
+    },
+    {
+      "offset": 5384,
+      "value": "secondVillage_wall_lvl4_corner_2"
+    },
+    {
+      "offset": 5456,
+      "value": "secondVillage_wall_lvl4_corner_1"
+    },
+    {
+      "offset": 5528,
+      "value": "secondVillage_wall_lvl4_corner"
+    },
+    {
+      "offset": 5596,
+      "value": "secondVillage_wall_lvl4_3"
+    },
+    {
+      "offset": 5660,
+      "value": "secondVillage_wall_lvl4_2"
+    },
+    {
+      "offset": 5724,
+      "value": "secondVillage_wall_lvl4_1"
+    },
+    {
+      "offset": 5788,
+      "value": "secondVillage_wall_lvl4"
+    },
+    {
+      "offset": 5848,
+      "value": "secondVillage_wall_lvl3_corner_3"
+    },
+    {
+      "offset": 5920,
+      "value": "secondVillage_wall_lvl3_corner_2"
+    },
+    {
+      "offset": 5992,
+      "value": "secondVillage_wall_lvl3_corner_1"
+    },
+    {
+      "offset": 6064,
+      "value": "secondVillage_wall_lvl3_corner"
+    },
+    {
+      "offset": 6132,
+      "value": "secondVillage_wall_lvl3_3"
+    },
+    {
+      "offset": 6196,
+      "value": "secondVillage_wall_lvl3_2"
+    },
+    {
+      "offset": 6260,
+      "value": "secondVillage_wall_lvl3_1"
+    },
+    {
+      "offset": 6324,
+      "value": "secondVillage_wall_lvl3"
+    },
+    {
+      "offset": 6376,
+      "value": "XpM@ "
+    },
+    {
+      "offset": 6384,
+      "value": "secondVillage_wall_lvl2_corner_3"
+    },
+    {
+      "offset": 6456,
+      "value": "secondVillage_wall_lvl2_corner_2"
+    },
+    {
+      "offset": 6528,
+      "value": "secondVillage_wall_lvl2_corner_1"
+    },
+    {
+      "offset": 6600,
+      "value": "secondVillage_wall_lvl2_corner"
+    },
+    {
+      "offset": 6668,
+      "value": "secondVillage_wall_lvl2_3"
+    },
+    {
+      "offset": 6732,
+      "value": "secondVillage_wall_lvl2_2"
+    },
+    {
+      "offset": 6796,
+      "value": "secondVillage_wall_lvl2_1"
+    },
+    {
+      "offset": 6860,
+      "value": "secondVillage_wall_lvl2"
+    },
+    {
+      "offset": 6920,
+      "value": "secondVillage_wall_lvl1_corner_3"
+    },
+    {
+      "offset": 6992,
+      "value": "secondVillage_wall_lvl1_corner_2"
+    },
+    {
+      "offset": 7064,
+      "value": "secondVillage_wall_lvl1_corner_1"
+    },
+    {
+      "offset": 7136,
+      "value": "secondVillage_wall_lvl1_corner"
+    },
+    {
+      "offset": 7204,
+      "value": "secondVillage_wall_lvl1_3"
+    },
+    {
+      "offset": 7268,
+      "value": "secondVillage_wall_lvl1_2"
+    },
+    {
+      "offset": 7332,
+      "value": "secondVillage_wall_lvl1_1"
+    },
+    {
+      "offset": 7396,
+      "value": "secondVillage_wall_lvl10_corner_3"
+    },
+    {
+      "offset": 7468,
+      "value": "secondVillage_wall_lvl10_corner_2"
+    },
+    {
+      "offset": 7540,
+      "value": "secondVillage_wall_lvl10_corner_1"
+    },
+    {
+      "offset": 7612,
+      "value": "secondVillage_wall_lvl10_corner"
+    },
+    {
+      "offset": 7680,
+      "value": "secondVillage_wall_lvl10_3"
+    },
+    {
+      "offset": 7744,
+      "value": "secondVillage_wall_lvl10_2"
+    },
+    {
+      "offset": 7808,
+      "value": "secondVillage_wall_lvl10_1"
+    },
+    {
+      "offset": 7872,
+      "value": "secondVillage_wall_lvl10"
+    },
+    {
+      "offset": 7936,
+      "value": "secondVillage_wall_lvl1"
+    },
+    {
+      "offset": 7996,
+      "value": "push_trap_target"
+    },
+    {
+      "offset": 8052,
+      "value": "push_trap_lvl9_unarmed_3"
+    },
+    {
+      "offset": 8116,
+      "value": "push_trap_lvl9_unarmed_2"
+    },
+    {
+      "offset": 8180,
+      "value": "push_trap_lvl9_unarmed_1"
+    },
+    {
+      "offset": 8244,
+      "value": "push_trap_lvl9_unarmed_0"
+    },
+    {
+      "offset": 8308,
+      "value": "push_trap_lvl9_idle_3"
+    },
+    {
+      "offset": 8368,
+      "value": "push_trap_lvl9_idle_2"
+    },
+    {
+      "offset": 8428,
+      "value": "push_trap_lvl9_idle_1"
+    },
+    {
+      "offset": 8488,
+      "value": "push_trap_lvl9_idle_0"
+    },
+    {
+      "offset": 8548,
+      "value": "push_trap_lvl9_3"
+    },
+    {
+      "offset": 8604,
+      "value": "push_trap_lvl9_2"
+    },
+    {
+      "offset": 8660,
+      "value": "push_trap_lvl9_1"
+    },
+    {
+      "offset": 8716,
+      "value": "push_trap_lvl9_0"
+    },
+    {
+      "offset": 8772,
+      "value": "push_trap_lvl8_unarmed_3"
+    },
+    {
+      "offset": 8836,
+      "value": "push_trap_lvl8_unarmed_2"
+    },
+    {
+      "offset": 8900,
+      "value": "push_trap_lvl8_unarmed_1"
+    },
+    {
+      "offset": 8964,
+      "value": "push_trap_lvl8_unarmed_0"
+    },
+    {
+      "offset": 9028,
+      "value": "push_trap_lvl8_idle_3"
+    },
+    {
+      "offset": 9088,
+      "value": "push_trap_lvl8_idle_2"
+    },
+    {
+      "offset": 9148,
+      "value": "push_trap_lvl8_idle_1"
+    },
+    {
+      "offset": 9208,
+      "value": "push_trap_lvl8_idle_0"
+    },
+    {
+      "offset": 9268,
+      "value": "push_trap_lvl8_3"
+    },
+    {
+      "offset": 9324,
+      "value": "push_trap_lvl8_2"
+    },
+    {
+      "offset": 9380,
+      "value": "push_trap_lvl8_1"
+    },
+    {
+      "offset": 9436,
+      "value": "push_trap_lvl8_0"
+    },
+    {
+      "offset": 9492,
+      "value": "push_trap_lvl7_unarmed_3"
+    },
+    {
+      "offset": 9556,
+      "value": "push_trap_lvl7_unarmed_2"
+    },
+    {
+      "offset": 9620,
+      "value": "push_trap_lvl7_unarmed_1"
+    },
+    {
+      "offset": 9684,
+      "value": "push_trap_lvl7_unarmed_0"
+    },
+    {
+      "offset": 9748,
+      "value": "push_trap_lvl7_idle_3"
+    },
+    {
+      "offset": 9808,
+      "value": "push_trap_lvl7_idle_2"
+    },
+    {
+      "offset": 9868,
+      "value": "push_trap_lvl7_idle_1"
+    },
+    {
+      "offset": 9928,
+      "value": "push_trap_lvl7_idle_0"
+    },
+    {
+      "offset": 9988,
+      "value": "push_trap_lvl7_3"
+    },
+    {
+      "offset": 10044,
+      "value": "push_trap_lvl7_2"
+    },
+    {
+      "offset": 10100,
+      "value": "push_trap_lvl7_1"
+    },
+    {
+      "offset": 10156,
+      "value": "push_trap_lvl7_0"
+    },
+    {
+      "offset": 10212,
+      "value": "push_trap_lvl6_unarmed_3"
+    },
+    {
+      "offset": 10276,
+      "value": "push_trap_lvl6_unarmed_2"
+    },
+    {
+      "offset": 10340,
+      "value": "push_trap_lvl6_unarmed_1"
+    },
+    {
+      "offset": 10404,
+      "value": "push_trap_lvl6_unarmed_0"
+    },
+    {
+      "offset": 10468,
+      "value": "push_trap_lvl6_idle_3"
+    },
+    {
+      "offset": 10528,
+      "value": "push_trap_lvl6_idle_2"
+    },
+    {
+      "offset": 10588,
+      "value": "push_trap_lvl6_idle_1"
+    },
+    {
+      "offset": 10648,
+      "value": "push_trap_lvl6_idle_0"
+    },
+    {
+      "offset": 10708,
+      "value": "push_trap_lvl6_3"
+    },
+    {
+      "offset": 10764,
+      "value": "push_trap_lvl6_2"
+    },
+    {
+      "offset": 10820,
+      "value": "push_trap_lvl6_1"
+    },
+    {
+      "offset": 10876,
+      "value": "push_trap_lvl6_0"
+    },
+    {
+      "offset": 10932,
+      "value": "push_trap_lvl5_unarmed_3"
+    },
+    {
+      "offset": 10996,
+      "value": "push_trap_lvl5_unarmed_2"
+    },
+    {
+      "offset": 11060,
+      "value": "push_trap_lvl5_unarmed_1"
+    },
+    {
+      "offset": 11124,
+      "value": "push_trap_lvl5_unarmed_0"
+    },
+    {
+      "offset": 11188,
+      "value": "push_trap_lvl5_idle_3"
+    },
+    {
+      "offset": 11248,
+      "value": "push_trap_lvl5_idle_2"
+    },
+    {
+      "offset": 11308,
+      "value": "push_trap_lvl5_idle_1"
+    },
+    {
+      "offset": 11368,
+      "value": "push_trap_lvl5_idle_0"
+    },
+    {
+      "offset": 11428,
+      "value": "push_trap_lvl5_3"
+    },
+    {
+      "offset": 11484,
+      "value": "push_trap_lvl5_2"
+    },
+    {
+      "offset": 11540,
+      "value": "push_trap_lvl5_1"
+    },
+    {
+      "offset": 11596,
+      "value": "push_trap_lvl5_0"
+    },
+    {
+      "offset": 11652,
+      "value": "push_trap_lvl4_idle_3"
+    },
+    {
+      "offset": 11712,
+      "value": "push_trap_lvl4_idle_2"
+    },
+    {
+      "offset": 11772,
+      "value": "push_trap_lvl4_idle_1"
+    },
+    {
+      "offset": 11832,
+      "value": "push_trap_lvl4_idle_0"
+    },
+    {
+      "offset": 11892,
+      "value": "push_trap_lvl4_3"
+    },
+    {
+      "offset": 11948,
+      "value": "push_trap_lvl4_2"
+    },
+    {
+      "offset": 12004,
+      "value": "push_trap_lvl4_1"
+    },
+    {
+      "offset": 12060,
+      "value": "push_trap_lvl4_0"
+    },
+    {
+      "offset": 12116,
+      "value": "push_trap_lvl3_unarmed_3"
+    },
+    {
+      "offset": 12180,
+      "value": "push_trap_lvl3_unarmed_2"
+    },
+    {
+      "offset": 12244,
+      "value": "push_trap_lvl3_unarmed_1"
+    },
+    {
+      "offset": 12308,
+      "value": "push_trap_lvl3_unarmed_0"
+    },
+    {
+      "offset": 12372,
+      "value": "push_trap_lvl3_idle_3"
+    },
+    {
+      "offset": 12432,
+      "value": "push_trap_lvl3_idle_2"
+    },
+    {
+      "offset": 12492,
+      "value": "push_trap_lvl3_idle_1"
+    },
+    {
+      "offset": 12552,
+      "value": "push_trap_lvl3_idle_0"
+    },
+    {
+      "offset": 12612,
+      "value": "push_trap_lvl3_3"
+    },
+    {
+      "offset": 12668,
+      "value": "push_trap_lvl3_2"
+    },
+    {
+      "offset": 12724,
+      "value": "push_trap_lvl3_1"
+    },
+    {
+      "offset": 12780,
+      "value": "push_trap_lvl3_0"
+    },
+    {
+      "offset": 12836,
+      "value": "push_trap_lvl2_unarmed_3"
+    },
+    {
+      "offset": 12900,
+      "value": "push_trap_lvl2_unarmed_2"
+    },
+    {
+      "offset": 12964,
+      "value": "push_trap_lvl2_unarmed_1"
+    },
+    {
+      "offset": 13028,
+      "value": "push_trap_lvl2_unarmed_0"
+    },
+    {
+      "offset": 13092,
+      "value": "push_trap_lvl2_idle_3"
+    },
+    {
+      "offset": 13152,
+      "value": "push_trap_lvl2_idle_2"
+    },
+    {
+      "offset": 13212,
+      "value": "push_trap_lvl2_idle_1"
+    },
+    {
+      "offset": 13272,
+      "value": "push_trap_lvl2_idle_0"
+    },
+    {
+      "offset": 13332,
+      "value": "push_trap_lvl2_3"
+    },
+    {
+      "offset": 13388,
+      "value": "push_trap_lvl2_2"
+    },
+    {
+      "offset": 13444,
+      "value": "push_trap_lvl2_1"
+    },
+    {
+      "offset": 13500,
+      "value": "push_trap_lvl2_0"
+    },
+    {
+      "offset": 13556,
+      "value": "push_trap_lvl1_unarmed_3"
+    },
+    {
+      "offset": 13620,
+      "value": "push_trap_lvl1_unarmed_2"
+    },
+    {
+      "offset": 13684,
+      "value": "push_trap_lvl1_unarmed_1"
+    },
+    {
+      "offset": 13748,
+      "value": "push_trap_lvl1_unarmed_0"
+    },
+    {
+      "offset": 13812,
+      "value": "push_trap_lvl1_idle_3"
+    },
+    {
+      "offset": 13872,
+      "value": "push_trap_lvl1_idle_2"
+    },
+    {
+      "offset": 13932,
+      "value": "push_trap_lvl1_idle_1"
+    },
+    {
+      "offset": 13992,
+      "value": "push_trap_lvl1_idle_0"
+    },
+    {
+      "offset": 14052,
+      "value": "push_trap_lvl1_3"
+    },
+    {
+      "offset": 14108,
+      "value": "push_trap_lvl1_2"
+    },
+    {
+      "offset": 14164,
+      "value": "push_trap_lvl1_1"
+    },
+    {
+      "offset": 14220,
+      "value": "push_trap_lvl1_0"
+    },
+    {
+      "offset": 14276,
+      "value": "push_trap_lvl10_unarmed_3"
+    },
+    {
+      "offset": 14340,
+      "value": "push_trap_lvl10_unarmed_2"
+    },
+    {
+      "offset": 14404,
+      "value": "push_trap_lvl10_unarmed_1"
+    },
+    {
+      "offset": 14468,
+      "value": "push_trap_lvl10_unarmed_0"
+    },
+    {
+      "offset": 14532,
+      "value": "push_trap_lvl10_idle_3"
+    },
+    {
+      "offset": 14592,
+      "value": "push_trap_lvl10_idle_2"
+    },
+    {
+      "offset": 14652,
+      "value": "push_trap_lvl10_idle_1"
+    },
+    {
+      "offset": 14712,
+      "value": "push_trap_lvl10_idle_0"
+    },
+    {
+      "offset": 14772,
+      "value": "push_trap_lvl10_3"
+    },
+    {
+      "offset": 14828,
+      "value": "push_trap_lvl10_2"
+    },
+    {
+      "offset": 14884,
+      "value": "push_trap_lvl10_1"
+    },
+    {
+      "offset": 14940,
+      "value": "push_trap_lvl10_0"
+    },
+    {
+      "offset": 14996,
+      "value": "poison_mortar_lvl1"
+    },
+    {
+      "offset": 15052,
+      "value": "outpost_lvl10_proto"
+    },
+    {
+      "offset": 15108,
+      "value": "outpost_10"
+    },
+    {
+      "offset": 15156,
+      "value": "outpost_09"
+    },
+    {
+      "offset": 15204,
+      "value": "outpost_08"
+    },
+    {
+      "offset": 15252,
+      "value": "outpost_07"
+    },
+    {
+      "offset": 15300,
+      "value": "outpost_06"
+    },
+    {
+      "offset": 15348,
+      "value": "outpost_05"
+    },
+    {
+      "offset": 15396,
+      "value": "outpost_04"
+    },
+    {
+      "offset": 15444,
+      "value": "outpost_03"
+    },
+    {
+      "offset": 15492,
+      "value": "outpost_02"
+    },
+    {
+      "offset": 15540,
+      "value": "outpost_01"
+    },
+    {
+      "offset": 15588,
+      "value": "new_builders_hut_boto"
+    },
+    {
+      "offset": 15648,
+      "value": "new_builders_hut_arto_lvl5_a"
+    },
+    {
+      "offset": 15716,
+      "value": "new_builders_hut_arto_lvl5"
+    },
+    {
+      "offset": 15780,
+      "value": "new_builders_hut_arto_lvl4"
+    },
+    {
+      "offset": 15844,
+      "value": "new_builders_hut_arto_lvl3"
+    },
+    {
+      "offset": 15908,
+      "value": "new_builders_hut_arto_lvl2"
+    },
+    {
+      "offset": 15972,
+      "value": "new_builders_hut_arto_lvl1"
+    },
+    {
+      "offset": 16036,
+      "value": "new_builders_hut"
+    },
+    {
+      "offset": 16092,
+      "value": "new_TH_lvl9"
+    },
+    {
+      "offset": 16140,
+      "value": "new_TH_lvl8"
+    },
+    {
+      "offset": 16188,
+      "value": "new_TH_lvl7"
+    },
+    {
+      "offset": 16236,
+      "value": "new_TH_lvl6"
+    },
+    {
+      "offset": 16284,
+      "value": "new_TH_lvl5_news"
+    },
+    {
+      "offset": 16340,
+      "value": "new_TH_lvl5"
+    },
+    {
+      "offset": 16388,
+      "value": "new_TH_lvl4"
+    },
+    {
+      "offset": 16436,
+      "value": "new_TH_lvl3"
+    },
+    {
+      "offset": 16484,
+      "value": "new_TH_lvl2"
+    },
+    {
+      "offset": 16532,
+      "value": "new_TH_lvl10"
+    },
+    {
+      "offset": 16584,
+      "value": "new_TH_lvl1"
+    },
+    {
+      "offset": 16632,
+      "value": "multi_mortar_lvl9"
+    },
+    {
+      "offset": 16688,
+      "value": "multi_mortar_lvl8"
+    },
+    {
+      "offset": 16744,
+      "value": "multi_mortar_lvl7"
+    },
+    {
+      "offset": 16800,
+      "value": "multi_mortar_lvl6"
+    },
+    {
+      "offset": 16856,
+      "value": "multi_mortar_lvl5"
+    },
+    {
+      "offset": 16912,
+      "value": "multi_mortar_lvl4"
+    },
+    {
+      "offset": 16968,
+      "value": "multi_mortar_lvl3"
+    },
+    {
+      "offset": 17024,
+      "value": "multi_mortar_lvl2"
+    },
+    {
+      "offset": 17080,
+      "value": "multi_mortar_lvl10"
+    },
+    {
+      "offset": 17136,
+      "value": "multi_mortar_lvl1"
+    },
+    {
+      "offset": 17192,
+      "value": "mega_tesla_lvl9"
+    },
+    {
+      "offset": 17244,
+      "value": "mega_tesla_lvl8"
+    },
+    {
+      "offset": 17296,
+      "value": "mega_tesla_lvl7"
+    },
+    {
+      "offset": 17348,
+      "value": "mega_tesla_lvl6"
+    },
+    {
+      "offset": 17400,
+      "value": "mega_tesla_lvl5"
+    },
+    {
+      "offset": 17452,
+      "value": "mega_tesla_lvl4"
+    },
+    {
+      "offset": 17504,
+      "value": "mega_tesla_lvl3"
+    },
+    {
+      "offset": 17556,
+      "value": "mega_tesla_lvl2"
+    },
+    {
+      "offset": 17608,
+      "value": "mega_tesla_lvl10"
+    },
+    {
+      "offset": 17664,
+      "value": "mega_tesla_lvl1"
+    },
+    {
+      "offset": 17716,
+      "value": "megaCannon_lvl9"
+    },
+    {
+      "offset": 17768,
+      "value": "megaCannon_lvl8"
+    },
+    {
+      "offset": 17820,
+      "value": "megaCannon_lvl7"
+    },
+    {
+      "offset": 17872,
+      "value": "megaCannon_lvl6"
+    },
+    {
+      "offset": 17924,
+      "value": "megaCannon_lvl5"
+    },
+    {
+      "offset": 17976,
+      "value": "megaCannon_lvl4"
+    },
+    {
+      "offset": 18028,
+      "value": "megaCannon_lvl3"
+    },
+    {
+      "offset": 18080,
+      "value": "megaCannon_lvl2"
+    },
+    {
+      "offset": 18132,
+      "value": "megaCannon_lvl10"
+    },
+    {
+      "offset": 18188,
+      "value": "megaCannon_lvl1"
+    },
+    {
+      "offset": 18240,
+      "value": "lava_launcher_projectile_3"
+    },
+    {
+      "offset": 18304,
+      "value": "lava_launcher_projectile_2"
+    },
+    {
+      "offset": 18368,
+      "value": "lava_launcher_projectile_1"
+    },
+    {
+      "offset": 18432,
+      "value": "healing_hut_06"
+    },
+    {
+      "offset": 18484,
+      "value": "healing_hut_05"
+    },
+    {
+      "offset": 18536,
+      "value": "healing_hut_04"
+    },
+    {
+      "offset": 18588,
+      "value": "healing_hut_03"
+    },
+    {
+      "offset": 18640,
+      "value": "healing_hut_02"
+    },
+    {
+      "offset": 18692,
+      "value": "healing_hut_01"
+    },
+    {
+      "offset": 18744,
+      "value": "generic_upgrade_state1"
+    },
+    {
+      "offset": 18804,
+      "value": "generic_construction_state1"
+    },
+    {
+      "offset": 18868,
+      "value": "gem_mine_lvl9"
+    },
+    {
+      "offset": 18920,
+      "value": "gem_mine_lvl8"
+    },
+    {
+      "offset": 18972,
+      "value": "gem_mine_lvl7"
+    },
+    {
+      "offset": 19024,
+      "value": "gem_mine_lvl6"
+    },
+    {
+      "offset": 19076,
+      "value": "gem_mine_lvl5"
+    },
+    {
+      "offset": 19128,
+      "value": "gem_mine_lvl4"
+    },
+    {
+      "offset": 19180,
+      "value": "gem_mine_lvl3"
+    },
+    {
+      "offset": 19232,
+      "value": "gem_mine_lvl2"
+    },
+    {
+      "offset": 19284,
+      "value": "gem_mine_lvl10"
+    },
+    {
+      "offset": 19336,
+      "value": "gem_mine_lvl1"
+    },
+    {
+      "offset": 19388,
+      "value": "gem_mine_broken"
+    },
+    {
+      "offset": 19440,
+      "value": "elixir_cart"
+    },
+    {
+      "offset": 19488,
+      "value": "doubleCannon_lvl9"
+    },
+    {
+      "offset": 19544,
+      "value": "doubleCannon_lvl8"
+    },
+    {
+      "offset": 19600,
+      "value": "doubleCannon_lvl7"
+    },
+    {
+      "offset": 19656,
+      "value": "doubleCannon_lvl6"
+    },
+    {
+      "offset": 19712,
+      "value": "doubleCannon_lvl5"
+    },
+    {
+      "offset": 19768,
+      "value": "doubleCannon_lvl4"
+    },
+    {
+      "offset": 19824,
+      "value": "doubleCannon_lvl3"
+    },
+    {
+      "offset": 19880,
+      "value": "doubleCannon_lvl2"
+    },
+    {
+      "offset": 19936,
+      "value": "doubleCannon_lvl12"
+    },
+    {
+      "offset": 19992,
+      "value": "doubleCannon_lvl11"
+    },
+    {
+      "offset": 20048,
+      "value": "doubleCannon_lvl10"
+    },
+    {
+      "offset": 20104,
+      "value": "doubleCannon_lvl1"
+    },
+    {
+      "offset": 20160,
+      "value": "clocktower_lvl9"
+    },
+    {
+      "offset": 20212,
+      "value": "clocktower_lvl8"
+    },
+    {
+      "offset": 20264,
+      "value": "clocktower_lvl7"
+    },
+    {
+      "offset": 20316,
+      "value": "clocktower_lvl6"
+    },
+    {
+      "offset": 20368,
+      "value": "clocktower_lvl5"
+    },
+    {
+      "offset": 20420,
+      "value": "clocktower_lvl4"
+    },
+    {
+      "offset": 20472,
+      "value": "clocktower_lvl3"
+    },
+    {
+      "offset": 20524,
+      "value": "clocktower_lvl2"
+    },
+    {
+      "offset": 20576,
+      "value": "clocktower_lvl10"
+    },
+    {
+      "offset": 20632,
+      "value": "clocktower_lvl1"
+    },
+    {
+      "offset": 20684,
+      "value": "clocktower_broken"
+    },
+    {
+      "offset": 20740,
+      "value": "air_barrel_projectile_4"
+    },
+    {
+      "offset": 20800,
+      "value": "air_barrel_projectile_3"
+    },
+    {
+      "offset": 20860,
+      "value": "air_barrel_projectile_2"
+    },
+    {
+      "offset": 20920,
+      "value": "air_barrel_projectile_1"
+    },
+    {
+      "offset": 20980,
+      "value": "airDefence_factory_lvl9"
+    },
+    {
+      "offset": 21040,
+      "value": "airDefence_factory_lvl8"
+    },
+    {
+      "offset": 21100,
+      "value": "airDefence_factory_lvl7"
+    },
+    {
+      "offset": 21160,
+      "value": "airDefence_factory_lvl6"
+    },
+    {
+      "offset": 21220,
+      "value": "airDefence_factory_lvl5"
+    },
+    {
+      "offset": 21280,
+      "value": "airDefence_factory_lvl4"
+    },
+    {
+      "offset": 21340,
+      "value": "airDefence_factory_lvl3"
+    },
+    {
+      "offset": 21400,
+      "value": "airDefence_factory_lvl2"
+    },
+    {
+      "offset": 21460,
+      "value": "airDefence_factory_lvl10"
+    },
+    {
+      "offset": 21524,
+      "value": "airDefence_factory_lvl1"
+    },
+    {
+      "offset": 21584,
+      "value": "airDefence_box_lvl9"
+    },
+    {
+      "offset": 21640,
+      "value": "airDefence_box_lvl8"
+    },
+    {
+      "offset": 21696,
+      "value": "airDefence_box_lvl7"
+    },
+    {
+      "offset": 21752,
+      "value": "airDefence_box_lvl6"
+    },
+    {
+      "offset": 21808,
+      "value": "airDefence_box_lvl5"
+    },
+    {
+      "offset": 21864,
+      "value": "airDefence_box_lvl4"
+    },
+    {
+      "offset": 21920,
+      "value": "airDefence_box_lvl3"
+    },
+    {
+      "offset": 21976,
+      "value": "airDefence_box_lvl2"
+    },
+    {
+      "offset": 22032,
+      "value": "airDefence_box_lvl10"
+    },
+    {
+      "offset": 22092,
+      "value": "airDefence_box_lvl1"
+    },
+    {
+      "offset": 22148,
+      "value": "adv_training_camp_lvl9"
+    },
+    {
+      "offset": 22208,
+      "value": "adv_training_camp_lvl8"
+    },
+    {
+      "offset": 22268,
+      "value": "adv_training_camp_lvl7"
+    },
+    {
+      "offset": 22328,
+      "value": "adv_training_camp_lvl6"
+    },
+    {
+      "offset": 22388,
+      "value": "adv_training_camp_lvl5"
+    },
+    {
+      "offset": 22448,
+      "value": "adv_training_camp_lvl4"
+    },
+    {
+      "offset": 22508,
+      "value": "adv_training_camp_lvl3"
+    },
+    {
+      "offset": 22568,
+      "value": "adv_training_camp_lvl2"
+    },
+    {
+      "offset": 22628,
+      "value": "adv_training_camp_lvl12"
+    },
+    {
+      "offset": 22688,
+      "value": "adv_training_camp_lvl11"
+    },
+    {
+      "offset": 22748,
+      "value": "adv_training_camp_lvl10"
+    },
+    {
+      "offset": 22808,
+      "value": "adv_training_camp_lvl1"
+    },
+    {
+      "offset": 22868,
+      "value": "adv_training_camp_broken"
+    },
+    {
+      "offset": 22932,
+      "value": "adv_fireplace_lvl7"
+    },
+    {
+      "offset": 22988,
+      "value": "adv_fireplace_lvl1_3x3"
+    },
+    {
+      "offset": 23048,
+      "value": "adv_fireplace_broken_3x3"
+    },
+    {
+      "offset": 23112,
+      "value": "adv_archer_tower_lvl9_air"
+    },
+    {
+      "offset": 23176,
+      "value": "adv_archer_tower_lvl9"
+    },
+    {
+      "offset": 23236,
+      "value": "adv_archer_tower_lvl8_air"
+    },
+    {
+      "offset": 23300,
+      "value": "adv_archer_tower_lvl8"
+    },
+    {
+      "offset": 23360,
+      "value": "adv_archer_tower_lvl7_air"
+    },
+    {
+      "offset": 23424,
+      "value": "adv_archer_tower_lvl7"
+    },
+    {
+      "offset": 23484,
+      "value": "adv_archer_tower_lvl6_air"
+    },
+    {
+      "offset": 23548,
+      "value": "adv_archer_tower_lvl6"
+    },
+    {
+      "offset": 23608,
+      "value": "adv_archer_tower_lvl5_air"
+    },
+    {
+      "offset": 23672,
+      "value": "adv_archer_tower_lvl5"
+    },
+    {
+      "offset": 23732,
+      "value": "adv_archer_tower_lvl4_air"
+    },
+    {
+      "offset": 23796,
+      "value": "adv_archer_tower_lvl4"
+    },
+    {
+      "offset": 23856,
+      "value": "adv_archer_tower_lvl3_air"
+    },
+    {
+      "offset": 23920,
+      "value": "adv_archer_tower_lvl3"
+    },
+    {
+      "offset": 23980,
+      "value": "adv_archer_tower_lvl2_air"
+    },
+    {
+      "offset": 24044,
+      "value": "adv_archer_tower_lvl2"
+    },
+    {
+      "offset": 24104,
+      "value": "adv_archer_tower_lvl1_air"
+    },
+    {
+      "offset": 24168,
+      "value": "adv_archer_tower_lvl10_air"
+    },
+    {
+      "offset": 24232,
+      "value": "adv_archer_tower_lvl10"
+    },
+    {
+      "offset": 24292,
+      "value": "adv_archer_tower_lvl1"
+    },
+    {
+      "offset": 24352,
+      "value": "adv_archer_tower_broken"
+    },
+    {
+      "offset": 24412,
+      "value": "advBomb_upg_lvl1"
+    },
+    {
+      "offset": 24468,
+      "value": "advBomb_lvl9_unarmed"
+    },
+    {
+      "offset": 24528,
+      "value": "advBomb_lvl9_triggered"
+    },
+    {
+      "offset": 24588,
+      "value": "advBomb_lvl9_air_unarmed"
+    },
+    {
+      "offset": 24652,
+      "value": "advBomb_lvl9_air_triggered"
+    },
+    {
+      "offset": 24716,
+      "value": "advBomb_lvl9_air"
+    },
+    {
+      "offset": 24772,
+      "value": "advBomb_lvl9"
+    },
+    {
+      "offset": 24824,
+      "value": "advBomb_lvl8_unarmed"
+    },
+    {
+      "offset": 24884,
+      "value": "advBomb_lvl8_triggered"
+    },
+    {
+      "offset": 24944,
+      "value": "advBomb_lvl8_air_unarmed"
+    },
+    {
+      "offset": 25008,
+      "value": "advBomb_lvl8_air_triggered"
+    },
+    {
+      "offset": 25072,
+      "value": "advBomb_lvl8_air"
+    },
+    {
+      "offset": 25128,
+      "value": "advBomb_lvl8"
+    },
+    {
+      "offset": 25180,
+      "value": "advBomb_lvl7_unarmed"
+    },
+    {
+      "offset": 25240,
+      "value": "advBomb_lvl7_triggered"
+    },
+    {
+      "offset": 25300,
+      "value": "advBomb_lvl7_air_unarmed"
+    },
+    {
+      "offset": 25364,
+      "value": "advBomb_lvl7_air_triggered"
+    },
+    {
+      "offset": 25428,
+      "value": "advBomb_lvl7_air"
+    },
+    {
+      "offset": 25484,
+      "value": "advBomb_lvl7"
+    },
+    {
+      "offset": 25536,
+      "value": "advBomb_lvl6_unarmed"
+    },
+    {
+      "offset": 25596,
+      "value": "advBomb_lvl6_triggered"
+    },
+    {
+      "offset": 25656,
+      "value": "advBomb_lvl6_air_unarmed"
+    },
+    {
+      "offset": 25720,
+      "value": "advBomb_lvl6_air_triggered"
+    },
+    {
+      "offset": 25784,
+      "value": "advBomb_lvl6_air"
+    },
+    {
+      "offset": 25840,
+      "value": "advBomb_lvl6"
+    },
+    {
+      "offset": 25892,
+      "value": "advBomb_lvl5_unarmed"
+    },
+    {
+      "offset": 25952,
+      "value": "advBomb_lvl5_triggered"
+    },
+    {
+      "offset": 26012,
+      "value": "advBomb_lvl5_air_unarmed"
+    },
+    {
+      "offset": 26076,
+      "value": "advBomb_lvl5_air_triggered"
+    },
+    {
+      "offset": 26140,
+      "value": "advBomb_lvl5_air"
+    },
+    {
+      "offset": 26196,
+      "value": "advBomb_lvl5"
+    },
+    {
+      "offset": 26248,
+      "value": "advBomb_lvl4_unarmed"
+    },
+    {
+      "offset": 26308,
+      "value": "advBomb_lvl4_triggered"
+    },
+    {
+      "offset": 26368,
+      "value": "advBomb_lvl4_air_unarmed"
+    },
+    {
+      "offset": 26432,
+      "value": "advBomb_lvl4_air_triggered"
+    },
+    {
+      "offset": 26496,
+      "value": "advBomb_lvl4_air"
+    },
+    {
+      "offset": 26552,
+      "value": "advBomb_lvl4"
+    },
+    {
+      "offset": 26604,
+      "value": "advBomb_lvl3_unarmed"
+    },
+    {
+      "offset": 26664,
+      "value": "advBomb_lvl3_triggered"
+    },
+    {
+      "offset": 26724,
+      "value": "advBomb_lvl3_air_unarmed"
+    },
+    {
+      "offset": 26788,
+      "value": "advBomb_lvl3_air_triggered"
+    },
+    {
+      "offset": 26852,
+      "value": "advBomb_lvl3_air"
+    },
+    {
+      "offset": 26908,
+      "value": "advBomb_lvl3"
+    },
+    {
+      "offset": 26960,
+      "value": "advBomb_lvl2_unarmed"
+    },
+    {
+      "offset": 27020,
+      "value": "advBomb_lvl2_triggered"
+    },
+    {
+      "offset": 27080,
+      "value": "advBomb_lvl2_air_unarmed"
+    },
+    {
+      "offset": 27144,
+      "value": "advBomb_lvl2_air_triggered"
+    },
+    {
+      "offset": 27208,
+      "value": "advBomb_lvl2_air"
+    },
+    {
+      "offset": 27264,
+      "value": "advBomb_lvl2"
+    },
+    {
+      "offset": 27316,
+      "value": "advBomb_lvl1_unarmed"
+    },
+    {
+      "offset": 27376,
+      "value": "advBomb_lvl1_triggered"
+    },
+    {
+      "offset": 27436,
+      "value": "advBomb_lvl1_air_unarmed"
+    },
+    {
+      "offset": 27500,
+      "value": "advBomb_lvl1_air_triggered"
+    },
+    {
+      "offset": 27564,
+      "value": "advBomb_lvl1_air"
+    },
+    {
+      "offset": 27620,
+      "value": "advBomb_lvl10_unarmed"
+    },
+    {
+      "offset": 27680,
+      "value": "advBomb_lvl10_triggered"
+    },
+    {
+      "offset": 27740,
+      "value": "advBomb_lvl10_air_unarmed"
+    },
+    {
+      "offset": 27804,
+      "value": "advBomb_lvl10_air_triggered"
+    },
+    {
+      "offset": 27868,
+      "value": "advBomb_lvl10_air"
+    },
+    {
+      "offset": 27924,
+      "value": "advBomb_lvl10"
+    },
+    {
+      "offset": 27976,
+      "value": "advBomb_lvl1"
+    },
+    {
+      "offset": 28028,
+      "value": "Telescope_lvl9"
+    },
+    {
+      "offset": 28080,
+      "value": "Telescope_lvl8"
+    },
+    {
+      "offset": 28132,
+      "value": "Telescope_lvl7"
+    },
+    {
+      "offset": 28184,
+      "value": "Telescope_lvl6"
+    },
+    {
+      "offset": 28236,
+      "value": "Telescope_lvl5"
+    },
+    {
+      "offset": 28288,
+      "value": "Telescope_lvl4"
+    },
+    {
+      "offset": 28340,
+      "value": "Telescope_lvl3"
+    },
+    {
+      "offset": 28392,
+      "value": "Telescope_lvl2"
+    },
+    {
+      "offset": 28444,
+      "value": "Telescope_lvl10"
+    },
+    {
+      "offset": 28496,
+      "value": "Telescope_lvl1"
+    },
+    {
+      "offset": 28548,
+      "value": "Telescope_broken"
+    },
+    {
+      "offset": 28604,
+      "value": "Lava_Launcher_lvl9"
+    },
+    {
+      "offset": 28660,
+      "value": "Lava_Launcher_lvl8"
+    },
+    {
+      "offset": 28716,
+      "value": "Lava_Launcher_lvl7"
+    },
+    {
+      "offset": 28772,
+      "value": "Lava_Launcher_lvl6"
+    },
+    {
+      "offset": 28828,
+      "value": "Lava_Launcher_lvl5"
+    },
+    {
+      "offset": 28884,
+      "value": "Lava_Launcher_lvl4"
+    },
+    {
+      "offset": 28940,
+      "value": "Lava_Launcher_lvl3"
+    },
+    {
+      "offset": 28996,
+      "value": "Lava_Launcher_lvl2"
+    },
+    {
+      "offset": 29052,
+      "value": "Lava_Launcher_lvl10"
+    },
+    {
+      "offset": 29108,
+      "value": "Lava_Launcher_lvl1"
+    },
+    {
+      "offset": 29164,
+      "value": "GuardPost_lvl9"
+    },
+    {
+      "offset": 29216,
+      "value": "GuardPost_lvl8"
+    },
+    {
+      "offset": 29268,
+      "value": "GuardPost_lvl7"
+    },
+    {
+      "offset": 29320,
+      "value": "GuardPost_lvl6"
+    },
+    {
+      "offset": 29372,
+      "value": "GuardPost_lvl5"
+    },
+    {
+      "offset": 29424,
+      "value": "GuardPost_lvl4"
+    },
+    {
+      "offset": 29476,
+      "value": "GuardPost_lvl3"
+    },
+    {
+      "offset": 29528,
+      "value": "GuardPost_lvl2"
+    },
+    {
+      "offset": 29580,
+      "value": "GuardPost_lvl10"
+    },
+    {
+      "offset": 29632,
+      "value": "GuardPost_lvl1"
+    },
+    {
+      "offset": 29684,
+      "value": "Flamer_lvl9"
+    },
+    {
+      "offset": 29732,
+      "value": "Flamer_lvl8"
+    },
+    {
+      "offset": 29780,
+      "value": "Flamer_lvl7"
+    },
+    {
+      "offset": 29828,
+      "value": "Flamer_lvl6"
+    },
+    {
+      "offset": 29876,
+      "value": "Flamer_lvl5"
+    },
+    {
+      "offset": 29924,
+      "value": "Flamer_lvl4"
+    },
+    {
+      "offset": 29972,
+      "value": "Flamer_lvl3"
+    },
+    {
+      "offset": 30020,
+      "value": "Flamer_lvl2"
+    },
+    {
+      "offset": 30068,
+      "value": "Flamer_lvl10"
+    },
+    {
+      "offset": 30120,
+      "value": "Flamer_lvl1"
+    },
+    {
+      "offset": 30168,
+      "value": "Crusher_lvl9"
+    },
+    {
+      "offset": 30220,
+      "value": "Crusher_lvl8"
+    },
+    {
+      "offset": 30272,
+      "value": "Crusher_lvl7"
+    },
+    {
+      "offset": 30324,
+      "value": "Crusher_lvl6"
+    },
+    {
+      "offset": 30376,
+      "value": "Crusher_lvl5"
+    },
+    {
+      "offset": 30428,
+      "value": "Crusher_lvl4_news"
+    },
+    {
+      "offset": 30484,
+      "value": "Crusher_lvl4"
+    },
+    {
+      "offset": 30536,
+      "value": "Crusher_lvl3"
+    },
+    {
+      "offset": 30588,
+      "value": "Crusher_lvl2"
+    },
+    {
+      "offset": 30640,
+      "value": "Crusher_lvl10"
+    },
+    {
+      "offset": 30692,
+      "value": "Crusher_lvl1"
+    },
+    {
+      "offset": 30744,
+      "value": "BigAdvBomb_lvl9_unarmed"
+    },
+    {
+      "offset": 30804,
+      "value": "BigAdvBomb_lvl9_triggered"
+    },
+    {
+      "offset": 30868,
+      "value": "BigAdvBomb_lvl9_air_unarmed"
+    },
+    {
+      "offset": 30932,
+      "value": "BigAdvBomb_lvl9_air_triggered"
+    },
+    {
+      "offset": 31000,
+      "value": "BigAdvBomb_lvl9_air"
+    },
+    {
+      "offset": 31056,
+      "value": "BigAdvBomb_lvl9"
+    },
+    {
+      "offset": 31108,
+      "value": "BigAdvBomb_lvl8_unarmed"
+    },
+    {
+      "offset": 31168,
+      "value": "BigAdvBomb_lvl8_triggered"
+    },
+    {
+      "offset": 31232,
+      "value": "BigAdvBomb_lvl8_air_unarmed"
+    },
+    {
+      "offset": 31296,
+      "value": "BigAdvBomb_lvl8_air_triggered"
+    },
+    {
+      "offset": 31364,
+      "value": "BigAdvBomb_lvl8_air"
+    },
+    {
+      "offset": 31420,
+      "value": "BigAdvBomb_lvl8"
+    },
+    {
+      "offset": 31472,
+      "value": "BigAdvBomb_lvl7_unarmed"
+    },
+    {
+      "offset": 31532,
+      "value": "BigAdvBomb_lvl7_triggered"
+    },
+    {
+      "offset": 31596,
+      "value": "BigAdvBomb_lvl7_air_unarmed"
+    },
+    {
+      "offset": 31660,
+      "value": "BigAdvBomb_lvl7_air_triggered"
+    },
+    {
+      "offset": 31728,
+      "value": "BigAdvBomb_lvl7_air"
+    },
+    {
+      "offset": 31784,
+      "value": "BigAdvBomb_lvl7"
+    },
+    {
+      "offset": 31836,
+      "value": "BigAdvBomb_lvl6_unarmed"
+    },
+    {
+      "offset": 31896,
+      "value": "BigAdvBomb_lvl6_triggered"
+    },
+    {
+      "offset": 31960,
+      "value": "BigAdvBomb_lvl6_air_unarmed"
+    },
+    {
+      "offset": 32024,
+      "value": "BigAdvBomb_lvl6_air_triggered"
+    },
+    {
+      "offset": 32092,
+      "value": "BigAdvBomb_lvl6_air"
+    },
+    {
+      "offset": 32148,
+      "value": "BigAdvBomb_lvl6"
+    },
+    {
+      "offset": 32200,
+      "value": "BigAdvBomb_lvl5_unarmed"
+    },
+    {
+      "offset": 32260,
+      "value": "BigAdvBomb_lvl5_triggered"
+    },
+    {
+      "offset": 32324,
+      "value": "BigAdvBomb_lvl5_air_unarmed"
+    },
+    {
+      "offset": 32388,
+      "value": "BigAdvBomb_lvl5_air_triggered"
+    },
+    {
+      "offset": 32456,
+      "value": "BigAdvBomb_lvl5_air"
+    },
+    {
+      "offset": 32512,
+      "value": "BigAdvBomb_lvl5"
+    },
+    {
+      "offset": 32564,
+      "value": "BigAdvBomb_lvl4_unarmed"
+    },
+    {
+      "offset": 32624,
+      "value": "BigAdvBomb_lvl4_triggered"
+    },
+    {
+      "offset": 32688,
+      "value": "BigAdvBomb_lvl4_air_unarmed"
+    },
+    {
+      "offset": 32752,
+      "value": "BigAdvBomb_lvl4_air_triggered"
+    },
+    {
+      "offset": 32820,
+      "value": "BigAdvBomb_lvl4_air"
+    },
+    {
+      "offset": 32876,
+      "value": "BigAdvBomb_lvl4"
+    },
+    {
+      "offset": 32928,
+      "value": "BigAdvBomb_lvl3_unarmed"
+    },
+    {
+      "offset": 32988,
+      "value": "BigAdvBomb_lvl3_triggered"
+    },
+    {
+      "offset": 33052,
+      "value": "BigAdvBomb_lvl3_air_unarmed"
+    },
+    {
+      "offset": 33116,
+      "value": "BigAdvBomb_lvl3_air_triggered"
+    },
+    {
+      "offset": 33184,
+      "value": "BigAdvBomb_lvl3_air"
+    },
+    {
+      "offset": 33240,
+      "value": "BigAdvBomb_lvl3"
+    },
+    {
+      "offset": 33292,
+      "value": "BigAdvBomb_lvl2_unarmed"
+    },
+    {
+      "offset": 33352,
+      "value": "BigAdvBomb_lvl2_triggered"
+    },
+    {
+      "offset": 33416,
+      "value": "BigAdvBomb_lvl2_air_unarmed"
+    },
+    {
+      "offset": 33480,
+      "value": "BigAdvBomb_lvl2_air_triggered"
+    },
+    {
+      "offset": 33548,
+      "value": "BigAdvBomb_lvl2_air"
+    },
+    {
+      "offset": 33604,
+      "value": "BigAdvBomb_lvl2"
+    },
+    {
+      "offset": 33656,
+      "value": "BigAdvBomb_lvl1_unarmed"
+    },
+    {
+      "offset": 33716,
+      "value": "BigAdvBomb_lvl1_triggered"
+    },
+    {
+      "offset": 33780,
+      "value": "BigAdvBomb_lvl1_air_unarmed"
+    },
+    {
+      "offset": 33844,
+      "value": "BigAdvBomb_lvl1_air_triggered"
+    },
+    {
+      "offset": 33912,
+      "value": "BigAdvBomb_lvl1_air"
+    },
+    {
+      "offset": 33968,
+      "value": "BigAdvBomb_lvl10_unarmed"
+    },
+    {
+      "offset": 34032,
+      "value": "BigAdvBomb_lvl10_triggered"
+    },
+    {
+      "offset": 34096,
+      "value": "BigAdvBomb_lvl10_air_unarmed"
+    },
+    {
+      "offset": 34164,
+      "value": "BigAdvBomb_lvl10_air_triggered"
+    },
+    {
+      "offset": 34232,
+      "value": "BigAdvBomb_lvl10_air"
+    },
+    {
+      "offset": 34292,
+      "value": "BigAdvBomb_lvl10"
+    },
+    {
+      "offset": 34348,
+      "value": "BigAdvBomb_lvl1"
+    },
+    {
+      "offset": 34408,
+      "value": "BB_hero_altar_flying"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "worker_building_halloween",
+    "trap_2x2_upg",
+    "trap_1x1_upg",
+    "sleep_zzz_3",
+    "sleep_zzz_2",
+    "sleep_zzz",
+    "secondVillage_wall_lvl9_corner_3",
+    "secondVillage_wall_lvl9_corner_2",
+    "secondVillage_wall_lvl9_corner_1",
+    "secondVillage_wall_lvl9_corner",
+    "secondVillage_wall_lvl9_3",
+    "secondVillage_wall_lvl9_2",
+    "secondVillage_wall_lvl9_1",
+    "secondVillage_wall_lvl9",
+    "secondVillage_wall_lvl8_corner_3",
+    "secondVillage_wall_lvl8_corner_2",
+    "secondVillage_wall_lvl8_corner_1",
+    "secondVillage_wall_lvl8_corner",
+    "secondVillage_wall_lvl8_3",
+    "secondVillage_wall_lvl8_2",
+    "secondVillage_wall_lvl8_1",
+    "secondVillage_wall_lvl8",
+    "secondVillage_wall_lvl7_corner_3",
+    "secondVillage_wall_lvl7_corner_2",
+    "secondVillage_wall_lvl7_corner_1",
+    "secondVillage_wall_lvl7_corner",
+    "secondVillage_wall_lvl7_3",
+    "secondVillage_wall_lvl7_2",
+    "secondVillage_wall_lvl7_1",
+    "secondVillage_wall_lvl7",
+    "secondVillage_wall_lvl6_corner_3",
+    "secondVillage_wall_lvl6_corner_2",
+    "secondVillage_wall_lvl6_corner_1",
+    "secondVillage_wall_lvl6_corner",
+    "secondVillage_wall_lvl6_3",
+    "secondVillage_wall_lvl6_2",
+    "secondVillage_wall_lvl6_1",
+    "secondVillage_wall_lvl6",
+    "secondVillage_wall_lvl5_corner_3",
+    "secondVillage_wall_lvl5_corner_2",
+    "secondVillage_wall_lvl5_corner_1",
+    "secondVillage_wall_lvl5_corner",
+    "secondVillage_wall_lvl5_3",
+    "secondVillage_wall_lvl5_2",
+    "secondVillage_wall_lvl5_1",
+    "secondVillage_wall_lvl5",
+    "secondVillage_wall_lvl4_corner_3",
+    "secondVillage_wall_lvl4_corner_2",
+    "secondVillage_wall_lvl4_corner_1",
+    "secondVillage_wall_lvl4_corner",
+    "secondVillage_wall_lvl4_3",
+    "secondVillage_wall_lvl4_2",
+    "secondVillage_wall_lvl4_1",
+    "secondVillage_wall_lvl4",
+    "secondVillage_wall_lvl3_corner_3",
+    "secondVillage_wall_lvl3_corner_2",
+    "secondVillage_wall_lvl3_corner_1",
+    "secondVillage_wall_lvl3_corner",
+    "secondVillage_wall_lvl3_3",
+    "secondVillage_wall_lvl3_2",
+    "secondVillage_wall_lvl3_1",
+    "secondVillage_wall_lvl3",
+    "XpM@ ",
+    "secondVillage_wall_lvl2_corner_3",
+    "secondVillage_wall_lvl2_corner_2",
+    "secondVillage_wall_lvl2_corner_1",
+    "secondVillage_wall_lvl2_corner",
+    "secondVillage_wall_lvl2_3",
+    "secondVillage_wall_lvl2_2",
+    "secondVillage_wall_lvl2_1",
+    "secondVillage_wall_lvl2",
+    "secondVillage_wall_lvl1_corner_3",
+    "secondVillage_wall_lvl1_corner_2",
+    "secondVillage_wall_lvl1_corner_1",
+    "secondVillage_wall_lvl1_corner",
+    "secondVillage_wall_lvl1_3",
+    "secondVillage_wall_lvl1_2",
+    "secondVillage_wall_lvl1_1",
+    "secondVillage_wall_lvl10_corner_3",
+    "secondVillage_wall_lvl10_corner_2",
+    "secondVillage_wall_lvl10_corner_1",
+    "secondVillage_wall_lvl10_corner",
+    "secondVillage_wall_lvl10_3",
+    "secondVillage_wall_lvl10_2",
+    "secondVillage_wall_lvl10_1",
+    "secondVillage_wall_lvl10",
+    "secondVillage_wall_lvl1",
+    "push_trap_target",
+    "push_trap_lvl9_unarmed_3",
+    "push_trap_lvl9_unarmed_2",
+    "push_trap_lvl9_unarmed_1",
+    "push_trap_lvl9_unarmed_0",
+    "push_trap_lvl9_idle_3",
+    "push_trap_lvl9_idle_2",
+    "push_trap_lvl9_idle_1",
+    "push_trap_lvl9_idle_0",
+    "push_trap_lvl9_3",
+    "push_trap_lvl9_2",
+    "push_trap_lvl9_1",
+    "push_trap_lvl9_0",
+    "push_trap_lvl8_unarmed_3",
+    "push_trap_lvl8_unarmed_2",
+    "push_trap_lvl8_unarmed_1",
+    "push_trap_lvl8_unarmed_0",
+    "push_trap_lvl8_idle_3",
+    "push_trap_lvl8_idle_2",
+    "push_trap_lvl8_idle_1",
+    "push_trap_lvl8_idle_0",
+    "push_trap_lvl8_3",
+    "push_trap_lvl8_2",
+    "push_trap_lvl8_1",
+    "push_trap_lvl8_0",
+    "push_trap_lvl7_unarmed_3",
+    "push_trap_lvl7_unarmed_2",
+    "push_trap_lvl7_unarmed_1",
+    "push_trap_lvl7_unarmed_0",
+    "push_trap_lvl7_idle_3",
+    "push_trap_lvl7_idle_2",
+    "push_trap_lvl7_idle_1",
+    "push_trap_lvl7_idle_0",
+    "push_trap_lvl7_3",
+    "push_trap_lvl7_2",
+    "push_trap_lvl7_1",
+    "push_trap_lvl7_0",
+    "push_trap_lvl6_unarmed_3",
+    "push_trap_lvl6_unarmed_2",
+    "push_trap_lvl6_unarmed_1",
+    "push_trap_lvl6_unarmed_0",
+    "push_trap_lvl6_idle_3",
+    "push_trap_lvl6_idle_2",
+    "push_trap_lvl6_idle_1",
+    "push_trap_lvl6_idle_0",
+    "push_trap_lvl6_3",
+    "push_trap_lvl6_2",
+    "push_trap_lvl6_1",
+    "push_trap_lvl6_0",
+    "push_trap_lvl5_unarmed_3",
+    "push_trap_lvl5_unarmed_2",
+    "push_trap_lvl5_unarmed_1",
+    "push_trap_lvl5_unarmed_0",
+    "push_trap_lvl5_idle_3",
+    "push_trap_lvl5_idle_2",
+    "push_trap_lvl5_idle_1",
+    "push_trap_lvl5_idle_0",
+    "push_trap_lvl5_3",
+    "push_trap_lvl5_2",
+    "push_trap_lvl5_1",
+    "push_trap_lvl5_0",
+    "push_trap_lvl4_idle_3",
+    "push_trap_lvl4_idle_2",
+    "push_trap_lvl4_idle_1",
+    "push_trap_lvl4_idle_0",
+    "push_trap_lvl4_3",
+    "push_trap_lvl4_2",
+    "push_trap_lvl4_1",
+    "push_trap_lvl4_0",
+    "push_trap_lvl3_unarmed_3",
+    "push_trap_lvl3_unarmed_2",
+    "push_trap_lvl3_unarmed_1",
+    "push_trap_lvl3_unarmed_0",
+    "push_trap_lvl3_idle_3",
+    "push_trap_lvl3_idle_2",
+    "push_trap_lvl3_idle_1",
+    "push_trap_lvl3_idle_0",
+    "push_trap_lvl3_3",
+    "push_trap_lvl3_2",
+    "push_trap_lvl3_1",
+    "push_trap_lvl3_0",
+    "push_trap_lvl2_unarmed_3",
+    "push_trap_lvl2_unarmed_2",
+    "push_trap_lvl2_unarmed_1",
+    "push_trap_lvl2_unarmed_0",
+    "push_trap_lvl2_idle_3",
+    "push_trap_lvl2_idle_2",
+    "push_trap_lvl2_idle_1",
+    "push_trap_lvl2_idle_0",
+    "push_trap_lvl2_3",
+    "push_trap_lvl2_2",
+    "push_trap_lvl2_1",
+    "push_trap_lvl2_0",
+    "push_trap_lvl1_unarmed_3",
+    "push_trap_lvl1_unarmed_2",
+    "push_trap_lvl1_unarmed_1",
+    "push_trap_lvl1_unarmed_0",
+    "push_trap_lvl1_idle_3",
+    "push_trap_lvl1_idle_2",
+    "push_trap_lvl1_idle_1",
+    "push_trap_lvl1_idle_0",
+    "push_trap_lvl1_3",
+    "push_trap_lvl1_2",
+    "push_trap_lvl1_1",
+    "push_trap_lvl1_0",
+    "push_trap_lvl10_unarmed_3",
+    "push_trap_lvl10_unarmed_2",
+    "push_trap_lvl10_unarmed_1",
+    "push_trap_lvl10_unarmed_0",
+    "push_trap_lvl10_idle_3",
+    "push_trap_lvl10_idle_2",
+    "push_trap_lvl10_idle_1",
+    "push_trap_lvl10_idle_0",
+    "push_trap_lvl10_3",
+    "push_trap_lvl10_2",
+    "push_trap_lvl10_1",
+    "push_trap_lvl10_0",
+    "poison_mortar_lvl1",
+    "outpost_lvl10_proto",
+    "outpost_10",
+    "outpost_09",
+    "outpost_08",
+    "outpost_07",
+    "outpost_06",
+    "outpost_05",
+    "outpost_04",
+    "outpost_03",
+    "outpost_02",
+    "outpost_01",
+    "new_builders_hut_boto",
+    "new_builders_hut_arto_lvl5_a",
+    "new_builders_hut_arto_lvl5",
+    "new_builders_hut_arto_lvl4",
+    "new_builders_hut_arto_lvl3",
+    "new_builders_hut_arto_lvl2",
+    "new_builders_hut_arto_lvl1",
+    "new_builders_hut",
+    "new_TH_lvl9",
+    "new_TH_lvl8",
+    "new_TH_lvl7",
+    "new_TH_lvl6",
+    "new_TH_lvl5_news",
+    "new_TH_lvl5",
+    "new_TH_lvl4",
+    "new_TH_lvl3",
+    "new_TH_lvl2",
+    "new_TH_lvl10",
+    "new_TH_lvl1",
+    "multi_mortar_lvl9",
+    "multi_mortar_lvl8",
+    "multi_mortar_lvl7",
+    "multi_mortar_lvl6",
+    "multi_mortar_lvl5",
+    "multi_mortar_lvl4",
+    "multi_mortar_lvl3",
+    "multi_mortar_lvl2",
+    "multi_mortar_lvl10",
+    "multi_mortar_lvl1",
+    "mega_tesla_lvl9",
+    "mega_tesla_lvl8",
+    "mega_tesla_lvl7",
+    "mega_tesla_lvl6",
+    "mega_tesla_lvl5",
+    "mega_tesla_lvl4",
+    "mega_tesla_lvl3",
+    "mega_tesla_lvl2",
+    "mega_tesla_lvl10",
+    "mega_tesla_lvl1",
+    "megaCannon_lvl9",
+    "megaCannon_lvl8",
+    "megaCannon_lvl7",
+    "megaCannon_lvl6",
+    "megaCannon_lvl5",
+    "megaCannon_lvl4",
+    "megaCannon_lvl3",
+    "megaCannon_lvl2",
+    "megaCannon_lvl10",
+    "megaCannon_lvl1",
+    "lava_launcher_projectile_3",
+    "lava_launcher_projectile_2",
+    "lava_launcher_projectile_1",
+    "healing_hut_06",
+    "healing_hut_05",
+    "healing_hut_04",
+    "healing_hut_03",
+    "healing_hut_02",
+    "healing_hut_01",
+    "generic_upgrade_state1",
+    "generic_construction_state1",
+    "gem_mine_lvl9",
+    "gem_mine_lvl8",
+    "gem_mine_lvl7",
+    "gem_mine_lvl6",
+    "gem_mine_lvl5",
+    "gem_mine_lvl4",
+    "gem_mine_lvl3",
+    "gem_mine_lvl2",
+    "gem_mine_lvl10",
+    "gem_mine_lvl1",
+    "gem_mine_broken",
+    "elixir_cart",
+    "doubleCannon_lvl9",
+    "doubleCannon_lvl8",
+    "doubleCannon_lvl7",
+    "doubleCannon_lvl6",
+    "doubleCannon_lvl5",
+    "doubleCannon_lvl4",
+    "doubleCannon_lvl3",
+    "doubleCannon_lvl2",
+    "doubleCannon_lvl12",
+    "doubleCannon_lvl11",
+    "doubleCannon_lvl10",
+    "doubleCannon_lvl1",
+    "clocktower_lvl9",
+    "clocktower_lvl8",
+    "clocktower_lvl7",
+    "clocktower_lvl6",
+    "clocktower_lvl5",
+    "clocktower_lvl4",
+    "clocktower_lvl3",
+    "clocktower_lvl2",
+    "clocktower_lvl10",
+    "clocktower_lvl1",
+    "clocktower_broken",
+    "air_barrel_projectile_4",
+    "air_barrel_projectile_3",
+    "air_barrel_projectile_2",
+    "air_barrel_projectile_1",
+    "airDefence_factory_lvl9",
+    "airDefence_factory_lvl8",
+    "airDefence_factory_lvl7",
+    "airDefence_factory_lvl6",
+    "airDefence_factory_lvl5",
+    "airDefence_factory_lvl4",
+    "airDefence_factory_lvl3",
+    "airDefence_factory_lvl2",
+    "airDefence_factory_lvl10",
+    "airDefence_factory_lvl1",
+    "airDefence_box_lvl9",
+    "airDefence_box_lvl8",
+    "airDefence_box_lvl7",
+    "airDefence_box_lvl6",
+    "airDefence_box_lvl5",
+    "airDefence_box_lvl4",
+    "airDefence_box_lvl3",
+    "airDefence_box_lvl2",
+    "airDefence_box_lvl10",
+    "airDefence_box_lvl1",
+    "adv_training_camp_lvl9",
+    "adv_training_camp_lvl8",
+    "adv_training_camp_lvl7",
+    "adv_training_camp_lvl6",
+    "adv_training_camp_lvl5",
+    "adv_training_camp_lvl4",
+    "adv_training_camp_lvl3",
+    "adv_training_camp_lvl2",
+    "adv_training_camp_lvl12",
+    "adv_training_camp_lvl11",
+    "adv_training_camp_lvl10",
+    "adv_training_camp_lvl1",
+    "adv_training_camp_broken",
+    "adv_fireplace_lvl7",
+    "adv_fireplace_lvl1_3x3",
+    "adv_fireplace_broken_3x3",
+    "adv_archer_tower_lvl9_air",
+    "adv_archer_tower_lvl9",
+    "adv_archer_tower_lvl8_air",
+    "adv_archer_tower_lvl8",
+    "adv_archer_tower_lvl7_air",
+    "adv_archer_tower_lvl7",
+    "adv_archer_tower_lvl6_air",
+    "adv_archer_tower_lvl6",
+    "adv_archer_tower_lvl5_air",
+    "adv_archer_tower_lvl5",
+    "adv_archer_tower_lvl4_air",
+    "adv_archer_tower_lvl4",
+    "adv_archer_tower_lvl3_air",
+    "adv_archer_tower_lvl3",
+    "adv_archer_tower_lvl2_air",
+    "adv_archer_tower_lvl2",
+    "adv_archer_tower_lvl1_air",
+    "adv_archer_tower_lvl10_air",
+    "adv_archer_tower_lvl10",
+    "adv_archer_tower_lvl1",
+    "adv_archer_tower_broken",
+    "advBomb_upg_lvl1",
+    "advBomb_lvl9_unarmed",
+    "advBomb_lvl9_triggered",
+    "advBomb_lvl9_air_unarmed",
+    "advBomb_lvl9_air_triggered",
+    "advBomb_lvl9_air",
+    "advBomb_lvl9",
+    "advBomb_lvl8_unarmed",
+    "advBomb_lvl8_triggered",
+    "advBomb_lvl8_air_unarmed",
+    "advBomb_lvl8_air_triggered",
+    "advBomb_lvl8_air",
+    "advBomb_lvl8",
+    "advBomb_lvl7_unarmed",
+    "advBomb_lvl7_triggered",
+    "advBomb_lvl7_air_unarmed",
+    "advBomb_lvl7_air_triggered",
+    "advBomb_lvl7_air",
+    "advBomb_lvl7",
+    "advBomb_lvl6_unarmed",
+    "advBomb_lvl6_triggered",
+    "advBomb_lvl6_air_unarmed",
+    "advBomb_lvl6_air_triggered",
+    "advBomb_lvl6_air",
+    "advBomb_lvl6",
+    "advBomb_lvl5_unarmed",
+    "advBomb_lvl5_triggered",
+    "advBomb_lvl5_air_unarmed",
+    "advBomb_lvl5_air_triggered",
+    "advBomb_lvl5_air",
+    "advBomb_lvl5",
+    "advBomb_lvl4_unarmed",
+    "advBomb_lvl4_triggered",
+    "advBomb_lvl4_air_unarmed",
+    "advBomb_lvl4_air_triggered",
+    "advBomb_lvl4_air",
+    "advBomb_lvl4",
+    "advBomb_lvl3_unarmed",
+    "advBomb_lvl3_triggered",
+    "advBomb_lvl3_air_unarmed",
+    "advBomb_lvl3_air_triggered",
+    "advBomb_lvl3_air",
+    "advBomb_lvl3",
+    "advBomb_lvl2_unarmed",
+    "advBomb_lvl2_triggered",
+    "advBomb_lvl2_air_unarmed",
+    "advBomb_lvl2_air_triggered",
+    "advBomb_lvl2_air",
+    "advBomb_lvl2",
+    "advBomb_lvl1_unarmed",
+    "advBomb_lvl1_triggered",
+    "advBomb_lvl1_air_unarmed",
+    "advBomb_lvl1_air_triggered",
+    "advBomb_lvl1_air",
+    "advBomb_lvl10_unarmed",
+    "advBomb_lvl10_triggered",
+    "advBomb_lvl10_air_unarmed",
+    "advBomb_lvl10_air_triggered",
+    "advBomb_lvl10_air",
+    "advBomb_lvl10",
+    "advBomb_lvl1",
+    "Telescope_lvl9",
+    "Telescope_lvl8",
+    "Telescope_lvl7",
+    "Telescope_lvl6",
+    "Telescope_lvl5",
+    "Telescope_lvl4",
+    "Telescope_lvl3",
+    "Telescope_lvl2",
+    "Telescope_lvl10",
+    "Telescope_lvl1",
+    "Telescope_broken",
+    "Lava_Launcher_lvl9",
+    "Lava_Launcher_lvl8",
+    "Lava_Launcher_lvl7",
+    "Lava_Launcher_lvl6",
+    "Lava_Launcher_lvl5",
+    "Lava_Launcher_lvl4",
+    "Lava_Launcher_lvl3",
+    "Lava_Launcher_lvl2",
+    "Lava_Launcher_lvl10",
+    "Lava_Launcher_lvl1",
+    "GuardPost_lvl9",
+    "GuardPost_lvl8",
+    "GuardPost_lvl7",
+    "GuardPost_lvl6",
+    "GuardPost_lvl5",
+    "GuardPost_lvl4",
+    "GuardPost_lvl3",
+    "GuardPost_lvl2",
+    "GuardPost_lvl10",
+    "GuardPost_lvl1",
+    "Flamer_lvl9",
+    "Flamer_lvl8",
+    "Flamer_lvl7",
+    "Flamer_lvl6",
+    "Flamer_lvl5",
+    "Flamer_lvl4",
+    "Flamer_lvl3",
+    "Flamer_lvl2",
+    "Flamer_lvl10",
+    "Flamer_lvl1",
+    "Crusher_lvl9",
+    "Crusher_lvl8",
+    "Crusher_lvl7",
+    "Crusher_lvl6",
+    "Crusher_lvl5",
+    "Crusher_lvl4_news",
+    "Crusher_lvl4",
+    "Crusher_lvl3",
+    "Crusher_lvl2",
+    "Crusher_lvl10",
+    "Crusher_lvl1",
+    "BigAdvBomb_lvl9_unarmed",
+    "BigAdvBomb_lvl9_triggered",
+    "BigAdvBomb_lvl9_air_unarmed",
+    "BigAdvBomb_lvl9_air_triggered",
+    "BigAdvBomb_lvl9_air",
+    "BigAdvBomb_lvl9",
+    "BigAdvBomb_lvl8_unarmed",
+    "BigAdvBomb_lvl8_triggered",
+    "BigAdvBomb_lvl8_air_unarmed",
+    "BigAdvBomb_lvl8_air_triggered",
+    "BigAdvBomb_lvl8_air",
+    "BigAdvBomb_lvl8",
+    "BigAdvBomb_lvl7_unarmed",
+    "BigAdvBomb_lvl7_triggered",
+    "BigAdvBomb_lvl7_air_unarmed",
+    "BigAdvBomb_lvl7_air_triggered",
+    "BigAdvBomb_lvl7_air",
+    "BigAdvBomb_lvl7",
+    "BigAdvBomb_lvl6_unarmed",
+    "BigAdvBomb_lvl6_triggered",
+    "BigAdvBomb_lvl6_air_unarmed",
+    "BigAdvBomb_lvl6_air_triggered",
+    "BigAdvBomb_lvl6_air",
+    "BigAdvBomb_lvl6",
+    "BigAdvBomb_lvl5_unarmed",
+    "BigAdvBomb_lvl5_triggered",
+    "BigAdvBomb_lvl5_air_unarmed",
+    "BigAdvBomb_lvl5_air_triggered",
+    "BigAdvBomb_lvl5_air",
+    "BigAdvBomb_lvl5",
+    "BigAdvBomb_lvl4_unarmed",
+    "BigAdvBomb_lvl4_triggered",
+    "BigAdvBomb_lvl4_air_unarmed",
+    "BigAdvBomb_lvl4_air_triggered",
+    "BigAdvBomb_lvl4_air",
+    "BigAdvBomb_lvl4",
+    "BigAdvBomb_lvl3_unarmed",
+    "BigAdvBomb_lvl3_triggered",
+    "BigAdvBomb_lvl3_air_unarmed",
+    "BigAdvBomb_lvl3_air_triggered",
+    "BigAdvBomb_lvl3_air",
+    "BigAdvBomb_lvl3",
+    "BigAdvBomb_lvl2_unarmed",
+    "BigAdvBomb_lvl2_triggered",
+    "BigAdvBomb_lvl2_air_unarmed",
+    "BigAdvBomb_lvl2_air_triggered",
+    "BigAdvBomb_lvl2_air",
+    "BigAdvBomb_lvl2",
+    "BigAdvBomb_lvl1_unarmed",
+    "BigAdvBomb_lvl1_triggered",
+    "BigAdvBomb_lvl1_air_unarmed",
+    "BigAdvBomb_lvl1_air_triggered",
+    "BigAdvBomb_lvl1_air",
+    "BigAdvBomb_lvl10_unarmed",
+    "BigAdvBomb_lvl10_triggered",
+    "BigAdvBomb_lvl10_air_unarmed",
+    "BigAdvBomb_lvl10_air_triggered",
+    "BigAdvBomb_lvl10_air",
+    "BigAdvBomb_lvl10",
+    "BigAdvBomb_lvl1",
+    "BB_hero_altar_flying"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1455,
+      "value": "vaO"
+    },
+    {
+      "offset": 4581,
+      "value": "p-@"
+    },
+    {
+      "offset": 10431,
+      "value": "BgfRA"
+    },
+    {
+      "offset": 18088,
+      "value": "gfv@"
+    },
+    {
+      "offset": 18232,
+      "value": "gfNA"
+    },
+    {
+      "offset": 19480,
+      "value": "gfBA"
+    },
+    {
+      "offset": 19888,
+      "value": "gfV@"
+    },
+    {
+      "offset": 22935,
+      "value": "B33ZB"
+    },
+    {
+      "offset": 22958,
+      "value": "ZBgfnA"
+    },
+    {
+      "offset": 23080,
+      "value": "gfFA"
+    },
+    {
+      "offset": 23148,
+      "value": "gfYB"
+    },
+    {
+      "offset": 23223,
+      "value": "BgfWB"
+    },
+    {
+      "offset": 23392,
+      "value": "gfFA"
+    },
+    {
+      "offset": 24208,
+      "value": "gfF@"
+    },
+    {
+      "offset": 24256,
+      "value": "gfF@"
+    },
+    {
+      "offset": 25140,
+      "value": "gfF@"
+    },
+    {
+      "offset": 26940,
+      "value": "gfbA"
+    },
+    {
+      "offset": 30231,
+      "value": "A33"
+    },
+    {
+      "offset": 31164,
+      "value": "gff@"
+    },
+    {
+      "offset": 35583,
+      "value": "A33"
+    },
+    {
+      "offset": 38052,
+      "value": "gf:A"
+    },
+    {
+      "offset": 43044,
+      "value": "gfvA"
+    },
+    {
+      "offset": 50703,
+      "value": "B33\\B"
+    },
+    {
+      "offset": 51471,
+      "value": "Bgf6@"
+    },
+    {
+      "offset": 52167,
+      "value": "B333@"
+    },
+    {
+      "offset": 55048,
+      "value": "gfv@"
+    },
+    {
+      "offset": 55168,
+      "value": "gfv@"
+    },
+    {
+      "offset": 55264,
+      "value": "gfv@"
+    },
+    {
+      "offset": 55384,
+      "value": "gfv@"
+    },
+    {
+      "offset": 55504,
+      "value": "gfv@"
+    },
+    {
+      "offset": 55528,
+      "value": "gfv@"
+    },
+    {
+      "offset": 55648,
+      "value": "gfv@"
+    },
+    {
+      "offset": 55768,
+      "value": "gfv@"
+    },
+    {
+      "offset": 55888,
+      "value": "gfv@"
+    },
+    {
+      "offset": 56008,
+      "value": "gfv@"
+    },
+    {
+      "offset": 56128,
+      "value": "gfv@"
+    },
+    {
+      "offset": 56272,
+      "value": "gfv@"
+    },
+    {
+      "offset": 56296,
+      "value": "gff@"
+    },
+    {
+      "offset": 56416,
+      "value": "gfv@"
+    },
+    {
+      "offset": 56536,
+      "value": "gfv@"
+    },
+    {
+      "offset": 56560,
+      "value": "gff@"
+    },
+    {
+      "offset": 56656,
+      "value": "gfv@"
+    },
+    {
+      "offset": 57808,
+      "value": "gf6@"
+    },
+    {
+      "offset": 58432,
+      "value": "gff@"
+    },
+    {
+      "offset": 59176,
+      "value": "gfF@"
+    },
+    {
+      "offset": 59296,
+      "value": "gfF@"
+    },
+    {
+      "offset": 60184,
+      "value": "gf6@"
+    },
+    {
+      "offset": 60350,
+      "value": "S@33S@"
+    },
+    {
+      "offset": 60424,
+      "value": "gf6@"
+    },
+    {
+      "offset": 60468,
+      "value": "gff@33S@"
+    },
+    {
+      "offset": 62224,
+      "value": "gff@"
+    },
+    {
+      "offset": 62824,
+      "value": "gfV@"
+    },
+    {
+      "offset": 62872,
+      "value": "gfF@"
+    },
+    {
+      "offset": 63352,
+      "value": "gfF@"
+    },
+    {
+      "offset": 73005,
+      "value": "p1@"
+    },
+    {
+      "offset": 73048,
+      "value": "gf6@"
+    },
+    {
+      "offset": 73449,
+      "value": "P2@"
+    },
+    {
+      "offset": 74769,
+      "value": "P/@"
+    },
+    {
+      "offset": 75717,
+      "value": "P @"
+    },
+    {
+      "offset": 79401,
+      "value": "P0@"
+    },
+    {
+      "offset": 80145,
+      "value": "P1@"
+    },
+    {
+      "offset": 80217,
+      "value": "p1@"
+    },
+    {
+      "offset": 80673,
+      "value": "P2@"
+    },
+    {
+      "offset": 80745,
+      "value": "P2@"
+    },
+    {
+      "offset": 83847,
+      "value": "A333@"
+    },
+    {
+      "offset": 89752,
+      "value": "gf7B"
+    },
+    {
+      "offset": 93609,
+      "value": "P0@"
+    },
+    {
+      "offset": 93645,
+      "value": "p+@"
+    },
+    {
+      "offset": 95728,
+      "value": "gfbA"
+    },
+    {
+      "offset": 95752,
+      "value": "gf2A"
+    },
+    {
+      "offset": 96183,
+      "value": "Agf6A"
+    },
+    {
+      "offset": 96207,
+      "value": "AgfzA"
+    },
+    {
+      "offset": 96328,
+      "value": "gfNA"
+    },
+    {
+      "offset": 96472,
+      "value": "gfMB"
+    },
+    {
+      "offset": 97168,
+      "value": "gfZA"
+    },
+    {
+      "offset": 98416,
+      "value": "gfZA"
+    },
+    {
+      "offset": 99520,
+      "value": "gfRA"
+    },
+    {
+      "offset": 99544,
+      "value": "gfFA"
+    },
+    {
+      "offset": 104820,
+      "value": "gfv@"
+    },
+    {
+      "offset": 104892,
+      "value": "gfF@"
+    },
+    {
+      "offset": 108468,
+      "value": "gf6@"
+    },
+    {
+      "offset": 110940,
+      "value": "gf6@"
+    },
+    {
+      "offset": 114276,
+      "value": "gf5B"
+    },
+    {
+      "offset": 114324,
+      "value": "gf:B"
+    },
+    {
+      "offset": 114660,
+      "value": "gfYB"
+    },
+    {
+      "offset": 115332,
+      "value": "gfnB"
+    },
+    {
+      "offset": 115452,
+      "value": "gfjB"
+    },
+    {
+      "offset": 115740,
+      "value": "gf\\B"
+    },
+    {
+      "offset": 115910,
+      "value": "PBgffA"
+    },
+    {
+      "offset": 116871,
+      "value": "A33sA"
+    },
+    {
+      "offset": 116895,
+      "value": "AgfjA"
+    },
+    {
+      "offset": 116990,
+      "value": "tA33GA"
+    },
+    {
+      "offset": 117060,
+      "value": "gfRA33+A"
+    },
+    {
+      "offset": 117468,
+      "value": "gff@"
+    },
+    {
+      "offset": 119272,
+      "value": "gff@"
+    },
+    {
+      "offset": 119536,
+      "value": "gf:A"
+    },
+    {
+      "offset": 119560,
+      "value": "gfBA"
+    },
+    {
+      "offset": 119704,
+      "value": "gfrA"
+    },
+    {
+      "offset": 119728,
+      "value": "gfzA"
+    },
+    {
+      "offset": 121024,
+      "value": "gffA"
+    },
+    {
+      "offset": 121096,
+      "value": "gfNA"
+    },
+    {
+      "offset": 121192,
+      "value": "gf.A"
+    },
+    {
+      "offset": 121476,
+      "value": "gfV@33s@"
+    },
+    {
+      "offset": 121502,
+      "value": "l@33C@"
+    },
+    {
+      "offset": 122367,
+      "value": "A33sA"
+    },
+    {
+      "offset": 122415,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 122439,
+      "value": "AgfZA"
+    },
+    {
+      "offset": 122606,
+      "value": "S@33s@"
+    },
+    {
+      "offset": 122630,
+      "value": "l@33C@"
+    },
+    {
+      "offset": 123374,
+      "value": "PBgffA"
+    },
+    {
+      "offset": 124239,
+      "value": "AgfmB"
+    },
+    {
+      "offset": 145336,
+      "value": "gfV@"
+    },
+    {
+      "offset": 145408,
+      "value": "gfF@"
+    },
+    {
+      "offset": 146296,
+      "value": "gfBA"
+    },
+    {
+      "offset": 146560,
+      "value": "gf2A"
+    },
+    {
+      "offset": 146680,
+      "value": "gfBA"
+    },
+    {
+      "offset": 146752,
+      "value": "gfRA"
+    },
+    {
+      "offset": 147496,
+      "value": "gfV@"
+    },
+    {
+      "offset": 147876,
+      "value": "gf.A33/A"
+    },
+    {
+      "offset": 147948,
+      "value": "gfFA"
+    },
+    {
+      "offset": 148023,
+      "value": "A33+A"
+    },
+    {
+      "offset": 151932,
+      "value": "gfF@"
+    },
+    {
+      "offset": 157788,
+      "value": "gfvA"
+    },
+    {
+      "offset": 165280,
+      "value": "gff@"
+    },
+    {
+      "offset": 170223,
+      "value": "Agf"
+    },
+    {
+      "offset": 171972,
+      "value": "gfrA"
+    },
+    {
+      "offset": 172959,
+      "value": "Agf"
+    },
+    {
+      "offset": 178190,
+      "value": "oAgf"
+    },
+    {
+      "offset": 179367,
+      "value": "Agf"
+    },
+    {
+      "offset": 180492,
+      "value": "gfNA"
+    },
+    {
+      "offset": 180876,
+      "value": "gfJA"
+    },
+    {
+      "offset": 184068,
+      "value": "gfv@"
+    },
+    {
+      "offset": 185460,
+      "value": "gfBA"
+    },
+    {
+      "offset": 185604,
+      "value": "gfBA"
+    },
+    {
+      "offset": 185892,
+      "value": "gfBAgf"
+    },
+    {
+      "offset": 185964,
+      "value": "gfBA"
+    },
+    {
+      "offset": 186108,
+      "value": "gfBA"
+    },
+    {
+      "offset": 186324,
+      "value": "gfBA"
+    },
+    {
+      "offset": 186612,
+      "value": "gfBA"
+    },
+    {
+      "offset": 190764,
+      "value": "ff6A"
+    },
+    {
+      "offset": 191697,
+      "value": "t60"
+    },
+    {
+      "offset": 191721,
+      "value": "s60"
+    },
+    {
+      "offset": 193075,
+      "value": "A\\r-r"
+    },
+    {
+      "offset": 194976,
+      "value": "ffDB"
+    },
+    {
+      "offset": 195000,
+      "value": "ffDB"
+    },
+    {
+      "offset": 195264,
+      "value": "ff7B"
+    },
+    {
+      "offset": 195696,
+      "value": "ff7B"
+    },
+    {
+      "offset": 196968,
+      "value": "ffiB"
+    },
+    {
+      "offset": 198719,
+      "value": "cffaB"
+    },
+    {
+      "offset": 200654,
+      "value": "c@ffTBG_"
+    },
+    {
+      "offset": 200736,
+      "value": "ffGB"
+    },
+    {
+      "offset": 200808,
+      "value": "ff-B"
+    },
+    {
+      "offset": 200820,
+      "value": "ff-B"
+    },
+    {
+      "offset": 201287,
+      "value": "cffaB"
+    },
+    {
+      "offset": 201828,
+      "value": "ff:B"
+    },
+    {
+      "offset": 201972,
+      "value": "ff-B"
+    },
+    {
+      "offset": 202183,
+      "value": "B9ZGMfff@"
+    },
+    {
+      "offset": 202600,
+      "value": "ffTBG_"
+    },
+    {
+      "offset": 203472,
+      "value": "ff6A"
+    },
+    {
+      "offset": 205416,
+      "value": "ff-B"
+    },
+    {
+      "offset": 205440,
+      "value": "ff-B"
+    },
+    {
+      "offset": 206448,
+      "value": "ffjA"
+    },
+    {
+      "offset": 207638,
+      "value": "c@ffTBG_"
+    },
+    {
+      "offset": 207719,
+      "value": "cffaB"
+    },
+    {
+      "offset": 209256,
+      "value": "ffGB"
+    },
+    {
+      "offset": 209328,
+      "value": "ff-B"
+    },
+    {
+      "offset": 209340,
+      "value": "ff-B"
+    },
+    {
+      "offset": 209663,
+      "value": "cffaB"
+    },
+    {
+      "offset": 210204,
+      "value": "ff-B"
+    },
+    {
+      "offset": 211296,
+      "value": "ff6A"
+    },
+    {
+      "offset": 212760,
+      "value": "ff-B"
+    },
+    {
+      "offset": 212784,
+      "value": "ff-B"
+    },
+    {
+      "offset": 214487,
+      "value": "cffaB"
+    },
+    {
+      "offset": 215544,
+      "value": "ffGB"
+    },
+    {
+      "offset": 215616,
+      "value": "ff-B"
+    },
+    {
+      "offset": 215628,
+      "value": "ff-B"
+    },
+    {
+      "offset": 215940,
+      "value": "ff-B"
+    },
+    {
+      "offset": 216528,
+      "value": "ff6A"
+    },
+    {
+      "offset": 217536,
+      "value": "ff-B"
+    },
+    {
+      "offset": 217560,
+      "value": "ff-B"
+    },
+    {
+      "offset": 218519,
+      "value": "cffaB"
+    },
+    {
+      "offset": 218604,
+      "value": "ff:B"
+    },
+    {
+      "offset": 219576,
+      "value": "ffGB"
+    },
+    {
+      "offset": 219660,
+      "value": "ff-B"
+    },
+    {
+      "offset": 220896,
+      "value": "ff6A"
+    },
+    {
+      "offset": 221904,
+      "value": "ff-B"
+    },
+    {
+      "offset": 221928,
+      "value": "ff-B"
+    },
+    {
+      "offset": 222360,
+      "value": "ffjA"
+    },
+    {
+      "offset": 222599,
+      "value": "Eff-B"
+    },
+    {
+      "offset": 222887,
+      "value": "cffaB"
+    },
+    {
+      "offset": 223944,
+      "value": "ffGB"
+    },
+    {
+      "offset": 224016,
+      "value": "ff-B"
+    },
+    {
+      "offset": 224028,
+      "value": "ff-B"
+    },
+    {
+      "offset": 224508,
+      "value": "ff-B"
+    },
+    {
+      "offset": 225264,
+      "value": "ff6A"
+    },
+    {
+      "offset": 226272,
+      "value": "ff-B"
+    },
+    {
+      "offset": 226296,
+      "value": "ff-B"
+    },
+    {
+      "offset": 227352,
+      "value": "ff B"
+    },
+    {
+      "offset": 227640,
+      "value": "ffGB"
+    },
+    {
+      "offset": 227975,
+      "value": "cffaB"
+    }
+  ],
+  "descriptor_preview_hex": "380000001400000085330f972abc350a7664ca2683382086d774c27f1c002c00040008000c00100014001800000000001c002000240028001c00000001000000",
+  "decoded_preview_hex": "185d100018000000000012001400040000000000000008000c001000120000005c1910009cec07000ce3020004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

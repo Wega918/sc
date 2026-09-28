@@ -1,0 +1,2439 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "vfx_character.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\vfx_character.sc",
+  "sha256_container": "0d3b88b0b7429f94e3dac31780cac8ec4a876e4dac3047d810d83e901291e44f",
+  "sha256_descriptor": "67a2d30a46c6ab6477a4eeac73130944b07029c6ad4cdff402356f8e168660bf",
+  "sha256_decoded_payload": "8b34fb3d385ed243a10496b093c1b13d6fe52adc483a429fc05577e0cb61e65c",
+  "version": 6,
+  "descriptor_bytes": 22428,
+  "compressed_frame_bytes": 116128,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 418404,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 737
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 351
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 11
+    },
+    {
+      "field_index": 8,
+      "offset": 80,
+      "raw_u32": 302716
+    },
+    {
+      "field_index": 9,
+      "offset": 84,
+      "raw_u32": 85876
+    },
+    {
+      "field_index": 10,
+      "offset": 88,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 92,
+      "raw_u32": 116128
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 1380,
+      "value": "vrx_chr_gw_CircleRing2"
+    },
+    {
+      "offset": 1440,
+      "value": "vrx_chr_gw_CircleRing"
+    },
+    {
+      "offset": 1500,
+      "value": "vfx_th18guardianMelee_SoftGlow"
+    },
+    {
+      "offset": 1568,
+      "value": "vfx_pet_sneezy_SpiritBubbleParticle"
+    },
+    {
+      "offset": 1640,
+      "value": "vfx_pet_sneezy_SpiritBubbleBurst"
+    },
+    {
+      "offset": 1712,
+      "value": "vfx_pet_sneezy_ShockWave_Projectile"
+    },
+    {
+      "offset": 1784,
+      "value": "vfx_pekka_april25skin_TearsDrop_03"
+    },
+    {
+      "offset": 1856,
+      "value": "vfx_pekka_april25skin_TearsDrop_02"
+    },
+    {
+      "offset": 1928,
+      "value": "vfx_pekka_april25skin_TearsDrop"
+    },
+    {
+      "offset": 1996,
+      "value": "vfx_pekka_april25skin_SpellRing"
+    },
+    {
+      "offset": 2064,
+      "value": "vfx_pekka_april25skin_Spark"
+    },
+    {
+      "offset": 2128,
+      "value": "vfx_pekka_april25skin_RangeMarker"
+    },
+    {
+      "offset": 2200,
+      "value": "vfx_pekka_april25skin_ImpactFlare"
+    },
+    {
+      "offset": 2272,
+      "value": "vfx_pekka_april25skin_GlowAOE"
+    },
+    {
+      "offset": 2340,
+      "value": "vfx_pekka_april25skin_Glow"
+    },
+    {
+      "offset": 2404,
+      "value": "vfx_pekka_april25skin_Flame_02"
+    },
+    {
+      "offset": 2472,
+      "value": "vfx_pekka_april25skin_Flame_01"
+    },
+    {
+      "offset": 2540,
+      "value": "vfx_pekka_april25skin_FireAuraFlames"
+    },
+    {
+      "offset": 2616,
+      "value": "vfx_pekka_april25skin_FireAura"
+    },
+    {
+      "offset": 2684,
+      "value": "vfx_pekka_april25skin_Ember_03"
+    },
+    {
+      "offset": 2752,
+      "value": "vfx_pekka_april25skin_Ember_02"
+    },
+    {
+      "offset": 2820,
+      "value": "vfx_pekka_april25skin_Ember_01"
+    },
+    {
+      "offset": 2888,
+      "value": "vfx_pekka_april25skin_BackgroundFireAura"
+    },
+    {
+      "offset": 2968,
+      "value": "vfx_pekka_april25skin_AreaEdge"
+    },
+    {
+      "offset": 3036,
+      "value": "vfx_mp_meteorstrikeFlare_03"
+    },
+    {
+      "offset": 3100,
+      "value": "vfx_mp_meteorstrikeFlare_02"
+    },
+    {
+      "offset": 3164,
+      "value": "vfx_mp_meteorstrikeFlare_01"
+    },
+    {
+      "offset": 3228,
+      "value": "vfx_mp_cosmicportal_shard_03"
+    },
+    {
+      "offset": 3296,
+      "value": "vfx_mp_cosmicportal_shard_02"
+    },
+    {
+      "offset": 3364,
+      "value": "vfx_mp_cosmicportal_shard_01"
+    },
+    {
+      "offset": 3432,
+      "value": "vfx_mp_cosmicportal_portal"
+    },
+    {
+      "offset": 3496,
+      "value": "vfx_mp_cosmicportal_glow_01"
+    },
+    {
+      "offset": 3560,
+      "value": "vfx_mp_cosmicportal_flash_01"
+    },
+    {
+      "offset": 3628,
+      "value": "vfx_mp_cosmicportal_beam"
+    },
+    {
+      "offset": 3692,
+      "value": "vfx_mp_cosmicportal_aura_01"
+    },
+    {
+      "offset": 3756,
+      "value": "vfx_gw_heroictorch_Swirl_03"
+    },
+    {
+      "offset": 3820,
+      "value": "vfx_gw_heroictorch_Swirl_02"
+    },
+    {
+      "offset": 3884,
+      "value": "vfx_gw_heroictorch_Swirl_01"
+    },
+    {
+      "offset": 3948,
+      "value": "vfx_gw_heroictorch_SmokeRing_02"
+    },
+    {
+      "offset": 4016,
+      "value": "vfx_gw_heroictorch_SmokeRing_01"
+    },
+    {
+      "offset": 4084,
+      "value": "vfx_gw_heroictorch_RadiusMarker"
+    },
+    {
+      "offset": 4152,
+      "value": "vfx_gw_heroictorch_Glow"
+    },
+    {
+      "offset": 4212,
+      "value": "vfx_gw_heroictorch_FloorGlow"
+    },
+    {
+      "offset": 4280,
+      "value": "vfx_gw_heroictorch_Flame_01"
+    },
+    {
+      "offset": 4344,
+      "value": "vfx_gw_heroictorch_Ember_03"
+    },
+    {
+      "offset": 4408,
+      "value": "vfx_gw_heroictorch_Ember_02"
+    },
+    {
+      "offset": 4472,
+      "value": "vfx_gw_heroictorch_Ember_01"
+    },
+    {
+      "offset": 4536,
+      "value": "vfx_gw_eternaltome_Spark"
+    },
+    {
+      "offset": 4600,
+      "value": "vfx_gw_eternaltome_ShieldStart"
+    },
+    {
+      "offset": 4668,
+      "value": "vfx_gw_eternaltome_ShieldNoise"
+    },
+    {
+      "offset": 4736,
+      "value": "vfx_gw_eternaltome_ShieldMask"
+    },
+    {
+      "offset": 4804,
+      "value": "vfx_gw_eternaltome_ShieldDome"
+    },
+    {
+      "offset": 4872,
+      "value": "vfx_gw_eternaltome_Ray"
+    },
+    {
+      "offset": 4932,
+      "value": "vfx_gw_eternaltome_DimondSpark"
+    },
+    {
+      "offset": 5000,
+      "value": "vfx_gw_eternaltome_Aura_02"
+    },
+    {
+      "offset": 5064,
+      "value": "vfx_gw_eternaltome_Aura_01"
+    },
+    {
+      "offset": 5128,
+      "value": "vfx_gw_erternaltome_SoftRing"
+    },
+    {
+      "offset": 5196,
+      "value": "vfx_dd_stunblast_sigil_glow"
+    },
+    {
+      "offset": 5260,
+      "value": "vfx_dd_stunblast_sigil_blur"
+    },
+    {
+      "offset": 5324,
+      "value": "vfx_dd_stunblast_sigil"
+    },
+    {
+      "offset": 5384,
+      "value": "vfx_dd_stunblast_shockwave_energy_02"
+    },
+    {
+      "offset": 5460,
+      "value": "vfx_dd_stunblast_shockwave_energy"
+    },
+    {
+      "offset": 5532,
+      "value": "vfx_dd_stunblast_shockwave"
+    },
+    {
+      "offset": 5596,
+      "value": "vfx_dd_stunblast_shock_03"
+    },
+    {
+      "offset": 5660,
+      "value": "vfx_dd_stunblast_shock_02"
+    },
+    {
+      "offset": 5724,
+      "value": "vfx_dd_stunblast_shock_01"
+    },
+    {
+      "offset": 5788,
+      "value": "vfx_dd_stunblast_ring"
+    },
+    {
+      "offset": 5848,
+      "value": "vfx_dd_stunblast_particle"
+    },
+    {
+      "offset": 5912,
+      "value": "vfx_dd_stunblast_line_03"
+    },
+    {
+      "offset": 5976,
+      "value": "vfx_dd_stunblast_line_02"
+    },
+    {
+      "offset": 6040,
+      "value": "vfx_dd_stunblast_line"
+    },
+    {
+      "offset": 6100,
+      "value": "vfx_dd_stunblast_glow"
+    },
+    {
+      "offset": 6160,
+      "value": "vfx_dd_stunblast_flash"
+    },
+    {
+      "offset": 6220,
+      "value": "vfx_dd_stunblast_dust"
+    },
+    {
+      "offset": 6280,
+      "value": "vfx_dd_stunblast_darkglow"
+    },
+    {
+      "offset": 6344,
+      "value": "vfx_dd_stunblast_circleglow_01"
+    },
+    {
+      "offset": 6412,
+      "value": "vfx_dd_rocketBP_Glow_01"
+    },
+    {
+      "offset": 6472,
+      "value": "vfx_dd_rocketBP_FireBreath_02"
+    },
+    {
+      "offset": 6540,
+      "value": "vfx_dd_rocketBP_FireBreath_01"
+    },
+    {
+      "offset": 6608,
+      "value": "vfx_dd_rocketBP_FireBreathSmoke_02"
+    },
+    {
+      "offset": 6680,
+      "value": "vfx_dd_rocketBP_FireBreathSmoke_01"
+    },
+    {
+      "offset": 6752,
+      "value": "vfx_dd_rocketBP_Ember_04"
+    },
+    {
+      "offset": 6816,
+      "value": "vfx_dd_rocketBP_Ember_03"
+    },
+    {
+      "offset": 6880,
+      "value": "vfx_dd_rocketBP_Ember_02"
+    },
+    {
+      "offset": 6944,
+      "value": "vfx_dd_rocketBP_Ember_01"
+    },
+    {
+      "offset": 7008,
+      "value": "vfx_dd_reversalcard_trailglow"
+    },
+    {
+      "offset": 7076,
+      "value": "vfx_dd_reversalcard_hit_impact"
+    },
+    {
+      "offset": 7144,
+      "value": "vfx_dd_reversalcard_flame"
+    },
+    {
+      "offset": 7208,
+      "value": "vfx_dd_reversalcard_fire_02"
+    },
+    {
+      "offset": 7272,
+      "value": "vfx_dd_reversalcard_fire_01"
+    },
+    {
+      "offset": 7336,
+      "value": "vfx_dd_reversalcard_ember_01"
+    },
+    {
+      "offset": 7404,
+      "value": "vfx_dd_reversalcard_card_projectile"
+    },
+    {
+      "offset": 7476,
+      "value": "vfx_dd_reversalcard_card_idle"
+    },
+    {
+      "offset": 7544,
+      "value": "vfx_dd_reversalcard_card_dissolve"
+    },
+    {
+      "offset": 7616,
+      "value": "vfx_dd_reversalcard_arrows"
+    },
+    {
+      "offset": 7680,
+      "value": "vfx_dd_flameblower_Spark_01"
+    },
+    {
+      "offset": 7744,
+      "value": "vfx_dd_flameblower_GroundScorched_Dark_01"
+    },
+    {
+      "offset": 7824,
+      "value": "vfx_dd_flameblower_GroundScorched_01"
+    },
+    {
+      "offset": 7900,
+      "value": "vfx_dd_flameblower_Glow_01"
+    },
+    {
+      "offset": 7964,
+      "value": "vfx_dd_flameblower_FireCone_01"
+    },
+    {
+      "offset": 8032,
+      "value": "vfx_dd_flameblower_FireBreath_02"
+    },
+    {
+      "offset": 8104,
+      "value": "vfx_dd_flameblower_FireBreath_01"
+    },
+    {
+      "offset": 8176,
+      "value": "vfx_dd_flameblower_FireBreathSmoke_02"
+    },
+    {
+      "offset": 8252,
+      "value": "vfx_dd_flameblower_FireBreathSmoke_01"
+    },
+    {
+      "offset": 8328,
+      "value": "vfx_dd_flameblower_Ember_03"
+    },
+    {
+      "offset": 8392,
+      "value": "vfx_dd_flameblower_Ember_02"
+    },
+    {
+      "offset": 8456,
+      "value": "vfx_dd_flameblower_Ember_01"
+    },
+    {
+      "offset": 8520,
+      "value": "vfx_dd_fireHeart_ring"
+    },
+    {
+      "offset": 8580,
+      "value": "vfx_dd_fireHeart_blurRing"
+    },
+    {
+      "offset": 8644,
+      "value": "vfx_dd_fireHeart_Star"
+    },
+    {
+      "offset": 8704,
+      "value": "vfx_dd_fireHeart_Smoke_02"
+    },
+    {
+      "offset": 8768,
+      "value": "vfx_dd_fireHeart_Smoke_01"
+    },
+    {
+      "offset": 8832,
+      "value": "vfx_dd_fireHeart_ShockWave_01"
+    },
+    {
+      "offset": 8900,
+      "value": "vfx_dd_fireHeart_Scorch"
+    },
+    {
+      "offset": 8960,
+      "value": "vfx_dd_fireHeart_HealRing"
+    },
+    {
+      "offset": 9024,
+      "value": "vfx_dd_fireHeart_HealGlow_02"
+    },
+    {
+      "offset": 9092,
+      "value": "vfx_dd_fireHeart_HealGlow_01"
+    },
+    {
+      "offset": 9160,
+      "value": "vfx_dd_fireHeart_HealEmber_01"
+    },
+    {
+      "offset": 9228,
+      "value": "vfx_dd_fireHeart_Glow_01"
+    },
+    {
+      "offset": 9292,
+      "value": "vfx_dd_fireHeart_FireRing"
+    },
+    {
+      "offset": 9356,
+      "value": "vfx_dd_fireHeart_FireHeartHeal"
+    },
+    {
+      "offset": 9424,
+      "value": "vfx_dd_fireHeart_FireHeart"
+    },
+    {
+      "offset": 9488,
+      "value": "vfx_dd_fireHeart_FireBreath_02"
+    },
+    {
+      "offset": 9556,
+      "value": "vfx_dd_fireHeart_FireBreath_01"
+    },
+    {
+      "offset": 9624,
+      "value": "vfx_dd_fireHeart_Ember_04"
+    },
+    {
+      "offset": 9688,
+      "value": "vfx_dd_fireHeart_Ember_03"
+    },
+    {
+      "offset": 9752,
+      "value": "vfx_dd_fireHeart_Ember_02"
+    },
+    {
+      "offset": 9816,
+      "value": "vfx_dd_fireHeart_Ember_01"
+    },
+    {
+      "offset": 9864,
+      "value": "v@D"
+    },
+    {
+      "offset": 9880,
+      "value": "vfx_chr_undeadwrestler_urns_two_urns_trigger"
+    },
+    {
+      "offset": 9964,
+      "value": "vfx_chr_undeadwrestler_urns_two_urns"
+    },
+    {
+      "offset": 10040,
+      "value": "vfx_chr_undeadwrestler_urns_one_urns_trigger"
+    },
+    {
+      "offset": 10124,
+      "value": "vfx_chr_undeadwrestler_urns_one_urns"
+    },
+    {
+      "offset": 10200,
+      "value": "vfx_chr_undeadwrestler_smoke_03"
+    },
+    {
+      "offset": 10268,
+      "value": "vfx_chr_undeadwrestler_smoke_02"
+    },
+    {
+      "offset": 10336,
+      "value": "vfx_chr_undeadwrestler_smoke_01"
+    },
+    {
+      "offset": 10404,
+      "value": "vfx_chr_undeadwrestler_ray"
+    },
+    {
+      "offset": 10468,
+      "value": "vfx_chr_undeadwrestler_radialshockwave_01"
+    },
+    {
+      "offset": 10548,
+      "value": "vfx_chr_undeadwrestler_dp_smoke_03"
+    },
+    {
+      "offset": 10620,
+      "value": "vfx_chr_undeadwrestler_dp_smoke_02"
+    },
+    {
+      "offset": 10692,
+      "value": "vfx_chr_undeadwrestler_dp_smoke_01"
+    },
+    {
+      "offset": 10764,
+      "value": "vfx_chr_undeadwrestler_atk_smear"
+    },
+    {
+      "offset": 10836,
+      "value": "vfx_chr_undeadwresteler_swirl_06"
+    },
+    {
+      "offset": 10908,
+      "value": "vfx_chr_undeadwresteler_swirl_05"
+    },
+    {
+      "offset": 10980,
+      "value": "vfx_chr_undeadwresteler_swirl_04"
+    },
+    {
+      "offset": 11052,
+      "value": "vfx_chr_undeadwresteler_swirl_03"
+    },
+    {
+      "offset": 11124,
+      "value": "vfx_chr_undeadwresteler_swirl_02"
+    },
+    {
+      "offset": 11196,
+      "value": "vfx_chr_undeadwresteler_swirl_01"
+    },
+    {
+      "offset": 11268,
+      "value": "vfx_chr_undeadwresteler_shockwave_02"
+    },
+    {
+      "offset": 11344,
+      "value": "vfx_chr_undeadwresteler_shockwave_01"
+    },
+    {
+      "offset": 11420,
+      "value": "vfx_chr_undeadwresteler_shard_01"
+    },
+    {
+      "offset": 11492,
+      "value": "vfx_chr_undeadwresteler_impact_01"
+    },
+    {
+      "offset": 11564,
+      "value": "vfx_chr_undeadwresteler_glow"
+    },
+    {
+      "offset": 11632,
+      "value": "vfx_chr_undeadwresteler_flare_01"
+    },
+    {
+      "offset": 11704,
+      "value": "vfx_chr_undeadwresteler_ember_06"
+    },
+    {
+      "offset": 11776,
+      "value": "vfx_chr_undeadwresteler_ember_05"
+    },
+    {
+      "offset": 11848,
+      "value": "vfx_chr_undeadwresteler_ember_04"
+    },
+    {
+      "offset": 11920,
+      "value": "vfx_chr_undeadwresteler_ember_03"
+    },
+    {
+      "offset": 11992,
+      "value": "vfx_chr_undeadwresteler_ember_02"
+    },
+    {
+      "offset": 12064,
+      "value": "vfx_chr_undeadwresteler_ember_01"
+    },
+    {
+      "offset": 12136,
+      "value": "vfx_chr_undeadwresteler_debris_03"
+    },
+    {
+      "offset": 12208,
+      "value": "vfx_chr_undeadwresteler_debris_01"
+    },
+    {
+      "offset": 12280,
+      "value": "vfx_chr_th18guardian_shockwave_Blue"
+    },
+    {
+      "offset": 12352,
+      "value": "vfx_chr_th18guardian_SoftGlow"
+    },
+    {
+      "offset": 12420,
+      "value": "vfx_chr_th18guardian_Ring_01"
+    },
+    {
+      "offset": 12488,
+      "value": "vfx_chr_th18guardian_Ring"
+    },
+    {
+      "offset": 12552,
+      "value": "vfx_chr_th18guardian_ImpactSpark_01"
+    },
+    {
+      "offset": 12624,
+      "value": "vfx_chr_th18guardian_ImpactFlashC"
+    },
+    {
+      "offset": 12696,
+      "value": "vfx_chr_th18guardian_ImpactFlash"
+    },
+    {
+      "offset": 12768,
+      "value": "vfx_chr_th18guardian_Ember_01"
+    },
+    {
+      "offset": 12836,
+      "value": "vfx_chr_th18guardian_Dome"
+    },
+    {
+      "offset": 12900,
+      "value": "vfx_chr_th18guardian_DeathImpactFlash"
+    },
+    {
+      "offset": 12976,
+      "value": "vfx_chr_th18guardian_CheerImpactFlash"
+    },
+    {
+      "offset": 13052,
+      "value": "vfx_chr_th18guardianRanged_Trail_03"
+    },
+    {
+      "offset": 13124,
+      "value": "vfx_chr_th18guardianRanged_Trail_02"
+    },
+    {
+      "offset": 13196,
+      "value": "vfx_chr_th18guardianRanged_Trail_01"
+    },
+    {
+      "offset": 13268,
+      "value": "vfx_chr_th18guardianRanged_Spark"
+    },
+    {
+      "offset": 13340,
+      "value": "vfx_chr_th18guardianRanged_SmokeRing"
+    },
+    {
+      "offset": 13416,
+      "value": "vfx_chr_th18guardianRanged_Projectile"
+    },
+    {
+      "offset": 13492,
+      "value": "vfx_chr_th18guardianMelee_Smear"
+    },
+    {
+      "offset": 13560,
+      "value": "vfx_chr_th18guardianMelee_CheerSmear"
+    },
+    {
+      "offset": 13636,
+      "value": "vfx_chr_th18guardianLogger_C_Smear"
+    },
+    {
+      "offset": 13708,
+      "value": "vfx_chr_t18guardian_ImpactShockwave_02"
+    },
+    {
+      "offset": 13784,
+      "value": "vfx_chr_t18guardian_ImpactShockwave"
+    },
+    {
+      "offset": 13856,
+      "value": "vfx_chr_t18guardian_DustCloud_04"
+    },
+    {
+      "offset": 13928,
+      "value": "vfx_chr_t18guardian_DustCloud_03"
+    },
+    {
+      "offset": 14000,
+      "value": "vfx_chr_t18guardian_DustCloud_02"
+    },
+    {
+      "offset": 14072,
+      "value": "vfx_chr_t18guardian_DustCloud_01"
+    },
+    {
+      "offset": 14144,
+      "value": "vfx_chr_ruinwitch_spark"
+    },
+    {
+      "offset": 14204,
+      "value": "vfx_chr_ruinwitch_sand_02"
+    },
+    {
+      "offset": 14268,
+      "value": "vfx_chr_ruinwitch_sand_01"
+    },
+    {
+      "offset": 14332,
+      "value": "vfx_chr_ruinwitch_lightning_02"
+    },
+    {
+      "offset": 14400,
+      "value": "vfx_chr_ruinwitch_lightning_01"
+    },
+    {
+      "offset": 14468,
+      "value": "vfx_chr_ruinwitch_impact_01"
+    },
+    {
+      "offset": 14532,
+      "value": "vfx_chr_ruinwitch_glow_01"
+    },
+    {
+      "offset": 14596,
+      "value": "vfx_chr_ruinwitch_dome"
+    },
+    {
+      "offset": 14656,
+      "value": "vfx_chr_ruinwitch_Debris_02"
+    },
+    {
+      "offset": 14720,
+      "value": "vfx_chr_ruinwitch_Debris_01"
+    },
+    {
+      "offset": 14784,
+      "value": "vfx_chr_mp_meteorstrike_Spark"
+    },
+    {
+      "offset": 14852,
+      "value": "vfx_chr_mp_meteorstrike_SmokeCloud04"
+    },
+    {
+      "offset": 14928,
+      "value": "vfx_chr_mp_meteorstrike_SmokeCloud03"
+    },
+    {
+      "offset": 15004,
+      "value": "vfx_chr_mp_meteorstrike_SmokeCloud02"
+    },
+    {
+      "offset": 15080,
+      "value": "vfx_chr_mp_meteorstrike_SmokeCloud01"
+    },
+    {
+      "offset": 15156,
+      "value": "vfx_chr_mp_meteorstrike_ScorchMark"
+    },
+    {
+      "offset": 15228,
+      "value": "vfx_chr_mp_meteorstrike_Residue"
+    },
+    {
+      "offset": 15296,
+      "value": "vfx_chr_mp_meteorstrike_Debris03"
+    },
+    {
+      "offset": 15368,
+      "value": "vfx_chr_mp_meteorstrike_Debris02"
+    },
+    {
+      "offset": 15433,
+      "value": "sq: "
+    },
+    {
+      "offset": 15440,
+      "value": "vfx_chr_mp_meteorstrike_Debris01"
+    },
+    {
+      "offset": 15512,
+      "value": "vfx_chr_mp_meteorstrike_Aura"
+    },
+    {
+      "offset": 15580,
+      "value": "vfx_chr_mp_eq_DarkCrown_SoulVortex"
+    },
+    {
+      "offset": 15652,
+      "value": "vfx_chr_mp_cosmicportal_smoke_02"
+    },
+    {
+      "offset": 15724,
+      "value": "vfx_chr_mp_cosmicportal_smoke_01"
+    },
+    {
+      "offset": 15796,
+      "value": "vfx_chr_mp_cosmicportal_portalring_01"
+    },
+    {
+      "offset": 15872,
+      "value": "vfx_chr_mp_cosmicportal_aurafront"
+    },
+    {
+      "offset": 15944,
+      "value": "vfx_chr_mp_MeteorStrike_Trail"
+    },
+    {
+      "offset": 16012,
+      "value": "vfx_chr_mp_MeteorStrike_Projectile"
+    },
+    {
+      "offset": 16084,
+      "value": "vfx_chr_mp_MeteorStrike_ImpactCraterEnd"
+    },
+    {
+      "offset": 16160,
+      "value": "vfx_chr_mp_MeteorStrike_ImpactCrater"
+    },
+    {
+      "offset": 16236,
+      "value": "vfx_chr_mp_MeteorStrike_Impact"
+    },
+    {
+      "offset": 16304,
+      "value": "vfx_chr_mp_MetalPants_ShieldStartUp"
+    },
+    {
+      "offset": 16376,
+      "value": "vfx_chr_mp_MetalPants_ShieldEnd"
+    },
+    {
+      "offset": 16444,
+      "value": "vfx_chr_mp_MetalPants_Shield"
+    },
+    {
+      "offset": 16512,
+      "value": "vfx_chr_mp_DarkCrown_VortexAura"
+    },
+    {
+      "offset": 16580,
+      "value": "vfx_chr_mp_DarkCrown_Spark"
+    },
+    {
+      "offset": 16644,
+      "value": "vfx_chr_mp_DarkCrown_SoulBeam_2"
+    },
+    {
+      "offset": 16712,
+      "value": "vfx_chr_mp_DarkCrown_SoulBeam"
+    },
+    {
+      "offset": 16780,
+      "value": "vfx_chr_mp_DarkCrown_PowerUp"
+    },
+    {
+      "offset": 16848,
+      "value": "vfx_chr_gw_crater2"
+    },
+    {
+      "offset": 16904,
+      "value": "vfx_chr_gw_crater"
+    },
+    {
+      "offset": 16960,
+      "value": "vfx_chr_gw_SmokeImpact2"
+    },
+    {
+      "offset": 17020,
+      "value": "vfx_chr_gw_SmokeImpact"
+    },
+    {
+      "offset": 17080,
+      "value": "vfx_chr_gw_PurpleEmber02"
+    },
+    {
+      "offset": 17144,
+      "value": "vfx_chr_gw_PurpleEmber01"
+    },
+    {
+      "offset": 17208,
+      "value": "vfx_chr_elephantrider_ring"
+    },
+    {
+      "offset": 17272,
+      "value": "vfx_chr_elephantrider_impact"
+    },
+    {
+      "offset": 17340,
+      "value": "vfx_chr_elephantrider_dustwisps"
+    },
+    {
+      "offset": 17408,
+      "value": "vfx_chr_elephantrider_dustcloud_03"
+    },
+    {
+      "offset": 17480,
+      "value": "vfx_chr_elephantrider_dustcloud_02"
+    },
+    {
+      "offset": 17552,
+      "value": "vfx_chr_elephantrider_dustcloud_01"
+    },
+    {
+      "offset": 17624,
+      "value": "vfx_chr_elephantrider_debris_02"
+    },
+    {
+      "offset": 17692,
+      "value": "vfx_chr_elephantrider_debris_01"
+    },
+    {
+      "offset": 17760,
+      "value": "vfx_chr_elephantrider_SoftGlow"
+    },
+    {
+      "offset": 17828,
+      "value": "vfx_chr_elephantrider_ImpactSpark_01"
+    },
+    {
+      "offset": 17904,
+      "value": "vfx_chr_elephantrider_ImpactShockwave"
+    },
+    {
+      "offset": 17980,
+      "value": "vfx_chr_GW_SmokeC"
+    },
+    {
+      "offset": 18036,
+      "value": "vfx_chr_GW_SmokeB"
+    },
+    {
+      "offset": 18092,
+      "value": "vfx_chr_GW_SmokeA"
+    },
+    {
+      "offset": 18148,
+      "value": "vfx_chr_GW_Scorchmark"
+    },
+    {
+      "offset": 18208,
+      "value": "vfx_chr_GW_Ring2"
+    },
+    {
+      "offset": 18264,
+      "value": "vfx_chr_GW_Ring"
+    },
+    {
+      "offset": 18316,
+      "value": "vfx_chr_GW_ImpactShape01"
+    },
+    {
+      "offset": 18380,
+      "value": "vfx_chr_GW_Glow2"
+    },
+    {
+      "offset": 18436,
+      "value": "vfx_chr_GW_Glow"
+    },
+    {
+      "offset": 18488,
+      "value": "vfx_chr_GW_Flames03"
+    },
+    {
+      "offset": 18544,
+      "value": "vfx_chr_GW_Flames02"
+    },
+    {
+      "offset": 18600,
+      "value": "vfx_chr_GW_Flames01"
+    },
+    {
+      "offset": 18656,
+      "value": "vfx_chr_GW_Explosion"
+    },
+    {
+      "offset": 18716,
+      "value": "vfx_chr_GW_Ember04"
+    },
+    {
+      "offset": 18772,
+      "value": "vfx_chr_GW_Ember03"
+    },
+    {
+      "offset": 18828,
+      "value": "vfx_chr_GW_Ember02"
+    },
+    {
+      "offset": 18884,
+      "value": "vfx_chr_GW_Ember01"
+    },
+    {
+      "offset": 18940,
+      "value": "projectile_chr_mp_PowerPumpTrail"
+    },
+    {
+      "offset": 19012,
+      "value": "projectile_chr_mp_PowerPumpImpact"
+    },
+    {
+      "offset": 19084,
+      "value": "projectile_chr_mp_PowerPump"
+    },
+    {
+      "offset": 19148,
+      "value": "hero_equip_aq_monolith_trail_particle_min_03"
+    },
+    {
+      "offset": 19232,
+      "value": "hero_equip_aq_monolith_trail_particle_min_02"
+    },
+    {
+      "offset": 19316,
+      "value": "hero_equip_aq_monolith_trail_particle_min_01"
+    },
+    {
+      "offset": 19400,
+      "value": "hero_equip_aq_monolith_trail_particle_med_03"
+    },
+    {
+      "offset": 19484,
+      "value": "hero_equip_aq_monolith_trail_particle_med_02"
+    },
+    {
+      "offset": 19568,
+      "value": "hero_equip_aq_monolith_trail_particle_med_01"
+    },
+    {
+      "offset": 19652,
+      "value": "hero_equip_aq_monolith_trail_particle_max_03"
+    },
+    {
+      "offset": 19736,
+      "value": "hero_equip_aq_monolith_trail_particle_max_02"
+    },
+    {
+      "offset": 19820,
+      "value": "hero_equip_aq_monolith_trail_particle_max_01"
+    },
+    {
+      "offset": 19904,
+      "value": "hero_equip_aq_monolith_lightning_07"
+    },
+    {
+      "offset": 19976,
+      "value": "hero_equip_aq_monolith_lightning_06"
+    },
+    {
+      "offset": 20048,
+      "value": "hero_equip_aq_monolith_lightning_05"
+    },
+    {
+      "offset": 20120,
+      "value": "hero_equip_aq_monolith_lightning_04"
+    },
+    {
+      "offset": 20192,
+      "value": "hero_equip_aq_monolith_lightning_03"
+    },
+    {
+      "offset": 20264,
+      "value": "hero_equip_aq_monolith_lightning_02"
+    },
+    {
+      "offset": 20336,
+      "value": "hero_equip_aq_monolith_lightning_01"
+    },
+    {
+      "offset": 20408,
+      "value": "hero_equip_aq_monolith_impact_min"
+    },
+    {
+      "offset": 20480,
+      "value": "hero_equip_aq_monolith_impact_med"
+    },
+    {
+      "offset": 20552,
+      "value": "hero_equip_aq_monolith_impact_max"
+    },
+    {
+      "offset": 20624,
+      "value": "hero_equip_aq_monolith_arrow_trail_max"
+    },
+    {
+      "offset": 20700,
+      "value": "hero_equip_aq_monolith_arrow_stars_max"
+    },
+    {
+      "offset": 20776,
+      "value": "hero_equip_aq_monolith_arrow_min"
+    },
+    {
+      "offset": 20848,
+      "value": "hero_equip_aq_monolith_arrow_med"
+    },
+    {
+      "offset": 20920,
+      "value": "hero_equip_aq_monolith_arrow_max"
+    },
+    {
+      "offset": 20992,
+      "value": "fx_chr_WizardAttack_Spark_lvl3"
+    },
+    {
+      "offset": 21060,
+      "value": "fx_chr_WizardAttack_Spark"
+    },
+    {
+      "offset": 21124,
+      "value": "fx_chr_WizardAttack_Shard_Lvl4"
+    },
+    {
+      "offset": 21192,
+      "value": "fx_chr_WizardAttack_Projectile_Lvl4"
+    },
+    {
+      "offset": 21264,
+      "value": "fx_chr_WizardAttack_Projectile_Lvl3"
+    },
+    {
+      "offset": 21336,
+      "value": "fx_chr_WizardAttack_Projectile_Lvl2"
+    },
+    {
+      "offset": 21408,
+      "value": "fx_chr_WizardAttack_Projectile_Lvl1"
+    },
+    {
+      "offset": 21480,
+      "value": "fx_chr_WizardAttack_Impact_Lvl4"
+    },
+    {
+      "offset": 21548,
+      "value": "fx_chr_WizardAttack_Impact_Lvl3"
+    },
+    {
+      "offset": 21616,
+      "value": "fx_chr_WizardAttack_Impact_Lvl2"
+    },
+    {
+      "offset": 21684,
+      "value": "fx_chr_WizardAttack_Impact_Lvl1"
+    },
+    {
+      "offset": 21752,
+      "value": "fx_chr_WizardAttack_FireGlow"
+    },
+    {
+      "offset": 21820,
+      "value": "fx_chr_WizardAttack_Charge_Lvl4"
+    },
+    {
+      "offset": 21888,
+      "value": "fx_chr_WizardAttack_Charge_Lvl3"
+    },
+    {
+      "offset": 21956,
+      "value": "fx_chr_WizardAttack_Charge_Lvl1"
+    },
+    {
+      "offset": 22024,
+      "value": "fx_chr_WizardAttack_ArcaneGlow"
+    },
+    {
+      "offset": 22092,
+      "value": "SmokeResidue"
+    },
+    {
+      "offset": 22144,
+      "value": "SmokeImpact"
+    },
+    {
+      "offset": 22192,
+      "value": "SmokeC"
+    },
+    {
+      "offset": 22236,
+      "value": "SmokeB"
+    },
+    {
+      "offset": 22280,
+      "value": "SmokeA"
+    },
+    {
+      "offset": 22324,
+      "value": "HullB"
+    },
+    {
+      "offset": 22368,
+      "value": "HullA"
+    },
+    {
+      "offset": 22420,
+      "value": "Aura"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "vrx_chr_gw_CircleRing2",
+    "vrx_chr_gw_CircleRing",
+    "vfx_th18guardianMelee_SoftGlow",
+    "vfx_pet_sneezy_SpiritBubbleParticle",
+    "vfx_pet_sneezy_SpiritBubbleBurst",
+    "vfx_pet_sneezy_ShockWave_Projectile",
+    "vfx_pekka_april25skin_TearsDrop_03",
+    "vfx_pekka_april25skin_TearsDrop_02",
+    "vfx_pekka_april25skin_TearsDrop",
+    "vfx_pekka_april25skin_SpellRing",
+    "vfx_pekka_april25skin_Spark",
+    "vfx_pekka_april25skin_RangeMarker",
+    "vfx_pekka_april25skin_ImpactFlare",
+    "vfx_pekka_april25skin_GlowAOE",
+    "vfx_pekka_april25skin_Glow",
+    "vfx_pekka_april25skin_Flame_02",
+    "vfx_pekka_april25skin_Flame_01",
+    "vfx_pekka_april25skin_FireAuraFlames",
+    "vfx_pekka_april25skin_FireAura",
+    "vfx_pekka_april25skin_Ember_03",
+    "vfx_pekka_april25skin_Ember_02",
+    "vfx_pekka_april25skin_Ember_01",
+    "vfx_pekka_april25skin_BackgroundFireAura",
+    "vfx_pekka_april25skin_AreaEdge",
+    "vfx_mp_meteorstrikeFlare_03",
+    "vfx_mp_meteorstrikeFlare_02",
+    "vfx_mp_meteorstrikeFlare_01",
+    "vfx_mp_cosmicportal_shard_03",
+    "vfx_mp_cosmicportal_shard_02",
+    "vfx_mp_cosmicportal_shard_01",
+    "vfx_mp_cosmicportal_portal",
+    "vfx_mp_cosmicportal_glow_01",
+    "vfx_mp_cosmicportal_flash_01",
+    "vfx_mp_cosmicportal_beam",
+    "vfx_mp_cosmicportal_aura_01",
+    "vfx_gw_heroictorch_Swirl_03",
+    "vfx_gw_heroictorch_Swirl_02",
+    "vfx_gw_heroictorch_Swirl_01",
+    "vfx_gw_heroictorch_SmokeRing_02",
+    "vfx_gw_heroictorch_SmokeRing_01",
+    "vfx_gw_heroictorch_RadiusMarker",
+    "vfx_gw_heroictorch_Glow",
+    "vfx_gw_heroictorch_FloorGlow",
+    "vfx_gw_heroictorch_Flame_01",
+    "vfx_gw_heroictorch_Ember_03",
+    "vfx_gw_heroictorch_Ember_02",
+    "vfx_gw_heroictorch_Ember_01",
+    "vfx_gw_eternaltome_Spark",
+    "vfx_gw_eternaltome_ShieldStart",
+    "vfx_gw_eternaltome_ShieldNoise",
+    "vfx_gw_eternaltome_ShieldMask",
+    "vfx_gw_eternaltome_ShieldDome",
+    "vfx_gw_eternaltome_Ray",
+    "vfx_gw_eternaltome_DimondSpark",
+    "vfx_gw_eternaltome_Aura_02",
+    "vfx_gw_eternaltome_Aura_01",
+    "vfx_gw_erternaltome_SoftRing",
+    "vfx_dd_stunblast_sigil_glow",
+    "vfx_dd_stunblast_sigil_blur",
+    "vfx_dd_stunblast_sigil",
+    "vfx_dd_stunblast_shockwave_energy_02",
+    "vfx_dd_stunblast_shockwave_energy",
+    "vfx_dd_stunblast_shockwave",
+    "vfx_dd_stunblast_shock_03",
+    "vfx_dd_stunblast_shock_02",
+    "vfx_dd_stunblast_shock_01",
+    "vfx_dd_stunblast_ring",
+    "vfx_dd_stunblast_particle",
+    "vfx_dd_stunblast_line_03",
+    "vfx_dd_stunblast_line_02",
+    "vfx_dd_stunblast_line",
+    "vfx_dd_stunblast_glow",
+    "vfx_dd_stunblast_flash",
+    "vfx_dd_stunblast_dust",
+    "vfx_dd_stunblast_darkglow",
+    "vfx_dd_stunblast_circleglow_01",
+    "vfx_dd_rocketBP_Glow_01",
+    "vfx_dd_rocketBP_FireBreath_02",
+    "vfx_dd_rocketBP_FireBreath_01",
+    "vfx_dd_rocketBP_FireBreathSmoke_02",
+    "vfx_dd_rocketBP_FireBreathSmoke_01",
+    "vfx_dd_rocketBP_Ember_04",
+    "vfx_dd_rocketBP_Ember_03",
+    "vfx_dd_rocketBP_Ember_02",
+    "vfx_dd_rocketBP_Ember_01",
+    "vfx_dd_reversalcard_trailglow",
+    "vfx_dd_reversalcard_hit_impact",
+    "vfx_dd_reversalcard_flame",
+    "vfx_dd_reversalcard_fire_02",
+    "vfx_dd_reversalcard_fire_01",
+    "vfx_dd_reversalcard_ember_01",
+    "vfx_dd_reversalcard_card_projectile",
+    "vfx_dd_reversalcard_card_idle",
+    "vfx_dd_reversalcard_card_dissolve",
+    "vfx_dd_reversalcard_arrows",
+    "vfx_dd_flameblower_Spark_01",
+    "vfx_dd_flameblower_GroundScorched_Dark_01",
+    "vfx_dd_flameblower_GroundScorched_01",
+    "vfx_dd_flameblower_Glow_01",
+    "vfx_dd_flameblower_FireCone_01",
+    "vfx_dd_flameblower_FireBreath_02",
+    "vfx_dd_flameblower_FireBreath_01",
+    "vfx_dd_flameblower_FireBreathSmoke_02",
+    "vfx_dd_flameblower_FireBreathSmoke_01",
+    "vfx_dd_flameblower_Ember_03",
+    "vfx_dd_flameblower_Ember_02",
+    "vfx_dd_flameblower_Ember_01",
+    "vfx_dd_fireHeart_ring",
+    "vfx_dd_fireHeart_blurRing",
+    "vfx_dd_fireHeart_Star",
+    "vfx_dd_fireHeart_Smoke_02",
+    "vfx_dd_fireHeart_Smoke_01",
+    "vfx_dd_fireHeart_ShockWave_01",
+    "vfx_dd_fireHeart_Scorch",
+    "vfx_dd_fireHeart_HealRing",
+    "vfx_dd_fireHeart_HealGlow_02",
+    "vfx_dd_fireHeart_HealGlow_01",
+    "vfx_dd_fireHeart_HealEmber_01",
+    "vfx_dd_fireHeart_Glow_01",
+    "vfx_dd_fireHeart_FireRing",
+    "vfx_dd_fireHeart_FireHeartHeal",
+    "vfx_dd_fireHeart_FireHeart",
+    "vfx_dd_fireHeart_FireBreath_02",
+    "vfx_dd_fireHeart_FireBreath_01",
+    "vfx_dd_fireHeart_Ember_04",
+    "vfx_dd_fireHeart_Ember_03",
+    "vfx_dd_fireHeart_Ember_02",
+    "vfx_dd_fireHeart_Ember_01",
+    "v@D",
+    "vfx_chr_undeadwrestler_urns_two_urns_trigger",
+    "vfx_chr_undeadwrestler_urns_two_urns",
+    "vfx_chr_undeadwrestler_urns_one_urns_trigger",
+    "vfx_chr_undeadwrestler_urns_one_urns",
+    "vfx_chr_undeadwrestler_smoke_03",
+    "vfx_chr_undeadwrestler_smoke_02",
+    "vfx_chr_undeadwrestler_smoke_01",
+    "vfx_chr_undeadwrestler_ray",
+    "vfx_chr_undeadwrestler_radialshockwave_01",
+    "vfx_chr_undeadwrestler_dp_smoke_03",
+    "vfx_chr_undeadwrestler_dp_smoke_02",
+    "vfx_chr_undeadwrestler_dp_smoke_01",
+    "vfx_chr_undeadwrestler_atk_smear",
+    "vfx_chr_undeadwresteler_swirl_06",
+    "vfx_chr_undeadwresteler_swirl_05",
+    "vfx_chr_undeadwresteler_swirl_04",
+    "vfx_chr_undeadwresteler_swirl_03",
+    "vfx_chr_undeadwresteler_swirl_02",
+    "vfx_chr_undeadwresteler_swirl_01",
+    "vfx_chr_undeadwresteler_shockwave_02",
+    "vfx_chr_undeadwresteler_shockwave_01",
+    "vfx_chr_undeadwresteler_shard_01",
+    "vfx_chr_undeadwresteler_impact_01",
+    "vfx_chr_undeadwresteler_glow",
+    "vfx_chr_undeadwresteler_flare_01",
+    "vfx_chr_undeadwresteler_ember_06",
+    "vfx_chr_undeadwresteler_ember_05",
+    "vfx_chr_undeadwresteler_ember_04",
+    "vfx_chr_undeadwresteler_ember_03",
+    "vfx_chr_undeadwresteler_ember_02",
+    "vfx_chr_undeadwresteler_ember_01",
+    "vfx_chr_undeadwresteler_debris_03",
+    "vfx_chr_undeadwresteler_debris_01",
+    "vfx_chr_th18guardian_shockwave_Blue",
+    "vfx_chr_th18guardian_SoftGlow",
+    "vfx_chr_th18guardian_Ring_01",
+    "vfx_chr_th18guardian_Ring",
+    "vfx_chr_th18guardian_ImpactSpark_01",
+    "vfx_chr_th18guardian_ImpactFlashC",
+    "vfx_chr_th18guardian_ImpactFlash",
+    "vfx_chr_th18guardian_Ember_01",
+    "vfx_chr_th18guardian_Dome",
+    "vfx_chr_th18guardian_DeathImpactFlash",
+    "vfx_chr_th18guardian_CheerImpactFlash",
+    "vfx_chr_th18guardianRanged_Trail_03",
+    "vfx_chr_th18guardianRanged_Trail_02",
+    "vfx_chr_th18guardianRanged_Trail_01",
+    "vfx_chr_th18guardianRanged_Spark",
+    "vfx_chr_th18guardianRanged_SmokeRing",
+    "vfx_chr_th18guardianRanged_Projectile",
+    "vfx_chr_th18guardianMelee_Smear",
+    "vfx_chr_th18guardianMelee_CheerSmear",
+    "vfx_chr_th18guardianLogger_C_Smear",
+    "vfx_chr_t18guardian_ImpactShockwave_02",
+    "vfx_chr_t18guardian_ImpactShockwave",
+    "vfx_chr_t18guardian_DustCloud_04",
+    "vfx_chr_t18guardian_DustCloud_03",
+    "vfx_chr_t18guardian_DustCloud_02",
+    "vfx_chr_t18guardian_DustCloud_01",
+    "vfx_chr_ruinwitch_spark",
+    "vfx_chr_ruinwitch_sand_02",
+    "vfx_chr_ruinwitch_sand_01",
+    "vfx_chr_ruinwitch_lightning_02",
+    "vfx_chr_ruinwitch_lightning_01",
+    "vfx_chr_ruinwitch_impact_01",
+    "vfx_chr_ruinwitch_glow_01",
+    "vfx_chr_ruinwitch_dome",
+    "vfx_chr_ruinwitch_Debris_02",
+    "vfx_chr_ruinwitch_Debris_01",
+    "vfx_chr_mp_meteorstrike_Spark",
+    "vfx_chr_mp_meteorstrike_SmokeCloud04",
+    "vfx_chr_mp_meteorstrike_SmokeCloud03",
+    "vfx_chr_mp_meteorstrike_SmokeCloud02",
+    "vfx_chr_mp_meteorstrike_SmokeCloud01",
+    "vfx_chr_mp_meteorstrike_ScorchMark",
+    "vfx_chr_mp_meteorstrike_Residue",
+    "vfx_chr_mp_meteorstrike_Debris03",
+    "vfx_chr_mp_meteorstrike_Debris02",
+    "sq: ",
+    "vfx_chr_mp_meteorstrike_Debris01",
+    "vfx_chr_mp_meteorstrike_Aura",
+    "vfx_chr_mp_eq_DarkCrown_SoulVortex",
+    "vfx_chr_mp_cosmicportal_smoke_02",
+    "vfx_chr_mp_cosmicportal_smoke_01",
+    "vfx_chr_mp_cosmicportal_portalring_01",
+    "vfx_chr_mp_cosmicportal_aurafront",
+    "vfx_chr_mp_MeteorStrike_Trail",
+    "vfx_chr_mp_MeteorStrike_Projectile",
+    "vfx_chr_mp_MeteorStrike_ImpactCraterEnd",
+    "vfx_chr_mp_MeteorStrike_ImpactCrater",
+    "vfx_chr_mp_MeteorStrike_Impact",
+    "vfx_chr_mp_MetalPants_ShieldStartUp",
+    "vfx_chr_mp_MetalPants_ShieldEnd",
+    "vfx_chr_mp_MetalPants_Shield",
+    "vfx_chr_mp_DarkCrown_VortexAura",
+    "vfx_chr_mp_DarkCrown_Spark",
+    "vfx_chr_mp_DarkCrown_SoulBeam_2",
+    "vfx_chr_mp_DarkCrown_SoulBeam",
+    "vfx_chr_mp_DarkCrown_PowerUp",
+    "vfx_chr_gw_crater2",
+    "vfx_chr_gw_crater",
+    "vfx_chr_gw_SmokeImpact2",
+    "vfx_chr_gw_SmokeImpact",
+    "vfx_chr_gw_PurpleEmber02",
+    "vfx_chr_gw_PurpleEmber01",
+    "vfx_chr_elephantrider_ring",
+    "vfx_chr_elephantrider_impact",
+    "vfx_chr_elephantrider_dustwisps",
+    "vfx_chr_elephantrider_dustcloud_03",
+    "vfx_chr_elephantrider_dustcloud_02",
+    "vfx_chr_elephantrider_dustcloud_01",
+    "vfx_chr_elephantrider_debris_02",
+    "vfx_chr_elephantrider_debris_01",
+    "vfx_chr_elephantrider_SoftGlow",
+    "vfx_chr_elephantrider_ImpactSpark_01",
+    "vfx_chr_elephantrider_ImpactShockwave",
+    "vfx_chr_GW_SmokeC",
+    "vfx_chr_GW_SmokeB",
+    "vfx_chr_GW_SmokeA",
+    "vfx_chr_GW_Scorchmark",
+    "vfx_chr_GW_Ring2",
+    "vfx_chr_GW_Ring",
+    "vfx_chr_GW_ImpactShape01",
+    "vfx_chr_GW_Glow2",
+    "vfx_chr_GW_Glow",
+    "vfx_chr_GW_Flames03",
+    "vfx_chr_GW_Flames02",
+    "vfx_chr_GW_Flames01",
+    "vfx_chr_GW_Explosion",
+    "vfx_chr_GW_Ember04",
+    "vfx_chr_GW_Ember03",
+    "vfx_chr_GW_Ember02",
+    "vfx_chr_GW_Ember01",
+    "projectile_chr_mp_PowerPumpTrail",
+    "projectile_chr_mp_PowerPumpImpact",
+    "projectile_chr_mp_PowerPump",
+    "hero_equip_aq_monolith_trail_particle_min_03",
+    "hero_equip_aq_monolith_trail_particle_min_02",
+    "hero_equip_aq_monolith_trail_particle_min_01",
+    "hero_equip_aq_monolith_trail_particle_med_03",
+    "hero_equip_aq_monolith_trail_particle_med_02",
+    "hero_equip_aq_monolith_trail_particle_med_01",
+    "hero_equip_aq_monolith_trail_particle_max_03",
+    "hero_equip_aq_monolith_trail_particle_max_02",
+    "hero_equip_aq_monolith_trail_particle_max_01",
+    "hero_equip_aq_monolith_lightning_07",
+    "hero_equip_aq_monolith_lightning_06",
+    "hero_equip_aq_monolith_lightning_05",
+    "hero_equip_aq_monolith_lightning_04",
+    "hero_equip_aq_monolith_lightning_03",
+    "hero_equip_aq_monolith_lightning_02",
+    "hero_equip_aq_monolith_lightning_01",
+    "hero_equip_aq_monolith_impact_min",
+    "hero_equip_aq_monolith_impact_med",
+    "hero_equip_aq_monolith_impact_max",
+    "hero_equip_aq_monolith_arrow_trail_max",
+    "hero_equip_aq_monolith_arrow_stars_max",
+    "hero_equip_aq_monolith_arrow_min",
+    "hero_equip_aq_monolith_arrow_med",
+    "hero_equip_aq_monolith_arrow_max",
+    "fx_chr_WizardAttack_Spark_lvl3",
+    "fx_chr_WizardAttack_Spark",
+    "fx_chr_WizardAttack_Shard_Lvl4",
+    "fx_chr_WizardAttack_Projectile_Lvl4",
+    "fx_chr_WizardAttack_Projectile_Lvl3",
+    "fx_chr_WizardAttack_Projectile_Lvl2",
+    "fx_chr_WizardAttack_Projectile_Lvl1",
+    "fx_chr_WizardAttack_Impact_Lvl4",
+    "fx_chr_WizardAttack_Impact_Lvl3",
+    "fx_chr_WizardAttack_Impact_Lvl2",
+    "fx_chr_WizardAttack_Impact_Lvl1",
+    "fx_chr_WizardAttack_FireGlow",
+    "fx_chr_WizardAttack_Charge_Lvl4",
+    "fx_chr_WizardAttack_Charge_Lvl3",
+    "fx_chr_WizardAttack_Charge_Lvl1",
+    "fx_chr_WizardAttack_ArcaneGlow",
+    "SmokeResidue",
+    "SmokeImpact",
+    "SmokeC",
+    "SmokeB",
+    "SmokeA",
+    "HullB",
+    "HullA",
+    "Aura"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 906,
+      "value": "xxxv"
+    },
+    {
+      "offset": 913,
+      "value": "sssn"
+    },
+    {
+      "offset": 920,
+      "value": "nnnf"
+    },
+    {
+      "offset": 927,
+      "value": "iii\\"
+    },
+    {
+      "offset": 934,
+      "value": "dddT"
+    },
+    {
+      "offset": 941,
+      "value": "___M"
+    },
+    {
+      "offset": 948,
+      "value": "ZZZC"
+    },
+    {
+      "offset": 962,
+      "value": "OOO3"
+    },
+    {
+      "offset": 1088,
+      "value": "nnns"
+    },
+    {
+      "offset": 1095,
+      "value": "iiii"
+    },
+    {
+      "offset": 1102,
+      "value": "ddd_"
+    },
+    {
+      "offset": 1109,
+      "value": "___T"
+    },
+    {
+      "offset": 1116,
+      "value": "ZZZJ"
+    },
+    {
+      "offset": 1123,
+      "value": "TTT@"
+    },
+    {
+      "offset": 1130,
+      "value": "OOO6"
+    },
+    {
+      "offset": 1250,
+      "value": "nnq"
+    },
+    {
+      "offset": 1257,
+      "value": "iif"
+    },
+    {
+      "offset": 1264,
+      "value": "dd\\"
+    },
+    {
+      "offset": 1271,
+      "value": "__T"
+    },
+    {
+      "offset": 1278,
+      "value": "ZZJ"
+    },
+    {
+      "offset": 1285,
+      "value": "TT@"
+    },
+    {
+      "offset": 1292,
+      "value": "OO6"
+    },
+    {
+      "offset": 1662,
+      "value": "CCCZ"
+    },
+    {
+      "offset": 1785,
+      "value": "f33"
+    },
+    {
+      "offset": 2044,
+      "value": "z00"
+    },
+    {
+      "offset": 2051,
+      "value": "z00"
+    },
+    {
+      "offset": 2058,
+      "value": "z00"
+    },
+    {
+      "offset": 2072,
+      "value": "z00"
+    },
+    {
+      "offset": 2086,
+      "value": "z00"
+    },
+    {
+      "offset": 2099,
+      "value": "_z00"
+    },
+    {
+      "offset": 6755,
+      "value": "TTT"
+    },
+    {
+      "offset": 6839,
+      "value": "fff"
+    },
+    {
+      "offset": 7322,
+      "value": "HBX"
+    },
+    {
+      "offset": 7329,
+      "value": "HBX"
+    },
+    {
+      "offset": 7335,
+      "value": "sHBX"
+    },
+    {
+      "offset": 7342,
+      "value": "fHBX"
+    },
+    {
+      "offset": 7350,
+      "value": "HBX"
+    },
+    {
+      "offset": 7356,
+      "value": "OHBX"
+    },
+    {
+      "offset": 7363,
+      "value": "EHBX"
+    },
+    {
+      "offset": 7371,
+      "value": "HBX"
+    },
+    {
+      "offset": 7378,
+      "value": "HBX"
+    },
+    {
+      "offset": 7385,
+      "value": "HBX"
+    },
+    {
+      "offset": 7392,
+      "value": "HBX"
+    },
+    {
+      "offset": 8336,
+      "value": "v333"
+    },
+    {
+      "offset": 8343,
+      "value": "l333"
+    },
+    {
+      "offset": 8350,
+      "value": "_333"
+    },
+    {
+      "offset": 8357,
+      "value": "T333"
+    },
+    {
+      "offset": 8364,
+      "value": "J333"
+    },
+    {
+      "offset": 8750,
+      "value": "D+HC"
+    },
+    {
+      "offset": 12024,
+      "value": "gfV@"
+    },
+    {
+      "offset": 13778,
+      "value": "s@33KA"
+    },
+    {
+      "offset": 14980,
+      "value": "gf6@"
+    },
+    {
+      "offset": 19848,
+      "value": "gfF@"
+    },
+    {
+      "offset": 20856,
+      "value": "gfF@"
+    },
+    {
+      "offset": 21795,
+      "value": "B33SA"
+    },
+    {
+      "offset": 23505,
+      "value": "pA@"
+    },
+    {
+      "offset": 23553,
+      "value": "pA@"
+    },
+    {
+      "offset": 24316,
+      "value": "gff@"
+    },
+    {
+      "offset": 25012,
+      "value": "gfZA"
+    },
+    {
+      "offset": 25228,
+      "value": "gfnA"
+    },
+    {
+      "offset": 28852,
+      "value": "gfF@"
+    },
+    {
+      "offset": 28876,
+      "value": "gfV@"
+    },
+    {
+      "offset": 29716,
+      "value": "gff@"
+    },
+    {
+      "offset": 29740,
+      "value": "gfv@"
+    },
+    {
+      "offset": 34637,
+      "value": "c+D"
+    },
+    {
+      "offset": 34708,
+      "value": "gf.D"
+    },
+    {
+      "offset": 39052,
+      "value": "gfzA"
+    },
+    {
+      "offset": 39436,
+      "value": "gf.A"
+    },
+    {
+      "offset": 43468,
+      "value": "gfvA"
+    },
+    {
+      "offset": 50280,
+      "value": "g6yD"
+    },
+    {
+      "offset": 50616,
+      "value": "gFmD"
+    },
+    {
+      "offset": 50952,
+      "value": "gVaD"
+    },
+    {
+      "offset": 51025,
+      "value": "YbDgfoB"
+    },
+    {
+      "offset": 51288,
+      "value": "gfUD"
+    },
+    {
+      "offset": 51506,
+      "value": "kD333@"
+    },
+    {
+      "offset": 52608,
+      "value": "gFmD"
+    },
+    {
+      "offset": 55224,
+      "value": "gf-B"
+    },
+    {
+      "offset": 55584,
+      "value": "gfeB"
+    },
+    {
+      "offset": 60388,
+      "value": "gfnA"
+    },
+    {
+      "offset": 62068,
+      "value": "gfNA"
+    },
+    {
+      "offset": 62212,
+      "value": "gfaB"
+    },
+    {
+      "offset": 62361,
+      "value": "p9@"
+    },
+    {
+      "offset": 62697,
+      "value": "P9@"
+    },
+    {
+      "offset": 63456,
+      "value": "gfF@"
+    },
+    {
+      "offset": 63936,
+      "value": "gfdB"
+    },
+    {
+      "offset": 69268,
+      "value": "gff@"
+    },
+    {
+      "offset": 69292,
+      "value": "gfF@"
+    },
+    {
+      "offset": 70804,
+      "value": "gfv@"
+    },
+    {
+      "offset": 71784,
+      "value": "gfZA"
+    },
+    {
+      "offset": 80616,
+      "value": "gfbA"
+    },
+    {
+      "offset": 83236,
+      "value": "gfBA"
+    },
+    {
+      "offset": 85248,
+      "value": "g6RD"
+    },
+    {
+      "offset": 85560,
+      "value": "gFFD"
+    },
+    {
+      "offset": 85872,
+      "value": "gV:D"
+    },
+    {
+      "offset": 86184,
+      "value": "gf.D"
+    },
+    {
+      "offset": 86737,
+      "value": "y2D"
+    },
+    {
+      "offset": 86833,
+      "value": "S2D"
+    },
+    {
+      "offset": 90216,
+      "value": "gf4B"
+    },
+    {
+      "offset": 91108,
+      "value": "gfwB"
+    },
+    {
+      "offset": 94269,
+      "value": "P8@"
+    },
+    {
+      "offset": 95281,
+      "value": "L3C"
+    },
+    {
+      "offset": 95833,
+      "value": "sVC"
+    },
+    {
+      "offset": 96217,
+      "value": "YsCgfvB"
+    },
+    {
+      "offset": 96315,
+      "value": "C33DB"
+    },
+    {
+      "offset": 96363,
+      "value": "C33 B"
+    },
+    {
+      "offset": 97250,
+      "value": "mD3c0D"
+    },
+    {
+      "offset": 98498,
+      "value": "QD33CA"
+    },
+    {
+      "offset": 98616,
+      "value": "gFOD3sKC"
+    },
+    {
+      "offset": 99121,
+      "value": "s:D"
+    },
+    {
+      "offset": 99193,
+      "value": "YLD"
+    },
+    {
+      "offset": 99509,
+      "value": "P3D"
+    },
+    {
+      "offset": 99987,
+      "value": "D3cBD"
+    },
+    {
+      "offset": 100457,
+      "value": "PM@"
+    },
+    {
+      "offset": 100733,
+      "value": "PbD"
+    },
+    {
+      "offset": 100949,
+      "value": "yoD"
+    },
+    {
+      "offset": 101001,
+      "value": "p9@"
+    },
+    {
+      "offset": 101042,
+      "value": "PD3cxD"
+    },
+    {
+      "offset": 101193,
+      "value": "PM@"
+    },
+    {
+      "offset": 101289,
+      "value": "pV@"
+    },
+    {
+      "offset": 101625,
+      "value": "Pu@"
+    },
+    {
+      "offset": 103009,
+      "value": "YVC"
+    },
+    {
+      "offset": 103201,
+      "value": "YnC33sA"
+    },
+    {
+      "offset": 104620,
+      "value": "gfXC"
+    },
+    {
+      "offset": 104717,
+      "value": "YMC"
+    },
+    {
+      "offset": 104764,
+      "value": "gfEC"
+    },
+    {
+      "offset": 105605,
+      "value": "YvC"
+    },
+    {
+      "offset": 106036,
+      "value": "gfRA"
+    },
+    {
+      "offset": 107857,
+      "value": "lFD"
+    },
+    {
+      "offset": 108387,
+      "value": "D334B"
+    },
+    {
+      "offset": 108725,
+      "value": "L1C"
+    },
+    {
+      "offset": 108819,
+      "value": "D3sUC"
+    },
+    {
+      "offset": 109466,
+      "value": "QD3s.C"
+    },
+    {
+      "offset": 109609,
+      "value": "YBDgfyC"
+    },
+    {
+      "offset": 109826,
+      "value": "ZDgV1D"
+    },
+    {
+      "offset": 109920,
+      "value": "gfID"
+    },
+    {
+      "offset": 110403,
+      "value": "CgvJD"
+    },
+    {
+      "offset": 110592,
+      "value": "gfHC"
+    },
+    {
+      "offset": 110739,
+      "value": "BgF8D"
+    },
+    {
+      "offset": 110789,
+      "value": "Y4D"
+    },
+    {
+      "offset": 111053,
+      "value": "shC"
+    },
+    {
+      "offset": 113597,
+      "value": "YkC"
+    },
+    {
+      "offset": 113618,
+      "value": "EC33iC"
+    },
+    {
+      "offset": 113715,
+      "value": "C33TC"
+    },
+    {
+      "offset": 113883,
+      "value": "C3s6C"
+    },
+    {
+      "offset": 113909,
+      "value": "Y/C"
+    },
+    {
+      "offset": 114216,
+      "value": "gfRC"
+    },
+    {
+      "offset": 114722,
+      "value": "oCgfAB"
+    },
+    {
+      "offset": 114793,
+      "value": "szCgf3B"
+    },
+    {
+      "offset": 114939,
+      "value": "C33sA"
+    },
+    {
+      "offset": 115445,
+      "value": "PED"
+    },
+    {
+      "offset": 115683,
+      "value": "Cg6BD"
+    },
+    {
+      "offset": 115752,
+      "value": "gftB"
+    },
+    {
+      "offset": 117029,
+      "value": "LJC"
+    },
+    {
+      "offset": 119331,
+      "value": "D33hB"
+    },
+    {
+      "offset": 119573,
+      "value": "LEC"
+    },
+    {
+      "offset": 119689,
+      "value": "ciD"
+    },
+    {
+      "offset": 119785,
+      "value": "ChD"
+    },
+    {
+      "offset": 120482,
+      "value": "_D33.D"
+    },
+    {
+      "offset": 120819,
+      "value": "DgFAD"
+    },
+    {
+      "offset": 121059,
+      "value": "D3sED"
+    },
+    {
+      "offset": 122641,
+      "value": "YjC33gA"
+    },
+    {
+      "offset": 122976,
+      "value": "gfXC"
+    },
+    {
+      "offset": 123340,
+      "value": "gfjA"
+    },
+    {
+      "offset": 123821,
+      "value": "LBC"
+    },
+    {
+      "offset": 127468,
+      "value": "gff@"
+    },
+    {
+      "offset": 128124,
+      "value": "ffbA"
+    },
+    {
+      "offset": 128364,
+      "value": "ff1B"
+    },
+    {
+      "offset": 128532,
+      "value": "ffuB"
+    },
+    {
+      "offset": 131596,
+      "value": "ffrB"
+    },
+    {
+      "offset": 131796,
+      "value": "ffBB"
+    },
+    {
+      "offset": 132631,
+      "value": "Cq2"
+    },
+    {
+      "offset": 132703,
+      "value": "Cq2"
+    },
+    {
+      "offset": 133355,
+      "value": "v33pB"
+    },
+    {
+      "offset": 133425,
+      "value": "qiR"
+    },
+    {
+      "offset": 134209,
+      "value": "Y9C"
+    },
+    {
+      "offset": 134305,
+      "value": "Y9C"
+    },
+    {
+      "offset": 134708,
+      "value": "qL p"
+    },
+    {
+      "offset": 134804,
+      "value": "qL p"
+    },
+    {
+      "offset": 136405,
+      "value": "YpC"
+    },
+    {
+      "offset": 136416,
+      "value": "ffuB"
+    },
+    {
+      "offset": 137689,
+      "value": "s9C"
+    },
+    {
+      "offset": 138588,
+      "value": "fff@"
+    },
+    {
+      "offset": 140157,
+      "value": "TN8"
+    },
+    {
+      "offset": 140241,
+      "value": "uu:"
+    },
+    {
+      "offset": 140352,
+      "value": "ffFB"
+    },
+    {
+      "offset": 141840,
+      "value": "ff6@"
+    },
+    {
+      "offset": 142547,
+      "value": "I33+A"
+    },
+    {
+      "offset": 142559,
+      "value": "N33+A"
+    },
+    {
+      "offset": 143397,
+      "value": "rlj"
+    },
+    {
+      "offset": 144140,
+      "value": "Mb2H"
+    },
+    {
+      "offset": 146771,
+      "value": "tffVB"
+    },
+    {
+      "offset": 147082,
+      "value": "WsffpB"
+    },
+    {
+      "offset": 147852,
+      "value": "ffVB"
+    },
+    {
+      "offset": 150571,
+      "value": "AbI"
+    },
+    {
+      "offset": 150972,
+      "value": "ff2A"
+    },
+    {
+      "offset": 151760,
+      "value": "gXI"
+    },
+    {
+      "offset": 155388,
+      "value": "ff1B"
+    },
+    {
+      "offset": 155829,
+      "value": "YZS"
+    },
+    {
+      "offset": 157716,
+      "value": "ffYC"
+    },
+    {
+      "offset": 159684,
+      "value": "ff0C"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000007ebe46ec125422c5e2bd4a3a8a028258545f38ad1c002800040008000c001000140000000000000018001c00200024001c00000001000000",
+  "decoded_preview_hex": "789e040018000000000012001400040000000000000008000c00100012000000fc6d0400c8e0020030f3010004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

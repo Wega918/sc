@@ -1,0 +1,1714 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_siege_machine_ram.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_siege_machine_ram.sc",
+  "sha256_container": "54164de8e38a81cf495bc3600e6c1e456f4e7b1f0422fea3de1a866ee9866a2a",
+  "sha256_descriptor": "743bc672ae22d6422e65223eb3896f077e630a6b2b5ff2cae41fe1aa5fbe7a25",
+  "sha256_decoded_payload": "6ec3f6f1b6061ee03844884ddb1a6830a6a85f4c80582ce57875190bed572e8e",
+  "version": 6,
+  "descriptor_bytes": 11724,
+  "compressed_frame_bytes": 28915,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 221772,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 352
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 276
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 147868
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 57988
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 28920
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 784,
+      "value": "Siege_Machine_Ram6_run1_9"
+    },
+    {
+      "offset": 848,
+      "value": "Siege_Machine_Ram6_run1_8"
+    },
+    {
+      "offset": 912,
+      "value": "Siege_Machine_Ram6_run1_7"
+    },
+    {
+      "offset": 976,
+      "value": "Siege_Machine_Ram6_run1_6"
+    },
+    {
+      "offset": 1040,
+      "value": "Siege_Machine_Ram6_run1_5"
+    },
+    {
+      "offset": 1104,
+      "value": "Siege_Machine_Ram6_run1_4"
+    },
+    {
+      "offset": 1168,
+      "value": "Siege_Machine_Ram6_run1_3"
+    },
+    {
+      "offset": 1232,
+      "value": "Siege_Machine_Ram6_run1_2"
+    },
+    {
+      "offset": 1296,
+      "value": "Siege_Machine_Ram6_run1_1"
+    },
+    {
+      "offset": 1360,
+      "value": "Siege_Machine_Ram6_parked"
+    },
+    {
+      "offset": 1424,
+      "value": "Siege_Machine_Ram6_idle1_9"
+    },
+    {
+      "offset": 1488,
+      "value": "Siege_Machine_Ram6_idle1_8"
+    },
+    {
+      "offset": 1552,
+      "value": "Siege_Machine_Ram6_idle1_7"
+    },
+    {
+      "offset": 1616,
+      "value": "Siege_Machine_Ram6_idle1_6"
+    },
+    {
+      "offset": 1680,
+      "value": "Siege_Machine_Ram6_idle1_5"
+    },
+    {
+      "offset": 1744,
+      "value": "Siege_Machine_Ram6_idle1_4"
+    },
+    {
+      "offset": 1808,
+      "value": "Siege_Machine_Ram6_idle1_3"
+    },
+    {
+      "offset": 1872,
+      "value": "Siege_Machine_Ram6_idle1_2"
+    },
+    {
+      "offset": 1936,
+      "value": "Siege_Machine_Ram6_idle1_1"
+    },
+    {
+      "offset": 2000,
+      "value": "Siege_Machine_Ram6_attack1_9"
+    },
+    {
+      "offset": 2068,
+      "value": "Siege_Machine_Ram6_attack1_8"
+    },
+    {
+      "offset": 2136,
+      "value": "Siege_Machine_Ram6_attack1_7"
+    },
+    {
+      "offset": 2204,
+      "value": "Siege_Machine_Ram6_attack1_6"
+    },
+    {
+      "offset": 2272,
+      "value": "Siege_Machine_Ram6_attack1_5"
+    },
+    {
+      "offset": 2340,
+      "value": "Siege_Machine_Ram6_attack1_4"
+    },
+    {
+      "offset": 2408,
+      "value": "Siege_Machine_Ram6_attack1_3"
+    },
+    {
+      "offset": 2476,
+      "value": "Siege_Machine_Ram6_attack1_2"
+    },
+    {
+      "offset": 2544,
+      "value": "Siege_Machine_Ram6_attack1_1"
+    },
+    {
+      "offset": 2612,
+      "value": "Siege_Machine_Ram5_run1_9"
+    },
+    {
+      "offset": 2676,
+      "value": "Siege_Machine_Ram5_run1_8"
+    },
+    {
+      "offset": 2740,
+      "value": "Siege_Machine_Ram5_run1_7"
+    },
+    {
+      "offset": 2804,
+      "value": "Siege_Machine_Ram5_run1_6"
+    },
+    {
+      "offset": 2868,
+      "value": "Siege_Machine_Ram5_run1_5"
+    },
+    {
+      "offset": 2932,
+      "value": "Siege_Machine_Ram5_run1_4"
+    },
+    {
+      "offset": 2996,
+      "value": "Siege_Machine_Ram5_run1_3"
+    },
+    {
+      "offset": 3060,
+      "value": "Siege_Machine_Ram5_run1_2"
+    },
+    {
+      "offset": 3124,
+      "value": "Siege_Machine_Ram5_run1_1"
+    },
+    {
+      "offset": 3188,
+      "value": "Siege_Machine_Ram5_parked"
+    },
+    {
+      "offset": 3252,
+      "value": "Siege_Machine_Ram5_idle1_9"
+    },
+    {
+      "offset": 3316,
+      "value": "Siege_Machine_Ram5_idle1_8"
+    },
+    {
+      "offset": 3380,
+      "value": "Siege_Machine_Ram5_idle1_7"
+    },
+    {
+      "offset": 3444,
+      "value": "Siege_Machine_Ram5_idle1_6"
+    },
+    {
+      "offset": 3508,
+      "value": "Siege_Machine_Ram5_idle1_5"
+    },
+    {
+      "offset": 3572,
+      "value": "Siege_Machine_Ram5_idle1_4"
+    },
+    {
+      "offset": 3636,
+      "value": "Siege_Machine_Ram5_idle1_3"
+    },
+    {
+      "offset": 3700,
+      "value": "Siege_Machine_Ram5_idle1_2"
+    },
+    {
+      "offset": 3764,
+      "value": "Siege_Machine_Ram5_idle1_1"
+    },
+    {
+      "offset": 3828,
+      "value": "Siege_Machine_Ram5_attack1_9"
+    },
+    {
+      "offset": 3896,
+      "value": "Siege_Machine_Ram5_attack1_8"
+    },
+    {
+      "offset": 3964,
+      "value": "Siege_Machine_Ram5_attack1_7"
+    },
+    {
+      "offset": 4032,
+      "value": "Siege_Machine_Ram5_attack1_6"
+    },
+    {
+      "offset": 4100,
+      "value": "Siege_Machine_Ram5_attack1_5"
+    },
+    {
+      "offset": 4168,
+      "value": "Siege_Machine_Ram5_attack1_4"
+    },
+    {
+      "offset": 4236,
+      "value": "Siege_Machine_Ram5_attack1_3"
+    },
+    {
+      "offset": 4304,
+      "value": "Siege_Machine_Ram5_attack1_2"
+    },
+    {
+      "offset": 4372,
+      "value": "Siege_Machine_Ram5_attack1_1"
+    },
+    {
+      "offset": 4440,
+      "value": "Siege_Machine_Ram4_run1_9"
+    },
+    {
+      "offset": 4504,
+      "value": "Siege_Machine_Ram4_run1_8"
+    },
+    {
+      "offset": 4568,
+      "value": "Siege_Machine_Ram4_run1_7"
+    },
+    {
+      "offset": 4632,
+      "value": "Siege_Machine_Ram4_run1_6"
+    },
+    {
+      "offset": 4696,
+      "value": "Siege_Machine_Ram4_run1_5"
+    },
+    {
+      "offset": 4760,
+      "value": "Siege_Machine_Ram4_run1_4"
+    },
+    {
+      "offset": 4824,
+      "value": "Siege_Machine_Ram4_run1_3"
+    },
+    {
+      "offset": 4888,
+      "value": "Siege_Machine_Ram4_run1_2"
+    },
+    {
+      "offset": 4952,
+      "value": "Siege_Machine_Ram4_run1_1"
+    },
+    {
+      "offset": 5016,
+      "value": "Siege_Machine_Ram4_parked"
+    },
+    {
+      "offset": 5080,
+      "value": "Siege_Machine_Ram4_idle1_9"
+    },
+    {
+      "offset": 5144,
+      "value": "Siege_Machine_Ram4_idle1_8"
+    },
+    {
+      "offset": 5208,
+      "value": "Siege_Machine_Ram4_idle1_7"
+    },
+    {
+      "offset": 5272,
+      "value": "Siege_Machine_Ram4_idle1_6"
+    },
+    {
+      "offset": 5336,
+      "value": "Siege_Machine_Ram4_idle1_5"
+    },
+    {
+      "offset": 5400,
+      "value": "Siege_Machine_Ram4_idle1_4"
+    },
+    {
+      "offset": 5464,
+      "value": "Siege_Machine_Ram4_idle1_3"
+    },
+    {
+      "offset": 5528,
+      "value": "Siege_Machine_Ram4_idle1_2"
+    },
+    {
+      "offset": 5592,
+      "value": "Siege_Machine_Ram4_idle1_1"
+    },
+    {
+      "offset": 5656,
+      "value": "Siege_Machine_Ram4_attack1_9"
+    },
+    {
+      "offset": 5724,
+      "value": "Siege_Machine_Ram4_attack1_8"
+    },
+    {
+      "offset": 5792,
+      "value": "Siege_Machine_Ram4_attack1_7"
+    },
+    {
+      "offset": 5860,
+      "value": "Siege_Machine_Ram4_attack1_6"
+    },
+    {
+      "offset": 5928,
+      "value": "Siege_Machine_Ram4_attack1_5"
+    },
+    {
+      "offset": 5996,
+      "value": "Siege_Machine_Ram4_attack1_4"
+    },
+    {
+      "offset": 6064,
+      "value": "Siege_Machine_Ram4_attack1_3"
+    },
+    {
+      "offset": 6132,
+      "value": "Siege_Machine_Ram4_attack1_2"
+    },
+    {
+      "offset": 6200,
+      "value": "Siege_Machine_Ram4_attack1_1"
+    },
+    {
+      "offset": 6268,
+      "value": "Siege_Machine_Ram3_run1_9"
+    },
+    {
+      "offset": 6332,
+      "value": "Siege_Machine_Ram3_run1_8"
+    },
+    {
+      "offset": 6396,
+      "value": "Siege_Machine_Ram3_run1_7"
+    },
+    {
+      "offset": 6460,
+      "value": "Siege_Machine_Ram3_run1_6"
+    },
+    {
+      "offset": 6524,
+      "value": "Siege_Machine_Ram3_run1_5"
+    },
+    {
+      "offset": 6588,
+      "value": "Siege_Machine_Ram3_run1_4"
+    },
+    {
+      "offset": 6652,
+      "value": "Siege_Machine_Ram3_run1_3"
+    },
+    {
+      "offset": 6716,
+      "value": "Siege_Machine_Ram3_run1_2"
+    },
+    {
+      "offset": 6780,
+      "value": "Siege_Machine_Ram3_run1_1"
+    },
+    {
+      "offset": 6844,
+      "value": "Siege_Machine_Ram3_parked"
+    },
+    {
+      "offset": 6908,
+      "value": "Siege_Machine_Ram3_idle1_9"
+    },
+    {
+      "offset": 6972,
+      "value": "Siege_Machine_Ram3_idle1_8"
+    },
+    {
+      "offset": 7036,
+      "value": "Siege_Machine_Ram3_idle1_7"
+    },
+    {
+      "offset": 7100,
+      "value": "Siege_Machine_Ram3_idle1_6"
+    },
+    {
+      "offset": 7164,
+      "value": "Siege_Machine_Ram3_idle1_5"
+    },
+    {
+      "offset": 7228,
+      "value": "Siege_Machine_Ram3_idle1_4"
+    },
+    {
+      "offset": 7292,
+      "value": "Siege_Machine_Ram3_idle1_3"
+    },
+    {
+      "offset": 7356,
+      "value": "Siege_Machine_Ram3_idle1_2"
+    },
+    {
+      "offset": 7420,
+      "value": "Siege_Machine_Ram3_idle1_1"
+    },
+    {
+      "offset": 7484,
+      "value": "Siege_Machine_Ram3_attack1_9"
+    },
+    {
+      "offset": 7552,
+      "value": "Siege_Machine_Ram3_attack1_8"
+    },
+    {
+      "offset": 7620,
+      "value": "Siege_Machine_Ram3_attack1_7"
+    },
+    {
+      "offset": 7688,
+      "value": "Siege_Machine_Ram3_attack1_6"
+    },
+    {
+      "offset": 7756,
+      "value": "Siege_Machine_Ram3_attack1_5"
+    },
+    {
+      "offset": 7824,
+      "value": "Siege_Machine_Ram3_attack1_4"
+    },
+    {
+      "offset": 7892,
+      "value": "Siege_Machine_Ram3_attack1_3"
+    },
+    {
+      "offset": 7960,
+      "value": "Siege_Machine_Ram3_attack1_2"
+    },
+    {
+      "offset": 8028,
+      "value": "Siege_Machine_Ram3_attack1_1"
+    },
+    {
+      "offset": 8096,
+      "value": "Siege_Machine_Ram2_run1_9"
+    },
+    {
+      "offset": 8160,
+      "value": "Siege_Machine_Ram2_run1_8"
+    },
+    {
+      "offset": 8224,
+      "value": "Siege_Machine_Ram2_run1_7"
+    },
+    {
+      "offset": 8288,
+      "value": "Siege_Machine_Ram2_run1_6"
+    },
+    {
+      "offset": 8352,
+      "value": "Siege_Machine_Ram2_run1_5"
+    },
+    {
+      "offset": 8416,
+      "value": "Siege_Machine_Ram2_run1_4"
+    },
+    {
+      "offset": 8480,
+      "value": "Siege_Machine_Ram2_run1_3"
+    },
+    {
+      "offset": 8544,
+      "value": "Siege_Machine_Ram2_run1_2"
+    },
+    {
+      "offset": 8608,
+      "value": "Siege_Machine_Ram2_run1_1"
+    },
+    {
+      "offset": 8672,
+      "value": "Siege_Machine_Ram2_parked"
+    },
+    {
+      "offset": 8736,
+      "value": "Siege_Machine_Ram2_idle1_9"
+    },
+    {
+      "offset": 8800,
+      "value": "Siege_Machine_Ram2_idle1_8"
+    },
+    {
+      "offset": 8864,
+      "value": "Siege_Machine_Ram2_idle1_7"
+    },
+    {
+      "offset": 8928,
+      "value": "Siege_Machine_Ram2_idle1_6"
+    },
+    {
+      "offset": 8992,
+      "value": "Siege_Machine_Ram2_idle1_5"
+    },
+    {
+      "offset": 9056,
+      "value": "Siege_Machine_Ram2_idle1_4"
+    },
+    {
+      "offset": 9120,
+      "value": "Siege_Machine_Ram2_idle1_3"
+    },
+    {
+      "offset": 9184,
+      "value": "Siege_Machine_Ram2_idle1_2"
+    },
+    {
+      "offset": 9248,
+      "value": "Siege_Machine_Ram2_idle1_1"
+    },
+    {
+      "offset": 9312,
+      "value": "Siege_Machine_Ram2_attack1_9"
+    },
+    {
+      "offset": 9380,
+      "value": "Siege_Machine_Ram2_attack1_8"
+    },
+    {
+      "offset": 9448,
+      "value": "Siege_Machine_Ram2_attack1_7"
+    },
+    {
+      "offset": 9516,
+      "value": "Siege_Machine_Ram2_attack1_6"
+    },
+    {
+      "offset": 9584,
+      "value": "Siege_Machine_Ram2_attack1_5"
+    },
+    {
+      "offset": 9652,
+      "value": "Siege_Machine_Ram2_attack1_4"
+    },
+    {
+      "offset": 9720,
+      "value": "Siege_Machine_Ram2_attack1_3"
+    },
+    {
+      "offset": 9788,
+      "value": "Siege_Machine_Ram2_attack1_2"
+    },
+    {
+      "offset": 9856,
+      "value": "Siege_Machine_Ram2_attack1_1"
+    },
+    {
+      "offset": 9924,
+      "value": "Siege_Machine_Ram1_run1_9"
+    },
+    {
+      "offset": 9988,
+      "value": "Siege_Machine_Ram1_run1_8"
+    },
+    {
+      "offset": 10052,
+      "value": "Siege_Machine_Ram1_run1_7"
+    },
+    {
+      "offset": 10116,
+      "value": "Siege_Machine_Ram1_run1_6"
+    },
+    {
+      "offset": 10180,
+      "value": "Siege_Machine_Ram1_run1_5"
+    },
+    {
+      "offset": 10244,
+      "value": "Siege_Machine_Ram1_run1_4"
+    },
+    {
+      "offset": 10308,
+      "value": "Siege_Machine_Ram1_run1_3"
+    },
+    {
+      "offset": 10372,
+      "value": "Siege_Machine_Ram1_run1_2"
+    },
+    {
+      "offset": 10436,
+      "value": "Siege_Machine_Ram1_run1_1"
+    },
+    {
+      "offset": 10500,
+      "value": "Siege_Machine_Ram1_parked"
+    },
+    {
+      "offset": 10564,
+      "value": "Siege_Machine_Ram1_idle1_9"
+    },
+    {
+      "offset": 10628,
+      "value": "Siege_Machine_Ram1_idle1_8"
+    },
+    {
+      "offset": 10692,
+      "value": "Siege_Machine_Ram1_idle1_7"
+    },
+    {
+      "offset": 10756,
+      "value": "Siege_Machine_Ram1_idle1_6"
+    },
+    {
+      "offset": 10820,
+      "value": "Siege_Machine_Ram1_idle1_5"
+    },
+    {
+      "offset": 10884,
+      "value": "Siege_Machine_Ram1_idle1_4"
+    },
+    {
+      "offset": 10948,
+      "value": "Siege_Machine_Ram1_idle1_3"
+    },
+    {
+      "offset": 11012,
+      "value": "Siege_Machine_Ram1_idle1_2"
+    },
+    {
+      "offset": 11076,
+      "value": "Siege_Machine_Ram1_idle1_1"
+    },
+    {
+      "offset": 11140,
+      "value": "Siege_Machine_Ram1_attack1_9"
+    },
+    {
+      "offset": 11208,
+      "value": "Siege_Machine_Ram1_attack1_8"
+    },
+    {
+      "offset": 11276,
+      "value": "Siege_Machine_Ram1_attack1_7"
+    },
+    {
+      "offset": 11344,
+      "value": "Siege_Machine_Ram1_attack1_6"
+    },
+    {
+      "offset": 11412,
+      "value": "Siege_Machine_Ram1_attack1_5"
+    },
+    {
+      "offset": 11480,
+      "value": "Siege_Machine_Ram1_attack1_4"
+    },
+    {
+      "offset": 11548,
+      "value": "Siege_Machine_Ram1_attack1_3"
+    },
+    {
+      "offset": 11616,
+      "value": "Siege_Machine_Ram1_attack1_2"
+    },
+    {
+      "offset": 11692,
+      "value": "Siege_Machine_Ram1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "Siege_Machine_Ram6_run1_9",
+    "Siege_Machine_Ram6_run1_8",
+    "Siege_Machine_Ram6_run1_7",
+    "Siege_Machine_Ram6_run1_6",
+    "Siege_Machine_Ram6_run1_5",
+    "Siege_Machine_Ram6_run1_4",
+    "Siege_Machine_Ram6_run1_3",
+    "Siege_Machine_Ram6_run1_2",
+    "Siege_Machine_Ram6_run1_1",
+    "Siege_Machine_Ram6_parked",
+    "Siege_Machine_Ram6_idle1_9",
+    "Siege_Machine_Ram6_idle1_8",
+    "Siege_Machine_Ram6_idle1_7",
+    "Siege_Machine_Ram6_idle1_6",
+    "Siege_Machine_Ram6_idle1_5",
+    "Siege_Machine_Ram6_idle1_4",
+    "Siege_Machine_Ram6_idle1_3",
+    "Siege_Machine_Ram6_idle1_2",
+    "Siege_Machine_Ram6_idle1_1",
+    "Siege_Machine_Ram6_attack1_9",
+    "Siege_Machine_Ram6_attack1_8",
+    "Siege_Machine_Ram6_attack1_7",
+    "Siege_Machine_Ram6_attack1_6",
+    "Siege_Machine_Ram6_attack1_5",
+    "Siege_Machine_Ram6_attack1_4",
+    "Siege_Machine_Ram6_attack1_3",
+    "Siege_Machine_Ram6_attack1_2",
+    "Siege_Machine_Ram6_attack1_1",
+    "Siege_Machine_Ram5_run1_9",
+    "Siege_Machine_Ram5_run1_8",
+    "Siege_Machine_Ram5_run1_7",
+    "Siege_Machine_Ram5_run1_6",
+    "Siege_Machine_Ram5_run1_5",
+    "Siege_Machine_Ram5_run1_4",
+    "Siege_Machine_Ram5_run1_3",
+    "Siege_Machine_Ram5_run1_2",
+    "Siege_Machine_Ram5_run1_1",
+    "Siege_Machine_Ram5_parked",
+    "Siege_Machine_Ram5_idle1_9",
+    "Siege_Machine_Ram5_idle1_8",
+    "Siege_Machine_Ram5_idle1_7",
+    "Siege_Machine_Ram5_idle1_6",
+    "Siege_Machine_Ram5_idle1_5",
+    "Siege_Machine_Ram5_idle1_4",
+    "Siege_Machine_Ram5_idle1_3",
+    "Siege_Machine_Ram5_idle1_2",
+    "Siege_Machine_Ram5_idle1_1",
+    "Siege_Machine_Ram5_attack1_9",
+    "Siege_Machine_Ram5_attack1_8",
+    "Siege_Machine_Ram5_attack1_7",
+    "Siege_Machine_Ram5_attack1_6",
+    "Siege_Machine_Ram5_attack1_5",
+    "Siege_Machine_Ram5_attack1_4",
+    "Siege_Machine_Ram5_attack1_3",
+    "Siege_Machine_Ram5_attack1_2",
+    "Siege_Machine_Ram5_attack1_1",
+    "Siege_Machine_Ram4_run1_9",
+    "Siege_Machine_Ram4_run1_8",
+    "Siege_Machine_Ram4_run1_7",
+    "Siege_Machine_Ram4_run1_6",
+    "Siege_Machine_Ram4_run1_5",
+    "Siege_Machine_Ram4_run1_4",
+    "Siege_Machine_Ram4_run1_3",
+    "Siege_Machine_Ram4_run1_2",
+    "Siege_Machine_Ram4_run1_1",
+    "Siege_Machine_Ram4_parked",
+    "Siege_Machine_Ram4_idle1_9",
+    "Siege_Machine_Ram4_idle1_8",
+    "Siege_Machine_Ram4_idle1_7",
+    "Siege_Machine_Ram4_idle1_6",
+    "Siege_Machine_Ram4_idle1_5",
+    "Siege_Machine_Ram4_idle1_4",
+    "Siege_Machine_Ram4_idle1_3",
+    "Siege_Machine_Ram4_idle1_2",
+    "Siege_Machine_Ram4_idle1_1",
+    "Siege_Machine_Ram4_attack1_9",
+    "Siege_Machine_Ram4_attack1_8",
+    "Siege_Machine_Ram4_attack1_7",
+    "Siege_Machine_Ram4_attack1_6",
+    "Siege_Machine_Ram4_attack1_5",
+    "Siege_Machine_Ram4_attack1_4",
+    "Siege_Machine_Ram4_attack1_3",
+    "Siege_Machine_Ram4_attack1_2",
+    "Siege_Machine_Ram4_attack1_1",
+    "Siege_Machine_Ram3_run1_9",
+    "Siege_Machine_Ram3_run1_8",
+    "Siege_Machine_Ram3_run1_7",
+    "Siege_Machine_Ram3_run1_6",
+    "Siege_Machine_Ram3_run1_5",
+    "Siege_Machine_Ram3_run1_4",
+    "Siege_Machine_Ram3_run1_3",
+    "Siege_Machine_Ram3_run1_2",
+    "Siege_Machine_Ram3_run1_1",
+    "Siege_Machine_Ram3_parked",
+    "Siege_Machine_Ram3_idle1_9",
+    "Siege_Machine_Ram3_idle1_8",
+    "Siege_Machine_Ram3_idle1_7",
+    "Siege_Machine_Ram3_idle1_6",
+    "Siege_Machine_Ram3_idle1_5",
+    "Siege_Machine_Ram3_idle1_4",
+    "Siege_Machine_Ram3_idle1_3",
+    "Siege_Machine_Ram3_idle1_2",
+    "Siege_Machine_Ram3_idle1_1",
+    "Siege_Machine_Ram3_attack1_9",
+    "Siege_Machine_Ram3_attack1_8",
+    "Siege_Machine_Ram3_attack1_7",
+    "Siege_Machine_Ram3_attack1_6",
+    "Siege_Machine_Ram3_attack1_5",
+    "Siege_Machine_Ram3_attack1_4",
+    "Siege_Machine_Ram3_attack1_3",
+    "Siege_Machine_Ram3_attack1_2",
+    "Siege_Machine_Ram3_attack1_1",
+    "Siege_Machine_Ram2_run1_9",
+    "Siege_Machine_Ram2_run1_8",
+    "Siege_Machine_Ram2_run1_7",
+    "Siege_Machine_Ram2_run1_6",
+    "Siege_Machine_Ram2_run1_5",
+    "Siege_Machine_Ram2_run1_4",
+    "Siege_Machine_Ram2_run1_3",
+    "Siege_Machine_Ram2_run1_2",
+    "Siege_Machine_Ram2_run1_1",
+    "Siege_Machine_Ram2_parked",
+    "Siege_Machine_Ram2_idle1_9",
+    "Siege_Machine_Ram2_idle1_8",
+    "Siege_Machine_Ram2_idle1_7",
+    "Siege_Machine_Ram2_idle1_6",
+    "Siege_Machine_Ram2_idle1_5",
+    "Siege_Machine_Ram2_idle1_4",
+    "Siege_Machine_Ram2_idle1_3",
+    "Siege_Machine_Ram2_idle1_2",
+    "Siege_Machine_Ram2_idle1_1",
+    "Siege_Machine_Ram2_attack1_9",
+    "Siege_Machine_Ram2_attack1_8",
+    "Siege_Machine_Ram2_attack1_7",
+    "Siege_Machine_Ram2_attack1_6",
+    "Siege_Machine_Ram2_attack1_5",
+    "Siege_Machine_Ram2_attack1_4",
+    "Siege_Machine_Ram2_attack1_3",
+    "Siege_Machine_Ram2_attack1_2",
+    "Siege_Machine_Ram2_attack1_1",
+    "Siege_Machine_Ram1_run1_9",
+    "Siege_Machine_Ram1_run1_8",
+    "Siege_Machine_Ram1_run1_7",
+    "Siege_Machine_Ram1_run1_6",
+    "Siege_Machine_Ram1_run1_5",
+    "Siege_Machine_Ram1_run1_4",
+    "Siege_Machine_Ram1_run1_3",
+    "Siege_Machine_Ram1_run1_2",
+    "Siege_Machine_Ram1_run1_1",
+    "Siege_Machine_Ram1_parked",
+    "Siege_Machine_Ram1_idle1_9",
+    "Siege_Machine_Ram1_idle1_8",
+    "Siege_Machine_Ram1_idle1_7",
+    "Siege_Machine_Ram1_idle1_6",
+    "Siege_Machine_Ram1_idle1_5",
+    "Siege_Machine_Ram1_idle1_4",
+    "Siege_Machine_Ram1_idle1_3",
+    "Siege_Machine_Ram1_idle1_2",
+    "Siege_Machine_Ram1_idle1_1",
+    "Siege_Machine_Ram1_attack1_9",
+    "Siege_Machine_Ram1_attack1_8",
+    "Siege_Machine_Ram1_attack1_7",
+    "Siege_Machine_Ram1_attack1_6",
+    "Siege_Machine_Ram1_attack1_5",
+    "Siege_Machine_Ram1_attack1_4",
+    "Siege_Machine_Ram1_attack1_3",
+    "Siege_Machine_Ram1_attack1_2",
+    "Siege_Machine_Ram1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 6069,
+      "value": "LIC"
+    },
+    {
+      "offset": 6353,
+      "value": "Ux1"
+    },
+    {
+      "offset": 6523,
+      "value": "e3sJC"
+    },
+    {
+      "offset": 8600,
+      "value": "ff_B"
+    },
+    {
+      "offset": 8789,
+      "value": "D8g"
+    },
+    {
+      "offset": 9143,
+      "value": "AffpB"
+    },
+    {
+      "offset": 9260,
+      "value": "ffQC"
+    },
+    {
+      "offset": 9933,
+      "value": "sYC"
+    },
+    {
+      "offset": 10653,
+      "value": "LIC"
+    },
+    {
+      "offset": 12691,
+      "value": "C33LC"
+    },
+    {
+      "offset": 14621,
+      "value": "D8g"
+    },
+    {
+      "offset": 15596,
+      "value": "ffQC"
+    },
+    {
+      "offset": 16182,
+      "value": "ue33qB"
+    },
+    {
+      "offset": 17275,
+      "value": "e3sJC"
+    },
+    {
+      "offset": 22867,
+      "value": "Q33fB"
+    },
+    {
+      "offset": 23564,
+      "value": "ffvB"
+    },
+    {
+      "offset": 23948,
+      "value": "ffAB"
+    },
+    {
+      "offset": 25977,
+      "value": "sYC"
+    },
+    {
+      "offset": 26241,
+      "value": "LIC"
+    },
+    {
+      "offset": 26959,
+      "value": "C33LC"
+    },
+    {
+      "offset": 27332,
+      "value": "ff_B"
+    },
+    {
+      "offset": 27449,
+      "value": "D8g"
+    },
+    {
+      "offset": 27659,
+      "value": "AffpB"
+    },
+    {
+      "offset": 27704,
+      "value": "ffQC"
+    },
+    {
+      "offset": 28087,
+      "value": "e3sJC"
+    },
+    {
+      "offset": 31183,
+      "value": "Q33fB"
+    },
+    {
+      "offset": 31544,
+      "value": "ffvB"
+    },
+    {
+      "offset": 31760,
+      "value": "ffAB"
+    },
+    {
+      "offset": 32925,
+      "value": "LXC"
+    },
+    {
+      "offset": 33093,
+      "value": "LIC"
+    },
+    {
+      "offset": 33821,
+      "value": "D8g"
+    },
+    {
+      "offset": 33980,
+      "value": "ffQC"
+    },
+    {
+      "offset": 34059,
+      "value": "C.:"
+    },
+    {
+      "offset": 34291,
+      "value": "e3sJC"
+    },
+    {
+      "offset": 34700,
+      "value": "ff.A"
+    },
+    {
+      "offset": 35836,
+      "value": "XeDb"
+    },
+    {
+      "offset": 35885,
+      "value": "zZmff_B"
+    },
+    {
+      "offset": 35981,
+      "value": "D8g"
+    },
+    {
+      "offset": 36061,
+      "value": "L\\CYf"
+    },
+    {
+      "offset": 36087,
+      "value": "Cw_"
+    },
+    {
+      "offset": 36236,
+      "value": "ffQC"
+    },
+    {
+      "offset": 36643,
+      "value": "e3sJC"
+    },
+    {
+      "offset": 38072,
+      "value": "ffJB"
+    },
+    {
+      "offset": 39479,
+      "value": "Aff+B:k"
+    },
+    {
+      "offset": 39700,
+      "value": "TS0c"
+    },
+    {
+      "offset": 40400,
+      "value": "ff:B"
+    },
+    {
+      "offset": 40688,
+      "value": "ff:B"
+    },
+    {
+      "offset": 41541,
+      "value": "LXC"
+    },
+    {
+      "offset": 42113,
+      "value": "oht"
+    },
+    {
+      "offset": 42149,
+      "value": "y-w"
+    },
+    {
+      "offset": 42413,
+      "value": "D8g"
+    },
+    {
+      "offset": 42572,
+      "value": "ffQC"
+    },
+    {
+      "offset": 42883,
+      "value": "e3sJC"
+    },
+    {
+      "offset": 43448,
+      "value": "ffoB"
+    },
+    {
+      "offset": 43783,
+      "value": "AffXB"
+    },
+    {
+      "offset": 45032,
+      "value": "ffoB"
+    },
+    {
+      "offset": 45223,
+      "value": "AffXB"
+    },
+    {
+      "offset": 45560,
+      "value": "ffoB"
+    },
+    {
+      "offset": 45727,
+      "value": "sffXB"
+    },
+    {
+      "offset": 142272,
+      "value": "Siege_Machine_Ram4_idle1_7"
+    },
+    {
+      "offset": 142304,
+      "value": "Siege_Machine_Ram4_idle1_5"
+    },
+    {
+      "offset": 142336,
+      "value": "Siege_Machine_Ram3_idle1_7"
+    },
+    {
+      "offset": 142368,
+      "value": "Siege_Machine_Ram4_idle1_4"
+    },
+    {
+      "offset": 142400,
+      "value": "Siege_Machine_Ram6_attack1_3"
+    },
+    {
+      "offset": 142436,
+      "value": "Siege_Machine_Ram4_idle1_3"
+    },
+    {
+      "offset": 142468,
+      "value": "Siege_Machine_Ram4_attack1_9"
+    },
+    {
+      "offset": 142504,
+      "value": "Siege_Machine_Ram4_attack1_6"
+    },
+    {
+      "offset": 142540,
+      "value": "Siege_Machine_Ram3_run1_8"
+    },
+    {
+      "offset": 142572,
+      "value": "Siege_Machine_Ram3_run1_6"
+    },
+    {
+      "offset": 142604,
+      "value": "Siege_Machine_Ram3_run1_2"
+    },
+    {
+      "offset": 142636,
+      "value": "Siege_Machine_Ram4_idle1_1"
+    },
+    {
+      "offset": 142668,
+      "value": "Siege_Machine_Ram3_idle1_9"
+    },
+    {
+      "offset": 142700,
+      "value": "Siege_Machine_Ram3_idle1_8"
+    },
+    {
+      "offset": 142732,
+      "value": "Siege_Machine_Ram4_idle1_6"
+    },
+    {
+      "offset": 142764,
+      "value": "Siege_Machine_Ram2_run1_4"
+    },
+    {
+      "offset": 142796,
+      "value": "Siege_Machine_Ram3_idle1_4"
+    },
+    {
+      "offset": 142828,
+      "value": "Siege_Machine_Ram3_attack1_9"
+    },
+    {
+      "offset": 142864,
+      "value": "Siege_Machine_Ram3_attack1_6"
+    },
+    {
+      "offset": 142900,
+      "value": "Siege_Machine_Ram3_attack1_4"
+    },
+    {
+      "offset": 142936,
+      "value": "Siege_Machine_Ram2_idle1_3"
+    },
+    {
+      "offset": 142968,
+      "value": "Siege_Machine_Ram3_attack1_2"
+    },
+    {
+      "offset": 143004,
+      "value": "Siege_Machine_Ram6_parked"
+    },
+    {
+      "offset": 143036,
+      "value": "Siege_Machine_Ram3_run1_1"
+    },
+    {
+      "offset": 143068,
+      "value": "Siege_Machine_Ram1_run1_1"
+    },
+    {
+      "offset": 143100,
+      "value": "Siege_Machine_Ram2_run1_6"
+    },
+    {
+      "offset": 143132,
+      "value": "Siege_Machine_Ram5_attack1_3"
+    },
+    {
+      "offset": 143168,
+      "value": "Siege_Machine_Ram2_run1_3"
+    },
+    {
+      "offset": 143200,
+      "value": "Siege_Machine_Ram4_run1_1"
+    },
+    {
+      "offset": 143232,
+      "value": "Siege_Machine_Ram2_run1_2"
+    },
+    {
+      "offset": 143264,
+      "value": "Siege_Machine_Ram1_parked"
+    },
+    {
+      "offset": 143296,
+      "value": "Siege_Machine_Ram2_run1_1"
+    },
+    {
+      "offset": 143328,
+      "value": "Siege_Machine_Ram6_attack1_1"
+    },
+    {
+      "offset": 143364,
+      "value": "Siege_Machine_Ram4_attack1_5"
+    },
+    {
+      "offset": 143400,
+      "value": "Siege_Machine_Ram4_attack1_2"
+    },
+    {
+      "offset": 143436,
+      "value": "Siege_Machine_Ram3_run1_5"
+    },
+    {
+      "offset": 143468,
+      "value": "Siege_Machine_Ram2_idle1_8"
+    },
+    {
+      "offset": 143500,
+      "value": "Siege_Machine_Ram5_run1_5"
+    },
+    {
+      "offset": 143532,
+      "value": "Siege_Machine_Ram2_idle1_7"
+    },
+    {
+      "offset": 143564,
+      "value": "Siege_Machine_Ram5_idle1_5"
+    },
+    {
+      "offset": 143596,
+      "value": "Siege_Machine_Ram2_idle1_5"
+    },
+    {
+      "offset": 143628,
+      "value": "Siege_Machine_Ram4_attack1_8"
+    },
+    {
+      "offset": 143664,
+      "value": "Siege_Machine_Ram6_attack1_9"
+    },
+    {
+      "offset": 143700,
+      "value": "Siege_Machine_Ram2_idle1_2"
+    },
+    {
+      "offset": 143732,
+      "value": "Siege_Machine_Ram2_attack1_6"
+    },
+    {
+      "offset": 143768,
+      "value": "Siege_Machine_Ram6_run1_2"
+    },
+    {
+      "offset": 143800,
+      "value": "Siege_Machine_Ram2_attack1_4"
+    },
+    {
+      "offset": 143836,
+      "value": "Siege_Machine_Ram1_attack1_3"
+    },
+    {
+      "offset": 143872,
+      "value": "Siege_Machine_Ram4_attack1_1"
+    },
+    {
+      "offset": 143908,
+      "value": "Siege_Machine_Ram2_attack1_3"
+    },
+    {
+      "offset": 143944,
+      "value": "Siege_Machine_Ram2_attack1_2"
+    },
+    {
+      "offset": 143980,
+      "value": "Siege_Machine_Ram5_run1_4"
+    },
+    {
+      "offset": 144012,
+      "value": "Siege_Machine_Ram2_attack1_9"
+    },
+    {
+      "offset": 144048,
+      "value": "Siege_Machine_Ram6_run1_3"
+    },
+    {
+      "offset": 144080,
+      "value": "Siege_Machine_Ram6_attack1_8"
+    },
+    {
+      "offset": 144116,
+      "value": "Siege_Machine_Ram5_run1_3"
+    },
+    {
+      "offset": 144148,
+      "value": "Siege_Machine_Ram4_idle1_2"
+    },
+    {
+      "offset": 144180,
+      "value": "Siege_Machine_Ram3_idle1_2"
+    },
+    {
+      "offset": 144212,
+      "value": "Siege_Machine_Ram3_run1_3"
+    },
+    {
+      "offset": 144244,
+      "value": "Siege_Machine_Ram2_attack1_1"
+    },
+    {
+      "offset": 144280,
+      "value": "Siege_Machine_Ram6_attack1_5"
+    },
+    {
+      "offset": 144316,
+      "value": "Siege_Machine_Ram6_attack1_4"
+    },
+    {
+      "offset": 144352,
+      "value": "Siege_Machine_Ram1_idle1_3"
+    },
+    {
+      "offset": 144384,
+      "value": "Siege_Machine_Ram3_run1_4"
+    },
+    {
+      "offset": 144416,
+      "value": "Siege_Machine_Ram3_attack1_1"
+    },
+    {
+      "offset": 144452,
+      "value": "Siege_Machine_Ram1_attack1_9"
+    },
+    {
+      "offset": 144488,
+      "value": "Siege_Machine_Ram6_run1_9"
+    },
+    {
+      "offset": 144520,
+      "value": "Siege_Machine_Ram3_idle1_5"
+    },
+    {
+      "offset": 144552,
+      "value": "Siege_Machine_Ram6_attack1_2"
+    },
+    {
+      "offset": 144588,
+      "value": "Siege_Machine_Ram4_idle1_8"
+    },
+    {
+      "offset": 144620,
+      "value": "Siege_Machine_Ram6_run1_7"
+    },
+    {
+      "offset": 144652,
+      "value": "Siege_Machine_Ram1_idle1_8"
+    },
+    {
+      "offset": 144684,
+      "value": "Siege_Machine_Ram2_idle1_4"
+    },
+    {
+      "offset": 144716,
+      "value": "Siege_Machine_Ram3_idle1_3"
+    },
+    {
+      "offset": 144748,
+      "value": "Siege_Machine_Ram1_idle1_4"
+    },
+    {
+      "offset": 144780,
+      "value": "Siege_Machine_Ram1_attack1_2"
+    },
+    {
+      "offset": 144816,
+      "value": "Siege_Machine_Ram6_run1_6"
+    },
+    {
+      "offset": 144848,
+      "value": "Siege_Machine_Ram3_idle1_6"
+    },
+    {
+      "offset": 144880,
+      "value": "Siege_Machine_Ram5_attack1_6"
+    },
+    {
+      "offset": 144916,
+      "value": "Siege_Machine_Ram3_attack1_8"
+    },
+    {
+      "offset": 144952,
+      "value": "Siege_Machine_Ram2_run1_7"
+    },
+    {
+      "offset": 144984,
+      "value": "Siege_Machine_Ram2_idle1_6"
+    },
+    {
+      "offset": 145016,
+      "value": "Siege_Machine_Ram6_attack1_7"
+    },
+    {
+      "offset": 145052,
+      "value": "Siege_Machine_Ram4_parked"
+    },
+    {
+      "offset": 145084,
+      "value": "Siege_Machine_Ram6_run1_8"
+    },
+    {
+      "offset": 145116,
+      "value": "Siege_Machine_Ram3_run1_7"
+    },
+    {
+      "offset": 145148,
+      "value": "Siege_Machine_Ram6_idle1_2"
+    },
+    {
+      "offset": 145180,
+      "value": "Siege_Machine_Ram6_run1_4"
+    },
+    {
+      "offset": 145212,
+      "value": "Siege_Machine_Ram4_run1_5"
+    },
+    {
+      "offset": 145244,
+      "value": "Siege_Machine_Ram6_run1_5"
+    },
+    {
+      "offset": 145276,
+      "value": "Siege_Machine_Ram1_idle1_6"
+    },
+    {
+      "offset": 145308,
+      "value": "Siege_Machine_Ram4_attack1_7"
+    },
+    {
+      "offset": 145344,
+      "value": "Siege_Machine_Ram3_idle1_1"
+    },
+    {
+      "offset": 145376,
+      "value": "Siege_Machine_Ram1_run1_2"
+    },
+    {
+      "offset": 145408,
+      "value": "Siege_Machine_Ram1_run1_9"
+    },
+    {
+      "offset": 145440,
+      "value": "Siege_Machine_Ram4_run1_7"
+    },
+    {
+      "offset": 145472,
+      "value": "Siege_Machine_Ram1_run1_5"
+    },
+    {
+      "offset": 145504,
+      "value": "Siege_Machine_Ram2_attack1_7"
+    },
+    {
+      "offset": 145540,
+      "value": "Siege_Machine_Ram1_idle1_7"
+    },
+    {
+      "offset": 145572,
+      "value": "Siege_Machine_Ram5_attack1_7"
+    },
+    {
+      "offset": 145608,
+      "value": "Siege_Machine_Ram1_attack1_4"
+    },
+    {
+      "offset": 145644,
+      "value": "Siege_Machine_Ram2_parked"
+    },
+    {
+      "offset": 145676,
+      "value": "Siege_Machine_Ram3_attack1_3"
+    },
+    {
+      "offset": 145712,
+      "value": "Siege_Machine_Ram4_attack1_4"
+    },
+    {
+      "offset": 145748,
+      "value": "Siege_Machine_Ram2_attack1_5"
+    },
+    {
+      "offset": 145784,
+      "value": "Siege_Machine_Ram3_parked"
+    },
+    {
+      "offset": 145816,
+      "value": "Siege_Machine_Ram1_attack1_6"
+    },
+    {
+      "offset": 145852,
+      "value": "Siege_Machine_Ram2_idle1_1"
+    },
+    {
+      "offset": 145884,
+      "value": "Siege_Machine_Ram6_attack1_6"
+    },
+    {
+      "offset": 145920,
+      "value": "Siege_Machine_Ram1_idle1_1"
+    },
+    {
+      "offset": 145952,
+      "value": "Siege_Machine_Ram3_attack1_7"
+    },
+    {
+      "offset": 145988,
+      "value": "Siege_Machine_Ram5_attack1_1"
+    },
+    {
+      "offset": 146024,
+      "value": "Siege_Machine_Ram1_attack1_1"
+    },
+    {
+      "offset": 146060,
+      "value": "Siege_Machine_Ram4_attack1_3"
+    },
+    {
+      "offset": 146096,
+      "value": "Siege_Machine_Ram4_idle1_9"
+    },
+    {
+      "offset": 146128,
+      "value": "Siege_Machine_Ram1_attack1_8"
+    },
+    {
+      "offset": 146164,
+      "value": "Siege_Machine_Ram5_run1_7"
+    },
+    {
+      "offset": 146196,
+      "value": "Siege_Machine_Ram2_idle1_9"
+    },
+    {
+      "offset": 146228,
+      "value": "Siege_Machine_Ram5_attack1_4"
+    },
+    {
+      "offset": 146264,
+      "value": "Siege_Machine_Ram3_run1_9"
+    },
+    {
+      "offset": 146296,
+      "value": "Siege_Machine_Ram1_run1_8"
+    },
+    {
+      "offset": 146328,
+      "value": "Siege_Machine_Ram1_run1_6"
+    },
+    {
+      "offset": 146360,
+      "value": "Siege_Machine_Ram2_run1_5"
+    },
+    {
+      "offset": 146392,
+      "value": "Siege_Machine_Ram1_attack1_5"
+    },
+    {
+      "offset": 146428,
+      "value": "Siege_Machine_Ram1_idle1_2"
+    },
+    {
+      "offset": 146460,
+      "value": "Siege_Machine_Ram2_run1_9"
+    },
+    {
+      "offset": 146492,
+      "value": "Siege_Machine_Ram1_idle1_5"
+    },
+    {
+      "offset": 146524,
+      "value": "Siege_Machine_Ram5_parked"
+    },
+    {
+      "offset": 146556,
+      "value": "Siege_Machine_Ram1_idle1_9"
+    },
+    {
+      "offset": 146588,
+      "value": "Siege_Machine_Ram2_attack1_8"
+    },
+    {
+      "offset": 146624,
+      "value": "Siege_Machine_Ram3_attack1_5"
+    },
+    {
+      "offset": 146660,
+      "value": "Siege_Machine_Ram2_run1_8"
+    },
+    {
+      "offset": 146692,
+      "value": "Siege_Machine_Ram6_run1_1"
+    },
+    {
+      "offset": 146724,
+      "value": "Siege_Machine_Ram1_attack1_7"
+    },
+    {
+      "offset": 146760,
+      "value": "Siege_Machine_Ram1_run1_3"
+    },
+    {
+      "offset": 146792,
+      "value": "Siege_Machine_Ram1_run1_7"
+    },
+    {
+      "offset": 146824,
+      "value": "Siege_Machine_Ram1_run1_4"
+    },
+    {
+      "offset": 146856,
+      "value": "Siege_Machine_Ram4_run1_2"
+    },
+    {
+      "offset": 146888,
+      "value": "Siege_Machine_Ram4_run1_3"
+    },
+    {
+      "offset": 146920,
+      "value": "Siege_Machine_Ram4_run1_4"
+    },
+    {
+      "offset": 146952,
+      "value": "Siege_Machine_Ram4_run1_6"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000006001000014010000010000009c41020084e20000",
+  "decoded_preview_hex": "9841020018000000000012001400040000000000000008000c00100012000000f4280200dcb20000f414000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

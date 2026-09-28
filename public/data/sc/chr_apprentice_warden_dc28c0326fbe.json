@@ -1,0 +1,521 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_apprentice_warden.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_apprentice_warden.sc",
+  "sha256_container": "dc28c0326fbef24cc842f18877f865fdff3559f50e988c53ff7a6a65543d8d62",
+  "sha256_descriptor": "9c949f2617499a4137d1eb233fba3343b637f337af00d88a82ceee45bf6104ce",
+  "sha256_decoded_payload": "4fa86fbd23dc44d32be4ef8f2410ae46f0ca0435ec9985a2c1cec6c7986845df",
+  "version": 6,
+  "descriptor_bytes": 2876,
+  "compressed_frame_bytes": 14616,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 62820,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 277
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 38
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 41508
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 10892
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 14616
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 268,
+      "value": "apprentice_warden_projectile_lvl3"
+    },
+    {
+      "offset": 340,
+      "value": "apprentice_warden_projectile"
+    },
+    {
+      "offset": 408,
+      "value": "apprentice_warden_lvl4_run1_3"
+    },
+    {
+      "offset": 476,
+      "value": "apprentice_warden_lvl4_run1_2"
+    },
+    {
+      "offset": 544,
+      "value": "apprentice_warden_lvl4_run1_1"
+    },
+    {
+      "offset": 612,
+      "value": "apprentice_warden_lvl4_idle1_3"
+    },
+    {
+      "offset": 680,
+      "value": "apprentice_warden_lvl4_idle1_2"
+    },
+    {
+      "offset": 748,
+      "value": "apprentice_warden_lvl4_idle1_1"
+    },
+    {
+      "offset": 816,
+      "value": "apprentice_warden_lvl4_attack1_3"
+    },
+    {
+      "offset": 888,
+      "value": "apprentice_warden_lvl4_attack1_2"
+    },
+    {
+      "offset": 960,
+      "value": "apprentice_warden_lvl4_attack1_1"
+    },
+    {
+      "offset": 1032,
+      "value": "apprentice_warden_lvl3_run1_3"
+    },
+    {
+      "offset": 1100,
+      "value": "apprentice_warden_lvl3_run1_2"
+    },
+    {
+      "offset": 1168,
+      "value": "apprentice_warden_lvl3_run1_1"
+    },
+    {
+      "offset": 1236,
+      "value": "apprentice_warden_lvl3_idle1_3"
+    },
+    {
+      "offset": 1304,
+      "value": "apprentice_warden_lvl3_idle1_2"
+    },
+    {
+      "offset": 1372,
+      "value": "apprentice_warden_lvl3_idle1_1"
+    },
+    {
+      "offset": 1440,
+      "value": "apprentice_warden_lvl3_attack1_3"
+    },
+    {
+      "offset": 1506,
+      "value": "WF "
+    },
+    {
+      "offset": 1512,
+      "value": "apprentice_warden_lvl3_attack1_2"
+    },
+    {
+      "offset": 1584,
+      "value": "apprentice_warden_lvl3_attack1_1"
+    },
+    {
+      "offset": 1656,
+      "value": "apprentice_warden_lvl2_run1_3"
+    },
+    {
+      "offset": 1724,
+      "value": "apprentice_warden_lvl2_run1_2"
+    },
+    {
+      "offset": 1792,
+      "value": "apprentice_warden_lvl2_run1_1"
+    },
+    {
+      "offset": 1860,
+      "value": "apprentice_warden_lvl2_idle1_3"
+    },
+    {
+      "offset": 1928,
+      "value": "apprentice_warden_lvl2_idle1_2"
+    },
+    {
+      "offset": 1996,
+      "value": "apprentice_warden_lvl2_idle1_1"
+    },
+    {
+      "offset": 2064,
+      "value": "apprentice_warden_lvl2_attack1_3"
+    },
+    {
+      "offset": 2136,
+      "value": "apprentice_warden_lvl2_attack1_2"
+    },
+    {
+      "offset": 2208,
+      "value": "apprentice_warden_lvl2_attack1_1"
+    },
+    {
+      "offset": 2280,
+      "value": "apprentice_warden_lvl1_run1_3"
+    },
+    {
+      "offset": 2348,
+      "value": "apprentice_warden_lvl1_run1_2"
+    },
+    {
+      "offset": 2416,
+      "value": "apprentice_warden_lvl1_run1_1"
+    },
+    {
+      "offset": 2484,
+      "value": "apprentice_warden_lvl1_idle1_3"
+    },
+    {
+      "offset": 2552,
+      "value": "apprentice_warden_lvl1_idle1_2"
+    },
+    {
+      "offset": 2620,
+      "value": "apprentice_warden_lvl1_idle1_1"
+    },
+    {
+      "offset": 2688,
+      "value": "apprentice_warden_lvl1_attack1_3"
+    },
+    {
+      "offset": 2760,
+      "value": "apprentice_warden_lvl1_attack1_2"
+    },
+    {
+      "offset": 2840,
+      "value": "apprentice_warden_lvl1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "apprentice_warden_projectile_lvl3",
+    "apprentice_warden_projectile",
+    "apprentice_warden_lvl4_run1_3",
+    "apprentice_warden_lvl4_run1_2",
+    "apprentice_warden_lvl4_run1_1",
+    "apprentice_warden_lvl4_idle1_3",
+    "apprentice_warden_lvl4_idle1_2",
+    "apprentice_warden_lvl4_idle1_1",
+    "apprentice_warden_lvl4_attack1_3",
+    "apprentice_warden_lvl4_attack1_2",
+    "apprentice_warden_lvl4_attack1_1",
+    "apprentice_warden_lvl3_run1_3",
+    "apprentice_warden_lvl3_run1_2",
+    "apprentice_warden_lvl3_run1_1",
+    "apprentice_warden_lvl3_idle1_3",
+    "apprentice_warden_lvl3_idle1_2",
+    "apprentice_warden_lvl3_idle1_1",
+    "apprentice_warden_lvl3_attack1_3",
+    "WF ",
+    "apprentice_warden_lvl3_attack1_2",
+    "apprentice_warden_lvl3_attack1_1",
+    "apprentice_warden_lvl2_run1_3",
+    "apprentice_warden_lvl2_run1_2",
+    "apprentice_warden_lvl2_run1_1",
+    "apprentice_warden_lvl2_idle1_3",
+    "apprentice_warden_lvl2_idle1_2",
+    "apprentice_warden_lvl2_idle1_1",
+    "apprentice_warden_lvl2_attack1_3",
+    "apprentice_warden_lvl2_attack1_2",
+    "apprentice_warden_lvl2_attack1_1",
+    "apprentice_warden_lvl1_run1_3",
+    "apprentice_warden_lvl1_run1_2",
+    "apprentice_warden_lvl1_run1_1",
+    "apprentice_warden_lvl1_idle1_3",
+    "apprentice_warden_lvl1_idle1_2",
+    "apprentice_warden_lvl1_idle1_1",
+    "apprentice_warden_lvl1_attack1_3",
+    "apprentice_warden_lvl1_attack1_2",
+    "apprentice_warden_lvl1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 6937,
+      "value": "k:u"
+    },
+    {
+      "offset": 7501,
+      "value": "U+W"
+    },
+    {
+      "offset": 7525,
+      "value": "I+W"
+    },
+    {
+      "offset": 7548,
+      "value": "gAo_"
+    },
+    {
+      "offset": 7692,
+      "value": "xWqd"
+    },
+    {
+      "offset": 7717,
+      "value": "bqd"
+    },
+    {
+      "offset": 7741,
+      "value": "k/_"
+    },
+    {
+      "offset": 7753,
+      "value": "klZ"
+    },
+    {
+      "offset": 8232,
+      "value": "gAbF"
+    },
+    {
+      "offset": 8833,
+      "value": "WP "
+    },
+    {
+      "offset": 9457,
+      "value": "mti"
+    },
+    {
+      "offset": 9673,
+      "value": "t A"
+    },
+    {
+      "offset": 10177,
+      "value": "UY3"
+    },
+    {
+      "offset": 12457,
+      "value": "ebE"
+    },
+    {
+      "offset": 12492,
+      "value": "xWdI"
+    },
+    {
+      "offset": 12540,
+      "value": "_7Z6"
+    },
+    {
+      "offset": 12589,
+      "value": "D B"
+    },
+    {
+      "offset": 13897,
+      "value": "ghR"
+    },
+    {
+      "offset": 14401,
+      "value": "Cyt"
+    },
+    {
+      "offset": 16141,
+      "value": "YV-"
+    },
+    {
+      "offset": 19309,
+      "value": "Fuk"
+    },
+    {
+      "offset": 19321,
+      "value": "F8q"
+    },
+    {
+      "offset": 19333,
+      "value": "Ruk"
+    },
+    {
+      "offset": 19345,
+      "value": "R8q"
+    },
+    {
+      "offset": 40084,
+      "value": "apprentice_warden_lvl2_run1_2"
+    },
+    {
+      "offset": 40120,
+      "value": "apprentice_warden_lvl2_attack1_1"
+    },
+    {
+      "offset": 40160,
+      "value": "apprentice_warden_lvl2_attack1_2"
+    },
+    {
+      "offset": 40200,
+      "value": "apprentice_warden_lvl2_idle1_3"
+    },
+    {
+      "offset": 40236,
+      "value": "apprentice_warden_lvl4_run1_1"
+    },
+    {
+      "offset": 40272,
+      "value": "apprentice_warden_lvl1_run1_1"
+    },
+    {
+      "offset": 40308,
+      "value": "apprentice_warden_lvl2_run1_3"
+    },
+    {
+      "offset": 40344,
+      "value": "apprentice_warden_projectile"
+    },
+    {
+      "offset": 40380,
+      "value": "apprentice_warden_lvl1_attack1_1"
+    },
+    {
+      "offset": 40420,
+      "value": "apprentice_warden_lvl1_idle1_1"
+    },
+    {
+      "offset": 40456,
+      "value": "apprentice_warden_lvl1_attack1_3"
+    },
+    {
+      "offset": 40496,
+      "value": "apprentice_warden_lvl3_run1_3"
+    },
+    {
+      "offset": 40532,
+      "value": "apprentice_warden_lvl2_idle1_2"
+    },
+    {
+      "offset": 40568,
+      "value": "apprentice_warden_lvl3_run1_2"
+    },
+    {
+      "offset": 40604,
+      "value": "apprentice_warden_lvl3_run1_1"
+    },
+    {
+      "offset": 40640,
+      "value": "apprentice_warden_lvl3_idle1_2"
+    },
+    {
+      "offset": 40676,
+      "value": "apprentice_warden_lvl1_attack1_2"
+    },
+    {
+      "offset": 40716,
+      "value": "apprentice_warden_lvl3_idle1_1"
+    },
+    {
+      "offset": 40752,
+      "value": "apprentice_warden_lvl1_idle1_3"
+    },
+    {
+      "offset": 40788,
+      "value": "apprentice_warden_lvl3_idle1_3"
+    },
+    {
+      "offset": 40824,
+      "value": "apprentice_warden_lvl3_attack1_3"
+    },
+    {
+      "offset": 40864,
+      "value": "apprentice_warden_lvl3_attack1_2"
+    },
+    {
+      "offset": 40904,
+      "value": "apprentice_warden_lvl1_idle1_2"
+    },
+    {
+      "offset": 40940,
+      "value": "apprentice_warden_lvl2_run1_1"
+    },
+    {
+      "offset": 40976,
+      "value": "apprentice_warden_lvl2_idle1_1"
+    },
+    {
+      "offset": 41012,
+      "value": "apprentice_warden_lvl2_attack1_3"
+    },
+    {
+      "offset": 41052,
+      "value": "apprentice_warden_lvl1_run1_3"
+    },
+    {
+      "offset": 41088,
+      "value": "apprentice_warden_projectile_lvl3"
+    },
+    {
+      "offset": 41128,
+      "value": "apprentice_warden_lvl3_attack1_1"
+    },
+    {
+      "offset": 41168,
+      "value": "apprentice_warden_lvl1_run1_2"
+    },
+    {
+      "offset": 41204,
+      "value": "apprentice_warden_lvl4_attack1_1"
+    },
+    {
+      "offset": 41244,
+      "value": "apprentice_warden_lvl4_idle1_1"
+    },
+    {
+      "offset": 41280,
+      "value": "apprentice_warden_lvl4_attack1_2"
+    },
+    {
+      "offset": 41320,
+      "value": "apprentice_warden_lvl4_attack1_3"
+    },
+    {
+      "offset": 41360,
+      "value": "apprentice_warden_lvl4_idle1_2"
+    },
+    {
+      "offset": 41396,
+      "value": "apprentice_warden_lvl4_idle1_3"
+    },
+    {
+      "offset": 41432,
+      "value": "apprentice_warden_lvl4_run1_2"
+    },
+    {
+      "offset": 41468,
+      "value": "apprentice_warden_lvl4_run1_3"
+    },
+    {
+      "offset": 62788,
+      "value": "chr_apprentice_warden_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c000000010000000100000015010000260000000100000024a20000",
+  "decoded_preview_hex": "20a2000018000000000012001400040000000000000008000c00100012000000d09b000010510000d811000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,1194 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_electro_dragon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_electro_dragon.sc",
+  "sha256_container": "7ea186f126e53981d7ed9ab816ac8eb5e0eaec48e66b3d204ca17ba5a4ad5fca",
+  "sha256_descriptor": "f1f495a01fefecda2df17b30be406a112a76b6d5eec58a1256af4c6fa848d4d0",
+  "sha256_decoded_payload": "e66e4343542433c866108879f8c415718f722558631ca95a470d13330ca79bc0",
+  "version": 6,
+  "descriptor_bytes": 4420,
+  "compressed_frame_bytes": 112990,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 727460,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 1280
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 148
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 542440
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 114044
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 112992
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 368,
+      "value": "electro_dragon_lvl9_fly1_3"
+    },
+    {
+      "offset": 432,
+      "value": "electro_dragon_lvl9_fly1_2"
+    },
+    {
+      "offset": 496,
+      "value": "electro_dragon_lvl9_fly1_1"
+    },
+    {
+      "offset": 560,
+      "value": "electro_dragon_lvl9_die1_3"
+    },
+    {
+      "offset": 624,
+      "value": "electro_dragon_lvl9_die1_2"
+    },
+    {
+      "offset": 688,
+      "value": "electro_dragon_lvl9_die1_1"
+    },
+    {
+      "offset": 752,
+      "value": "electro_dragon_lvl9_attack1_3"
+    },
+    {
+      "offset": 820,
+      "value": "electro_dragon_lvl9_attack1_2"
+    },
+    {
+      "offset": 888,
+      "value": "electro_dragon_lvl9_attack1_1"
+    },
+    {
+      "offset": 956,
+      "value": "electro_dragon_lvl8_fly1_3"
+    },
+    {
+      "offset": 1020,
+      "value": "electro_dragon_lvl8_fly1_2"
+    },
+    {
+      "offset": 1084,
+      "value": "electro_dragon_lvl8_fly1_1"
+    },
+    {
+      "offset": 1148,
+      "value": "electro_dragon_lvl8_die1_3"
+    },
+    {
+      "offset": 1212,
+      "value": "electro_dragon_lvl8_die1_2"
+    },
+    {
+      "offset": 1276,
+      "value": "electro_dragon_lvl8_die1_1"
+    },
+    {
+      "offset": 1340,
+      "value": "electro_dragon_lvl8_attack1_3"
+    },
+    {
+      "offset": 1408,
+      "value": "electro_dragon_lvl8_attack1_2"
+    },
+    {
+      "offset": 1476,
+      "value": "electro_dragon_lvl8_attack1_1"
+    },
+    {
+      "offset": 1544,
+      "value": "electro_dragon_lvl7_fly1_3"
+    },
+    {
+      "offset": 1608,
+      "value": "electro_dragon_lvl7_fly1_2"
+    },
+    {
+      "offset": 1672,
+      "value": "electro_dragon_lvl7_fly1_1"
+    },
+    {
+      "offset": 1736,
+      "value": "electro_dragon_lvl7_die1_3"
+    },
+    {
+      "offset": 1800,
+      "value": "electro_dragon_lvl7_die1_2"
+    },
+    {
+      "offset": 1864,
+      "value": "electro_dragon_lvl7_die1_1"
+    },
+    {
+      "offset": 1928,
+      "value": "electro_dragon_lvl7_attack1_3"
+    },
+    {
+      "offset": 1996,
+      "value": "electro_dragon_lvl7_attack1_2"
+    },
+    {
+      "offset": 2064,
+      "value": "electro_dragon_lvl7_attack1_1"
+    },
+    {
+      "offset": 2132,
+      "value": "electro_dragon_lvl6_fly1_3"
+    },
+    {
+      "offset": 2196,
+      "value": "electro_dragon_lvl6_fly1_2"
+    },
+    {
+      "offset": 2260,
+      "value": "electro_dragon_lvl6_fly1_1"
+    },
+    {
+      "offset": 2324,
+      "value": "electro_dragon_lvl6_die1_3"
+    },
+    {
+      "offset": 2388,
+      "value": "electro_dragon_lvl6_die1_2"
+    },
+    {
+      "offset": 2452,
+      "value": "electro_dragon_lvl6_die1_1"
+    },
+    {
+      "offset": 2516,
+      "value": "electro_dragon_lvl6_attack1_3"
+    },
+    {
+      "offset": 2584,
+      "value": "electro_dragon_lvl6_attack1_2"
+    },
+    {
+      "offset": 2652,
+      "value": "electro_dragon_lvl6_attack1_1"
+    },
+    {
+      "offset": 2720,
+      "value": "electro_dragon_lvl5_fly1_3"
+    },
+    {
+      "offset": 2784,
+      "value": "electro_dragon_lvl5_fly1_2"
+    },
+    {
+      "offset": 2848,
+      "value": "electro_dragon_lvl5_fly1_1"
+    },
+    {
+      "offset": 2912,
+      "value": "electro_dragon_lvl5_die1_3"
+    },
+    {
+      "offset": 2976,
+      "value": "electro_dragon_lvl5_die1_2"
+    },
+    {
+      "offset": 3040,
+      "value": "electro_dragon_lvl5_die1_1"
+    },
+    {
+      "offset": 3104,
+      "value": "electro_dragon_lvl5_attack1_3"
+    },
+    {
+      "offset": 3172,
+      "value": "electro_dragon_lvl5_attack1_2"
+    },
+    {
+      "offset": 3240,
+      "value": "electro_dragon_lvl5_attack1_1"
+    },
+    {
+      "offset": 3308,
+      "value": "electro_dragon_lvl4_fly1_3"
+    },
+    {
+      "offset": 3372,
+      "value": "electro_dragon_lvl4_fly1_2"
+    },
+    {
+      "offset": 3436,
+      "value": "electro_dragon_lvl4_fly1_1"
+    },
+    {
+      "offset": 3500,
+      "value": "electro_dragon_lvl4_die1_3"
+    },
+    {
+      "offset": 3564,
+      "value": "electro_dragon_lvl4_die1_2"
+    },
+    {
+      "offset": 3628,
+      "value": "electro_dragon_lvl4_die1_1"
+    },
+    {
+      "offset": 3692,
+      "value": "electro_dragon_lvl4_attack1_3"
+    },
+    {
+      "offset": 3760,
+      "value": "electro_dragon_lvl4_attack1_2"
+    },
+    {
+      "offset": 3828,
+      "value": "electro_dragon_lvl4_attack1_1"
+    },
+    {
+      "offset": 3896,
+      "value": "electro_dragon_fly1_3"
+    },
+    {
+      "offset": 3956,
+      "value": "electro_dragon_fly1_2"
+    },
+    {
+      "offset": 4016,
+      "value": "electro_dragon_fly1_1"
+    },
+    {
+      "offset": 4076,
+      "value": "electro_dragon_die1_3"
+    },
+    {
+      "offset": 4136,
+      "value": "electro_dragon_die1_2"
+    },
+    {
+      "offset": 4196,
+      "value": "electro_dragon_die1_1"
+    },
+    {
+      "offset": 4256,
+      "value": "electro_dragon_attack1_3"
+    },
+    {
+      "offset": 4320,
+      "value": "electro_dragon_attack1_2"
+    },
+    {
+      "offset": 4392,
+      "value": "electro_dragon_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "electro_dragon_lvl9_fly1_3",
+    "electro_dragon_lvl9_fly1_2",
+    "electro_dragon_lvl9_fly1_1",
+    "electro_dragon_lvl9_die1_3",
+    "electro_dragon_lvl9_die1_2",
+    "electro_dragon_lvl9_die1_1",
+    "electro_dragon_lvl9_attack1_3",
+    "electro_dragon_lvl9_attack1_2",
+    "electro_dragon_lvl9_attack1_1",
+    "electro_dragon_lvl8_fly1_3",
+    "electro_dragon_lvl8_fly1_2",
+    "electro_dragon_lvl8_fly1_1",
+    "electro_dragon_lvl8_die1_3",
+    "electro_dragon_lvl8_die1_2",
+    "electro_dragon_lvl8_die1_1",
+    "electro_dragon_lvl8_attack1_3",
+    "electro_dragon_lvl8_attack1_2",
+    "electro_dragon_lvl8_attack1_1",
+    "electro_dragon_lvl7_fly1_3",
+    "electro_dragon_lvl7_fly1_2",
+    "electro_dragon_lvl7_fly1_1",
+    "electro_dragon_lvl7_die1_3",
+    "electro_dragon_lvl7_die1_2",
+    "electro_dragon_lvl7_die1_1",
+    "electro_dragon_lvl7_attack1_3",
+    "electro_dragon_lvl7_attack1_2",
+    "electro_dragon_lvl7_attack1_1",
+    "electro_dragon_lvl6_fly1_3",
+    "electro_dragon_lvl6_fly1_2",
+    "electro_dragon_lvl6_fly1_1",
+    "electro_dragon_lvl6_die1_3",
+    "electro_dragon_lvl6_die1_2",
+    "electro_dragon_lvl6_die1_1",
+    "electro_dragon_lvl6_attack1_3",
+    "electro_dragon_lvl6_attack1_2",
+    "electro_dragon_lvl6_attack1_1",
+    "electro_dragon_lvl5_fly1_3",
+    "electro_dragon_lvl5_fly1_2",
+    "electro_dragon_lvl5_fly1_1",
+    "electro_dragon_lvl5_die1_3",
+    "electro_dragon_lvl5_die1_2",
+    "electro_dragon_lvl5_die1_1",
+    "electro_dragon_lvl5_attack1_3",
+    "electro_dragon_lvl5_attack1_2",
+    "electro_dragon_lvl5_attack1_1",
+    "electro_dragon_lvl4_fly1_3",
+    "electro_dragon_lvl4_fly1_2",
+    "electro_dragon_lvl4_fly1_1",
+    "electro_dragon_lvl4_die1_3",
+    "electro_dragon_lvl4_die1_2",
+    "electro_dragon_lvl4_die1_1",
+    "electro_dragon_lvl4_attack1_3",
+    "electro_dragon_lvl4_attack1_2",
+    "electro_dragon_lvl4_attack1_1",
+    "electro_dragon_fly1_3",
+    "electro_dragon_fly1_2",
+    "electro_dragon_fly1_1",
+    "electro_dragon_die1_3",
+    "electro_dragon_die1_2",
+    "electro_dragon_die1_1",
+    "electro_dragon_attack1_3",
+    "electro_dragon_attack1_2",
+    "electro_dragon_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 333,
+      "value": "O@."
+    },
+    {
+      "offset": 340,
+      "value": "RE3"
+    },
+    {
+      "offset": 347,
+      "value": "RH8"
+    },
+    {
+      "offset": 361,
+      "value": "TO@"
+    },
+    {
+      "offset": 368,
+      "value": "WTH"
+    },
+    {
+      "offset": 375,
+      "value": "ZZM"
+    },
+    {
+      "offset": 382,
+      "value": "ZZE"
+    },
+    {
+      "offset": 396,
+      "value": "ZZ6"
+    },
+    {
+      "offset": 403,
+      "value": "ZZ1"
+    },
+    {
+      "offset": 571,
+      "value": "xx8"
+    },
+    {
+      "offset": 584,
+      "value": "Hii@"
+    },
+    {
+      "offset": 592,
+      "value": "aaH"
+    },
+    {
+      "offset": 599,
+      "value": "OOE"
+    },
+    {
+      "offset": 4024,
+      "value": "CZZ"
+    },
+    {
+      "offset": 4031,
+      "value": "EZZ"
+    },
+    {
+      "offset": 4038,
+      "value": "HZZ"
+    },
+    {
+      "offset": 4045,
+      "value": "JZZ"
+    },
+    {
+      "offset": 4052,
+      "value": "MZZ"
+    },
+    {
+      "offset": 4059,
+      "value": "OZZ"
+    },
+    {
+      "offset": 4066,
+      "value": "RZZ"
+    },
+    {
+      "offset": 4073,
+      "value": "TZZ"
+    },
+    {
+      "offset": 4080,
+      "value": "ZZZ"
+    },
+    {
+      "offset": 4094,
+      "value": "_ZZ"
+    },
+    {
+      "offset": 4101,
+      "value": "aZZ"
+    },
+    {
+      "offset": 4108,
+      "value": "dZZ"
+    },
+    {
+      "offset": 4115,
+      "value": "fZZ"
+    },
+    {
+      "offset": 4122,
+      "value": "iZZ"
+    },
+    {
+      "offset": 4129,
+      "value": "lZZ"
+    },
+    {
+      "offset": 4136,
+      "value": "nZZ"
+    },
+    {
+      "offset": 4143,
+      "value": "qZZ"
+    },
+    {
+      "offset": 4150,
+      "value": "sZZ"
+    },
+    {
+      "offset": 4157,
+      "value": "vZZ"
+    },
+    {
+      "offset": 4164,
+      "value": "xZZ"
+    },
+    {
+      "offset": 4556,
+      "value": "_ZZ"
+    },
+    {
+      "offset": 4640,
+      "value": "CZZ"
+    },
+    {
+      "offset": 4647,
+      "value": "EZZ"
+    },
+    {
+      "offset": 4654,
+      "value": "JZZ"
+    },
+    {
+      "offset": 4661,
+      "value": "MZZ"
+    },
+    {
+      "offset": 4668,
+      "value": "RZZ"
+    },
+    {
+      "offset": 4675,
+      "value": "TZZ"
+    },
+    {
+      "offset": 4682,
+      "value": "ZZZ"
+    },
+    {
+      "offset": 4696,
+      "value": "aZZ"
+    },
+    {
+      "offset": 4703,
+      "value": "dZZ"
+    },
+    {
+      "offset": 4710,
+      "value": "iZZ"
+    },
+    {
+      "offset": 4717,
+      "value": "lZZ"
+    },
+    {
+      "offset": 4724,
+      "value": "qZZ"
+    },
+    {
+      "offset": 4731,
+      "value": "sZZ"
+    },
+    {
+      "offset": 4738,
+      "value": "xZZ"
+    },
+    {
+      "offset": 4997,
+      "value": "fZZ"
+    },
+    {
+      "offset": 5004,
+      "value": "_ZZ"
+    },
+    {
+      "offset": 5011,
+      "value": "WZZ"
+    },
+    {
+      "offset": 5018,
+      "value": "OZZ"
+    },
+    {
+      "offset": 5025,
+      "value": "HZZ"
+    },
+    {
+      "offset": 5870,
+      "value": "mA337A"
+    },
+    {
+      "offset": 6204,
+      "value": "ffBA"
+    },
+    {
+      "offset": 9132,
+      "value": "ff2A"
+    },
+    {
+      "offset": 9492,
+      "value": "ffJA"
+    },
+    {
+      "offset": 11868,
+      "value": "ff B"
+    },
+    {
+      "offset": 11916,
+      "value": "ff B"
+    },
+    {
+      "offset": 13528,
+      "value": "fff@"
+    },
+    {
+      "offset": 17076,
+      "value": "ffRA"
+    },
+    {
+      "offset": 19168,
+      "value": "ffV@"
+    },
+    {
+      "offset": 19192,
+      "value": "ffv@"
+    },
+    {
+      "offset": 19742,
+      "value": "_AffV@"
+    },
+    {
+      "offset": 20080,
+      "value": "ffF@"
+    },
+    {
+      "offset": 20680,
+      "value": "ffF@"
+    },
+    {
+      "offset": 21132,
+      "value": "fff@"
+    },
+    {
+      "offset": 21158,
+      "value": "dA33s@"
+    },
+    {
+      "offset": 21568,
+      "value": "ffV@"
+    },
+    {
+      "offset": 21640,
+      "value": "ffV@"
+    },
+    {
+      "offset": 21735,
+      "value": "A33c@"
+    },
+    {
+      "offset": 22310,
+      "value": "tAffV@"
+    },
+    {
+      "offset": 22576,
+      "value": "ffF@"
+    },
+    {
+      "offset": 24327,
+      "value": "A337A"
+    },
+    {
+      "offset": 25119,
+      "value": "A33s@"
+    },
+    {
+      "offset": 26172,
+      "value": "ff6@"
+    },
+    {
+      "offset": 30880,
+      "value": "ffV@"
+    },
+    {
+      "offset": 41436,
+      "value": "ffJA"
+    },
+    {
+      "offset": 48060,
+      "value": "ffRA"
+    },
+    {
+      "offset": 54636,
+      "value": "ffF@"
+    },
+    {
+      "offset": 58884,
+      "value": "ffv@"
+    },
+    {
+      "offset": 62340,
+      "value": "ffXB"
+    },
+    {
+      "offset": 66516,
+      "value": "ff2A"
+    },
+    {
+      "offset": 81588,
+      "value": "ff:A"
+    },
+    {
+      "offset": 84108,
+      "value": "ffF@"
+    },
+    {
+      "offset": 94476,
+      "value": "ffzA"
+    },
+    {
+      "offset": 94552,
+      "value": "ffV@"
+    },
+    {
+      "offset": 95052,
+      "value": "ffjA"
+    },
+    {
+      "offset": 101433,
+      "value": "fda"
+    },
+    {
+      "offset": 102478,
+      "value": "kp33ZB"
+    },
+    {
+      "offset": 106775,
+      "value": "rffzB"
+    },
+    {
+      "offset": 106799,
+      "value": "rffzB"
+    },
+    {
+      "offset": 109379,
+      "value": "rffzB"
+    },
+    {
+      "offset": 109403,
+      "value": "rffzB"
+    },
+    {
+      "offset": 109788,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 110900,
+      "value": "pA0"
+    },
+    {
+      "offset": 112844,
+      "value": "pA0"
+    },
+    {
+      "offset": 113568,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 115978,
+      "value": "kp33ZB"
+    },
+    {
+      "offset": 118427,
+      "value": "_33ZB"
+    },
+    {
+      "offset": 120896,
+      "value": "Vm@"
+    },
+    {
+      "offset": 122109,
+      "value": "fc4"
+    },
+    {
+      "offset": 127847,
+      "value": "zffvB"
+    },
+    {
+      "offset": 133956,
+      "value": "ffzB"
+    },
+    {
+      "offset": 138236,
+      "value": "g/@"
+    },
+    {
+      "offset": 138248,
+      "value": "G/@"
+    },
+    {
+      "offset": 138360,
+      "value": "ffZA"
+    },
+    {
+      "offset": 139860,
+      "value": "ff.B"
+    },
+    {
+      "offset": 140492,
+      "value": "pA0"
+    },
+    {
+      "offset": 146267,
+      "value": "FffvA"
+    },
+    {
+      "offset": 148666,
+      "value": "PVffvA"
+    },
+    {
+      "offset": 150395,
+      "value": "W33c@"
+    },
+    {
+      "offset": 150622,
+      "value": "kp33ZB"
+    },
+    {
+      "offset": 151379,
+      "value": "W33c@"
+    },
+    {
+      "offset": 152111,
+      "value": "W33c@"
+    },
+    {
+      "offset": 152447,
+      "value": "W33c@"
+    },
+    {
+      "offset": 153035,
+      "value": "AffTB"
+    },
+    {
+      "offset": 153047,
+      "value": "CffTB"
+    },
+    {
+      "offset": 153969,
+      "value": "YnS"
+    },
+    {
+      "offset": 155171,
+      "value": "HffTB"
+    },
+    {
+      "offset": 155243,
+      "value": "rffzB"
+    },
+    {
+      "offset": 155267,
+      "value": "rffzB"
+    },
+    {
+      "offset": 155411,
+      "value": "AffTB"
+    },
+    {
+      "offset": 155423,
+      "value": "CffTB"
+    },
+    {
+      "offset": 155817,
+      "value": "YnS"
+    },
+    {
+      "offset": 156347,
+      "value": "HffTB"
+    },
+    {
+      "offset": 156720,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 161051,
+      "value": "P33c@"
+    },
+    {
+      "offset": 161159,
+      "value": "_33ZB"
+    },
+    {
+      "offset": 162107,
+      "value": "W33c@"
+    },
+    {
+      "offset": 163632,
+      "value": "ffzB"
+    },
+    {
+      "offset": 164039,
+      "value": "OffTB"
+    },
+    {
+      "offset": 165552,
+      "value": "ffTB"
+    },
+    {
+      "offset": 165936,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 166728,
+      "value": "ff.B"
+    },
+    {
+      "offset": 168840,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 170050,
+      "value": "kp33ZB"
+    },
+    {
+      "offset": 170916,
+      "value": "ffBA"
+    },
+    {
+      "offset": 172199,
+      "value": "Q33_A"
+    },
+    {
+      "offset": 172343,
+      "value": "VffBA"
+    },
+    {
+      "offset": 174392,
+      "value": "K8 X"
+    },
+    {
+      "offset": 174887,
+      "value": "rffzB"
+    },
+    {
+      "offset": 174911,
+      "value": "rffzB"
+    },
+    {
+      "offset": 175496,
+      "value": "K8 X"
+    },
+    {
+      "offset": 175980,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 180117,
+      "value": "tzF33CA"
+    },
+    {
+      "offset": 180273,
+      "value": "Ou9"
+    },
+    {
+      "offset": 180297,
+      "value": "Qu9"
+    },
+    {
+      "offset": 181283,
+      "value": "_33ZB"
+    },
+    {
+      "offset": 182217,
+      "value": "tzF"
+    },
+    {
+      "offset": 182637,
+      "value": "Ou9"
+    },
+    {
+      "offset": 182661,
+      "value": "Qu9"
+    },
+    {
+      "offset": 184020,
+      "value": "ffzB"
+    },
+    {
+      "offset": 187164,
+      "value": "ff.B"
+    },
+    {
+      "offset": 189682,
+      "value": "kp33ZB"
+    },
+    {
+      "offset": 191420,
+      "value": "Vm@"
+    },
+    {
+      "offset": 192106,
+      "value": "kp33ZB"
+    },
+    {
+      "offset": 193473,
+      "value": "fc4"
+    },
+    {
+      "offset": 196151,
+      "value": "_33ZB"
+    },
+    {
+      "offset": 202055,
+      "value": "rffzB"
+    },
+    {
+      "offset": 202079,
+      "value": "rffzB"
+    },
+    {
+      "offset": 205823,
+      "value": "rffzB"
+    },
+    {
+      "offset": 205847,
+      "value": "rffzB"
+    },
+    {
+      "offset": 207168,
+      "value": "ffzB"
+    },
+    {
+      "offset": 210584,
+      "value": "g/@"
+    },
+    {
+      "offset": 210596,
+      "value": "G/@"
+    },
+    {
+      "offset": 210708,
+      "value": "ffZA"
+    },
+    {
+      "offset": 211908,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 214476,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 219407,
+      "value": "FffvA"
+    },
+    {
+      "offset": 219468,
+      "value": "ff.B"
+    },
+    {
+      "offset": 222730,
+      "value": "PVffvA"
+    },
+    {
+      "offset": 223788,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 224316,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 226978,
+      "value": "tbffzB"
+    },
+    {
+      "offset": 227256,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 227493,
+      "value": "PBx"
+    },
+    {
+      "offset": 228612,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 230604,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 230936,
+      "value": "Vm@"
+    },
+    {
+      "offset": 232989,
+      "value": "fc4"
+    },
+    {
+      "offset": 238932,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 241426,
+      "value": "tbffzB"
+    },
+    {
+      "offset": 245098,
+      "value": "tbffzB"
+    },
+    {
+      "offset": 250100,
+      "value": "g/@"
+    },
+    {
+      "offset": 250112,
+      "value": "G/@"
+    },
+    {
+      "offset": 250224,
+      "value": "ffZA"
+    },
+    {
+      "offset": 251424,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 251805,
+      "value": "PBx"
+    },
+    {
+      "offset": 253992,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 254613,
+      "value": "PBx"
+    },
+    {
+      "offset": 258923,
+      "value": "FffvA"
+    },
+    {
+      "offset": 258984,
+      "value": "ff.B"
+    },
+    {
+      "offset": 262246,
+      "value": "PVffvA"
+    },
+    {
+      "offset": 263292,
+      "value": "ff\\B"
+    },
+    {
+      "offset": 263795,
+      "value": "lffQB"
+    },
+    {
+      "offset": 264644,
+      "value": "Cl8Z"
+    },
+    {
+      "offset": 264669,
+      "value": "f8Z"
+    },
+    {
+      "offset": 266580,
+      "value": "ffvB"
+    },
+    {
+      "offset": 268284,
+      "value": "ff:B"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000000050000940000000200000001000000e8460800",
+  "decoded_preview_hex": "e446080018000000000012001400040000000000000008000c001000120000007c3d0800445704008c8b010004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

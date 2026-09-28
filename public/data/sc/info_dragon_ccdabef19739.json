@@ -1,0 +1,170 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_dragon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_dragon.sc",
+  "sha256_container": "ccdabef197396dbf32d80bba4def0afbd56c30163a74a24e3eb519b3e906d405",
+  "sha256_descriptor": "3f11ba122840e82086408e91a6176aba0a28a8b1a9d0db733d5909191ac1f2a6",
+  "sha256_decoded_payload": "67bc137a9b35ee128fbc61cafde0b3eaed73184ffff127f82ef09715010a1e8c",
+  "version": 6,
+  "descriptor_bytes": 228,
+  "compressed_frame_bytes": 61297,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 146560,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 424
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 145672
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 61300
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "unit_dragon_big"
+    },
+    {
+      "offset": 212,
+      "value": "card_dragon_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_dragon_big",
+    "card_dragon_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 348,
+      "value": "bounds"
+    },
+    {
+      "offset": 360,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 380,
+      "value": "unit_dragon_big"
+    },
+    {
+      "offset": 400,
+      "value": "card_dragon_big"
+    },
+    {
+      "offset": 1065,
+      "value": "u  e"
+    },
+    {
+      "offset": 16057,
+      "value": "PN-"
+    },
+    {
+      "offset": 20182,
+      "value": "KG8"
+    },
+    {
+      "offset": 33859,
+      "value": "TGGsb"
+    },
+    {
+      "offset": 41150,
+      "value": "uwO"
+    },
+    {
+      "offset": 42462,
+      "value": "Vu_"
+    },
+    {
+      "offset": 64422,
+      "value": "J2U"
+    },
+    {
+      "offset": 91407,
+      "value": "iqI"
+    },
+    {
+      "offset": 91788,
+      "value": "WRL"
+    },
+    {
+      "offset": 97554,
+      "value": "T+N"
+    },
+    {
+      "offset": 100194,
+      "value": "_+B"
+    },
+    {
+      "offset": 103443,
+      "value": "Qc:"
+    },
+    {
+      "offset": 115677,
+      "value": "X0q_"
+    },
+    {
+      "offset": 122511,
+      "value": "hmH"
+    },
+    {
+      "offset": 132207,
+      "value": "sbI"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000005437cb450944b4b3d2ecebf13d90ef5b5f0e94df1c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "a401000018000000000012001400040000000000000008000c0010001200000020010000040100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

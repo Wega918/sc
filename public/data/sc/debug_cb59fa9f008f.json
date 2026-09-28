@@ -1,0 +1,233 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "debug.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\debug.sc",
+  "sha256_container": "cb59fa9f008f7d67036c25f498bd4afd83df3dee73f199b60e2f6463ee6da2a6",
+  "sha256_descriptor": "1b3b6e09986e41b067ee015a39ba3ed158350d1ec6d91962d83ef28e9b1818bf",
+  "sha256_decoded_payload": "985be56bbb998e907f23ee9618b0221af8082791ff390b9157729226a3dbeb6a",
+  "version": 6,
+  "descriptor_bytes": 620,
+  "compressed_frame_bytes": 2682,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 11576,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 12
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 13
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 60,
+      "raw_u32": 16
+    },
+    {
+      "field_index": 7,
+      "offset": 64,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 68,
+      "raw_u32": 5828
+    },
+    {
+      "field_index": 9,
+      "offset": 72,
+      "raw_u32": 2252
+    },
+    {
+      "field_index": 10,
+      "offset": 76,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 80,
+      "raw_u32": 2688
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 160,
+      "value": "preview_menu"
+    },
+    {
+      "offset": 212,
+      "value": "debug_menu_wide"
+    },
+    {
+      "offset": 264,
+      "value": "debug_menu_text"
+    },
+    {
+      "offset": 316,
+      "value": "debug_menu_item"
+    },
+    {
+      "offset": 368,
+      "value": "debug_menu_category_mini"
+    },
+    {
+      "offset": 432,
+      "value": "debug_menu_category"
+    },
+    {
+      "offset": 488,
+      "value": "debug_menu_button"
+    },
+    {
+      "offset": 544,
+      "value": "debug_menu"
+    },
+    {
+      "offset": 600,
+      "value": "debug_input_window"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "preview_menu",
+    "debug_menu_wide",
+    "debug_menu_text",
+    "debug_menu_item",
+    "debug_menu_category_mini",
+    "debug_menu_category",
+    "debug_menu_button",
+    "debug_menu",
+    "debug_input_window"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 440,
+      "value": "ff:A"
+    },
+    {
+      "offset": 5364,
+      "value": "input_field"
+    },
+    {
+      "offset": 5380,
+      "value": "tab_area"
+    },
+    {
+      "offset": 5396,
+      "value": "search"
+    },
+    {
+      "offset": 5408,
+      "value": "debug_menu_input_button"
+    },
+    {
+      "offset": 5436,
+      "value": "filter_input"
+    },
+    {
+      "offset": 5456,
+      "value": "Text"
+    },
+    {
+      "offset": 5468,
+      "value": "preview_area"
+    },
+    {
+      "offset": 5488,
+      "value": "title"
+    },
+    {
+      "offset": 5500,
+      "value": "item_area"
+    },
+    {
+      "offset": 5516,
+      "value": "close_button"
+    },
+    {
+      "offset": 5536,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 5560,
+      "value": "Times New Roman"
+    },
+    {
+      "offset": 5580,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 5600,
+      "value": "Squarejaw Intl BB"
+    },
+    {
+      "offset": 5624,
+      "value": "debug_menu_item"
+    },
+    {
+      "offset": 5644,
+      "value": "debug_menu_category_mini"
+    },
+    {
+      "offset": 5676,
+      "value": "debug_input_window"
+    },
+    {
+      "offset": 5700,
+      "value": "debug_menu"
+    },
+    {
+      "offset": 5716,
+      "value": "debug_menu_button"
+    },
+    {
+      "offset": 5740,
+      "value": "debug_menu_category"
+    },
+    {
+      "offset": 5764,
+      "value": "preview_menu"
+    },
+    {
+      "offset": 5784,
+      "value": "debug_menu_text"
+    },
+    {
+      "offset": 5804,
+      "value": "debug_menu_wide"
+    },
+    {
+      "offset": 10735,
+      "value": "NLP"
+    },
+    {
+      "offset": 11055,
+      "value": "L8L"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c003000040008000c0010001400180000001c002000240028002c001c00000001000000010000000c0000000d0000000100000010000000",
+  "decoded_preview_hex": "c016000018000000000012001400040000000000000008000c001000120000006c140000240d0000fc05000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

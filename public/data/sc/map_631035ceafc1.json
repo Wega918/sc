@@ -1,0 +1,2784 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "map.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\map.sc",
+  "sha256_container": "631035ceafc182f5bcf867137686dbbc70e0437b47b73b09f5063bc23df1528b",
+  "sha256_descriptor": "2b3affde1a9b9cb73804441a34da0b883f9887864e75ba023b37376e9491f7b0",
+  "sha256_decoded_payload": "291ad86f9e4b5a4538b9b5835e2cfc1a5afad44fe30fbe5b1c396af70c8ebf9a",
+  "version": 6,
+  "descriptor_bytes": 23884,
+  "compressed_frame_bytes": 5191295,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 8921004,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 893
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 1031
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 6
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 637
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 1435824
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 6938296
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 5191296
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 1664,
+      "value": "wl_war_summary_info"
+    },
+    {
+      "offset": 1720,
+      "value": "wl_war_result_stars_slot"
+    },
+    {
+      "offset": 1784,
+      "value": "wl_war_result_slot"
+    },
+    {
+      "offset": 1840,
+      "value": "wl_war_result_percentage_slot"
+    },
+    {
+      "offset": 1908,
+      "value": "wl_war_result_loot_slot_2"
+    },
+    {
+      "offset": 1972,
+      "value": "wl_war_result_loot_slot"
+    },
+    {
+      "offset": 2032,
+      "value": "wl_war_result_exp_slot"
+    },
+    {
+      "offset": 2092,
+      "value": "wl_war_result_arranged"
+    },
+    {
+      "offset": 2152,
+      "value": "wl_war_result"
+    },
+    {
+      "offset": 2204,
+      "value": "wl_war_overlay_atlasgenerator_texture_rgb565"
+    },
+    {
+      "offset": 2288,
+      "value": "wl_war_info_popup"
+    },
+    {
+      "offset": 2344,
+      "value": "wl_war_bonus_info"
+    },
+    {
+      "offset": 2400,
+      "value": "wl_town_hall_lvl12_stars3"
+    },
+    {
+      "offset": 2464,
+      "value": "wl_town_hall_lvl12_stars2"
+    },
+    {
+      "offset": 2528,
+      "value": "wl_town_hall_lvl12_stars1"
+    },
+    {
+      "offset": 2592,
+      "value": "wl_th_lvl9_stars3"
+    },
+    {
+      "offset": 2648,
+      "value": "wl_th_lvl9_stars2"
+    },
+    {
+      "offset": 2704,
+      "value": "wl_th_lvl9_stars1"
+    },
+    {
+      "offset": 2760,
+      "value": "wl_th_lvl8_stars3"
+    },
+    {
+      "offset": 2816,
+      "value": "wl_th_lvl8_stars2"
+    },
+    {
+      "offset": 2872,
+      "value": "wl_th_lvl8_stars1"
+    },
+    {
+      "offset": 2928,
+      "value": "wl_th_lvl7_stars3"
+    },
+    {
+      "offset": 2984,
+      "value": "wl_th_lvl7_stars2"
+    },
+    {
+      "offset": 3040,
+      "value": "wl_th_lvl7_stars1"
+    },
+    {
+      "offset": 3096,
+      "value": "wl_th_lvl6_stars3"
+    },
+    {
+      "offset": 3152,
+      "value": "wl_th_lvl6_stars2"
+    },
+    {
+      "offset": 3208,
+      "value": "wl_th_lvl6_stars1"
+    },
+    {
+      "offset": 3264,
+      "value": "wl_th_lvl5_stars3"
+    },
+    {
+      "offset": 3320,
+      "value": "wl_th_lvl5_stars2"
+    },
+    {
+      "offset": 3376,
+      "value": "wl_th_lvl5_stars1"
+    },
+    {
+      "offset": 3432,
+      "value": "wl_th_lvl4_stars3"
+    },
+    {
+      "offset": 3488,
+      "value": "wl_th_lvl4_stars2"
+    },
+    {
+      "offset": 3544,
+      "value": "wl_th_lvl4_stars1"
+    },
+    {
+      "offset": 3600,
+      "value": "wl_th_lvl3_stars3"
+    },
+    {
+      "offset": 3656,
+      "value": "wl_th_lvl3_stars2"
+    },
+    {
+      "offset": 3712,
+      "value": "wl_th_lvl3_stars1"
+    },
+    {
+      "offset": 3768,
+      "value": "wl_th_lvl14_stars3"
+    },
+    {
+      "offset": 3824,
+      "value": "wl_th_lvl14_stars2"
+    },
+    {
+      "offset": 3880,
+      "value": "wl_th_lvl14_stars1"
+    },
+    {
+      "offset": 3936,
+      "value": "wl_th_lvl13_stars3"
+    },
+    {
+      "offset": 3992,
+      "value": "wl_th_lvl13_stars2"
+    },
+    {
+      "offset": 4048,
+      "value": "wl_th_lvl13_stars1"
+    },
+    {
+      "offset": 4104,
+      "value": "wl_th_lvl11_stars3"
+    },
+    {
+      "offset": 4160,
+      "value": "wl_th_lvl11_stars2"
+    },
+    {
+      "offset": 4216,
+      "value": "wl_th_lvl11_stars1"
+    },
+    {
+      "offset": 4272,
+      "value": "wl_th_lvl10_stars3"
+    },
+    {
+      "offset": 4328,
+      "value": "wl_th_lvl10_stars2"
+    },
+    {
+      "offset": 4384,
+      "value": "wl_th_lvl10_stars1"
+    },
+    {
+      "offset": 4440,
+      "value": "wl_targeting_reticle_3"
+    },
+    {
+      "offset": 4500,
+      "value": "wl_switch_map_right"
+    },
+    {
+      "offset": 4556,
+      "value": "wl_stream_interactive_entry"
+    },
+    {
+      "offset": 4620,
+      "value": "wl_start_war_badge"
+    },
+    {
+      "offset": 4676,
+      "value": "wl_start_war"
+    },
+    {
+      "offset": 4728,
+      "value": "wl_prepare_for_war"
+    },
+    {
+      "offset": 4784,
+      "value": "wl_player_inactive_hotspot_clan_wars"
+    },
+    {
+      "offset": 4860,
+      "value": "wl_player_active_hotspot_clan_wars"
+    },
+    {
+      "offset": 4932,
+      "value": "wl_number_of_entrys"
+    },
+    {
+      "offset": 4988,
+      "value": "wl_minus_button_map"
+    },
+    {
+      "offset": 5044,
+      "value": "wl_matchmaking_state"
+    },
+    {
+      "offset": 5104,
+      "value": "wl_marker_flag"
+    },
+    {
+      "offset": 5156,
+      "value": "wl_map_war_league_noscale"
+    },
+    {
+      "offset": 5220,
+      "value": "wl_map_war_league_noBitDropping"
+    },
+    {
+      "offset": 5288,
+      "value": "wl_map_bg_clan_wars"
+    },
+    {
+      "offset": 5344,
+      "value": "wl_iphone_war_result_arranged"
+    },
+    {
+      "offset": 5412,
+      "value": "wl_iphone_war_result"
+    },
+    {
+      "offset": 5472,
+      "value": "wl_iphone_prepare_for_war"
+    },
+    {
+      "offset": 5536,
+      "value": "wl_iphone_matchmaking_state"
+    },
+    {
+      "offset": 5600,
+      "value": "wl_inactive_hotspot_enemy_clan_wars"
+    },
+    {
+      "offset": 5672,
+      "value": "wl_inactive_hotspot_clan_wars"
+    },
+    {
+      "offset": 5740,
+      "value": "wl_icon_war_leagues"
+    },
+    {
+      "offset": 5796,
+      "value": "wl_hotspot_info_friendly_clan_wars"
+    },
+    {
+      "offset": 5868,
+      "value": "wl_hotspot_info_friendly2_clan_wars"
+    },
+    {
+      "offset": 5940,
+      "value": "wl_hotspot_info_enemy_clan_wars"
+    },
+    {
+      "offset": 6008,
+      "value": "wl_hotspot_info_enemy2_clan_wars"
+    },
+    {
+      "offset": 6080,
+      "value": "wl_hidden_hotspot_enemy_clan_wars"
+    },
+    {
+      "offset": 6152,
+      "value": "wl_fx_under_attack"
+    },
+    {
+      "offset": 6208,
+      "value": "wl_exp_earned"
+    },
+    {
+      "offset": 6260,
+      "value": "wl_button_war_help"
+    },
+    {
+      "offset": 6316,
+      "value": "wl_attack_button"
+    },
+    {
+      "offset": 6372,
+      "value": "wl_active_warcamp_enemy_clan_wars"
+    },
+    {
+      "offset": 6444,
+      "value": "wl_active_warcamp_clan_wars"
+    },
+    {
+      "offset": 6508,
+      "value": "wl_active_reccommended_hotspot_enemy_clan_wars"
+    },
+    {
+      "offset": 6592,
+      "value": "wl_active_hotspot_target_clan_wars"
+    },
+    {
+      "offset": 6664,
+      "value": "wl_active_hotspot_enemy_clan_wars"
+    },
+    {
+      "offset": 6736,
+      "value": "wl_active_hotspot_clan_wars"
+    },
+    {
+      "offset": 6800,
+      "value": "wl_Friendly_Hotspot"
+    },
+    {
+      "offset": 6856,
+      "value": "wl_Enemy_Hotspot"
+    },
+    {
+      "offset": 6912,
+      "value": "warning_indicator_basic"
+    },
+    {
+      "offset": 6972,
+      "value": "warcamp_info_friendly_clan_wars"
+    },
+    {
+      "offset": 7040,
+      "value": "warcamp_info_friendly2_clan_wars"
+    },
+    {
+      "offset": 7112,
+      "value": "warcamp_info_enemy_clan_wars"
+    },
+    {
+      "offset": 7180,
+      "value": "warcamp_info_enemy2_clan_wars"
+    },
+    {
+      "offset": 7248,
+      "value": "warcamp_info_clan_loot"
+    },
+    {
+      "offset": 7308,
+      "value": "war_summary_info"
+    },
+    {
+      "offset": 7364,
+      "value": "war_result_stars_slot"
+    },
+    {
+      "offset": 7424,
+      "value": "war_result_slot"
+    },
+    {
+      "offset": 7476,
+      "value": "war_result_percentage_slot"
+    },
+    {
+      "offset": 7540,
+      "value": "war_result_loot_slot_2"
+    },
+    {
+      "offset": 7600,
+      "value": "war_result_loot_slot"
+    },
+    {
+      "offset": 7660,
+      "value": "war_result_exp_slot"
+    },
+    {
+      "offset": 7716,
+      "value": "war_result_arranged"
+    },
+    {
+      "offset": 7772,
+      "value": "war_result"
+    },
+    {
+      "offset": 7820,
+      "value": "war_overlay_atlasgenerator_texture_rgb565"
+    },
+    {
+      "offset": 7900,
+      "value": "war_info_popup"
+    },
+    {
+      "offset": 7952,
+      "value": "war_bonus_info"
+    },
+    {
+      "offset": 8004,
+      "value": "victory_rating_star"
+    },
+    {
+      "offset": 8060,
+      "value": "vfx_ui_ClaimableReward_Claimed"
+    },
+    {
+      "offset": 8128,
+      "value": "treasure_event_popup_info_screen"
+    },
+    {
+      "offset": 8200,
+      "value": "th_lvl9_stars3"
+    },
+    {
+      "offset": 8252,
+      "value": "th_lvl9_stars2"
+    },
+    {
+      "offset": 8304,
+      "value": "th_lvl9_stars1"
+    },
+    {
+      "offset": 8356,
+      "value": "th_lvl8_stars3"
+    },
+    {
+      "offset": 8408,
+      "value": "th_lvl8_stars2"
+    },
+    {
+      "offset": 8460,
+      "value": "th_lvl8_stars1"
+    },
+    {
+      "offset": 8512,
+      "value": "th_lvl7_stars3"
+    },
+    {
+      "offset": 8564,
+      "value": "th_lvl7_stars2"
+    },
+    {
+      "offset": 8616,
+      "value": "th_lvl7_stars1"
+    },
+    {
+      "offset": 8668,
+      "value": "th_lvl6_stars3"
+    },
+    {
+      "offset": 8720,
+      "value": "th_lvl6_stars2"
+    },
+    {
+      "offset": 8772,
+      "value": "th_lvl6_stars1"
+    },
+    {
+      "offset": 8824,
+      "value": "th_lvl5_stars3"
+    },
+    {
+      "offset": 8876,
+      "value": "th_lvl5_stars2"
+    },
+    {
+      "offset": 8928,
+      "value": "th_lvl5_stars1"
+    },
+    {
+      "offset": 8980,
+      "value": "th_lvl4_stars3"
+    },
+    {
+      "offset": 9032,
+      "value": "th_lvl4_stars2"
+    },
+    {
+      "offset": 9084,
+      "value": "th_lvl4_stars1"
+    },
+    {
+      "offset": 9136,
+      "value": "th_lvl3_stars3"
+    },
+    {
+      "offset": 9188,
+      "value": "th_lvl3_stars2"
+    },
+    {
+      "offset": 9240,
+      "value": "th_lvl3_stars1"
+    },
+    {
+      "offset": 9292,
+      "value": "th_lvl18_stars3"
+    },
+    {
+      "offset": 9344,
+      "value": "th_lvl18_stars2"
+    },
+    {
+      "offset": 9396,
+      "value": "th_lvl18_stars1"
+    },
+    {
+      "offset": 9448,
+      "value": "th_lvl17_stars3"
+    },
+    {
+      "offset": 9500,
+      "value": "th_lvl17_stars2"
+    },
+    {
+      "offset": 9552,
+      "value": "th_lvl17_stars1"
+    },
+    {
+      "offset": 9604,
+      "value": "th_lvl16_stars3"
+    },
+    {
+      "offset": 9656,
+      "value": "th_lvl16_stars2"
+    },
+    {
+      "offset": 9708,
+      "value": "th_lvl16_stars1"
+    },
+    {
+      "offset": 9760,
+      "value": "th_lvl15_stars3"
+    },
+    {
+      "offset": 9812,
+      "value": "th_lvl15_stars2"
+    },
+    {
+      "offset": 9864,
+      "value": "th_lvl15_stars1"
+    },
+    {
+      "offset": 9916,
+      "value": "th_lvl14_stars3"
+    },
+    {
+      "offset": 9968,
+      "value": "th_lvl14_stars2"
+    },
+    {
+      "offset": 10020,
+      "value": "th_lvl14_stars1"
+    },
+    {
+      "offset": 10072,
+      "value": "th_lvl13_stars3"
+    },
+    {
+      "offset": 10124,
+      "value": "th_lvl13_stars2"
+    },
+    {
+      "offset": 10176,
+      "value": "th_lvl13_stars1"
+    },
+    {
+      "offset": 10228,
+      "value": "th_lvl12_stars3"
+    },
+    {
+      "offset": 10280,
+      "value": "th_lvl12_stars2"
+    },
+    {
+      "offset": 10332,
+      "value": "th_lvl12_stars1"
+    },
+    {
+      "offset": 10384,
+      "value": "th_lvl11_stars3"
+    },
+    {
+      "offset": 10436,
+      "value": "th_lvl11_stars2"
+    },
+    {
+      "offset": 10488,
+      "value": "th_lvl11_stars1"
+    },
+    {
+      "offset": 10540,
+      "value": "th_lvl10_stars3"
+    },
+    {
+      "offset": 10592,
+      "value": "th_lvl10_stars2"
+    },
+    {
+      "offset": 10644,
+      "value": "th_lvl10_stars1"
+    },
+    {
+      "offset": 10696,
+      "value": "targeting_reticle_3"
+    },
+    {
+      "offset": 10752,
+      "value": "switch_map_right"
+    },
+    {
+      "offset": 10808,
+      "value": "stream_interactive_entry"
+    },
+    {
+      "offset": 10872,
+      "value": "start_war_badge"
+    },
+    {
+      "offset": 10924,
+      "value": "start_war"
+    },
+    {
+      "offset": 10972,
+      "value": "side_vignette_right"
+    },
+    {
+      "offset": 11028,
+      "value": "side_vignette_left"
+    },
+    {
+      "offset": 11084,
+      "value": "reccommendation_arrow_right"
+    },
+    {
+      "offset": 11148,
+      "value": "reccommendation_arrow_left"
+    },
+    {
+      "offset": 11212,
+      "value": "real_time_info"
+    },
+    {
+      "offset": 11264,
+      "value": "ranked_mode_locked_large_card"
+    },
+    {
+      "offset": 11332,
+      "value": "ranked_mode_locked_card"
+    },
+    {
+      "offset": 11392,
+      "value": "ranked_mode_default"
+    },
+    {
+      "offset": 11448,
+      "value": "pvp_info_Button"
+    },
+    {
+      "offset": 11500,
+      "value": "profile_info_button"
+    },
+    {
+      "offset": 11556,
+      "value": "previous_button"
+    },
+    {
+      "offset": 11608,
+      "value": "prepare_for_war"
+    },
+    {
+      "offset": 11660,
+      "value": "popup_ranked_signup"
+    },
+    {
+      "offset": 11716,
+      "value": "popup_ranked_defense2"
+    },
+    {
+      "offset": 11776,
+      "value": "popup_ranked_defense"
+    },
+    {
+      "offset": 11836,
+      "value": "player_inactive_hotspot_clan_wars"
+    },
+    {
+      "offset": 11908,
+      "value": "player_active_hotspot_clan_wars"
+    },
+    {
+      "offset": 11976,
+      "value": "overview_item_troop"
+    },
+    {
+      "offset": 12032,
+      "value": "number_of_entrys"
+    },
+    {
+      "offset": 12088,
+      "value": "next_button"
+    },
+    {
+      "offset": 12136,
+      "value": "minus_button_map"
+    },
+    {
+      "offset": 12192,
+      "value": "message_content"
+    },
+    {
+      "offset": 12244,
+      "value": "matchmaking_state"
+    },
+    {
+      "offset": 12300,
+      "value": "marker_flag"
+    },
+    {
+      "offset": 12348,
+      "value": "map_wl_wardeco_01"
+    },
+    {
+      "offset": 12404,
+      "value": "map_wl_vignette_02"
+    },
+    {
+      "offset": 12460,
+      "value": "map_wl_vignette_01"
+    },
+    {
+      "offset": 12516,
+      "value": "map_wl_top_t7_nt"
+    },
+    {
+      "offset": 12572,
+      "value": "map_wl_top_t7"
+    },
+    {
+      "offset": 12624,
+      "value": "map_wl_top_t6_nt"
+    },
+    {
+      "offset": 12680,
+      "value": "map_wl_top_t6"
+    },
+    {
+      "offset": 12732,
+      "value": "map_wl_top_t5_nt"
+    },
+    {
+      "offset": 12788,
+      "value": "map_wl_top_t5"
+    },
+    {
+      "offset": 12840,
+      "value": "map_wl_top_t4_nt"
+    },
+    {
+      "offset": 12896,
+      "value": "map_wl_top_t4"
+    },
+    {
+      "offset": 12948,
+      "value": "map_wl_top_t3_nt"
+    },
+    {
+      "offset": 13004,
+      "value": "map_wl_top_t3"
+    },
+    {
+      "offset": 13056,
+      "value": "map_wl_top_t2_nt"
+    },
+    {
+      "offset": 13112,
+      "value": "map_wl_top_t2"
+    },
+    {
+      "offset": 13164,
+      "value": "map_wl_top_t1_nt_wc26"
+    },
+    {
+      "offset": 13224,
+      "value": "map_wl_top_t1_nt"
+    },
+    {
+      "offset": 13280,
+      "value": "map_wl_top_t1"
+    },
+    {
+      "offset": 13332,
+      "value": "map_wl_top_t0_nt"
+    },
+    {
+      "offset": 13388,
+      "value": "map_wl_top_t0"
+    },
+    {
+      "offset": 13440,
+      "value": "map_wl_top_end"
+    },
+    {
+      "offset": 13492,
+      "value": "map_wl_tint_01"
+    },
+    {
+      "offset": 13544,
+      "value": "map_wl_mid_t8"
+    },
+    {
+      "offset": 13596,
+      "value": "map_wl_mid_t7"
+    },
+    {
+      "offset": 13648,
+      "value": "map_wl_mid_t6"
+    },
+    {
+      "offset": 13700,
+      "value": "map_wl_mid_t5"
+    },
+    {
+      "offset": 13752,
+      "value": "map_wl_mid_t4"
+    },
+    {
+      "offset": 13804,
+      "value": "map_wl_mid_t3"
+    },
+    {
+      "offset": 13856,
+      "value": "map_wl_mid_t2_wc26_deco"
+    },
+    {
+      "offset": 13916,
+      "value": "map_wl_mid_t2_wc26"
+    },
+    {
+      "offset": 13972,
+      "value": "map_wl_mid_t2"
+    },
+    {
+      "offset": 14024,
+      "value": "map_wl_mid_t1"
+    },
+    {
+      "offset": 14076,
+      "value": "map_wl_env_t8_01"
+    },
+    {
+      "offset": 14132,
+      "value": "map_wl_env_t7_01"
+    },
+    {
+      "offset": 14188,
+      "value": "map_wl_env_t6_01"
+    },
+    {
+      "offset": 14244,
+      "value": "map_wl_env_t5_01"
+    },
+    {
+      "offset": 14300,
+      "value": "map_wl_env_t4_01"
+    },
+    {
+      "offset": 14356,
+      "value": "map_wl_env_t3_01"
+    },
+    {
+      "offset": 14412,
+      "value": "map_wl_env_t2_01"
+    },
+    {
+      "offset": 14468,
+      "value": "map_wl_env_t1_01"
+    },
+    {
+      "offset": 14524,
+      "value": "map_wl_deco_01"
+    },
+    {
+      "offset": 14576,
+      "value": "map_wl_clouds_01"
+    },
+    {
+      "offset": 14632,
+      "value": "map_wl_bottom_t8_nt"
+    },
+    {
+      "offset": 14688,
+      "value": "map_wl_bottom_t8"
+    },
+    {
+      "offset": 14744,
+      "value": "map_wl_bottom_t7_nt"
+    },
+    {
+      "offset": 14800,
+      "value": "map_wl_bottom_t7"
+    },
+    {
+      "offset": 14856,
+      "value": "map_wl_bottom_t6_nt"
+    },
+    {
+      "offset": 14912,
+      "value": "map_wl_bottom_t6"
+    },
+    {
+      "offset": 14968,
+      "value": "map_wl_bottom_t5_nt"
+    },
+    {
+      "offset": 15024,
+      "value": "map_wl_bottom_t5"
+    },
+    {
+      "offset": 15080,
+      "value": "map_wl_bottom_t4_nt"
+    },
+    {
+      "offset": 15136,
+      "value": "map_wl_bottom_t4"
+    },
+    {
+      "offset": 15192,
+      "value": "map_wl_bottom_t3_nt"
+    },
+    {
+      "offset": 15248,
+      "value": "map_wl_bottom_t3"
+    },
+    {
+      "offset": 15304,
+      "value": "map_wl_bottom_t2_nt_wc26"
+    },
+    {
+      "offset": 15368,
+      "value": "map_wl_bottom_t2_nt"
+    },
+    {
+      "offset": 15424,
+      "value": "map_wl_bottom_t2"
+    },
+    {
+      "offset": 15480,
+      "value": "map_wl_bottom_t1"
+    },
+    {
+      "offset": 15536,
+      "value": "map_wl_bottom_start"
+    },
+    {
+      "offset": 15592,
+      "value": "map_noscale"
+    },
+    {
+      "offset": 15640,
+      "value": "map_clan_wars_enemy_02"
+    },
+    {
+      "offset": 15700,
+      "value": "map_clan_wars_enemy"
+    },
+    {
+      "offset": 15756,
+      "value": "map_clan_wars_02"
+    },
+    {
+      "offset": 15812,
+      "value": "map_clan_wars"
+    },
+    {
+      "offset": 15864,
+      "value": "map_bg_new_03"
+    },
+    {
+      "offset": 15916,
+      "value": "map_bg_new_02"
+    },
+    {
+      "offset": 15968,
+      "value": "map_bg_new"
+    },
+    {
+      "offset": 16016,
+      "value": "map_bg_clan_wars"
+    },
+    {
+      "offset": 16072,
+      "value": "map_bg"
+    },
+    {
+      "offset": 16116,
+      "value": "map_02"
+    },
+    {
+      "offset": 16160,
+      "value": "map"
+    },
+    {
+      "offset": 16200,
+      "value": "locked_hotspot_selected"
+    },
+    {
+      "offset": 16260,
+      "value": "locked_hotspot"
+    },
+    {
+      "offset": 16312,
+      "value": "leaderboard_banner_ranked_results"
+    },
+    {
+      "offset": 16384,
+      "value": "leaderboard_banner_legend_results"
+    },
+    {
+      "offset": 16456,
+      "value": "layout_item_select"
+    },
+    {
+      "offset": 16512,
+      "value": "layout_item_ranked"
+    },
+    {
+      "offset": 16568,
+      "value": "iphonex_map_bg"
+    },
+    {
+      "offset": 16620,
+      "value": "iphone_wl_start_war"
+    },
+    {
+      "offset": 16676,
+      "value": "iphone_war_result_arranged"
+    },
+    {
+      "offset": 16740,
+      "value": "iphone_war_result"
+    },
+    {
+      "offset": 16796,
+      "value": "iphone_stream_interactive_entry"
+    },
+    {
+      "offset": 16864,
+      "value": "iphone_start_war"
+    },
+    {
+      "offset": 16920,
+      "value": "iphone_prepare_for_war"
+    },
+    {
+      "offset": 16980,
+      "value": "iphone_matchmaking_state"
+    },
+    {
+      "offset": 17044,
+      "value": "iphone_map_bg"
+    },
+    {
+      "offset": 17096,
+      "value": "iphone_am_training_levels_content"
+    },
+    {
+      "offset": 17168,
+      "value": "iphone_am_training_level_divider"
+    },
+    {
+      "offset": 17240,
+      "value": "iphone_am_training_level_asset"
+    },
+    {
+      "offset": 17308,
+      "value": "iphone_am_singleplayer_content"
+    },
+    {
+      "offset": 17376,
+      "value": "iphone_am_multiplayer_content"
+    },
+    {
+      "offset": 17444,
+      "value": "iphone_am_legends_multiplayer_content"
+    },
+    {
+      "offset": 17520,
+      "value": "iphone_am_leagueday_title_header"
+    },
+    {
+      "offset": 17592,
+      "value": "iphone_am_leagueday_line_entry"
+    },
+    {
+      "offset": 17660,
+      "value": "iphone_am_leagueday_header"
+    },
+    {
+      "offset": 17724,
+      "value": "iphone_am_cc_troops_popup"
+    },
+    {
+      "offset": 17788,
+      "value": "iphone_am_battle_log_screen"
+    },
+    {
+      "offset": 17852,
+      "value": "iphone_am_attacks_defenses_item"
+    },
+    {
+      "offset": 17920,
+      "value": "iphone5_map_disable"
+    },
+    {
+      "offset": 17976,
+      "value": "iphone5_map_clan_wars_enemy"
+    },
+    {
+      "offset": 18040,
+      "value": "iphone5_map_clan_wars"
+    },
+    {
+      "offset": 18100,
+      "value": "iphone5_map_bg_new"
+    },
+    {
+      "offset": 18156,
+      "value": "iphone5_map_bg_clan_wars"
+    },
+    {
+      "offset": 18220,
+      "value": "iphone5_map_bg"
+    },
+    {
+      "offset": 18272,
+      "value": "iphone5_map"
+    },
+    {
+      "offset": 18320,
+      "value": "iphone5_locked_hotspot_selected"
+    },
+    {
+      "offset": 18388,
+      "value": "iphone5_locked_hotspot"
+    },
+    {
+      "offset": 18448,
+      "value": "iphone5_inactive_hotspot"
+    },
+    {
+      "offset": 18512,
+      "value": "iphone5_am_troop_icon"
+    },
+    {
+      "offset": 18572,
+      "value": "iphone5_am_training_levels_content"
+    },
+    {
+      "offset": 18644,
+      "value": "iphone5_am_training_level_divider"
+    },
+    {
+      "offset": 18716,
+      "value": "iphone5_am_training_level_asset"
+    },
+    {
+      "offset": 18784,
+      "value": "iphone5_am_singleplayer_content"
+    },
+    {
+      "offset": 18852,
+      "value": "iphone5_am_multiplayer_content"
+    },
+    {
+      "offset": 18920,
+      "value": "iphone5_am_legends_multiplayer_content"
+    },
+    {
+      "offset": 18996,
+      "value": "iphone5_am_leagueday_title_header"
+    },
+    {
+      "offset": 19068,
+      "value": "iphone5_am_leagueday_line_entry"
+    },
+    {
+      "offset": 19136,
+      "value": "iphone5_am_leagueday_header"
+    },
+    {
+      "offset": 19200,
+      "value": "iphone5_am_battle_log_screen"
+    },
+    {
+      "offset": 19268,
+      "value": "iphone5_am_attacks_defenses_item"
+    },
+    {
+      "offset": 19340,
+      "value": "iphone5_active_hotspot"
+    },
+    {
+      "offset": 19400,
+      "value": "inactive_warcamp_enemy_clan_wars"
+    },
+    {
+      "offset": 19472,
+      "value": "inactive_warcamp_clan_wars"
+    },
+    {
+      "offset": 19536,
+      "value": "inactive_hotspot_target_clan_wars"
+    },
+    {
+      "offset": 19608,
+      "value": "inactive_hotspot_enemy_clan_wars"
+    },
+    {
+      "offset": 19680,
+      "value": "inactive_hotspot_clan_wars"
+    },
+    {
+      "offset": 19744,
+      "value": "inactive_hotspot"
+    },
+    {
+      "offset": 19800,
+      "value": "icon_xp_level"
+    },
+    {
+      "offset": 19852,
+      "value": "icon_gold2"
+    },
+    {
+      "offset": 19900,
+      "value": "icon_gold1"
+    },
+    {
+      "offset": 19948,
+      "value": "icon_elixir2"
+    },
+    {
+      "offset": 20000,
+      "value": "icon_elixir1"
+    },
+    {
+      "offset": 20052,
+      "value": "icon_clanwar"
+    },
+    {
+      "offset": 20104,
+      "value": "hotspot_info_friendly_clan_wars"
+    },
+    {
+      "offset": 20172,
+      "value": "hotspot_info_friendly2_clan_wars"
+    },
+    {
+      "offset": 20244,
+      "value": "hotspot_info_enemy_clan_wars"
+    },
+    {
+      "offset": 20312,
+      "value": "hotspot_info_enemy2_clan_wars"
+    },
+    {
+      "offset": 20380,
+      "value": "hero_tavern_disclaimer_popup"
+    },
+    {
+      "offset": 20448,
+      "value": "fx_under_attack"
+    },
+    {
+      "offset": 20500,
+      "value": "exp_earned"
+    },
+    {
+      "offset": 20548,
+      "value": "exclamation_mark"
+    },
+    {
+      "offset": 20604,
+      "value": "edit_mode_new"
+    },
+    {
+      "offset": 20656,
+      "value": "edit_message_window"
+    },
+    {
+      "offset": 20712,
+      "value": "duel_reward_popup"
+    },
+    {
+      "offset": 20768,
+      "value": "context_menu_clan_wars"
+    },
+    {
+      "offset": 20828,
+      "value": "content_village_layout_select"
+    },
+    {
+      "offset": 20896,
+      "value": "content_singleplayer_2025"
+    },
+    {
+      "offset": 20960,
+      "value": "content_practice_2025"
+    },
+    {
+      "offset": 21020,
+      "value": "content_empty_league_history"
+    },
+    {
+      "offset": 21088,
+      "value": "content_empty_leaderboard"
+    },
+    {
+      "offset": 21152,
+      "value": "content_defense_troop_select"
+    },
+    {
+      "offset": 21220,
+      "value": "clan_loot_icon"
+    },
+    {
+      "offset": 21272,
+      "value": "casual_mode_large_card"
+    },
+    {
+      "offset": 21332,
+      "value": "casual_mode_default"
+    },
+    {
+      "offset": 21388,
+      "value": "card_hunt_event_popup_info_screen"
+    },
+    {
+      "offset": 21460,
+      "value": "button_war_help"
+    },
+    {
+      "offset": 21512,
+      "value": "buildingbutton_speed_up"
+    },
+    {
+      "offset": 21572,
+      "value": "barbarian_map"
+    },
+    {
+      "offset": 21624,
+      "value": "auto_signup_bubble"
+    },
+    {
+      "offset": 21680,
+      "value": "attack_menu_2025_header"
+    },
+    {
+      "offset": 21740,
+      "value": "attack_menu_2025_footer"
+    },
+    {
+      "offset": 21800,
+      "value": "attack_menu_2025"
+    },
+    {
+      "offset": 21856,
+      "value": "attack_info_friendly"
+    },
+    {
+      "offset": 21916,
+      "value": "attack_info_enemy"
+    },
+    {
+      "offset": 21972,
+      "value": "attack_button"
+    },
+    {
+      "offset": 22024,
+      "value": "atlasgenerator_texture_rgb565"
+    },
+    {
+      "offset": 22092,
+      "value": "am_troop_icon"
+    },
+    {
+      "offset": 22144,
+      "value": "am_training_levels_content"
+    },
+    {
+      "offset": 22208,
+      "value": "am_training_level_divider_02"
+    },
+    {
+      "offset": 22276,
+      "value": "am_training_level_divider"
+    },
+    {
+      "offset": 22340,
+      "value": "am_training_level_asset_02"
+    },
+    {
+      "offset": 22404,
+      "value": "am_training_level_asset"
+    },
+    {
+      "offset": 22464,
+      "value": "am_singleplayer_content"
+    },
+    {
+      "offset": 22524,
+      "value": "am_multiplayer_content"
+    },
+    {
+      "offset": 22584,
+      "value": "am_legends_multiplayer_content"
+    },
+    {
+      "offset": 22652,
+      "value": "am_leagueday_title_header_02"
+    },
+    {
+      "offset": 22720,
+      "value": "am_leagueday_title_header"
+    },
+    {
+      "offset": 22784,
+      "value": "am_leagueday_line_entry"
+    },
+    {
+      "offset": 22844,
+      "value": "am_leagueday_header_02"
+    },
+    {
+      "offset": 22904,
+      "value": "am_leagueday_header"
+    },
+    {
+      "offset": 22960,
+      "value": "am_cc_troops_popup"
+    },
+    {
+      "offset": 23016,
+      "value": "am_battle_log_screen"
+    },
+    {
+      "offset": 23076,
+      "value": "am_attacks_defenses_item"
+    },
+    {
+      "offset": 23140,
+      "value": "alliance_war_objectives"
+    },
+    {
+      "offset": 23200,
+      "value": "alliance_war_objective_item"
+    },
+    {
+      "offset": 23264,
+      "value": "active_warcamp_enemy_clan_wars"
+    },
+    {
+      "offset": 23332,
+      "value": "active_warcamp_clan_wars"
+    },
+    {
+      "offset": 23396,
+      "value": "active_reccommended_hotspot_enemy_clan_wars"
+    },
+    {
+      "offset": 23476,
+      "value": "active_hotspot_target_clan_wars"
+    },
+    {
+      "offset": 23544,
+      "value": "active_hotspot_enemy_clan_wars"
+    },
+    {
+      "offset": 23612,
+      "value": "active_hotspot_clan_wars"
+    },
+    {
+      "offset": 23676,
+      "value": "active_hotspot"
+    },
+    {
+      "offset": 23728,
+      "value": "Roster_Edit_Menu"
+    },
+    {
+      "offset": 23785,
+      "value": "slice_info_screen_orange"
+    },
+    {
+      "offset": 23857,
+      "value": "slice_beige_button_small"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "wl_war_summary_info",
+    "wl_war_result_stars_slot",
+    "wl_war_result_slot",
+    "wl_war_result_percentage_slot",
+    "wl_war_result_loot_slot_2",
+    "wl_war_result_loot_slot",
+    "wl_war_result_exp_slot",
+    "wl_war_result_arranged",
+    "wl_war_result",
+    "wl_war_overlay_atlasgenerator_texture_rgb565",
+    "wl_war_info_popup",
+    "wl_war_bonus_info",
+    "wl_town_hall_lvl12_stars3",
+    "wl_town_hall_lvl12_stars2",
+    "wl_town_hall_lvl12_stars1",
+    "wl_th_lvl9_stars3",
+    "wl_th_lvl9_stars2",
+    "wl_th_lvl9_stars1",
+    "wl_th_lvl8_stars3",
+    "wl_th_lvl8_stars2",
+    "wl_th_lvl8_stars1",
+    "wl_th_lvl7_stars3",
+    "wl_th_lvl7_stars2",
+    "wl_th_lvl7_stars1",
+    "wl_th_lvl6_stars3",
+    "wl_th_lvl6_stars2",
+    "wl_th_lvl6_stars1",
+    "wl_th_lvl5_stars3",
+    "wl_th_lvl5_stars2",
+    "wl_th_lvl5_stars1",
+    "wl_th_lvl4_stars3",
+    "wl_th_lvl4_stars2",
+    "wl_th_lvl4_stars1",
+    "wl_th_lvl3_stars3",
+    "wl_th_lvl3_stars2",
+    "wl_th_lvl3_stars1",
+    "wl_th_lvl14_stars3",
+    "wl_th_lvl14_stars2",
+    "wl_th_lvl14_stars1",
+    "wl_th_lvl13_stars3",
+    "wl_th_lvl13_stars2",
+    "wl_th_lvl13_stars1",
+    "wl_th_lvl11_stars3",
+    "wl_th_lvl11_stars2",
+    "wl_th_lvl11_stars1",
+    "wl_th_lvl10_stars3",
+    "wl_th_lvl10_stars2",
+    "wl_th_lvl10_stars1",
+    "wl_targeting_reticle_3",
+    "wl_switch_map_right",
+    "wl_stream_interactive_entry",
+    "wl_start_war_badge",
+    "wl_start_war",
+    "wl_prepare_for_war",
+    "wl_player_inactive_hotspot_clan_wars",
+    "wl_player_active_hotspot_clan_wars",
+    "wl_number_of_entrys",
+    "wl_minus_button_map",
+    "wl_matchmaking_state",
+    "wl_marker_flag",
+    "wl_map_war_league_noscale",
+    "wl_map_war_league_noBitDropping",
+    "wl_map_bg_clan_wars",
+    "wl_iphone_war_result_arranged",
+    "wl_iphone_war_result",
+    "wl_iphone_prepare_for_war",
+    "wl_iphone_matchmaking_state",
+    "wl_inactive_hotspot_enemy_clan_wars",
+    "wl_inactive_hotspot_clan_wars",
+    "wl_icon_war_leagues",
+    "wl_hotspot_info_friendly_clan_wars",
+    "wl_hotspot_info_friendly2_clan_wars",
+    "wl_hotspot_info_enemy_clan_wars",
+    "wl_hotspot_info_enemy2_clan_wars",
+    "wl_hidden_hotspot_enemy_clan_wars",
+    "wl_fx_under_attack",
+    "wl_exp_earned",
+    "wl_button_war_help",
+    "wl_attack_button",
+    "wl_active_warcamp_enemy_clan_wars",
+    "wl_active_warcamp_clan_wars",
+    "wl_active_reccommended_hotspot_enemy_clan_wars",
+    "wl_active_hotspot_target_clan_wars",
+    "wl_active_hotspot_enemy_clan_wars",
+    "wl_active_hotspot_clan_wars",
+    "wl_Friendly_Hotspot",
+    "wl_Enemy_Hotspot",
+    "warning_indicator_basic",
+    "warcamp_info_friendly_clan_wars",
+    "warcamp_info_friendly2_clan_wars",
+    "warcamp_info_enemy_clan_wars",
+    "warcamp_info_enemy2_clan_wars",
+    "warcamp_info_clan_loot",
+    "war_summary_info",
+    "war_result_stars_slot",
+    "war_result_slot",
+    "war_result_percentage_slot",
+    "war_result_loot_slot_2",
+    "war_result_loot_slot",
+    "war_result_exp_slot",
+    "war_result_arranged",
+    "war_result",
+    "war_overlay_atlasgenerator_texture_rgb565",
+    "war_info_popup",
+    "war_bonus_info",
+    "victory_rating_star",
+    "vfx_ui_ClaimableReward_Claimed",
+    "treasure_event_popup_info_screen",
+    "th_lvl9_stars3",
+    "th_lvl9_stars2",
+    "th_lvl9_stars1",
+    "th_lvl8_stars3",
+    "th_lvl8_stars2",
+    "th_lvl8_stars1",
+    "th_lvl7_stars3",
+    "th_lvl7_stars2",
+    "th_lvl7_stars1",
+    "th_lvl6_stars3",
+    "th_lvl6_stars2",
+    "th_lvl6_stars1",
+    "th_lvl5_stars3",
+    "th_lvl5_stars2",
+    "th_lvl5_stars1",
+    "th_lvl4_stars3",
+    "th_lvl4_stars2",
+    "th_lvl4_stars1",
+    "th_lvl3_stars3",
+    "th_lvl3_stars2",
+    "th_lvl3_stars1",
+    "th_lvl18_stars3",
+    "th_lvl18_stars2",
+    "th_lvl18_stars1",
+    "th_lvl17_stars3",
+    "th_lvl17_stars2",
+    "th_lvl17_stars1",
+    "th_lvl16_stars3",
+    "th_lvl16_stars2",
+    "th_lvl16_stars1",
+    "th_lvl15_stars3",
+    "th_lvl15_stars2",
+    "th_lvl15_stars1",
+    "th_lvl14_stars3",
+    "th_lvl14_stars2",
+    "th_lvl14_stars1",
+    "th_lvl13_stars3",
+    "th_lvl13_stars2",
+    "th_lvl13_stars1",
+    "th_lvl12_stars3",
+    "th_lvl12_stars2",
+    "th_lvl12_stars1",
+    "th_lvl11_stars3",
+    "th_lvl11_stars2",
+    "th_lvl11_stars1",
+    "th_lvl10_stars3",
+    "th_lvl10_stars2",
+    "th_lvl10_stars1",
+    "targeting_reticle_3",
+    "switch_map_right",
+    "stream_interactive_entry",
+    "start_war_badge",
+    "start_war",
+    "side_vignette_right",
+    "side_vignette_left",
+    "reccommendation_arrow_right",
+    "reccommendation_arrow_left",
+    "real_time_info",
+    "ranked_mode_locked_large_card",
+    "ranked_mode_locked_card",
+    "ranked_mode_default",
+    "pvp_info_Button",
+    "profile_info_button",
+    "previous_button",
+    "prepare_for_war",
+    "popup_ranked_signup",
+    "popup_ranked_defense2",
+    "popup_ranked_defense",
+    "player_inactive_hotspot_clan_wars",
+    "player_active_hotspot_clan_wars",
+    "overview_item_troop",
+    "number_of_entrys",
+    "next_button",
+    "minus_button_map",
+    "message_content",
+    "matchmaking_state",
+    "marker_flag",
+    "map_wl_wardeco_01",
+    "map_wl_vignette_02",
+    "map_wl_vignette_01",
+    "map_wl_top_t7_nt",
+    "map_wl_top_t7",
+    "map_wl_top_t6_nt",
+    "map_wl_top_t6",
+    "map_wl_top_t5_nt",
+    "map_wl_top_t5",
+    "map_wl_top_t4_nt",
+    "map_wl_top_t4",
+    "map_wl_top_t3_nt",
+    "map_wl_top_t3",
+    "map_wl_top_t2_nt",
+    "map_wl_top_t2",
+    "map_wl_top_t1_nt_wc26",
+    "map_wl_top_t1_nt",
+    "map_wl_top_t1",
+    "map_wl_top_t0_nt",
+    "map_wl_top_t0",
+    "map_wl_top_end",
+    "map_wl_tint_01",
+    "map_wl_mid_t8",
+    "map_wl_mid_t7",
+    "map_wl_mid_t6",
+    "map_wl_mid_t5",
+    "map_wl_mid_t4",
+    "map_wl_mid_t3",
+    "map_wl_mid_t2_wc26_deco",
+    "map_wl_mid_t2_wc26",
+    "map_wl_mid_t2",
+    "map_wl_mid_t1",
+    "map_wl_env_t8_01",
+    "map_wl_env_t7_01",
+    "map_wl_env_t6_01",
+    "map_wl_env_t5_01",
+    "map_wl_env_t4_01",
+    "map_wl_env_t3_01",
+    "map_wl_env_t2_01",
+    "map_wl_env_t1_01",
+    "map_wl_deco_01",
+    "map_wl_clouds_01",
+    "map_wl_bottom_t8_nt",
+    "map_wl_bottom_t8",
+    "map_wl_bottom_t7_nt",
+    "map_wl_bottom_t7",
+    "map_wl_bottom_t6_nt",
+    "map_wl_bottom_t6",
+    "map_wl_bottom_t5_nt",
+    "map_wl_bottom_t5",
+    "map_wl_bottom_t4_nt",
+    "map_wl_bottom_t4",
+    "map_wl_bottom_t3_nt",
+    "map_wl_bottom_t3",
+    "map_wl_bottom_t2_nt_wc26",
+    "map_wl_bottom_t2_nt",
+    "map_wl_bottom_t2",
+    "map_wl_bottom_t1",
+    "map_wl_bottom_start",
+    "map_noscale",
+    "map_clan_wars_enemy_02",
+    "map_clan_wars_enemy",
+    "map_clan_wars_02",
+    "map_clan_wars",
+    "map_bg_new_03",
+    "map_bg_new_02",
+    "map_bg_new",
+    "map_bg_clan_wars",
+    "map_bg",
+    "map_02",
+    "map",
+    "locked_hotspot_selected",
+    "locked_hotspot",
+    "leaderboard_banner_ranked_results",
+    "leaderboard_banner_legend_results",
+    "layout_item_select",
+    "layout_item_ranked",
+    "iphonex_map_bg",
+    "iphone_wl_start_war",
+    "iphone_war_result_arranged",
+    "iphone_war_result",
+    "iphone_stream_interactive_entry",
+    "iphone_start_war",
+    "iphone_prepare_for_war",
+    "iphone_matchmaking_state",
+    "iphone_map_bg",
+    "iphone_am_training_levels_content",
+    "iphone_am_training_level_divider",
+    "iphone_am_training_level_asset",
+    "iphone_am_singleplayer_content",
+    "iphone_am_multiplayer_content",
+    "iphone_am_legends_multiplayer_content",
+    "iphone_am_leagueday_title_header",
+    "iphone_am_leagueday_line_entry",
+    "iphone_am_leagueday_header",
+    "iphone_am_cc_troops_popup",
+    "iphone_am_battle_log_screen",
+    "iphone_am_attacks_defenses_item",
+    "iphone5_map_disable",
+    "iphone5_map_clan_wars_enemy",
+    "iphone5_map_clan_wars",
+    "iphone5_map_bg_new",
+    "iphone5_map_bg_clan_wars",
+    "iphone5_map_bg",
+    "iphone5_map",
+    "iphone5_locked_hotspot_selected",
+    "iphone5_locked_hotspot",
+    "iphone5_inactive_hotspot",
+    "iphone5_am_troop_icon",
+    "iphone5_am_training_levels_content",
+    "iphone5_am_training_level_divider",
+    "iphone5_am_training_level_asset",
+    "iphone5_am_singleplayer_content",
+    "iphone5_am_multiplayer_content",
+    "iphone5_am_legends_multiplayer_content",
+    "iphone5_am_leagueday_title_header",
+    "iphone5_am_leagueday_line_entry",
+    "iphone5_am_leagueday_header",
+    "iphone5_am_battle_log_screen",
+    "iphone5_am_attacks_defenses_item",
+    "iphone5_active_hotspot",
+    "inactive_warcamp_enemy_clan_wars",
+    "inactive_warcamp_clan_wars",
+    "inactive_hotspot_target_clan_wars",
+    "inactive_hotspot_enemy_clan_wars",
+    "inactive_hotspot_clan_wars",
+    "inactive_hotspot",
+    "icon_xp_level",
+    "icon_gold2",
+    "icon_gold1",
+    "icon_elixir2",
+    "icon_elixir1",
+    "icon_clanwar",
+    "hotspot_info_friendly_clan_wars",
+    "hotspot_info_friendly2_clan_wars",
+    "hotspot_info_enemy_clan_wars",
+    "hotspot_info_enemy2_clan_wars",
+    "hero_tavern_disclaimer_popup",
+    "fx_under_attack",
+    "exp_earned",
+    "exclamation_mark",
+    "edit_mode_new",
+    "edit_message_window",
+    "duel_reward_popup",
+    "context_menu_clan_wars",
+    "content_village_layout_select",
+    "content_singleplayer_2025",
+    "content_practice_2025",
+    "content_empty_league_history",
+    "content_empty_leaderboard",
+    "content_defense_troop_select",
+    "clan_loot_icon",
+    "casual_mode_large_card",
+    "casual_mode_default",
+    "card_hunt_event_popup_info_screen",
+    "button_war_help",
+    "buildingbutton_speed_up",
+    "barbarian_map",
+    "auto_signup_bubble",
+    "attack_menu_2025_header",
+    "attack_menu_2025_footer",
+    "attack_menu_2025",
+    "attack_info_friendly",
+    "attack_info_enemy",
+    "attack_button",
+    "atlasgenerator_texture_rgb565",
+    "am_troop_icon",
+    "am_training_levels_content",
+    "am_training_level_divider_02",
+    "am_training_level_divider",
+    "am_training_level_asset_02",
+    "am_training_level_asset",
+    "am_singleplayer_content",
+    "am_multiplayer_content",
+    "am_legends_multiplayer_content",
+    "am_leagueday_title_header_02",
+    "am_leagueday_title_header",
+    "am_leagueday_line_entry",
+    "am_leagueday_header_02",
+    "am_leagueday_header",
+    "am_cc_troops_popup",
+    "am_battle_log_screen",
+    "am_attacks_defenses_item",
+    "alliance_war_objectives",
+    "alliance_war_objective_item",
+    "active_warcamp_enemy_clan_wars",
+    "active_warcamp_clan_wars",
+    "active_reccommended_hotspot_enemy_clan_wars",
+    "active_hotspot_target_clan_wars",
+    "active_hotspot_enemy_clan_wars",
+    "active_hotspot_clan_wars",
+    "active_hotspot",
+    "Roster_Edit_Menu",
+    "slice_info_screen_orange",
+    "slice_beige_button_small"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 816,
+      "value": "fff"
+    },
+    {
+      "offset": 3854,
+      "value": "CCC"
+    },
+    {
+      "offset": 9793,
+      "value": "TbA"
+    },
+    {
+      "offset": 11323,
+      "value": "A33c@"
+    },
+    {
+      "offset": 11467,
+      "value": "Agf2A"
+    },
+    {
+      "offset": 11563,
+      "value": "AgfzA"
+    },
+    {
+      "offset": 12380,
+      "value": "gfnA"
+    },
+    {
+      "offset": 13075,
+      "value": "A33cA"
+    },
+    {
+      "offset": 13099,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13123,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13144,
+      "value": "gf6AgfbA"
+    },
+    {
+      "offset": 13171,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13195,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13219,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13243,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13267,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13288,
+      "value": "gf:AgfbA"
+    },
+    {
+      "offset": 13315,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13339,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13363,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13387,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13411,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13435,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13459,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13483,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 13506,
+      "value": "AAgfbA"
+    },
+    {
+      "offset": 13528,
+      "value": "gfBAgfbA"
+    },
+    {
+      "offset": 13554,
+      "value": "CAgfbA"
+    },
+    {
+      "offset": 13578,
+      "value": "DAgfbA"
+    },
+    {
+      "offset": 13602,
+      "value": "DAgfbA"
+    },
+    {
+      "offset": 13867,
+      "value": "BgfkB"
+    },
+    {
+      "offset": 13888,
+      "value": "gfVBgfkB"
+    },
+    {
+      "offset": 15889,
+      "value": "Px@"
+    },
+    {
+      "offset": 16072,
+      "value": "gfnB"
+    },
+    {
+      "offset": 16816,
+      "value": "gfAC"
+    },
+    {
+      "offset": 18259,
+      "value": "C3sIC"
+    },
+    {
+      "offset": 18313,
+      "value": "xQA"
+    },
+    {
+      "offset": 18841,
+      "value": "xQA"
+    },
+    {
+      "offset": 19201,
+      "value": "PG@"
+    },
+    {
+      "offset": 19633,
+      "value": "P/@"
+    },
+    {
+      "offset": 19657,
+      "value": "PE@"
+    },
+    {
+      "offset": 20875,
+      "value": "C33S@"
+    },
+    {
+      "offset": 21933,
+      "value": "LAC"
+    },
+    {
+      "offset": 22579,
+      "value": "BgfwB"
+    },
+    {
+      "offset": 22603,
+      "value": "CgfNB"
+    },
+    {
+      "offset": 22939,
+      "value": "Agf:A"
+    },
+    {
+      "offset": 23133,
+      "value": "LXC"
+    },
+    {
+      "offset": 23203,
+      "value": "Bgf:A"
+    },
+    {
+      "offset": 23467,
+      "value": "AgfzA"
+    },
+    {
+      "offset": 25147,
+      "value": "AgfBB"
+    },
+    {
+      "offset": 25219,
+      "value": "A33GB"
+    },
+    {
+      "offset": 25435,
+      "value": "AgfZB"
+    },
+    {
+      "offset": 25507,
+      "value": "Agf_B"
+    },
+    {
+      "offset": 25579,
+      "value": "A33dB"
+    },
+    {
+      "offset": 26369,
+      "value": "s6C"
+    },
+    {
+      "offset": 27882,
+      "value": "_AgfZA"
+    },
+    {
+      "offset": 29347,
+      "value": "Bgf+C"
+    },
+    {
+      "offset": 29416,
+      "value": "gfNC"
+    },
+    {
+      "offset": 32323,
+      "value": "BgfWB"
+    },
+    {
+      "offset": 33181,
+      "value": "p6@"
+    },
+    {
+      "offset": 33571,
+      "value": "B33+A"
+    },
+    {
+      "offset": 33817,
+      "value": "pYA"
+    },
+    {
+      "offset": 33907,
+      "value": "Cgf2A"
+    },
+    {
+      "offset": 34075,
+      "value": "A33_A"
+    },
+    {
+      "offset": 34600,
+      "value": "gfZA"
+    },
+    {
+      "offset": 35299,
+      "value": "A333@"
+    },
+    {
+      "offset": 35371,
+      "value": "Agfv@"
+    },
+    {
+      "offset": 35803,
+      "value": "Agf.A"
+    },
+    {
+      "offset": 35923,
+      "value": "A33OA"
+    },
+    {
+      "offset": 35995,
+      "value": "AgfbA"
+    },
+    {
+      "offset": 37024,
+      "value": "gfbA"
+    },
+    {
+      "offset": 39212,
+      "value": "gfnA"
+    },
+    {
+      "offset": 39284,
+      "value": "gfNA"
+    },
+    {
+      "offset": 41588,
+      "value": "gfRA"
+    },
+    {
+      "offset": 42308,
+      "value": "gffA"
+    },
+    {
+      "offset": 42356,
+      "value": "gfVA"
+    },
+    {
+      "offset": 42404,
+      "value": "gfFA"
+    },
+    {
+      "offset": 42452,
+      "value": "gf6A"
+    },
+    {
+      "offset": 43552,
+      "value": "gfrA"
+    },
+    {
+      "offset": 43748,
+      "value": "gfVA"
+    },
+    {
+      "offset": 46360,
+      "value": "gfQB"
+    },
+    {
+      "offset": 46867,
+      "value": "A33"
+    },
+    {
+      "offset": 46888,
+      "value": "gfEB"
+    },
+    {
+      "offset": 47104,
+      "value": "gfzA"
+    },
+    {
+      "offset": 47464,
+      "value": "gfUB"
+    },
+    {
+      "offset": 47848,
+      "value": "gfNB"
+    },
+    {
+      "offset": 49820,
+      "value": "gfrB"
+    },
+    {
+      "offset": 50108,
+      "value": "gftB"
+    },
+    {
+      "offset": 51769,
+      "value": "TUA"
+    },
+    {
+      "offset": 52075,
+      "value": "CgfBA"
+    },
+    {
+      "offset": 54186,
+      "value": "S@gfJA"
+    },
+    {
+      "offset": 54978,
+      "value": "lA33GA"
+    },
+    {
+      "offset": 55867,
+      "value": "C33VB"
+    },
+    {
+      "offset": 56083,
+      "value": "A33HB"
+    },
+    {
+      "offset": 56227,
+      "value": "DgfnA"
+    },
+    {
+      "offset": 56323,
+      "value": "A33lB"
+    },
+    {
+      "offset": 56468,
+      "value": "gfv@"
+    },
+    {
+      "offset": 56634,
+      "value": "S@gf:A"
+    },
+    {
+      "offset": 56965,
+      "value": "Pr@"
+    },
+    {
+      "offset": 57068,
+      "value": "gfbA"
+    },
+    {
+      "offset": 58381,
+      "value": "Pr@"
+    },
+    {
+      "offset": 60620,
+      "value": "gfvA"
+    },
+    {
+      "offset": 60764,
+      "value": "gfjA"
+    },
+    {
+      "offset": 60925,
+      "value": "PI@"
+    },
+    {
+      "offset": 61100,
+      "value": "gfNA"
+    },
+    {
+      "offset": 61412,
+      "value": "gf2A"
+    },
+    {
+      "offset": 62102,
+      "value": "z@gfV@"
+    },
+    {
+      "offset": 63040,
+      "value": "gff@"
+    },
+    {
+      "offset": 66337,
+      "value": "P\\A"
+    },
+    {
+      "offset": 67129,
+      "value": "pjA"
+    },
+    {
+      "offset": 67604,
+      "value": "gf2B"
+    },
+    {
+      "offset": 67627,
+      "value": "AgfjA"
+    },
+    {
+      "offset": 68749,
+      "value": "x+A"
+    },
+    {
+      "offset": 69355,
+      "value": "Cgf-B"
+    },
+    {
+      "offset": 69380,
+      "value": "gfLB"
+    },
+    {
+      "offset": 69619,
+      "value": "AgfjC"
+    },
+    {
+      "offset": 69713,
+      "value": "s-C33aB"
+    },
+    {
+      "offset": 69904,
+      "value": "gfKB"
+    },
+    {
+      "offset": 74107,
+      "value": "B33YB"
+    },
+    {
+      "offset": 88941,
+      "value": "s1C"
+    },
+    {
+      "offset": 92276,
+      "value": "gf.A"
+    },
+    {
+      "offset": 100556,
+      "value": "gfYB"
+    },
+    {
+      "offset": 101011,
+      "value": "Cgf8C"
+    },
+    {
+      "offset": 101467,
+      "value": "B33s@"
+    },
+    {
+      "offset": 101875,
+      "value": "DgffA"
+    },
+    {
+      "offset": 105716,
+      "value": "gfyB"
+    },
+    {
+      "offset": 106076,
+      "value": "gfcB"
+    },
+    {
+      "offset": 106724,
+      "value": "gfGB"
+    },
+    {
+      "offset": 106868,
+      "value": "gfAB"
+    },
+    {
+      "offset": 107252,
+      "value": "gf.B"
+    },
+    {
+      "offset": 109604,
+      "value": "gff@"
+    },
+    {
+      "offset": 110252,
+      "value": "gftB"
+    },
+    {
+      "offset": 110492,
+      "value": "gffB"
+    },
+    {
+      "offset": 110780,
+      "value": "gfUB"
+    },
+    {
+      "offset": 111068,
+      "value": "gfDB"
+    },
+    {
+      "offset": 111356,
+      "value": "gf3B"
+    },
+    {
+      "offset": 114404,
+      "value": "gfF@"
+    },
+    {
+      "offset": 122800,
+      "value": "gf6@"
+    },
+    {
+      "offset": 122872,
+      "value": "gf6@"
+    },
+    {
+      "offset": 128632,
+      "value": "gfV@"
+    },
+    {
+      "offset": 128920,
+      "value": "gfV@"
+    },
+    {
+      "offset": 128992,
+      "value": "gfV@"
+    },
+    {
+      "offset": 129064,
+      "value": "gfV@"
+    },
+    {
+      "offset": 129136,
+      "value": "gfV@"
+    },
+    {
+      "offset": 129208,
+      "value": "gfV@"
+    },
+    {
+      "offset": 129280,
+      "value": "gfV@"
+    },
+    {
+      "offset": 129352,
+      "value": "gfV@"
+    },
+    {
+      "offset": 130964,
+      "value": "gf6@"
+    },
+    {
+      "offset": 131108,
+      "value": "gf6@"
+    },
+    {
+      "offset": 131684,
+      "value": "gf6@"
+    },
+    {
+      "offset": 131828,
+      "value": "gf6@"
+    },
+    {
+      "offset": 131972,
+      "value": "gf6@"
+    },
+    {
+      "offset": 132620,
+      "value": "gf6@"
+    },
+    {
+      "offset": 132980,
+      "value": "gf6@"
+    },
+    {
+      "offset": 133556,
+      "value": "gf6@"
+    },
+    {
+      "offset": 133772,
+      "value": "gf6@"
+    },
+    {
+      "offset": 134276,
+      "value": "gf6@"
+    },
+    {
+      "offset": 135140,
+      "value": "gf6@"
+    },
+    {
+      "offset": 135500,
+      "value": "gf6@"
+    },
+    {
+      "offset": 135760,
+      "value": "gff@"
+    },
+    {
+      "offset": 136192,
+      "value": "gff@"
+    },
+    {
+      "offset": 144976,
+      "value": "gfF@"
+    },
+    {
+      "offset": 145048,
+      "value": "gfF@"
+    },
+    {
+      "offset": 145264,
+      "value": "gfF@"
+    },
+    {
+      "offset": 145336,
+      "value": "gfF@"
+    },
+    {
+      "offset": 145768,
+      "value": "gfF@"
+    },
+    {
+      "offset": 148432,
+      "value": "gf6@"
+    },
+    {
+      "offset": 148504,
+      "value": "gf6@"
+    },
+    {
+      "offset": 148576,
+      "value": "gf6@"
+    },
+    {
+      "offset": 148864,
+      "value": "gf6@"
+    },
+    {
+      "offset": 151124,
+      "value": "gfF@"
+    },
+    {
+      "offset": 152132,
+      "value": "gfF@"
+    },
+    {
+      "offset": 153860,
+      "value": "gfF@"
+    },
+    {
+      "offset": 154364,
+      "value": "gfF@"
+    },
+    {
+      "offset": 154724,
+      "value": "gfF@"
+    },
+    {
+      "offset": 154940,
+      "value": "gfF@"
+    },
+    {
+      "offset": 155588,
+      "value": "gfF@"
+    },
+    {
+      "offset": 155804,
+      "value": "gfF@"
+    },
+    {
+      "offset": 156092,
+      "value": "gfF@"
+    },
+    {
+      "offset": 156380,
+      "value": "gfF@"
+    },
+    {
+      "offset": 156692,
+      "value": "gffA"
+    },
+    {
+      "offset": 158083,
+      "value": "A33cA"
+    },
+    {
+      "offset": 159424,
+      "value": "gfIB"
+    },
+    {
+      "offset": 165091,
+      "value": "B33pB"
+    },
+    {
+      "offset": 165649,
+      "value": "P5@"
+    },
+    {
+      "offset": 166195,
+      "value": "A33KA"
+    },
+    {
+      "offset": 166652,
+      "value": "gfZA"
+    },
+    {
+      "offset": 166844,
+      "value": "gfNA"
+    },
+    {
+      "offset": 167348,
+      "value": "gfnA"
+    },
+    {
+      "offset": 167539,
+      "value": "A333A"
+    },
+    {
+      "offset": 167707,
+      "value": "AgfF@"
+    },
+    {
+      "offset": 167833,
+      "value": "P8@"
+    },
+    {
+      "offset": 167845,
+      "value": "P8@"
+    },
+    {
+      "offset": 168643,
+      "value": "B337B"
+    },
+    {
+      "offset": 169075,
+      "value": "B33KB"
+    },
+    {
+      "offset": 169507,
+      "value": "AgfWB"
+    },
+    {
+      "offset": 170804,
+      "value": "gfvA"
+    },
+    {
+      "offset": 172460,
+      "value": "gfRA"
+    },
+    {
+      "offset": 172675,
+      "value": "A33GA"
+    },
+    {
+      "offset": 173108,
+      "value": "gf2A"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000f8f7e80325f0bcedb079c233dbdb6af6385aa9dc1c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "ace815001800000000001200180004000000000008000c0010001400120000002c601500e45b15003c8a0f005429080004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

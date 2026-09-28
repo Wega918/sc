@@ -1,0 +1,1034 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_elephant_rider.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_elephant_rider.sc",
+  "sha256_container": "9a58548aa3b001259c5dae2f931fe88c1e26abf1978f19304fb9970cf2784745",
+  "sha256_descriptor": "0b713a3146f9658584bcb526ea56369ad906fc3ad444d258c19fb31f56f73a6c",
+  "sha256_decoded_payload": "2bb9b5c0f8828ac7710dafae3918f95f092f31ad7e2505940db470e8550bc828",
+  "version": 6,
+  "descriptor_bytes": 2068,
+  "compressed_frame_bytes": 4128744,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 6556576,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 511
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 32
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 80,
+      "raw_u32": 73052
+    },
+    {
+      "field_index": 9,
+      "offset": 84,
+      "raw_u32": 6450584
+    },
+    {
+      "field_index": 10,
+      "offset": 88,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 92,
+      "raw_u32": 4128744
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 264,
+      "value": "rider_run_1_3"
+    },
+    {
+      "offset": 316,
+      "value": "rider_run_1_2"
+    },
+    {
+      "offset": 368,
+      "value": "rider_run_1_1"
+    },
+    {
+      "offset": 420,
+      "value": "rider_idle_1_3"
+    },
+    {
+      "offset": 472,
+      "value": "rider_idle_1_2"
+    },
+    {
+      "offset": 524,
+      "value": "rider_idle_1_1"
+    },
+    {
+      "offset": 576,
+      "value": "rider_dismount_projectile1"
+    },
+    {
+      "offset": 640,
+      "value": "rider_attack_1_3"
+    },
+    {
+      "offset": 696,
+      "value": "rider_attack_1_2"
+    },
+    {
+      "offset": 752,
+      "value": "rider_attack_1_1"
+    },
+    {
+      "offset": 808,
+      "value": "elephant_run_1_3"
+    },
+    {
+      "offset": 864,
+      "value": "elephant_run_1_2"
+    },
+    {
+      "offset": 920,
+      "value": "elephant_run_1_1"
+    },
+    {
+      "offset": 976,
+      "value": "elephant_rider_spawn_empty"
+    },
+    {
+      "offset": 1040,
+      "value": "elephant_rider_run_1_3"
+    },
+    {
+      "offset": 1100,
+      "value": "elephant_rider_run_1_2"
+    },
+    {
+      "offset": 1160,
+      "value": "elephant_rider_run_1_1"
+    },
+    {
+      "offset": 1220,
+      "value": "elephant_rider_idle_1_3"
+    },
+    {
+      "offset": 1280,
+      "value": "elephant_rider_idle_1_2"
+    },
+    {
+      "offset": 1340,
+      "value": "elephant_rider_idle_1_1"
+    },
+    {
+      "offset": 1400,
+      "value": "elephant_rider_attack_1_3"
+    },
+    {
+      "offset": 1464,
+      "value": "elephant_rider_attack_1_2"
+    },
+    {
+      "offset": 1528,
+      "value": "elephant_rider_attack_1_1"
+    },
+    {
+      "offset": 1592,
+      "value": "elephant_idle_1_3"
+    },
+    {
+      "offset": 1648,
+      "value": "elephant_idle_1_2"
+    },
+    {
+      "offset": 1704,
+      "value": "elephant_idle_1_1"
+    },
+    {
+      "offset": 1760,
+      "value": "elephant_attack_2_3"
+    },
+    {
+      "offset": 1816,
+      "value": "elephant_attack_2_2"
+    },
+    {
+      "offset": 1872,
+      "value": "elephant_attack_2_1"
+    },
+    {
+      "offset": 1928,
+      "value": "elephant_attack_1_3"
+    },
+    {
+      "offset": 1984,
+      "value": "elephant_attack_1_2"
+    },
+    {
+      "offset": 2048,
+      "value": "elephant_attack_1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "rider_run_1_3",
+    "rider_run_1_2",
+    "rider_run_1_1",
+    "rider_idle_1_3",
+    "rider_idle_1_2",
+    "rider_idle_1_1",
+    "rider_dismount_projectile1",
+    "rider_attack_1_3",
+    "rider_attack_1_2",
+    "rider_attack_1_1",
+    "elephant_run_1_3",
+    "elephant_run_1_2",
+    "elephant_run_1_1",
+    "elephant_rider_spawn_empty",
+    "elephant_rider_run_1_3",
+    "elephant_rider_run_1_2",
+    "elephant_rider_run_1_1",
+    "elephant_rider_idle_1_3",
+    "elephant_rider_idle_1_2",
+    "elephant_rider_idle_1_1",
+    "elephant_rider_attack_1_3",
+    "elephant_rider_attack_1_2",
+    "elephant_rider_attack_1_1",
+    "elephant_idle_1_3",
+    "elephant_idle_1_2",
+    "elephant_idle_1_1",
+    "elephant_attack_2_3",
+    "elephant_attack_2_2",
+    "elephant_attack_2_1",
+    "elephant_attack_1_3",
+    "elephant_attack_1_2",
+    "elephant_attack_1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 740,
+      "value": "K9Vq"
+    },
+    {
+      "offset": 1185,
+      "value": "xMb"
+    },
+    {
+      "offset": 1363,
+      "value": "Arjhu"
+    },
+    {
+      "offset": 3032,
+      "value": "G/0N"
+    },
+    {
+      "offset": 3440,
+      "value": "GowY"
+    },
+    {
+      "offset": 3477,
+      "value": "caP"
+    },
+    {
+      "offset": 3501,
+      "value": "ctT"
+    },
+    {
+      "offset": 4569,
+      "value": "qR8"
+    },
+    {
+      "offset": 4581,
+      "value": "w/3"
+    },
+    {
+      "offset": 4593,
+      "value": "q8A"
+    },
+    {
+      "offset": 4605,
+      "value": "w/3"
+    },
+    {
+      "offset": 4617,
+      "value": "uiC"
+    },
+    {
+      "offset": 4641,
+      "value": "wiC"
+    },
+    {
+      "offset": 5157,
+      "value": "Vd:"
+    },
+    {
+      "offset": 5181,
+      "value": "Vd:"
+    },
+    {
+      "offset": 16100,
+      "value": "IHP4"
+    },
+    {
+      "offset": 16125,
+      "value": "HP4"
+    },
+    {
+      "offset": 16137,
+      "value": "Ct:"
+    },
+    {
+      "offset": 16161,
+      "value": "Et:"
+    },
+    {
+      "offset": 24249,
+      "value": "oB8"
+    },
+    {
+      "offset": 24273,
+      "value": "nB8"
+    },
+    {
+      "offset": 24297,
+      "value": "is9"
+    },
+    {
+      "offset": 25184,
+      "value": "K9Vq"
+    },
+    {
+      "offset": 25437,
+      "value": "xMb"
+    },
+    {
+      "offset": 25519,
+      "value": "Arjhu"
+    },
+    {
+      "offset": 26324,
+      "value": "G/0N"
+    },
+    {
+      "offset": 26540,
+      "value": "GowY"
+    },
+    {
+      "offset": 26577,
+      "value": "caP"
+    },
+    {
+      "offset": 26601,
+      "value": "ctT"
+    },
+    {
+      "offset": 27093,
+      "value": "qR8"
+    },
+    {
+      "offset": 27105,
+      "value": "w/3"
+    },
+    {
+      "offset": 27117,
+      "value": "q8A"
+    },
+    {
+      "offset": 27129,
+      "value": "w/3"
+    },
+    {
+      "offset": 27141,
+      "value": "uiC"
+    },
+    {
+      "offset": 27165,
+      "value": "wiC"
+    },
+    {
+      "offset": 27393,
+      "value": "Vd:"
+    },
+    {
+      "offset": 27417,
+      "value": "Vd:"
+    },
+    {
+      "offset": 28161,
+      "value": "a2Q"
+    },
+    {
+      "offset": 28185,
+      "value": "Y2Q"
+    },
+    {
+      "offset": 28857,
+      "value": "F2Q"
+    },
+    {
+      "offset": 28879,
+      "value": "AlGfW"
+    },
+    {
+      "offset": 29325,
+      "value": "Bxu"
+    },
+    {
+      "offset": 32097,
+      "value": "vNK"
+    },
+    {
+      "offset": 33956,
+      "value": "Kq h"
+    },
+    {
+      "offset": 33981,
+      "value": "w h"
+    },
+    {
+      "offset": 34005,
+      "value": "x@g"
+    },
+    {
+      "offset": 34364,
+      "value": "iNLG"
+    },
+    {
+      "offset": 38913,
+      "value": "tXt"
+    },
+    {
+      "offset": 38937,
+      "value": "vXt"
+    },
+    {
+      "offset": 39967,
+      "value": "BTm"
+    },
+    {
+      "offset": 40293,
+      "value": "WrQ"
+    },
+    {
+      "offset": 40304,
+      "value": "GOVW"
+    },
+    {
+      "offset": 40317,
+      "value": "ZrQ"
+    },
+    {
+      "offset": 40423,
+      "value": "Ac+Pg"
+    },
+    {
+      "offset": 44337,
+      "value": "J/f"
+    },
+    {
+      "offset": 44361,
+      "value": "J3l"
+    },
+    {
+      "offset": 44397,
+      "value": "Vrj"
+    },
+    {
+      "offset": 44421,
+      "value": "fUo"
+    },
+    {
+      "offset": 44445,
+      "value": "bUo"
+    },
+    {
+      "offset": 44841,
+      "value": "jWs"
+    },
+    {
+      "offset": 45873,
+      "value": "Ssm"
+    },
+    {
+      "offset": 45897,
+      "value": "S7s"
+    },
+    {
+      "offset": 45919,
+      "value": "A4WIv"
+    },
+    {
+      "offset": 45945,
+      "value": "YIv"
+    },
+    {
+      "offset": 47217,
+      "value": "a2Q"
+    },
+    {
+      "offset": 47241,
+      "value": "Y2Q"
+    },
+    {
+      "offset": 48585,
+      "value": "F2Q"
+    },
+    {
+      "offset": 48607,
+      "value": "AlGfW"
+    },
+    {
+      "offset": 48969,
+      "value": "iXA"
+    },
+    {
+      "offset": 49041,
+      "value": "eL."
+    },
+    {
+      "offset": 49089,
+      "value": "jc8"
+    },
+    {
+      "offset": 49113,
+      "value": "jc8"
+    },
+    {
+      "offset": 49759,
+      "value": "Ag-"
+    },
+    {
+      "offset": 50505,
+      "value": "VC9"
+    },
+    {
+      "offset": 52496,
+      "value": "g5T "
+    },
+    {
+      "offset": 52520,
+      "value": "p9T "
+    },
+    {
+      "offset": 54705,
+      "value": "J/f"
+    },
+    {
+      "offset": 54729,
+      "value": "J3l"
+    },
+    {
+      "offset": 54765,
+      "value": "Vrj"
+    },
+    {
+      "offset": 54885,
+      "value": "fUo"
+    },
+    {
+      "offset": 54909,
+      "value": "bUo"
+    },
+    {
+      "offset": 55689,
+      "value": "jWs"
+    },
+    {
+      "offset": 57777,
+      "value": "Ssm"
+    },
+    {
+      "offset": 57801,
+      "value": "S7s"
+    },
+    {
+      "offset": 57823,
+      "value": "A4WIv"
+    },
+    {
+      "offset": 57849,
+      "value": "YIv"
+    },
+    {
+      "offset": 72240,
+      "value": "rider_dismount_projectile1"
+    },
+    {
+      "offset": 72272,
+      "value": "rider_attack_1_3"
+    },
+    {
+      "offset": 72296,
+      "value": "rider_attack_1_2"
+    },
+    {
+      "offset": 72320,
+      "value": "elephant_rider_idle_1_3"
+    },
+    {
+      "offset": 72348,
+      "value": "rider_attack_1_1"
+    },
+    {
+      "offset": 72372,
+      "value": "rider_idle_1_3"
+    },
+    {
+      "offset": 72392,
+      "value": "elephant_rider_idle_1_1"
+    },
+    {
+      "offset": 72420,
+      "value": "rider_run_1_2"
+    },
+    {
+      "offset": 72440,
+      "value": "rider_idle_1_1"
+    },
+    {
+      "offset": 72460,
+      "value": "rider_run_1_1"
+    },
+    {
+      "offset": 72480,
+      "value": "elephant_run_1_2"
+    },
+    {
+      "offset": 72504,
+      "value": "rider_run_1_3"
+    },
+    {
+      "offset": 72524,
+      "value": "elephant_run_1_1"
+    },
+    {
+      "offset": 72548,
+      "value": "elephant_attack_2_3"
+    },
+    {
+      "offset": 72572,
+      "value": "elephant_rider_attack_1_3"
+    },
+    {
+      "offset": 72604,
+      "value": "elephant_run_1_3"
+    },
+    {
+      "offset": 72628,
+      "value": "elephant_rider_run_1_1"
+    },
+    {
+      "offset": 72656,
+      "value": "elephant_rider_attack_1_1"
+    },
+    {
+      "offset": 72688,
+      "value": "rider_idle_1_2"
+    },
+    {
+      "offset": 72708,
+      "value": "elephant_idle_1_1"
+    },
+    {
+      "offset": 72732,
+      "value": "elephant_rider_idle_1_2"
+    },
+    {
+      "offset": 72760,
+      "value": "elephant_attack_1_3"
+    },
+    {
+      "offset": 72784,
+      "value": "elephant_idle_1_2"
+    },
+    {
+      "offset": 72808,
+      "value": "elephant_rider_attack_1_2"
+    },
+    {
+      "offset": 72840,
+      "value": "elephant_idle_1_3"
+    },
+    {
+      "offset": 72864,
+      "value": "elephant_attack_1_2"
+    },
+    {
+      "offset": 72888,
+      "value": "elephant_attack_1_1"
+    },
+    {
+      "offset": 72912,
+      "value": "elephant_attack_2_1"
+    },
+    {
+      "offset": 72936,
+      "value": "elephant_attack_2_2"
+    },
+    {
+      "offset": 72960,
+      "value": "elephant_rider_run_1_2"
+    },
+    {
+      "offset": 72988,
+      "value": "elephant_rider_run_1_3"
+    },
+    {
+      "offset": 73016,
+      "value": "elephant_rider_spawn_empty"
+    },
+    {
+      "offset": 106072,
+      "value": "Dmb"
+    },
+    {
+      "offset": 131755,
+      "value": "ssdA"
+    },
+    {
+      "offset": 139719,
+      "value": "pRB"
+    },
+    {
+      "offset": 167122,
+      "value": "lQkp"
+    },
+    {
+      "offset": 176782,
+      "value": "wV_"
+    },
+    {
+      "offset": 181196,
+      "value": "K-b"
+    },
+    {
+      "offset": 185358,
+      "value": "zb_"
+    },
+    {
+      "offset": 194830,
+      "value": "iHO"
+    },
+    {
+      "offset": 202622,
+      "value": "dn_"
+    },
+    {
+      "offset": 202667,
+      "value": "YsSU"
+    },
+    {
+      "offset": 209323,
+      "value": "P@@"
+    },
+    {
+      "offset": 211647,
+      "value": "jqH"
+    },
+    {
+      "offset": 221714,
+      "value": "ps0"
+    },
+    {
+      "offset": 226955,
+      "value": "Ia "
+    },
+    {
+      "offset": 227869,
+      "value": "ir:O"
+    },
+    {
+      "offset": 227949,
+      "value": "iM@n"
+    },
+    {
+      "offset": 229110,
+      "value": "AV8"
+    },
+    {
+      "offset": 235132,
+      "value": "hP@"
+    },
+    {
+      "offset": 247596,
+      "value": "SJB"
+    },
+    {
+      "offset": 259918,
+      "value": "Gk_"
+    },
+    {
+      "offset": 264590,
+      "value": "Wun"
+    },
+    {
+      "offset": 264654,
+      "value": "KkO"
+    },
+    {
+      "offset": 266919,
+      "value": "ljV"
+    },
+    {
+      "offset": 269013,
+      "value": "P4X"
+    },
+    {
+      "offset": 274806,
+      "value": "nXb"
+    },
+    {
+      "offset": 275150,
+      "value": "oWo"
+    },
+    {
+      "offset": 280899,
+      "value": "uMjD@a"
+    },
+    {
+      "offset": 281314,
+      "value": "coyU"
+    },
+    {
+      "offset": 282652,
+      "value": "Y4E"
+    },
+    {
+      "offset": 300542,
+      "value": "Xs_"
+    },
+    {
+      "offset": 306887,
+      "value": "O y"
+    },
+    {
+      "offset": 308841,
+      "value": "kg_.KI"
+    },
+    {
+      "offset": 312046,
+      "value": "sx_"
+    },
+    {
+      "offset": 312154,
+      "value": "rtX@"
+    },
+    {
+      "offset": 329118,
+      "value": "p/o"
+    },
+    {
+      "offset": 338733,
+      "value": "jIZO"
+    },
+    {
+      "offset": 340763,
+      "value": "dhf@"
+    },
+    {
+      "offset": 347326,
+      "value": "PVo"
+    },
+    {
+      "offset": 354541,
+      "value": "R@1o"
+    },
+    {
+      "offset": 355510,
+      "value": "WO "
+    },
+    {
+      "offset": 355742,
+      "value": "muO"
+    },
+    {
+      "offset": 356587,
+      "value": "rpf@"
+    },
+    {
+      "offset": 356810,
+      "value": "izTIyVo"
+    },
+    {
+      "offset": 357398,
+      "value": "WW "
+    },
+    {
+      "offset": 359642,
+      "value": "wsrt"
+    },
+    {
+      "offset": 368313,
+      "value": "I:Ip"
+    },
+    {
+      "offset": 368333,
+      "value": "Tu6s"
+    },
+    {
+      "offset": 368431,
+      "value": "wqI"
+    },
+    {
+      "offset": 377726,
+      "value": "mAo"
+    },
+    {
+      "offset": 379676,
+      "value": "X00"
+    },
+    {
+      "offset": 381647,
+      "value": "WbH"
+    },
+    {
+      "offset": 382550,
+      "value": "sU\\f"
+    },
+    {
+      "offset": 385101,
+      "value": "Slf_"
+    },
+    {
+      "offset": 386238,
+      "value": "eVo"
+    },
+    {
+      "offset": 395764,
+      "value": "CGR"
+    },
+    {
+      "offset": 397556,
+      "value": "w76"
+    },
+    {
+      "offset": 401717,
+      "value": "mA@ "
+    },
+    {
+      "offset": 402120,
+      "value": "Zs7"
+    },
+    {
+      "offset": 402256,
+      "value": "n@CNR"
+    },
+    {
+      "offset": 406357,
+      "value": "VPJ"
+    },
+    {
+      "offset": 410830,
+      "value": "EAo"
+    },
+    {
+      "offset": 413568,
+      "value": "cAOk"
+    },
+    {
+      "offset": 414964,
+      "value": "Dss"
+    },
+    {
+      "offset": 421640,
+      "value": "nm0"
+    },
+    {
+      "offset": 428583,
+      "value": "G P"
+    },
+    {
+      "offset": 428741,
+      "value": "Y5Fq"
+    },
+    {
+      "offset": 437509,
+      "value": "f@@"
+    },
+    {
+      "offset": 439958,
+      "value": "a2L"
+    },
+    {
+      "offset": 441092,
+      "value": "oD@"
+    },
+    {
+      "offset": 467702,
+      "value": "yM "
+    },
+    {
+      "offset": 470260,
+      "value": "tj "
+    },
+    {
+      "offset": 471317,
+      "value": "U P"
+    },
+    {
+      "offset": 471435,
+      "value": "ZKK@"
+    },
+    {
+      "offset": 476277,
+      "value": "p5K"
+    },
+    {
+      "offset": 477018,
+      "value": "RUX @"
+    },
+    {
+      "offset": 477063,
+      "value": "U h"
+    },
+    {
+      "offset": 480908,
+      "value": "uvC"
+    },
+    {
+      "offset": 481575,
+      "value": "s.M"
+    },
+    {
+      "offset": 491218,
+      "value": "JS "
+    },
+    {
+      "offset": 493755,
+      "value": "IqV"
+    },
+    {
+      "offset": 503660,
+      "value": "Za+"
+    },
+    {
+      "offset": 507550,
+      "value": "Oy_"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000eefcc97494b8dc7a80283ce9985026e855ba8fc61c002800040008000c001000140000000000000018001c00200024001c00000001000000",
+  "decoded_preview_hex": "581d010018000000000012001400040000000000000008000c001000120000008419010078e40000c400000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

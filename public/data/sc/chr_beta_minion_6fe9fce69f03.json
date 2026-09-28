@@ -1,0 +1,592 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_beta_minion.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_beta_minion.sc",
+  "sha256_container": "6fe9fce69f03a39a431ee26fa472738fd3e4665215deb5a2d1299b7a4048b4a9",
+  "sha256_descriptor": "5d3c031c847c20e669b1f02ef9676b32d24efeb582be087284656b59e88c7530",
+  "sha256_decoded_payload": "b7bc572735f8904d5da66846ac78e0009d9702b5e983af82615e8f1cbc3046c5",
+  "version": 6,
+  "descriptor_bytes": 2964,
+  "compressed_frame_bytes": 14457,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 81056,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 192
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 84
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 54456
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 16640
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 14464
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 296,
+      "value": "slimeball_special"
+    },
+    {
+      "offset": 352,
+      "value": "Gargoyle5_new_Fly_3"
+    },
+    {
+      "offset": 408,
+      "value": "Gargoyle5_new_Fly_2"
+    },
+    {
+      "offset": 464,
+      "value": "Gargoyle5_new_Fly_1"
+    },
+    {
+      "offset": 520,
+      "value": "Gargoyle5_new_FastFly_3"
+    },
+    {
+      "offset": 580,
+      "value": "Gargoyle5_new_FastFly_2"
+    },
+    {
+      "offset": 640,
+      "value": "Gargoyle5_new_FastFly_1"
+    },
+    {
+      "offset": 700,
+      "value": "Gargoyle5_new_Attack2_3"
+    },
+    {
+      "offset": 760,
+      "value": "Gargoyle5_new_Attack2_2"
+    },
+    {
+      "offset": 820,
+      "value": "Gargoyle5_new_Attack2_1"
+    },
+    {
+      "offset": 880,
+      "value": "Gargoyle4_new_Fly_3"
+    },
+    {
+      "offset": 936,
+      "value": "Gargoyle4_new_Fly_2"
+    },
+    {
+      "offset": 992,
+      "value": "Gargoyle4_new_Fly_1"
+    },
+    {
+      "offset": 1048,
+      "value": "Gargoyle4_new_FastFly_3"
+    },
+    {
+      "offset": 1108,
+      "value": "Gargoyle4_new_FastFly_2"
+    },
+    {
+      "offset": 1168,
+      "value": "Gargoyle4_new_FastFly_1"
+    },
+    {
+      "offset": 1228,
+      "value": "Gargoyle4_new_Attack2_3"
+    },
+    {
+      "offset": 1288,
+      "value": "Gargoyle4_new_Attack2_2"
+    },
+    {
+      "offset": 1348,
+      "value": "Gargoyle4_new_Attack2_1"
+    },
+    {
+      "offset": 1408,
+      "value": "Gargoyle3_new_Fly_3"
+    },
+    {
+      "offset": 1464,
+      "value": "Gargoyle3_new_Fly_2"
+    },
+    {
+      "offset": 1520,
+      "value": "Gargoyle3_new_Fly_1"
+    },
+    {
+      "offset": 1576,
+      "value": "Gargoyle3_new_FastFly_3"
+    },
+    {
+      "offset": 1636,
+      "value": "Gargoyle3_new_FastFly_2"
+    },
+    {
+      "offset": 1696,
+      "value": "Gargoyle3_new_FastFly_1"
+    },
+    {
+      "offset": 1756,
+      "value": "Gargoyle3_new_Attack2_3"
+    },
+    {
+      "offset": 1816,
+      "value": "Gargoyle3_new_Attack2_2"
+    },
+    {
+      "offset": 1876,
+      "value": "Gargoyle3_new_Attack2_1"
+    },
+    {
+      "offset": 1936,
+      "value": "Gargoyle2_new_Fly_3"
+    },
+    {
+      "offset": 1992,
+      "value": "Gargoyle2_new_Fly_2"
+    },
+    {
+      "offset": 2048,
+      "value": "Gargoyle2_new_Fly_1"
+    },
+    {
+      "offset": 2104,
+      "value": "Gargoyle2_new_FastFly_3"
+    },
+    {
+      "offset": 2164,
+      "value": "Gargoyle2_new_FastFly_2"
+    },
+    {
+      "offset": 2224,
+      "value": "Gargoyle2_new_FastFly_1"
+    },
+    {
+      "offset": 2284,
+      "value": "Gargoyle2_new_Attack2_3"
+    },
+    {
+      "offset": 2344,
+      "value": "Gargoyle2_new_Attack2_2"
+    },
+    {
+      "offset": 2404,
+      "value": "Gargoyle2_new_Attack2_1"
+    },
+    {
+      "offset": 2464,
+      "value": "Gargoyle1_new_Fly_3"
+    },
+    {
+      "offset": 2520,
+      "value": "Gargoyle1_new_Fly_2"
+    },
+    {
+      "offset": 2576,
+      "value": "Gargoyle1_new_Fly_1"
+    },
+    {
+      "offset": 2632,
+      "value": "Gargoyle1_new_FastFly_3"
+    },
+    {
+      "offset": 2692,
+      "value": "Gargoyle1_new_FastFly_2"
+    },
+    {
+      "offset": 2752,
+      "value": "Gargoyle1_new_FastFly_1"
+    },
+    {
+      "offset": 2812,
+      "value": "Gargoyle1_new_Attack2_3"
+    },
+    {
+      "offset": 2872,
+      "value": "Gargoyle1_new_Attack2_2"
+    },
+    {
+      "offset": 2940,
+      "value": "Gargoyle1_new_Attack2_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "slimeball_special",
+    "Gargoyle5_new_Fly_3",
+    "Gargoyle5_new_Fly_2",
+    "Gargoyle5_new_Fly_1",
+    "Gargoyle5_new_FastFly_3",
+    "Gargoyle5_new_FastFly_2",
+    "Gargoyle5_new_FastFly_1",
+    "Gargoyle5_new_Attack2_3",
+    "Gargoyle5_new_Attack2_2",
+    "Gargoyle5_new_Attack2_1",
+    "Gargoyle4_new_Fly_3",
+    "Gargoyle4_new_Fly_2",
+    "Gargoyle4_new_Fly_1",
+    "Gargoyle4_new_FastFly_3",
+    "Gargoyle4_new_FastFly_2",
+    "Gargoyle4_new_FastFly_1",
+    "Gargoyle4_new_Attack2_3",
+    "Gargoyle4_new_Attack2_2",
+    "Gargoyle4_new_Attack2_1",
+    "Gargoyle3_new_Fly_3",
+    "Gargoyle3_new_Fly_2",
+    "Gargoyle3_new_Fly_1",
+    "Gargoyle3_new_FastFly_3",
+    "Gargoyle3_new_FastFly_2",
+    "Gargoyle3_new_FastFly_1",
+    "Gargoyle3_new_Attack2_3",
+    "Gargoyle3_new_Attack2_2",
+    "Gargoyle3_new_Attack2_1",
+    "Gargoyle2_new_Fly_3",
+    "Gargoyle2_new_Fly_2",
+    "Gargoyle2_new_Fly_1",
+    "Gargoyle2_new_FastFly_3",
+    "Gargoyle2_new_FastFly_2",
+    "Gargoyle2_new_FastFly_1",
+    "Gargoyle2_new_Attack2_3",
+    "Gargoyle2_new_Attack2_2",
+    "Gargoyle2_new_Attack2_1",
+    "Gargoyle1_new_Fly_3",
+    "Gargoyle1_new_Fly_2",
+    "Gargoyle1_new_Fly_1",
+    "Gargoyle1_new_FastFly_3",
+    "Gargoyle1_new_FastFly_2",
+    "Gargoyle1_new_FastFly_1",
+    "Gargoyle1_new_Attack2_3",
+    "Gargoyle1_new_Attack2_2",
+    "Gargoyle1_new_Attack2_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2244,
+      "value": "ffrA"
+    },
+    {
+      "offset": 6180,
+      "value": "fffA"
+    },
+    {
+      "offset": 6636,
+      "value": "ff1B"
+    },
+    {
+      "offset": 8199,
+      "value": "Afff@"
+    },
+    {
+      "offset": 8367,
+      "value": "Affv@"
+    },
+    {
+      "offset": 9807,
+      "value": "A33c@"
+    },
+    {
+      "offset": 11472,
+      "value": "ff6A"
+    },
+    {
+      "offset": 11820,
+      "value": "ff6A"
+    },
+    {
+      "offset": 13631,
+      "value": "Xff6A"
+    },
+    {
+      "offset": 15996,
+      "value": "ff6A"
+    },
+    {
+      "offset": 17711,
+      "value": "Xff6A"
+    },
+    {
+      "offset": 19305,
+      "value": "aYF"
+    },
+    {
+      "offset": 19932,
+      "value": "ff6A"
+    },
+    {
+      "offset": 21647,
+      "value": "dff6A"
+    },
+    {
+      "offset": 21741,
+      "value": "ZeD"
+    },
+    {
+      "offset": 23795,
+      "value": "T33S@"
+    },
+    {
+      "offset": 24335,
+      "value": "I33cA"
+    },
+    {
+      "offset": 24489,
+      "value": "aYF"
+    },
+    {
+      "offset": 24924,
+      "value": "ff6A"
+    },
+    {
+      "offset": 25871,
+      "value": "dff6A"
+    },
+    {
+      "offset": 26687,
+      "value": "I33cA"
+    },
+    {
+      "offset": 27455,
+      "value": "Xff6A"
+    },
+    {
+      "offset": 28968,
+      "value": "ff6A"
+    },
+    {
+      "offset": 29340,
+      "value": "ff6A"
+    },
+    {
+      "offset": 53204,
+      "value": "minion_damage_aura"
+    },
+    {
+      "offset": 53228,
+      "value": "Gargoyle3_new_Attack2_1"
+    },
+    {
+      "offset": 53256,
+      "value": "Gargoyle1_new_FastFly_3"
+    },
+    {
+      "offset": 53284,
+      "value": "Gargoyle2_new_Fly_2"
+    },
+    {
+      "offset": 53308,
+      "value": "Gargoyle2_new_Fly_1"
+    },
+    {
+      "offset": 53332,
+      "value": "Gargoyle2_new_FastFly_2"
+    },
+    {
+      "offset": 53360,
+      "value": "slimeball_special"
+    },
+    {
+      "offset": 53384,
+      "value": "Gargoyle2_new_Fly_3"
+    },
+    {
+      "offset": 53408,
+      "value": "Gargoyle3_new_Fly_1"
+    },
+    {
+      "offset": 53432,
+      "value": "Gargoyle2_new_FastFly_1"
+    },
+    {
+      "offset": 53460,
+      "value": "Gargoyle1_new_FastFly_2"
+    },
+    {
+      "offset": 53488,
+      "value": "Gargoyle2_new_Attack2_3"
+    },
+    {
+      "offset": 53516,
+      "value": "Gargoyle2_new_Attack2_2"
+    },
+    {
+      "offset": 53544,
+      "value": "Gargoyle1_new_Fly_1"
+    },
+    {
+      "offset": 53568,
+      "value": "Gargoyle5_new_Attack2_1"
+    },
+    {
+      "offset": 53596,
+      "value": "Gargoyle1_new_Fly_2"
+    },
+    {
+      "offset": 53620,
+      "value": "Gargoyle5_new_Attack2_3"
+    },
+    {
+      "offset": 53648,
+      "value": "Gargoyle2_new_Attack2_1"
+    },
+    {
+      "offset": 53676,
+      "value": "Gargoyle5_new_Fly_1"
+    },
+    {
+      "offset": 53700,
+      "value": "Gargoyle1_new_Attack2_2"
+    },
+    {
+      "offset": 53728,
+      "value": "Gargoyle1_new_Fly_3"
+    },
+    {
+      "offset": 53752,
+      "value": "Gargoyle1_new_Attack2_1"
+    },
+    {
+      "offset": 53780,
+      "value": "Gargoyle1_new_Attack2_3"
+    },
+    {
+      "offset": 53808,
+      "value": "Gargoyle4_new_Attack2_1"
+    },
+    {
+      "offset": 53836,
+      "value": "Gargoyle5_new_FastFly_3"
+    },
+    {
+      "offset": 53864,
+      "value": "Gargoyle5_new_FastFly_2"
+    },
+    {
+      "offset": 53892,
+      "value": "Gargoyle3_new_Attack2_3"
+    },
+    {
+      "offset": 53920,
+      "value": "Gargoyle5_new_FastFly_1"
+    },
+    {
+      "offset": 53948,
+      "value": "Gargoyle5_new_Fly_3"
+    },
+    {
+      "offset": 53972,
+      "value": "Gargoyle4_new_Fly_3"
+    },
+    {
+      "offset": 53996,
+      "value": "Gargoyle2_new_FastFly_3"
+    },
+    {
+      "offset": 54024,
+      "value": "Gargoyle5_new_Fly_2"
+    },
+    {
+      "offset": 54048,
+      "value": "Gargoyle1_new_FastFly_1"
+    },
+    {
+      "offset": 54076,
+      "value": "Gargoyle5_new_Attack2_2"
+    },
+    {
+      "offset": 54104,
+      "value": "Gargoyle3_new_Attack2_2"
+    },
+    {
+      "offset": 54132,
+      "value": "Gargoyle3_new_FastFly_1"
+    },
+    {
+      "offset": 54160,
+      "value": "Gargoyle3_new_FastFly_2"
+    },
+    {
+      "offset": 54188,
+      "value": "Gargoyle4_new_FastFly_3"
+    },
+    {
+      "offset": 54216,
+      "value": "Gargoyle3_new_FastFly_3"
+    },
+    {
+      "offset": 54244,
+      "value": "Gargoyle3_new_Fly_2"
+    },
+    {
+      "offset": 54268,
+      "value": "Gargoyle3_new_Fly_3"
+    },
+    {
+      "offset": 54292,
+      "value": "Gargoyle4_new_Attack2_2"
+    },
+    {
+      "offset": 54320,
+      "value": "Gargoyle4_new_FastFly_2"
+    },
+    {
+      "offset": 54348,
+      "value": "Gargoyle4_new_Attack2_3"
+    },
+    {
+      "offset": 54376,
+      "value": "Gargoyle4_new_FastFly_1"
+    },
+    {
+      "offset": 54404,
+      "value": "Gargoyle4_new_Fly_1"
+    },
+    {
+      "offset": 54428,
+      "value": "Gargoyle4_new_Fly_2"
+    },
+    {
+      "offset": 81032,
+      "value": "chr_beta_minion_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000c00000005400000001000000b8d4000000410000",
+  "decoded_preview_hex": "b4d4000018000000000012001400040000000000000008000c00100012000000ecce000074790000242b000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

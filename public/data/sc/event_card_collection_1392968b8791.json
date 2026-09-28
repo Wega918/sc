@@ -1,0 +1,994 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "event_card_collection.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\event_card_collection.sc",
+  "sha256_container": "1392968b8791e4ef62a04576fdd8d6dc225918c79a82e8f13ee6f0b706f082dc",
+  "sha256_descriptor": "49395af2d2e8061ddcfd7fe6151e0d0c46e5e73e0b3e68875956ab66b042ab5c",
+  "sha256_decoded_payload": "5de1081fa2cdc490482701cca2be8fa9ddf667ad992b391a68cdaed652c7981c",
+  "version": 6,
+  "descriptor_bytes": 1472,
+  "compressed_frame_bytes": 5476918,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 8950136,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 162
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 143
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 5
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 59
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 550436
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 8295872
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 5476920
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 232,
+      "value": "tap_indicator_ui"
+    },
+    {
+      "offset": 288,
+      "value": "shop_item_cosmetics_tiers"
+    },
+    {
+      "offset": 352,
+      "value": "rewards_ui_backdrop_sc01"
+    },
+    {
+      "offset": 416,
+      "value": "rewards_sword"
+    },
+    {
+      "offset": 468,
+      "value": "message_generic_other"
+    },
+    {
+      "offset": 528,
+      "value": "icon_reward_card_pack"
+    },
+    {
+      "offset": 588,
+      "value": "event_card_collection_popup"
+    },
+    {
+      "offset": 652,
+      "value": "card_trade_popup"
+    },
+    {
+      "offset": 708,
+      "value": "card_pack_yellow"
+    },
+    {
+      "offset": 764,
+      "value": "card_pack_purple"
+    },
+    {
+      "offset": 820,
+      "value": "card_pack_pink"
+    },
+    {
+      "offset": 872,
+      "value": "card_pack_blue"
+    },
+    {
+      "offset": 924,
+      "value": "card_medium"
+    },
+    {
+      "offset": 972,
+      "value": "card_elixir_archer_small"
+    },
+    {
+      "offset": 1036,
+      "value": "card_detail_popup"
+    },
+    {
+      "offset": 1092,
+      "value": "card_collection_icon"
+    },
+    {
+      "offset": 1152,
+      "value": "card_collection_event_popup_info_screen"
+    },
+    {
+      "offset": 1228,
+      "value": "card_claim_screen"
+    },
+    {
+      "offset": 1284,
+      "value": "card_chest_main"
+    },
+    {
+      "offset": 1336,
+      "value": "card_big"
+    },
+    {
+      "offset": 1384,
+      "value": "Dust_Wave_03"
+    },
+    {
+      "offset": 1445,
+      "value": "slice_info_screen_orange"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "tap_indicator_ui",
+    "shop_item_cosmetics_tiers",
+    "rewards_ui_backdrop_sc01",
+    "rewards_sword",
+    "message_generic_other",
+    "icon_reward_card_pack",
+    "event_card_collection_popup",
+    "card_trade_popup",
+    "card_pack_yellow",
+    "card_pack_purple",
+    "card_pack_pink",
+    "card_pack_blue",
+    "card_medium",
+    "card_elixir_archer_small",
+    "card_detail_popup",
+    "card_collection_icon",
+    "card_collection_event_popup_info_screen",
+    "card_claim_screen",
+    "card_chest_main",
+    "card_big",
+    "Dust_Wave_03",
+    "slice_info_screen_orange"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 5711,
+      "value": "BgfF@"
+    },
+    {
+      "offset": 5902,
+      "value": "IBgfJA"
+    },
+    {
+      "offset": 5950,
+      "value": "OB33wA"
+    },
+    {
+      "offset": 6382,
+      "value": "RBgf+B"
+    },
+    {
+      "offset": 6406,
+      "value": "PB331B"
+    },
+    {
+      "offset": 6502,
+      "value": "CB33GB"
+    },
+    {
+      "offset": 6527,
+      "value": "B33LB"
+    },
+    {
+      "offset": 6551,
+      "value": "B33QB"
+    },
+    {
+      "offset": 6620,
+      "value": "gf/B"
+    },
+    {
+      "offset": 6719,
+      "value": "B33nB"
+    },
+    {
+      "offset": 6743,
+      "value": "BgfqB"
+    },
+    {
+      "offset": 6791,
+      "value": "BgfwB"
+    },
+    {
+      "offset": 7248,
+      "value": "gfyB"
+    },
+    {
+      "offset": 7344,
+      "value": "gfmB"
+    },
+    {
+      "offset": 7464,
+      "value": "gfYB"
+    },
+    {
+      "offset": 7584,
+      "value": "gf@B"
+    },
+    {
+      "offset": 7632,
+      "value": "gf5B"
+    },
+    {
+      "offset": 74447,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74471,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74495,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74519,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74543,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74567,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74591,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74615,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74639,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74663,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74687,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74711,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74735,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74759,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74783,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74807,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74831,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74855,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74879,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74903,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74927,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74951,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74975,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 74999,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75023,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75047,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75071,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75095,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75119,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75143,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75167,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75191,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75215,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75239,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75263,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75287,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75311,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75335,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75359,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75383,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75407,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75431,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75455,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75479,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75503,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75527,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75551,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75575,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75599,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75623,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75647,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75671,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75695,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75719,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75743,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75767,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75791,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75815,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75839,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75863,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75887,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75911,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75935,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75959,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 75983,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76007,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76031,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76055,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76079,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76103,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76127,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76151,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76175,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76199,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76223,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76247,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76271,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76295,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76319,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76343,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76367,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76391,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76415,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76439,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76463,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76487,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76511,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76535,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76559,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76583,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76607,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76631,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76655,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76679,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76703,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 76727,
+      "value": "C3sfC"
+    },
+    {
+      "offset": 80925,
+      "value": "sHC"
+    },
+    {
+      "offset": 81213,
+      "value": "sIC"
+    },
+    {
+      "offset": 81788,
+      "value": "gfMC"
+    },
+    {
+      "offset": 82772,
+      "value": "gfSC"
+    },
+    {
+      "offset": 83468,
+      "value": "gfWC"
+    },
+    {
+      "offset": 85220,
+      "value": "gfFC"
+    },
+    {
+      "offset": 86351,
+      "value": "A33c@"
+    },
+    {
+      "offset": 86591,
+      "value": "B33TB"
+    },
+    {
+      "offset": 86687,
+      "value": "B33JB"
+    },
+    {
+      "offset": 86783,
+      "value": "Bgf@B"
+    },
+    {
+      "offset": 86806,
+      "value": "QCgfxB"
+    },
+    {
+      "offset": 86902,
+      "value": "XCgfiB"
+    },
+    {
+      "offset": 87285,
+      "value": "LqC"
+    },
+    {
+      "offset": 88367,
+      "value": "C33WA"
+    },
+    {
+      "offset": 88919,
+      "value": "Cgff@"
+    },
+    {
+      "offset": 90237,
+      "value": "L_C"
+    },
+    {
+      "offset": 92516,
+      "value": "gfvB"
+    },
+    {
+      "offset": 92687,
+      "value": "A337A"
+    },
+    {
+      "offset": 93620,
+      "value": "gfZB"
+    },
+    {
+      "offset": 93671,
+      "value": "C33rB"
+    },
+    {
+      "offset": 93743,
+      "value": "C33\\B"
+    },
+    {
+      "offset": 93815,
+      "value": "CgfFB"
+    },
+    {
+      "offset": 93887,
+      "value": "Cgf0B"
+    },
+    {
+      "offset": 94366,
+      "value": "HC3sHC"
+    },
+    {
+      "offset": 94415,
+      "value": "Cgf2A"
+    },
+    {
+      "offset": 94847,
+      "value": "Cgf6C"
+    },
+    {
+      "offset": 95372,
+      "value": "gf6@"
+    },
+    {
+      "offset": 97007,
+      "value": "C33VC"
+    },
+    {
+      "offset": 97533,
+      "value": "s C33@C"
+    },
+    {
+      "offset": 98350,
+      "value": "OCgfEB"
+    },
+    {
+      "offset": 98470,
+      "value": "TCgf/B"
+    },
+    {
+      "offset": 98949,
+      "value": "YgC"
+    },
+    {
+      "offset": 99023,
+      "value": "C33_B"
+    },
+    {
+      "offset": 99383,
+      "value": "Bgf1B"
+    },
+    {
+      "offset": 99551,
+      "value": "CgfvB"
+    },
+    {
+      "offset": 99647,
+      "value": "C33eB"
+    },
+    {
+      "offset": 99839,
+      "value": "C33BB"
+    },
+    {
+      "offset": 100631,
+      "value": "CgfZA"
+    },
+    {
+      "offset": 102287,
+      "value": "A33JB"
+    },
+    {
+      "offset": 102383,
+      "value": "CgfbB"
+    },
+    {
+      "offset": 102575,
+      "value": "Cgf9B"
+    },
+    {
+      "offset": 103798,
+      "value": "jCgfzB"
+    },
+    {
+      "offset": 105601,
+      "value": "YtC"
+    },
+    {
+      "offset": 105625,
+      "value": "YtC"
+    },
+    {
+      "offset": 105719,
+      "value": "C33dC"
+    },
+    {
+      "offset": 119016,
+      "value": "gf_C"
+    },
+    {
+      "offset": 119040,
+      "value": "gf_C"
+    },
+    {
+      "offset": 119064,
+      "value": "gf_C"
+    },
+    {
+      "offset": 119088,
+      "value": "gf_C"
+    },
+    {
+      "offset": 119112,
+      "value": "gf_C"
+    },
+    {
+      "offset": 119136,
+      "value": "gf_C"
+    },
+    {
+      "offset": 121033,
+      "value": "YbC"
+    },
+    {
+      "offset": 121057,
+      "value": "YbC"
+    },
+    {
+      "offset": 121081,
+      "value": "YbC"
+    },
+    {
+      "offset": 121105,
+      "value": "YbC"
+    },
+    {
+      "offset": 121129,
+      "value": "YbC"
+    },
+    {
+      "offset": 121752,
+      "value": "gfcC"
+    },
+    {
+      "offset": 121776,
+      "value": "gfcC"
+    },
+    {
+      "offset": 121800,
+      "value": "gfcC"
+    },
+    {
+      "offset": 121824,
+      "value": "gfcC"
+    },
+    {
+      "offset": 121848,
+      "value": "gfcC"
+    },
+    {
+      "offset": 122473,
+      "value": "LdC"
+    },
+    {
+      "offset": 122497,
+      "value": "LdC"
+    },
+    {
+      "offset": 122521,
+      "value": "LdC"
+    },
+    {
+      "offset": 122545,
+      "value": "LdC"
+    },
+    {
+      "offset": 122569,
+      "value": "LdC"
+    },
+    {
+      "offset": 123481,
+      "value": "YeC"
+    },
+    {
+      "offset": 123505,
+      "value": "YeC"
+    },
+    {
+      "offset": 123529,
+      "value": "YeC"
+    },
+    {
+      "offset": 123553,
+      "value": "YeC"
+    },
+    {
+      "offset": 123577,
+      "value": "YeC"
+    },
+    {
+      "offset": 124704,
+      "value": "gffC"
+    },
+    {
+      "offset": 124728,
+      "value": "gffC"
+    },
+    {
+      "offset": 124752,
+      "value": "gffC"
+    },
+    {
+      "offset": 124776,
+      "value": "gffC"
+    },
+    {
+      "offset": 126025,
+      "value": "LgC"
+    },
+    {
+      "offset": 126049,
+      "value": "LgC"
+    },
+    {
+      "offset": 126073,
+      "value": "LgC"
+    },
+    {
+      "offset": 126097,
+      "value": "LgC"
+    },
+    {
+      "offset": 126241,
+      "value": "sgC"
+    },
+    {
+      "offset": 126265,
+      "value": "sgC"
+    },
+    {
+      "offset": 126289,
+      "value": "sgC"
+    },
+    {
+      "offset": 126313,
+      "value": "sgC"
+    },
+    {
+      "offset": 130109,
+      "value": "P/@"
+    },
+    {
+      "offset": 131417,
+      "value": "P6@"
+    },
+    {
+      "offset": 132533,
+      "value": "p+@"
+    },
+    {
+      "offset": 133493,
+      "value": "p5@"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000004b0338d9472bf9110ce9f34fa026d96bb73b717b1c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "206608001800000000001200180004000000000008000c00100014001200000024550800ec520800044c050028e7040004000000010000000c00000008000c00",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

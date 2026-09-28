@@ -1,0 +1,198 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_miner.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_miner.sc",
+  "sha256_container": "104b49c7b191e14dea8a4c6433b6528c2f7f1393a4e06f90d346fd849d850fb9",
+  "sha256_descriptor": "401ea2c970250e8e60b497a38e7dafdbf80b82e37ba90b70b7a0c9ceb1a35106",
+  "sha256_decoded_payload": "4b1712de21f23b6c56f0523f318000b9743b191439c3fd84b9dd4f8a1892e628",
+  "version": 6,
+  "descriptor_bytes": 228,
+  "compressed_frame_bytes": 51063,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 100640,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 424
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 99752
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 51064
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "unit_miner_big"
+    },
+    {
+      "offset": 212,
+      "value": "card_miner_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_miner_big",
+    "card_miner_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 123,
+      "value": "CoA"
+    },
+    {
+      "offset": 219,
+      "value": "CoA"
+    },
+    {
+      "offset": 348,
+      "value": "bounds"
+    },
+    {
+      "offset": 360,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 380,
+      "value": "unit_miner_big"
+    },
+    {
+      "offset": 400,
+      "value": "card_miner_big"
+    },
+    {
+      "offset": 12061,
+      "value": "PM-o"
+    },
+    {
+      "offset": 21495,
+      "value": "MEd/"
+    },
+    {
+      "offset": 25351,
+      "value": "ahMs"
+    },
+    {
+      "offset": 27804,
+      "value": "tPpY_"
+    },
+    {
+      "offset": 30035,
+      "value": "YHq"
+    },
+    {
+      "offset": 31244,
+      "value": "iR+Ao"
+    },
+    {
+      "offset": 31677,
+      "value": "JJIo"
+    },
+    {
+      "offset": 38110,
+      "value": "uPO"
+    },
+    {
+      "offset": 41100,
+      "value": "xT "
+    },
+    {
+      "offset": 46038,
+      "value": "I e"
+    },
+    {
+      "offset": 46813,
+      "value": "n1-o"
+    },
+    {
+      "offset": 49781,
+      "value": "nDN"
+    },
+    {
+      "offset": 53291,
+      "value": "LggE"
+    },
+    {
+      "offset": 62414,
+      "value": "Dro"
+    },
+    {
+      "offset": 69630,
+      "value": "pN_"
+    },
+    {
+      "offset": 73070,
+      "value": "lvO"
+    },
+    {
+      "offset": 79342,
+      "value": "tAo"
+    },
+    {
+      "offset": 81710,
+      "value": "eIo"
+    },
+    {
+      "offset": 82688,
+      "value": "o@mF"
+    },
+    {
+      "offset": 86542,
+      "value": "ke_"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000005a577e0971c29991c18339af8f298c8958ee75411c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "a401000018000000000012001400040000000000000008000c0010001200000020010000040100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

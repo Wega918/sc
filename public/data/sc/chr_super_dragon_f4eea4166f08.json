@@ -1,0 +1,154 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_super_dragon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_dragon.sc",
+  "sha256_container": "f4eea4166f08f139c816ce6c790ab3d224490267efc6cbd3ce0854cd73410757",
+  "sha256_descriptor": "45d5fb22637e3098e3834636ec30934dc363f2d8168d7c08a70e69340f18d847",
+  "sha256_decoded_payload": "aac7d86f9c55759ea46ec4a72e72c4fe547b6de92aef475fcee4af8109782cf5",
+  "version": 6,
+  "descriptor_bytes": 268,
+  "compressed_frame_bytes": 10878,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 26476,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 84
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 12
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 20156
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 3656
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 10880
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "super_dragon_fly1_3"
+    },
+    {
+      "offset": 184,
+      "value": "super_dragon_fly1_2"
+    },
+    {
+      "offset": 248,
+      "value": "super_dragon_fly1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "super_dragon_fly1_3",
+    "super_dragon_fly1_2",
+    "super_dragon_fly1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2580,
+      "value": "ff:A"
+    },
+    {
+      "offset": 2652,
+      "value": "ffF@"
+    },
+    {
+      "offset": 6756,
+      "value": "ff6@"
+    },
+    {
+      "offset": 10281,
+      "value": "nxJ"
+    },
+    {
+      "offset": 10344,
+      "value": "ffSB"
+    },
+    {
+      "offset": 11063,
+      "value": "kffzB"
+    },
+    {
+      "offset": 11976,
+      "value": "ffvA"
+    },
+    {
+      "offset": 12720,
+      "value": "ffvA"
+    },
+    {
+      "offset": 15250,
+      "value": "wiffpB"
+    },
+    {
+      "offset": 20036,
+      "value": "attack_pivot"
+    },
+    {
+      "offset": 20056,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 20080,
+      "value": "super_dragon_fly1_1"
+    },
+    {
+      "offset": 20104,
+      "value": "super_dragon_fly1_2"
+    },
+    {
+      "offset": 20128,
+      "value": "super_dragon_fly1_3"
+    },
+    {
+      "offset": 26452,
+      "value": "chr_super_dragon_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000540000000c0000000100000001000000bc4e0000",
+  "decoded_preview_hex": "b84e000018000000000012001400040000000000000008000c00100012000000044e0000984300009c19000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

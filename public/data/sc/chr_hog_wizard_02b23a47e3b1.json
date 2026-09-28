@@ -1,0 +1,239 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_hog_wizard.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_hog_wizard.sc",
+  "sha256_container": "02b23a47e3b1e4f54dad50c288bc716124ba1ee3bba6515418ffc82633679794",
+  "sha256_descriptor": "77e554c869dc781a78d09ef6a9f105448d09c02a57311a7e0dcf7c12ad933ad9",
+  "sha256_decoded_payload": "61fcee818661141f9e38facc1c5179578575ac2e8dfc73564ae0e604ce3430b4",
+  "version": 6,
+  "descriptor_bytes": 860,
+  "compressed_frame_bytes": 9995,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 29352,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 103
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 16
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 21408
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 3944
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 10000
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 168,
+      "value": "sour_die"
+    },
+    {
+      "offset": 216,
+      "value": "hogwizard_run1_3"
+    },
+    {
+      "offset": 272,
+      "value": "hogwizard_run1_2"
+    },
+    {
+      "offset": 328,
+      "value": "hogwizard_run1_1"
+    },
+    {
+      "offset": 384,
+      "value": "hogwizard_idle1_3"
+    },
+    {
+      "offset": 440,
+      "value": "hogwizard_idle1_2"
+    },
+    {
+      "offset": 496,
+      "value": "hogwizard_idle1_1"
+    },
+    {
+      "offset": 552,
+      "value": "hogwizard_flam"
+    },
+    {
+      "offset": 604,
+      "value": "hogwizard_attack_beam"
+    },
+    {
+      "offset": 664,
+      "value": "hogwizard_attack1_3"
+    },
+    {
+      "offset": 720,
+      "value": "hogwizard_attack1_2"
+    },
+    {
+      "offset": 776,
+      "value": "hogwizard_attack1_1"
+    },
+    {
+      "offset": 840,
+      "value": "hog wizard spark"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "sour_die",
+    "hogwizard_run1_3",
+    "hogwizard_run1_2",
+    "hogwizard_run1_1",
+    "hogwizard_idle1_3",
+    "hogwizard_idle1_2",
+    "hogwizard_idle1_1",
+    "hogwizard_flam",
+    "hogwizard_attack_beam",
+    "hogwizard_attack1_3",
+    "hogwizard_attack1_2",
+    "hogwizard_attack1_1",
+    "hog wizard spark"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1200,
+      "value": "ffNA"
+    },
+    {
+      "offset": 6200,
+      "value": "ffjA"
+    },
+    {
+      "offset": 6233,
+      "value": "dRB"
+    },
+    {
+      "offset": 7049,
+      "value": "JI+"
+    },
+    {
+      "offset": 7817,
+      "value": "Cy8"
+    },
+    {
+      "offset": 8357,
+      "value": "kT\\"
+    },
+    {
+      "offset": 8381,
+      "value": "wT\\"
+    },
+    {
+      "offset": 11024,
+      "value": "ff7B"
+    },
+    {
+      "offset": 12007,
+      "value": "cffMB"
+    },
+    {
+      "offset": 14360,
+      "value": "fffA"
+    },
+    {
+      "offset": 14456,
+      "value": "fffA"
+    },
+    {
+      "offset": 21100,
+      "value": "hogwizard_run1_1"
+    },
+    {
+      "offset": 21124,
+      "value": "hogwizard_idle1_1"
+    },
+    {
+      "offset": 21148,
+      "value": "hogwizard_attack1_1"
+    },
+    {
+      "offset": 21172,
+      "value": "hogwizard_attack1_2"
+    },
+    {
+      "offset": 21196,
+      "value": "hogwizard_attack1_3"
+    },
+    {
+      "offset": 21220,
+      "value": "sour_die"
+    },
+    {
+      "offset": 21236,
+      "value": "hogwizard_run1_2"
+    },
+    {
+      "offset": 21260,
+      "value": "hogwizard_run1_3"
+    },
+    {
+      "offset": 21284,
+      "value": "hogwizard_idle1_2"
+    },
+    {
+      "offset": 21308,
+      "value": "hogwizard_idle1_3"
+    },
+    {
+      "offset": 21332,
+      "value": "hogwizard_attack_beam"
+    },
+    {
+      "offset": 21360,
+      "value": "hogwizard_flam"
+    },
+    {
+      "offset": 21380,
+      "value": "hog wizard spark"
+    },
+    {
+      "offset": 29328,
+      "value": "chr_hog_wizard_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000670000001000000001000000a0530000",
+  "decoded_preview_hex": "9c53000018000000000012001400040000000000000008000c001000120000000c5200002c390000a416000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_barbarian.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_barbarian.sc",
+  "sha256_container": "2efe69861f6eb6b14857d513684caf5f0b75a27a77bc1428d9722edccb64cf8b",
+  "sha256_descriptor": "d66845d54bd0c85c87a391a9ba01e10f6f2ef3522d64a26b04cba4ee7407dc5a",
+  "sha256_decoded_payload": "2f6af7393056db77c8dd0f5d673c46fb70f973ba8a57379234a41e8716f21fe4",
+  "version": 6,
+  "descriptor_bytes": 372,
+  "compressed_frame_bytes": 179544,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 345444,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 4
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 5
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 828
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 343768
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 179544
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 160,
+      "value": "unit_barbarian_big"
+    },
+    {
+      "offset": 216,
+      "value": "unit_barbarianKing_big"
+    },
+    {
+      "offset": 276,
+      "value": "unit_barbarianKing_ability_big"
+    },
+    {
+      "offset": 352,
+      "value": "card_barbarian_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_barbarian_big",
+    "unit_barbarianKing_big",
+    "unit_barbarianKing_ability_big",
+    "card_barbarian_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 680,
+      "value": "bounds"
+    },
+    {
+      "offset": 692,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 712,
+      "value": "unit_barbarian_big"
+    },
+    {
+      "offset": 736,
+      "value": "card_barbarian_big"
+    },
+    {
+      "offset": 760,
+      "value": "unit_barbarianKing_ability_big"
+    },
+    {
+      "offset": 796,
+      "value": "unit_barbarianKing_big"
+    },
+    {
+      "offset": 18590,
+      "value": "Zq "
+    },
+    {
+      "offset": 24543,
+      "value": "tPH"
+    },
+    {
+      "offset": 37703,
+      "value": "Kkq"
+    },
+    {
+      "offset": 39082,
+      "value": "dtAp"
+    },
+    {
+      "offset": 50952,
+      "value": "Nl4"
+    },
+    {
+      "offset": 55986,
+      "value": "JB_"
+    },
+    {
+      "offset": 66840,
+      "value": "rvJN"
+    },
+    {
+      "offset": 66888,
+      "value": "vxNT"
+    },
+    {
+      "offset": 68932,
+      "value": "ACUJ"
+    },
+    {
+      "offset": 74491,
+      "value": "opn"
+    },
+    {
+      "offset": 76014,
+      "value": "G@:"
+    },
+    {
+      "offset": 77198,
+      "value": "RW_"
+    },
+    {
+      "offset": 81561,
+      "value": "Oqx"
+    },
+    {
+      "offset": 82472,
+      "value": "LV4D"
+    },
+    {
+      "offset": 84065,
+      "value": "BHB_"
+    },
+    {
+      "offset": 84193,
+      "value": "ro@o"
+    },
+    {
+      "offset": 84411,
+      "value": "MrP"
+    },
+    {
+      "offset": 86936,
+      "value": "ft:D"
+    },
+    {
+      "offset": 95336,
+      "value": "GOyx"
+    },
+    {
+      "offset": 95986,
+      "value": "XbO"
+    },
+    {
+      "offset": 96300,
+      "value": "A:30 "
+    },
+    {
+      "offset": 103639,
+      "value": "UqcD"
+    },
+    {
+      "offset": 112895,
+      "value": "i.H"
+    },
+    {
+      "offset": 121632,
+      "value": "ID7"
+    },
+    {
+      "offset": 121666,
+      "value": "M@_"
+    },
+    {
+      "offset": 121725,
+      "value": "rNYYk+-_"
+    },
+    {
+      "offset": 123065,
+      "value": "X.Ka"
+    },
+    {
+      "offset": 130338,
+      "value": "uus"
+    },
+    {
+      "offset": 138560,
+      "value": "UJB"
+    },
+    {
+      "offset": 141474,
+      "value": "_w_"
+    },
+    {
+      "offset": 142683,
+      "value": "l-Z"
+    },
+    {
+      "offset": 148646,
+      "value": "PcT"
+    },
+    {
+      "offset": 155754,
+      "value": "Ip "
+    },
+    {
+      "offset": 159737,
+      "value": "nDP"
+    },
+    {
+      "offset": 162658,
+      "value": "bS_"
+    },
+    {
+      "offset": 167209,
+      "value": "l@P"
+    },
+    {
+      "offset": 168536,
+      "value": "TjBV"
+    },
+    {
+      "offset": 172385,
+      "value": "McE_"
+    },
+    {
+      "offset": 172450,
+      "value": "WEo"
+    },
+    {
+      "offset": 176786,
+      "value": "Flo"
+    },
+    {
+      "offset": 176859,
+      "value": "BZH"
+    },
+    {
+      "offset": 180994,
+      "value": "jeo"
+    },
+    {
+      "offset": 181104,
+      "value": "SIHmn"
+    },
+    {
+      "offset": 181232,
+      "value": "XP@"
+    },
+    {
+      "offset": 184311,
+      "value": "BFl"
+    },
+    {
+      "offset": 188385,
+      "value": "ID@_"
+    },
+    {
+      "offset": 189793,
+      "value": "PeMo"
+    },
+    {
+      "offset": 198944,
+      "value": "mCHAs"
+    },
+    {
+      "offset": 200744,
+      "value": "Nl8L"
+    },
+    {
+      "offset": 201474,
+      "value": "b._"
+    },
+    {
+      "offset": 203688,
+      "value": "Hr2N"
+    },
+    {
+      "offset": 204466,
+      "value": "ID_"
+    },
+    {
+      "offset": 205785,
+      "value": "r6D"
+    },
+    {
+      "offset": 209994,
+      "value": "iQ4"
+    },
+    {
+      "offset": 210456,
+      "value": "ftHT"
+    },
+    {
+      "offset": 211912,
+      "value": "jvJT"
+    },
+    {
+      "offset": 212685,
+      "value": "vhVfl"
+    },
+    {
+      "offset": 217566,
+      "value": "_bA"
+    },
+    {
+      "offset": 219942,
+      "value": "i8I"
+    },
+    {
+      "offset": 221102,
+      "value": "BTBD"
+    },
+    {
+      "offset": 222632,
+      "value": "D\\2J"
+    },
+    {
+      "offset": 222824,
+      "value": "SEs"
+    },
+    {
+      "offset": 227782,
+      "value": "xkj"
+    },
+    {
+      "offset": 230536,
+      "value": "pvFH"
+    },
+    {
+      "offset": 244376,
+      "value": "Td4B"
+    },
+    {
+      "offset": 251609,
+      "value": "UU:"
+    },
+    {
+      "offset": 258785,
+      "value": "TGpn"
+    },
+    {
+      "offset": 264720,
+      "value": "rph"
+    },
+    {
+      "offset": 268510,
+      "value": "oOppyS_"
+    },
+    {
+      "offset": 268553,
+      "value": "PVV"
+    },
+    {
+      "offset": 271361,
+      "value": "DoQ_"
+    },
+    {
+      "offset": 272897,
+      "value": "O4So"
+    },
+    {
+      "offset": 274274,
+      "value": "vz_"
+    },
+    {
+      "offset": 275846,
+      "value": "B3aI"
+    },
+    {
+      "offset": 281490,
+      "value": "O0_"
+    },
+    {
+      "offset": 283090,
+      "value": "ZUo"
+    },
+    {
+      "offset": 286480,
+      "value": "XqC"
+    },
+    {
+      "offset": 298729,
+      "value": "g/0p"
+    },
+    {
+      "offset": 301985,
+      "value": "l+-_"
+    },
+    {
+      "offset": 309288,
+      "value": "gE0"
+    },
+    {
+      "offset": 309314,
+      "value": "ku_"
+    },
+    {
+      "offset": 313464,
+      "value": "lr46"
+    },
+    {
+      "offset": 313496,
+      "value": "nv46"
+    },
+    {
+      "offset": 313521,
+      "value": "Sp4o"
+    },
+    {
+      "offset": 315026,
+      "value": "rjo"
+    },
+    {
+      "offset": 320744,
+      "value": "bh8B"
+    },
+    {
+      "offset": 320866,
+      "value": "Nfo"
+    },
+    {
+      "offset": 333953,
+      "value": "ZaLo"
+    }
+  ],
+  "descriptor_preview_hex": "38000000140000004637f822a7180d930a6bc5a76dc221d2a672032d1c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "3803000018000000000012001400040000000000000008000c0010001200000064020000240200009c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

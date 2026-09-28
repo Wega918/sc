@@ -1,0 +1,196 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_april25_thrower.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_april25_thrower.sc",
+  "sha256_container": "ef794560c65ac7c7b2c61af8f2bf9ca5bcb2a6a0859b910f5d57c2cc29017e7e",
+  "sha256_descriptor": "458b5dcf68580d9da03395c8031317b258acb2d231c0c17544985a7311e3da73",
+  "sha256_decoded_payload": "34a20e5374fcee6635a65e73af602a4181ff7b87b1c3c4de9413519118cef955",
+  "version": 6,
+  "descriptor_bytes": 156,
+  "compressed_frame_bytes": 53983,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 114688,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 228
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 114200
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 53984
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "unit_april25_thrower_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_april25_thrower_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 192,
+      "value": "unit_april25_thrower_big"
+    },
+    {
+      "offset": 16283,
+      "value": "oD:"
+    },
+    {
+      "offset": 33345,
+      "value": "AYA"
+    },
+    {
+      "offset": 34494,
+      "value": "xyo"
+    },
+    {
+      "offset": 35936,
+      "value": "o@Y/"
+    },
+    {
+      "offset": 39059,
+      "value": "B8N"
+    },
+    {
+      "offset": 40900,
+      "value": "fz4D"
+    },
+    {
+      "offset": 43859,
+      "value": "CjJQ"
+    },
+    {
+      "offset": 44910,
+      "value": "YRo"
+    },
+    {
+      "offset": 46752,
+      "value": "_ i2-2A"
+    },
+    {
+      "offset": 49483,
+      "value": "RZkK"
+    },
+    {
+      "offset": 51662,
+      "value": "zE_"
+    },
+    {
+      "offset": 51938,
+      "value": "EPDNDH"
+    },
+    {
+      "offset": 55550,
+      "value": "bJ_"
+    },
+    {
+      "offset": 58180,
+      "value": "apz"
+    },
+    {
+      "offset": 58338,
+      "value": "EPDNDJ"
+    },
+    {
+      "offset": 58434,
+      "value": "MZLTJP"
+    },
+    {
+      "offset": 60509,
+      "value": "U_X_"
+    },
+    {
+      "offset": 64533,
+      "value": "D\\\\"
+    },
+    {
+      "offset": 65108,
+      "value": "J@D"
+    },
+    {
+      "offset": 67312,
+      "value": "Cqz"
+    },
+    {
+      "offset": 68437,
+      "value": "Dpx"
+    },
+    {
+      "offset": 71086,
+      "value": "LY_"
+    },
+    {
+      "offset": 74864,
+      "value": "o@eE"
+    },
+    {
+      "offset": 75394,
+      "value": "KTLRLX"
+    },
+    {
+      "offset": 89756,
+      "value": "tKb"
+    },
+    {
+      "offset": 96817,
+      "value": "QD9"
+    },
+    {
+      "offset": 111724,
+      "value": "U@@"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000010000000100000003000000e4000000",
+  "decoded_preview_hex": "e000000018000000000012001400040000000000000008000c001000120000009000000080000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

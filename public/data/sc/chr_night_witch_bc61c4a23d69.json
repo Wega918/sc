@@ -1,0 +1,1479 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_night_witch.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_night_witch.sc",
+  "sha256_container": "bc61c4a23d69f7526b2caabd522e9fe840ce6c9203097f67a6d9f3f31676f8f3",
+  "sha256_descriptor": "c26aa3bbb3556998aebb3612eb263e9d9880e9ab82f12b44109022b454e9cdd3",
+  "sha256_decoded_payload": "7c7fc6c44c0a13cdd829ef3cfd173fc858fb142a784813fa89de3827f104249d",
+  "version": 6,
+  "descriptor_bytes": 8364,
+  "compressed_frame_bytes": 23722,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 232428,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 547
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 125
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 162608
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 36916
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 23728
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 592,
+      "value": "darkWitch_lvl5_summon_3"
+    },
+    {
+      "offset": 652,
+      "value": "darkWitch_lvl5_summon_2"
+    },
+    {
+      "offset": 712,
+      "value": "darkWitch_lvl5_summon_1"
+    },
+    {
+      "offset": 772,
+      "value": "darkWitch_lvl5_run1_3"
+    },
+    {
+      "offset": 832,
+      "value": "darkWitch_lvl5_run1_2"
+    },
+    {
+      "offset": 892,
+      "value": "darkWitch_lvl5_run1_1"
+    },
+    {
+      "offset": 952,
+      "value": "darkWitch_lvl5_idle1_3"
+    },
+    {
+      "offset": 1012,
+      "value": "darkWitch_lvl5_idle1_2"
+    },
+    {
+      "offset": 1072,
+      "value": "darkWitch_lvl5_idle1_1"
+    },
+    {
+      "offset": 1132,
+      "value": "darkWitch_lvl5_attack1_3"
+    },
+    {
+      "offset": 1196,
+      "value": "darkWitch_lvl5_attack1_2"
+    },
+    {
+      "offset": 1260,
+      "value": "darkWitch_lvl5_attack1_1"
+    },
+    {
+      "offset": 1324,
+      "value": "darkWitch_lvl4_summon_3"
+    },
+    {
+      "offset": 1384,
+      "value": "darkWitch_lvl4_summon_2"
+    },
+    {
+      "offset": 1444,
+      "value": "darkWitch_lvl4_summon_1"
+    },
+    {
+      "offset": 1504,
+      "value": "darkWitch_lvl4_run1_3"
+    },
+    {
+      "offset": 1564,
+      "value": "darkWitch_lvl4_run1_2"
+    },
+    {
+      "offset": 1624,
+      "value": "darkWitch_lvl4_run1_1"
+    },
+    {
+      "offset": 1684,
+      "value": "darkWitch_lvl4_idle1_3"
+    },
+    {
+      "offset": 1744,
+      "value": "darkWitch_lvl4_idle1_2"
+    },
+    {
+      "offset": 1804,
+      "value": "darkWitch_lvl4_idle1_1"
+    },
+    {
+      "offset": 1864,
+      "value": "darkWitch_lvl4_attack1_3"
+    },
+    {
+      "offset": 1928,
+      "value": "darkWitch_lvl4_attack1_2"
+    },
+    {
+      "offset": 1992,
+      "value": "darkWitch_lvl4_attack1_1"
+    },
+    {
+      "offset": 2056,
+      "value": "darkWitch_lvl3_summon_3"
+    },
+    {
+      "offset": 2116,
+      "value": "darkWitch_lvl3_summon_2"
+    },
+    {
+      "offset": 2176,
+      "value": "darkWitch_lvl3_summon_1"
+    },
+    {
+      "offset": 2236,
+      "value": "darkWitch_lvl3_run1_3"
+    },
+    {
+      "offset": 2296,
+      "value": "darkWitch_lvl3_run1_2"
+    },
+    {
+      "offset": 2356,
+      "value": "darkWitch_lvl3_run1_1"
+    },
+    {
+      "offset": 2416,
+      "value": "darkWitch_lvl3_idle1_3"
+    },
+    {
+      "offset": 2476,
+      "value": "darkWitch_lvl3_idle1_2"
+    },
+    {
+      "offset": 2536,
+      "value": "darkWitch_lvl3_idle1_1"
+    },
+    {
+      "offset": 2596,
+      "value": "darkWitch_lvl3_attack1_3"
+    },
+    {
+      "offset": 2660,
+      "value": "darkWitch_lvl3_attack1_2"
+    },
+    {
+      "offset": 2724,
+      "value": "darkWitch_lvl3_attack1_1"
+    },
+    {
+      "offset": 2788,
+      "value": "darkWitch_lvl2_summon_3"
+    },
+    {
+      "offset": 2848,
+      "value": "darkWitch_lvl2_summon_2"
+    },
+    {
+      "offset": 2908,
+      "value": "darkWitch_lvl2_summon_1"
+    },
+    {
+      "offset": 2968,
+      "value": "darkWitch_lvl2_run1_3"
+    },
+    {
+      "offset": 3028,
+      "value": "darkWitch_lvl2_run1_2"
+    },
+    {
+      "offset": 3088,
+      "value": "darkWitch_lvl2_run1_1"
+    },
+    {
+      "offset": 3148,
+      "value": "darkWitch_lvl2_idle1_3"
+    },
+    {
+      "offset": 3208,
+      "value": "darkWitch_lvl2_idle1_2"
+    },
+    {
+      "offset": 3268,
+      "value": "darkWitch_lvl2_idle1_1"
+    },
+    {
+      "offset": 3328,
+      "value": "darkWitch_lvl2_attack1_3"
+    },
+    {
+      "offset": 3392,
+      "value": "darkWitch_lvl2_attack1_2"
+    },
+    {
+      "offset": 3456,
+      "value": "darkWitch_lvl2_attack1_1"
+    },
+    {
+      "offset": 3520,
+      "value": "darkWitch_lvl1_summon_3"
+    },
+    {
+      "offset": 3580,
+      "value": "darkWitch_lvl1_summon_2"
+    },
+    {
+      "offset": 3640,
+      "value": "darkWitch_lvl1_summon_1"
+    },
+    {
+      "offset": 3700,
+      "value": "darkWitch_lvl1_run1_3"
+    },
+    {
+      "offset": 3760,
+      "value": "darkWitch_lvl1_run1_2"
+    },
+    {
+      "offset": 3820,
+      "value": "darkWitch_lvl1_run1_1"
+    },
+    {
+      "offset": 3880,
+      "value": "darkWitch_lvl1_idle1_3"
+    },
+    {
+      "offset": 3940,
+      "value": "darkWitch_lvl1_idle1_2"
+    },
+    {
+      "offset": 4000,
+      "value": "darkWitch_lvl1_idle1_1"
+    },
+    {
+      "offset": 4060,
+      "value": "darkWitch_lvl1_attack1_3"
+    },
+    {
+      "offset": 4124,
+      "value": "darkWitch_lvl1_attack1_2"
+    },
+    {
+      "offset": 4188,
+      "value": "darkWitch_lvl1_attack1_1"
+    },
+    {
+      "offset": 4252,
+      "value": "darkWitch_ability_lvl5_summon_3"
+    },
+    {
+      "offset": 4320,
+      "value": "darkWitch_ability_lvl5_summon_2"
+    },
+    {
+      "offset": 4388,
+      "value": "darkWitch_ability_lvl5_summon_1"
+    },
+    {
+      "offset": 4456,
+      "value": "darkWitch_ability_lvl5_run1_3"
+    },
+    {
+      "offset": 4524,
+      "value": "darkWitch_ability_lvl5_run1_2"
+    },
+    {
+      "offset": 4592,
+      "value": "darkWitch_ability_lvl5_run1_1"
+    },
+    {
+      "offset": 4660,
+      "value": "darkWitch_ability_lvl5_idle1_3"
+    },
+    {
+      "offset": 4728,
+      "value": "darkWitch_ability_lvl5_idle1_2"
+    },
+    {
+      "offset": 4796,
+      "value": "darkWitch_ability_lvl5_idle1_1"
+    },
+    {
+      "offset": 4864,
+      "value": "darkWitch_ability_lvl5_attack1_3"
+    },
+    {
+      "offset": 4936,
+      "value": "darkWitch_ability_lvl5_attack1_2"
+    },
+    {
+      "offset": 5002,
+      "value": "aF "
+    },
+    {
+      "offset": 5008,
+      "value": "darkWitch_ability_lvl5_attack1_1"
+    },
+    {
+      "offset": 5080,
+      "value": "darkWitch_ability_lvl4_summon_3"
+    },
+    {
+      "offset": 5148,
+      "value": "darkWitch_ability_lvl4_summon_2"
+    },
+    {
+      "offset": 5216,
+      "value": "darkWitch_ability_lvl4_summon_1"
+    },
+    {
+      "offset": 5284,
+      "value": "darkWitch_ability_lvl4_run1_3"
+    },
+    {
+      "offset": 5352,
+      "value": "darkWitch_ability_lvl4_run1_2"
+    },
+    {
+      "offset": 5420,
+      "value": "darkWitch_ability_lvl4_run1_1"
+    },
+    {
+      "offset": 5488,
+      "value": "darkWitch_ability_lvl4_idle1_3"
+    },
+    {
+      "offset": 5556,
+      "value": "darkWitch_ability_lvl4_idle1_2"
+    },
+    {
+      "offset": 5624,
+      "value": "darkWitch_ability_lvl4_idle1_1"
+    },
+    {
+      "offset": 5692,
+      "value": "darkWitch_ability_lvl4_attack1_3"
+    },
+    {
+      "offset": 5764,
+      "value": "darkWitch_ability_lvl4_attack1_2"
+    },
+    {
+      "offset": 5836,
+      "value": "darkWitch_ability_lvl4_attack1_1"
+    },
+    {
+      "offset": 5908,
+      "value": "darkWitch_ability_lvl3_summon_3"
+    },
+    {
+      "offset": 5976,
+      "value": "darkWitch_ability_lvl3_summon_2"
+    },
+    {
+      "offset": 6044,
+      "value": "darkWitch_ability_lvl3_summon_1"
+    },
+    {
+      "offset": 6112,
+      "value": "darkWitch_ability_lvl3_run1_3"
+    },
+    {
+      "offset": 6180,
+      "value": "darkWitch_ability_lvl3_run1_2"
+    },
+    {
+      "offset": 6248,
+      "value": "darkWitch_ability_lvl3_run1_1"
+    },
+    {
+      "offset": 6316,
+      "value": "darkWitch_ability_lvl3_idle1_3"
+    },
+    {
+      "offset": 6384,
+      "value": "darkWitch_ability_lvl3_idle1_2"
+    },
+    {
+      "offset": 6452,
+      "value": "darkWitch_ability_lvl3_idle1_1"
+    },
+    {
+      "offset": 6520,
+      "value": "darkWitch_ability_lvl3_attack1_3"
+    },
+    {
+      "offset": 6592,
+      "value": "darkWitch_ability_lvl3_attack1_2"
+    },
+    {
+      "offset": 6664,
+      "value": "darkWitch_ability_lvl3_attack1_1"
+    },
+    {
+      "offset": 6736,
+      "value": "darkWitch_ability_lvl2_summon_3"
+    },
+    {
+      "offset": 6804,
+      "value": "darkWitch_ability_lvl2_summon_2"
+    },
+    {
+      "offset": 6872,
+      "value": "darkWitch_ability_lvl2_summon_1"
+    },
+    {
+      "offset": 6940,
+      "value": "darkWitch_ability_lvl2_run1_3"
+    },
+    {
+      "offset": 7008,
+      "value": "darkWitch_ability_lvl2_run1_2"
+    },
+    {
+      "offset": 7076,
+      "value": "darkWitch_ability_lvl2_run1_1"
+    },
+    {
+      "offset": 7144,
+      "value": "darkWitch_ability_lvl2_idle1_3"
+    },
+    {
+      "offset": 7212,
+      "value": "darkWitch_ability_lvl2_idle1_2"
+    },
+    {
+      "offset": 7280,
+      "value": "darkWitch_ability_lvl2_idle1_1"
+    },
+    {
+      "offset": 7348,
+      "value": "darkWitch_ability_lvl2_attack1_3"
+    },
+    {
+      "offset": 7420,
+      "value": "darkWitch_ability_lvl2_attack1_2"
+    },
+    {
+      "offset": 7492,
+      "value": "darkWitch_ability_lvl2_attack1_1"
+    },
+    {
+      "offset": 7564,
+      "value": "darkWitch_ability_lvl1_summon_3"
+    },
+    {
+      "offset": 7632,
+      "value": "darkWitch_ability_lvl1_summon_2"
+    },
+    {
+      "offset": 7700,
+      "value": "darkWitch_ability_lvl1_summon_1"
+    },
+    {
+      "offset": 7768,
+      "value": "darkWitch_ability_lvl1_run1_3"
+    },
+    {
+      "offset": 7836,
+      "value": "darkWitch_ability_lvl1_run1_2"
+    },
+    {
+      "offset": 7904,
+      "value": "darkWitch_ability_lvl1_run1_1"
+    },
+    {
+      "offset": 7972,
+      "value": "darkWitch_ability_lvl1_idle1_3"
+    },
+    {
+      "offset": 8040,
+      "value": "darkWitch_ability_lvl1_idle1_2"
+    },
+    {
+      "offset": 8108,
+      "value": "darkWitch_ability_lvl1_idle1_1"
+    },
+    {
+      "offset": 8176,
+      "value": "darkWitch_ability_lvl1_attack1_3"
+    },
+    {
+      "offset": 8248,
+      "value": "darkWitch_ability_lvl1_attack1_2"
+    },
+    {
+      "offset": 8328,
+      "value": "darkWitch_ability_lvl1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "darkWitch_lvl5_summon_3",
+    "darkWitch_lvl5_summon_2",
+    "darkWitch_lvl5_summon_1",
+    "darkWitch_lvl5_run1_3",
+    "darkWitch_lvl5_run1_2",
+    "darkWitch_lvl5_run1_1",
+    "darkWitch_lvl5_idle1_3",
+    "darkWitch_lvl5_idle1_2",
+    "darkWitch_lvl5_idle1_1",
+    "darkWitch_lvl5_attack1_3",
+    "darkWitch_lvl5_attack1_2",
+    "darkWitch_lvl5_attack1_1",
+    "darkWitch_lvl4_summon_3",
+    "darkWitch_lvl4_summon_2",
+    "darkWitch_lvl4_summon_1",
+    "darkWitch_lvl4_run1_3",
+    "darkWitch_lvl4_run1_2",
+    "darkWitch_lvl4_run1_1",
+    "darkWitch_lvl4_idle1_3",
+    "darkWitch_lvl4_idle1_2",
+    "darkWitch_lvl4_idle1_1",
+    "darkWitch_lvl4_attack1_3",
+    "darkWitch_lvl4_attack1_2",
+    "darkWitch_lvl4_attack1_1",
+    "darkWitch_lvl3_summon_3",
+    "darkWitch_lvl3_summon_2",
+    "darkWitch_lvl3_summon_1",
+    "darkWitch_lvl3_run1_3",
+    "darkWitch_lvl3_run1_2",
+    "darkWitch_lvl3_run1_1",
+    "darkWitch_lvl3_idle1_3",
+    "darkWitch_lvl3_idle1_2",
+    "darkWitch_lvl3_idle1_1",
+    "darkWitch_lvl3_attack1_3",
+    "darkWitch_lvl3_attack1_2",
+    "darkWitch_lvl3_attack1_1",
+    "darkWitch_lvl2_summon_3",
+    "darkWitch_lvl2_summon_2",
+    "darkWitch_lvl2_summon_1",
+    "darkWitch_lvl2_run1_3",
+    "darkWitch_lvl2_run1_2",
+    "darkWitch_lvl2_run1_1",
+    "darkWitch_lvl2_idle1_3",
+    "darkWitch_lvl2_idle1_2",
+    "darkWitch_lvl2_idle1_1",
+    "darkWitch_lvl2_attack1_3",
+    "darkWitch_lvl2_attack1_2",
+    "darkWitch_lvl2_attack1_1",
+    "darkWitch_lvl1_summon_3",
+    "darkWitch_lvl1_summon_2",
+    "darkWitch_lvl1_summon_1",
+    "darkWitch_lvl1_run1_3",
+    "darkWitch_lvl1_run1_2",
+    "darkWitch_lvl1_run1_1",
+    "darkWitch_lvl1_idle1_3",
+    "darkWitch_lvl1_idle1_2",
+    "darkWitch_lvl1_idle1_1",
+    "darkWitch_lvl1_attack1_3",
+    "darkWitch_lvl1_attack1_2",
+    "darkWitch_lvl1_attack1_1",
+    "darkWitch_ability_lvl5_summon_3",
+    "darkWitch_ability_lvl5_summon_2",
+    "darkWitch_ability_lvl5_summon_1",
+    "darkWitch_ability_lvl5_run1_3",
+    "darkWitch_ability_lvl5_run1_2",
+    "darkWitch_ability_lvl5_run1_1",
+    "darkWitch_ability_lvl5_idle1_3",
+    "darkWitch_ability_lvl5_idle1_2",
+    "darkWitch_ability_lvl5_idle1_1",
+    "darkWitch_ability_lvl5_attack1_3",
+    "darkWitch_ability_lvl5_attack1_2",
+    "aF ",
+    "darkWitch_ability_lvl5_attack1_1",
+    "darkWitch_ability_lvl4_summon_3",
+    "darkWitch_ability_lvl4_summon_2",
+    "darkWitch_ability_lvl4_summon_1",
+    "darkWitch_ability_lvl4_run1_3",
+    "darkWitch_ability_lvl4_run1_2",
+    "darkWitch_ability_lvl4_run1_1",
+    "darkWitch_ability_lvl4_idle1_3",
+    "darkWitch_ability_lvl4_idle1_2",
+    "darkWitch_ability_lvl4_idle1_1",
+    "darkWitch_ability_lvl4_attack1_3",
+    "darkWitch_ability_lvl4_attack1_2",
+    "darkWitch_ability_lvl4_attack1_1",
+    "darkWitch_ability_lvl3_summon_3",
+    "darkWitch_ability_lvl3_summon_2",
+    "darkWitch_ability_lvl3_summon_1",
+    "darkWitch_ability_lvl3_run1_3",
+    "darkWitch_ability_lvl3_run1_2",
+    "darkWitch_ability_lvl3_run1_1",
+    "darkWitch_ability_lvl3_idle1_3",
+    "darkWitch_ability_lvl3_idle1_2",
+    "darkWitch_ability_lvl3_idle1_1",
+    "darkWitch_ability_lvl3_attack1_3",
+    "darkWitch_ability_lvl3_attack1_2",
+    "darkWitch_ability_lvl3_attack1_1",
+    "darkWitch_ability_lvl2_summon_3",
+    "darkWitch_ability_lvl2_summon_2",
+    "darkWitch_ability_lvl2_summon_1",
+    "darkWitch_ability_lvl2_run1_3",
+    "darkWitch_ability_lvl2_run1_2",
+    "darkWitch_ability_lvl2_run1_1",
+    "darkWitch_ability_lvl2_idle1_3",
+    "darkWitch_ability_lvl2_idle1_2",
+    "darkWitch_ability_lvl2_idle1_1",
+    "darkWitch_ability_lvl2_attack1_3",
+    "darkWitch_ability_lvl2_attack1_2",
+    "darkWitch_ability_lvl2_attack1_1",
+    "darkWitch_ability_lvl1_summon_3",
+    "darkWitch_ability_lvl1_summon_2",
+    "darkWitch_ability_lvl1_summon_1",
+    "darkWitch_ability_lvl1_run1_3",
+    "darkWitch_ability_lvl1_run1_2",
+    "darkWitch_ability_lvl1_run1_1",
+    "darkWitch_ability_lvl1_idle1_3",
+    "darkWitch_ability_lvl1_idle1_2",
+    "darkWitch_ability_lvl1_idle1_1",
+    "darkWitch_ability_lvl1_attack1_3",
+    "darkWitch_ability_lvl1_attack1_2",
+    "darkWitch_ability_lvl1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 7152,
+      "value": "ffFA"
+    },
+    {
+      "offset": 7365,
+      "value": "N\\233kA"
+    },
+    {
+      "offset": 13680,
+      "value": "ffFA"
+    },
+    {
+      "offset": 13752,
+      "value": "ffFA"
+    },
+    {
+      "offset": 13764,
+      "value": "ffFA"
+    },
+    {
+      "offset": 14805,
+      "value": "ceA"
+    },
+    {
+      "offset": 15214,
+      "value": "S\\ffNA"
+    },
+    {
+      "offset": 16797,
+      "value": "Ph3"
+    },
+    {
+      "offset": 19020,
+      "value": "ffFA"
+    },
+    {
+      "offset": 22740,
+      "value": "ffFA"
+    },
+    {
+      "offset": 23001,
+      "value": "N\\233kA"
+    },
+    {
+      "offset": 30708,
+      "value": "ffFA"
+    },
+    {
+      "offset": 30780,
+      "value": "ffFA"
+    },
+    {
+      "offset": 30792,
+      "value": "ffFA"
+    },
+    {
+      "offset": 32337,
+      "value": "ceA"
+    },
+    {
+      "offset": 32842,
+      "value": "S\\ffNA"
+    },
+    {
+      "offset": 34188,
+      "value": "ffFA"
+    },
+    {
+      "offset": 34260,
+      "value": "ffFA"
+    },
+    {
+      "offset": 34272,
+      "value": "ffFA"
+    },
+    {
+      "offset": 35289,
+      "value": "Ph3"
+    },
+    {
+      "offset": 36876,
+      "value": "ffFA"
+    },
+    {
+      "offset": 36948,
+      "value": "ffFA"
+    },
+    {
+      "offset": 36960,
+      "value": "ffFA"
+    },
+    {
+      "offset": 38472,
+      "value": "ffFA"
+    },
+    {
+      "offset": 41784,
+      "value": "ffFA"
+    },
+    {
+      "offset": 47544,
+      "value": "ffFA"
+    },
+    {
+      "offset": 47616,
+      "value": "ffFA"
+    },
+    {
+      "offset": 47628,
+      "value": "ffFA"
+    },
+    {
+      "offset": 48717,
+      "value": "ceA"
+    },
+    {
+      "offset": 49126,
+      "value": "S\\ffNA"
+    },
+    {
+      "offset": 50232,
+      "value": "ffFA"
+    },
+    {
+      "offset": 50304,
+      "value": "ffFA"
+    },
+    {
+      "offset": 50316,
+      "value": "ffFA"
+    },
+    {
+      "offset": 51141,
+      "value": "Ph3"
+    },
+    {
+      "offset": 52440,
+      "value": "ffFA"
+    },
+    {
+      "offset": 52512,
+      "value": "ffFA"
+    },
+    {
+      "offset": 52524,
+      "value": "ffFA"
+    },
+    {
+      "offset": 53580,
+      "value": "ffFA"
+    },
+    {
+      "offset": 56052,
+      "value": "ffFA"
+    },
+    {
+      "offset": 56217,
+      "value": "N\\233kA"
+    },
+    {
+      "offset": 61332,
+      "value": "ffFA"
+    },
+    {
+      "offset": 61404,
+      "value": "ffFA"
+    },
+    {
+      "offset": 61416,
+      "value": "ffFA"
+    },
+    {
+      "offset": 62433,
+      "value": "ceA"
+    },
+    {
+      "offset": 62746,
+      "value": "S\\ffNA"
+    },
+    {
+      "offset": 63612,
+      "value": "ffFA"
+    },
+    {
+      "offset": 63684,
+      "value": "ffFA"
+    },
+    {
+      "offset": 63696,
+      "value": "ffFA"
+    },
+    {
+      "offset": 64329,
+      "value": "Ph3"
+    },
+    {
+      "offset": 65340,
+      "value": "ffFA"
+    },
+    {
+      "offset": 65412,
+      "value": "ffFA"
+    },
+    {
+      "offset": 65424,
+      "value": "ffFA"
+    },
+    {
+      "offset": 66408,
+      "value": "ffFA"
+    },
+    {
+      "offset": 68304,
+      "value": "ffFA"
+    },
+    {
+      "offset": 68421,
+      "value": "N\\233kA"
+    },
+    {
+      "offset": 72144,
+      "value": "ffFA"
+    },
+    {
+      "offset": 73800,
+      "value": "ffFA"
+    },
+    {
+      "offset": 74325,
+      "value": "Ph3"
+    },
+    {
+      "offset": 75048,
+      "value": "ffFA"
+    },
+    {
+      "offset": 75828,
+      "value": "ffFA"
+    },
+    {
+      "offset": 77820,
+      "value": "ffFA"
+    },
+    {
+      "offset": 82332,
+      "value": "ffFA"
+    },
+    {
+      "offset": 82404,
+      "value": "ffFA"
+    },
+    {
+      "offset": 82416,
+      "value": "ffFA"
+    },
+    {
+      "offset": 83097,
+      "value": "ceA"
+    },
+    {
+      "offset": 83410,
+      "value": "S\\ffNA"
+    },
+    {
+      "offset": 84657,
+      "value": "Ph3"
+    },
+    {
+      "offset": 86400,
+      "value": "ffFA"
+    },
+    {
+      "offset": 88296,
+      "value": "ffFA"
+    },
+    {
+      "offset": 88413,
+      "value": "N\\233kA"
+    },
+    {
+      "offset": 92136,
+      "value": "ffFA"
+    },
+    {
+      "offset": 92208,
+      "value": "ffFA"
+    },
+    {
+      "offset": 92220,
+      "value": "ffFA"
+    },
+    {
+      "offset": 92829,
+      "value": "ceA"
+    },
+    {
+      "offset": 93046,
+      "value": "S\\ffNA"
+    },
+    {
+      "offset": 93957,
+      "value": "Ph3"
+    },
+    {
+      "offset": 95220,
+      "value": "ffFA"
+    },
+    {
+      "offset": 95916,
+      "value": "ffFA"
+    },
+    {
+      "offset": 96756,
+      "value": "ffFA"
+    },
+    {
+      "offset": 96825,
+      "value": "N\\233kA"
+    },
+    {
+      "offset": 99441,
+      "value": "Ph3"
+    },
+    {
+      "offset": 100224,
+      "value": "ffFA"
+    },
+    {
+      "offset": 158632,
+      "value": "ability"
+    },
+    {
+      "offset": 158644,
+      "value": "darkWitch_ability_lvl1_summon_1"
+    },
+    {
+      "offset": 158680,
+      "value": "darkWitch_lvl1_summon_1"
+    },
+    {
+      "offset": 158708,
+      "value": "darkWitch_lvl2_attack1_1"
+    },
+    {
+      "offset": 158740,
+      "value": "darkWitch_lvl1_attack1_3"
+    },
+    {
+      "offset": 158772,
+      "value": "darkWitch_ability_lvl4_attack1_1"
+    },
+    {
+      "offset": 158812,
+      "value": "darkWitch_ability_lvl1_run1_1"
+    },
+    {
+      "offset": 158848,
+      "value": "darkWitch_ability_lvl4_summon_2"
+    },
+    {
+      "offset": 158884,
+      "value": "darkWitch_ability_lvl4_summon_3"
+    },
+    {
+      "offset": 158920,
+      "value": "darkWitch_ability_lvl5_run1_3"
+    },
+    {
+      "offset": 158956,
+      "value": "darkWitch_lvl5_summon_3"
+    },
+    {
+      "offset": 158984,
+      "value": "darkWitch_ability_lvl1_idle1_1"
+    },
+    {
+      "offset": 159020,
+      "value": "darkWitch_lvl3_run1_2"
+    },
+    {
+      "offset": 159048,
+      "value": "darkWitch_ability_lvl2_run1_3"
+    },
+    {
+      "offset": 159084,
+      "value": "darkWitch_lvl5_idle1_3"
+    },
+    {
+      "offset": 159112,
+      "value": "darkWitch_lvl4_summon_2"
+    },
+    {
+      "offset": 159140,
+      "value": "darkWitch_lvl4_run1_1"
+    },
+    {
+      "offset": 159168,
+      "value": "darkWitch_lvl2_summon_1"
+    },
+    {
+      "offset": 159196,
+      "value": "darkWitch_ability_lvl1_idle1_3"
+    },
+    {
+      "offset": 159232,
+      "value": "darkWitch_ability_lvl3_idle1_3"
+    },
+    {
+      "offset": 159268,
+      "value": "darkWitch_lvl4_idle1_2"
+    },
+    {
+      "offset": 159296,
+      "value": "darkWitch_ability_lvl4_attack1_3"
+    },
+    {
+      "offset": 159336,
+      "value": "darkWitch_lvl4_idle1_3"
+    },
+    {
+      "offset": 159364,
+      "value": "darkWitch_ability_lvl1_run1_3"
+    },
+    {
+      "offset": 159400,
+      "value": "darkWitch_lvl4_attack1_2"
+    },
+    {
+      "offset": 159432,
+      "value": "darkWitch_ability_lvl1_run1_2"
+    },
+    {
+      "offset": 159468,
+      "value": "darkWitch_lvl4_attack1_1"
+    },
+    {
+      "offset": 159500,
+      "value": "darkWitch_ability_lvl2_summon_1"
+    },
+    {
+      "offset": 159536,
+      "value": "darkWitch_ability_lvl2_summon_3"
+    },
+    {
+      "offset": 159572,
+      "value": "darkWitch_lvl3_summon_3"
+    },
+    {
+      "offset": 159600,
+      "value": "darkWitch_lvl1_run1_1"
+    },
+    {
+      "offset": 159628,
+      "value": "darkWitch_lvl4_idle1_1"
+    },
+    {
+      "offset": 159656,
+      "value": "darkWitch_lvl3_run1_3"
+    },
+    {
+      "offset": 159684,
+      "value": "darkWitch_lvl3_run1_1"
+    },
+    {
+      "offset": 159712,
+      "value": "darkWitch_ability_lvl1_attack1_2"
+    },
+    {
+      "offset": 159752,
+      "value": "darkWitch_ability_lvl2_attack1_3"
+    },
+    {
+      "offset": 159792,
+      "value": "darkWitch_lvl3_idle1_3"
+    },
+    {
+      "offset": 159820,
+      "value": "darkWitch_ability_lvl1_attack1_1"
+    },
+    {
+      "offset": 159860,
+      "value": "darkWitch_ability_lvl3_summon_2"
+    },
+    {
+      "offset": 159896,
+      "value": "darkWitch_lvl2_run1_1"
+    },
+    {
+      "offset": 159924,
+      "value": "darkWitch_lvl2_idle1_1"
+    },
+    {
+      "offset": 159952,
+      "value": "darkWitch_lvl3_attack1_2"
+    },
+    {
+      "offset": 159984,
+      "value": "darkWitch_ability_lvl5_attack1_3"
+    },
+    {
+      "offset": 160024,
+      "value": "darkWitch_ability_lvl1_summon_2"
+    },
+    {
+      "offset": 160060,
+      "value": "darkWitch_ability_lvl3_summon_3"
+    },
+    {
+      "offset": 160096,
+      "value": "darkWitch_lvl3_summon_2"
+    },
+    {
+      "offset": 160124,
+      "value": "darkWitch_lvl1_run1_2"
+    },
+    {
+      "offset": 160152,
+      "value": "darkWitch_lvl3_attack1_3"
+    },
+    {
+      "offset": 160184,
+      "value": "darkWitch_lvl1_summon_3"
+    },
+    {
+      "offset": 160212,
+      "value": "darkWitch_ability_lvl5_idle1_3"
+    },
+    {
+      "offset": 160248,
+      "value": "darkWitch_lvl1_summon_2"
+    },
+    {
+      "offset": 160276,
+      "value": "darkWitch_lvl2_summon_2"
+    },
+    {
+      "offset": 160304,
+      "value": "darkWitch_lvl3_summon_1"
+    },
+    {
+      "offset": 160332,
+      "value": "darkWitch_lvl2_idle1_2"
+    },
+    {
+      "offset": 160360,
+      "value": "darkWitch_ability_lvl3_attack1_1"
+    },
+    {
+      "offset": 160400,
+      "value": "darkWitch_lvl1_idle1_2"
+    },
+    {
+      "offset": 160428,
+      "value": "darkWitch_lvl5_run1_3"
+    },
+    {
+      "offset": 160456,
+      "value": "darkWitch_lvl4_summon_3"
+    },
+    {
+      "offset": 160484,
+      "value": "darkWitch_lvl1_idle1_3"
+    },
+    {
+      "offset": 160512,
+      "value": "darkWitch_ability_lvl3_attack1_2"
+    },
+    {
+      "offset": 160552,
+      "value": "darkWitch_lvl3_idle1_1"
+    },
+    {
+      "offset": 160580,
+      "value": "darkWitch_lvl4_run1_2"
+    },
+    {
+      "offset": 160608,
+      "value": "darkWitch_lvl1_attack1_1"
+    },
+    {
+      "offset": 160640,
+      "value": "darkWitch_ability_lvl5_summon_1"
+    },
+    {
+      "offset": 160676,
+      "value": "darkWitch_lvl2_attack1_2"
+    },
+    {
+      "offset": 160708,
+      "value": "darkWitch_lvl4_run1_3"
+    },
+    {
+      "offset": 160736,
+      "value": "darkWitch_lvl1_run1_3"
+    },
+    {
+      "offset": 160764,
+      "value": "darkWitch_lvl1_idle1_1"
+    },
+    {
+      "offset": 160792,
+      "value": "darkWitch_ability_lvl3_summon_1"
+    },
+    {
+      "offset": 160828,
+      "value": "darkWitch_ability_lvl1_idle1_2"
+    },
+    {
+      "offset": 160864,
+      "value": "darkWitch_lvl4_attack1_3"
+    },
+    {
+      "offset": 160896,
+      "value": "darkWitch_lvl2_attack1_3"
+    },
+    {
+      "offset": 160928,
+      "value": "darkWitch_lvl2_run1_2"
+    },
+    {
+      "offset": 160956,
+      "value": "darkWitch_ability_lvl1_attack1_3"
+    },
+    {
+      "offset": 160996,
+      "value": "darkWitch_lvl2_summon_3"
+    },
+    {
+      "offset": 161024,
+      "value": "darkWitch_lvl5_run1_1"
+    },
+    {
+      "offset": 161052,
+      "value": "darkWitch_lvl1_attack1_2"
+    },
+    {
+      "offset": 161084,
+      "value": "darkWitch_lvl5_attack1_2"
+    },
+    {
+      "offset": 161116,
+      "value": "darkWitch_lvl2_run1_3"
+    },
+    {
+      "offset": 161144,
+      "value": "darkWitch_lvl3_idle1_2"
+    },
+    {
+      "offset": 161172,
+      "value": "darkWitch_lvl2_idle1_3"
+    },
+    {
+      "offset": 161200,
+      "value": "darkWitch_ability_lvl2_idle1_1"
+    },
+    {
+      "offset": 161236,
+      "value": "darkWitch_lvl4_summon_1"
+    },
+    {
+      "offset": 161264,
+      "value": "darkWitch_lvl3_attack1_1"
+    },
+    {
+      "offset": 161296,
+      "value": "darkWitch_ability_lvl1_summon_3"
+    },
+    {
+      "offset": 161332,
+      "value": "darkWitch_ability_lvl5_attack1_2"
+    },
+    {
+      "offset": 161372,
+      "value": "darkWitch_ability_lvl2_attack1_1"
+    },
+    {
+      "offset": 161412,
+      "value": "darkWitch_ability_lvl2_idle1_3"
+    },
+    {
+      "offset": 161448,
+      "value": "darkWitch_ability_lvl2_attack1_2"
+    },
+    {
+      "offset": 161488,
+      "value": "darkWitch_ability_lvl2_idle1_2"
+    },
+    {
+      "offset": 161524,
+      "value": "darkWitch_ability_lvl2_run1_1"
+    },
+    {
+      "offset": 161560,
+      "value": "darkWitch_ability_lvl2_run1_2"
+    },
+    {
+      "offset": 161596,
+      "value": "darkWitch_ability_lvl2_summon_2"
+    },
+    {
+      "offset": 161632,
+      "value": "darkWitch_ability_lvl5_idle1_1"
+    },
+    {
+      "offset": 161668,
+      "value": "darkWitch_ability_lvl3_attack1_3"
+    },
+    {
+      "offset": 161708,
+      "value": "darkWitch_ability_lvl3_idle1_1"
+    },
+    {
+      "offset": 161744,
+      "value": "darkWitch_ability_lvl3_idle1_2"
+    },
+    {
+      "offset": 161780,
+      "value": "darkWitch_ability_lvl3_run1_1"
+    },
+    {
+      "offset": 161816,
+      "value": "darkWitch_ability_lvl3_run1_2"
+    },
+    {
+      "offset": 161852,
+      "value": "darkWitch_ability_lvl4_run1_2"
+    },
+    {
+      "offset": 161888,
+      "value": "darkWitch_ability_lvl3_run1_3"
+    },
+    {
+      "offset": 161924,
+      "value": "darkWitch_ability_lvl4_attack1_2"
+    },
+    {
+      "offset": 161964,
+      "value": "darkWitch_ability_lvl4_idle1_1"
+    },
+    {
+      "offset": 162000,
+      "value": "darkWitch_ability_lvl4_idle1_2"
+    },
+    {
+      "offset": 162036,
+      "value": "darkWitch_ability_lvl4_idle1_3"
+    },
+    {
+      "offset": 162072,
+      "value": "darkWitch_lvl5_summon_2"
+    },
+    {
+      "offset": 162100,
+      "value": "darkWitch_ability_lvl4_run1_1"
+    },
+    {
+      "offset": 162136,
+      "value": "darkWitch_ability_lvl4_run1_3"
+    },
+    {
+      "offset": 162172,
+      "value": "darkWitch_ability_lvl4_summon_1"
+    },
+    {
+      "offset": 162208,
+      "value": "darkWitch_ability_lvl5_attack1_1"
+    },
+    {
+      "offset": 162248,
+      "value": "darkWitch_ability_lvl5_idle1_2"
+    },
+    {
+      "offset": 162284,
+      "value": "darkWitch_ability_lvl5_run1_1"
+    },
+    {
+      "offset": 162320,
+      "value": "darkWitch_ability_lvl5_run1_2"
+    },
+    {
+      "offset": 162356,
+      "value": "darkWitch_ability_lvl5_summon_2"
+    },
+    {
+      "offset": 162392,
+      "value": "darkWitch_ability_lvl5_summon_3"
+    },
+    {
+      "offset": 162428,
+      "value": "darkWitch_lvl5_attack1_1"
+    },
+    {
+      "offset": 162460,
+      "value": "darkWitch_lvl5_attack1_3"
+    },
+    {
+      "offset": 162492,
+      "value": "darkWitch_lvl5_idle1_1"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000230200007d00000001000000307b020034900000",
+  "decoded_preview_hex": "2c7b020018000000000012001400040000000000000008000c00100012000000986902004c8b0100a414000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

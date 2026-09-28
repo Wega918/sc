@@ -1,0 +1,148 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_hog_glider.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_hog_glider.sc",
+  "sha256_container": "6da7ee2ac35cfd4b06c0371816fc3314a5ebeaa8a400915cb1d6fee0557fed11",
+  "sha256_descriptor": "a4f8f081b3a4a81d8758c6b72ec07e97d86eca54cd4ef1e20050b478dafa6da3",
+  "sha256_decoded_payload": "aafe625bbb5f93f96d9c939b37d768f7643d4d0fbbb65db47554a16762004c77",
+  "version": 6,
+  "descriptor_bytes": 148,
+  "compressed_frame_bytes": 38373,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 83832,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 220
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 83352
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 38376
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "unit_hog_glider_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_hog_glider_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 87,
+      "value": "Bbg"
+    },
+    {
+      "offset": 131,
+      "value": "CffZC"
+    },
+    {
+      "offset": 154,
+      "value": "mCffZC"
+    },
+    {
+      "offset": 192,
+      "value": "unit_hog_glider_big"
+    },
+    {
+      "offset": 2476,
+      "value": "h+I2Z"
+    },
+    {
+      "offset": 7660,
+      "value": "I\\i"
+    },
+    {
+      "offset": 8525,
+      "value": "oDpX"
+    },
+    {
+      "offset": 16734,
+      "value": "hHv"
+    },
+    {
+      "offset": 23821,
+      "value": "xnk"
+    },
+    {
+      "offset": 25166,
+      "value": "p@n"
+    },
+    {
+      "offset": 33206,
+      "value": "jBCI"
+    },
+    {
+      "offset": 38758,
+      "value": "IPo"
+    },
+    {
+      "offset": 41123,
+      "value": "Tq@@"
+    },
+    {
+      "offset": 45958,
+      "value": "qxO"
+    },
+    {
+      "offset": 58358,
+      "value": "hJ_"
+    },
+    {
+      "offset": 60818,
+      "value": "u +D"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000001000000010000000100000003000000dc000000",
+  "decoded_preview_hex": "d800000018000000000012001400040000000000000008000c001000120000009000000080000000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

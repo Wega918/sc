@@ -1,0 +1,242 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "event_content.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\event_content.sc",
+  "sha256_container": "e04b2304bb72db6121fca1844862c551ab26494868042fe6d3d6c69aed7f7522",
+  "sha256_descriptor": "f81e4b103c33b09d0862f85ed60d78707eb106f13d33c550fddc52b99babc4d1",
+  "sha256_decoded_payload": "0d5a360b102956cfd8bc8acb3298a932b22589089b4d1268aeff1d168a6a2ff0",
+  "version": 6,
+  "descriptor_bytes": 228,
+  "compressed_frame_bytes": 43570,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 71744,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 12
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 10
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 13
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 4364
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 64664
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 43576
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "event_entry_valkyrie_upcoming"
+    },
+    {
+      "offset": 204,
+      "value": "event_entry_valkyrie"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "event_entry_valkyrie_upcoming",
+    "event_entry_valkyrie"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 604,
+      "value": "ffv@"
+    },
+    {
+      "offset": 964,
+      "value": "ffF@"
+    },
+    {
+      "offset": 3988,
+      "value": "value_container"
+    },
+    {
+      "offset": 4008,
+      "value": "button2"
+    },
+    {
+      "offset": 4020,
+      "value": "button"
+    },
+    {
+      "offset": 4032,
+      "value": "event_text"
+    },
+    {
+      "offset": 4048,
+      "value": "top"
+    },
+    {
+      "offset": 4056,
+      "value": "bottom"
+    },
+    {
+      "offset": 4068,
+      "value": "middle"
+    },
+    {
+      "offset": 4080,
+      "value": "title"
+    },
+    {
+      "offset": 4092,
+      "value": "value2"
+    },
+    {
+      "offset": 4104,
+      "value": "value1"
+    },
+    {
+      "offset": 4116,
+      "value": "icon2"
+    },
+    {
+      "offset": 4128,
+      "value": "icon1"
+    },
+    {
+      "offset": 4140,
+      "value": "badge"
+    },
+    {
+      "offset": 4152,
+      "value": "news_button"
+    },
+    {
+      "offset": 4168,
+      "value": "entry_number"
+    },
+    {
+      "offset": 4188,
+      "value": "event_title"
+    },
+    {
+      "offset": 4204,
+      "value": "TID_EVENT_TIME_LEFT"
+    },
+    {
+      "offset": 4228,
+      "value": "time"
+    },
+    {
+      "offset": 4240,
+      "value": "image"
+    },
+    {
+      "offset": 4252,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 4272,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 4296,
+      "value": "event_entry_valkyrie"
+    },
+    {
+      "offset": 4324,
+      "value": "event_entry_valkyrie_upcoming"
+    },
+    {
+      "offset": 7578,
+      "value": "V6R"
+    },
+    {
+      "offset": 30494,
+      "value": "Vxc"
+    },
+    {
+      "offset": 42471,
+      "value": "fFas1"
+    },
+    {
+      "offset": 56061,
+      "value": "iYZs"
+    },
+    {
+      "offset": 56607,
+      "value": "rBh"
+    },
+    {
+      "offset": 58612,
+      "value": "J_EH"
+    },
+    {
+      "offset": 58628,
+      "value": "J_EH"
+    },
+    {
+      "offset": 69508,
+      "value": "ZmEB"
+    },
+    {
+      "offset": 70260,
+      "value": "BWKF"
+    },
+    {
+      "offset": 70276,
+      "value": "ZmEB"
+    },
+    {
+      "offset": 71028,
+      "value": "BWKF"
+    },
+    {
+      "offset": 71044,
+      "value": "ZmEB"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c003000040008000c0010001400180000001c002000240028002c001c00000001000000010000000c0000000a000000010000000d00000003000000",
+  "decoded_preview_hex": "0811000018000000000012001400040000000000000008000c001000120000000c0f0000f40c0000bc06000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

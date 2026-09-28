@@ -1,0 +1,182 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_goblin_elite.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_goblin_elite.sc",
+  "sha256_container": "a6460573b65a49889f6a458612505028054d0bdaf2457c5e0d836b90879929ac",
+  "sha256_descriptor": "a602b01fb2b7464a986f6111f99a3d85ac8825521dc9b2d4e1a79c5d696f0e22",
+  "sha256_decoded_payload": "76f4b9f201defaafde6c3469a59661d2e0e5521c3bf3e733353a7d833f3a5118",
+  "version": 6,
+  "descriptor_bytes": 244,
+  "compressed_frame_bytes": 34602,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 54508,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 368
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 53720
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 34604
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "unit_goblin_elite_big"
+    },
+    {
+      "offset": 220,
+      "value": "card_goblin_elite_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_goblin_elite_big",
+    "card_goblin_elite_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 276,
+      "value": "bounds"
+    },
+    {
+      "offset": 288,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 308,
+      "value": "unit_goblin_elite_big"
+    },
+    {
+      "offset": 336,
+      "value": "card_goblin_elite_big"
+    },
+    {
+      "offset": 10906,
+      "value": "Igo"
+    },
+    {
+      "offset": 15034,
+      "value": "nD_"
+    },
+    {
+      "offset": 20690,
+      "value": "QR@"
+    },
+    {
+      "offset": 21985,
+      "value": "mMV"
+    },
+    {
+      "offset": 22848,
+      "value": "O_GN"
+    },
+    {
+      "offset": 22881,
+      "value": "iQX"
+    },
+    {
+      "offset": 23310,
+      "value": "EQoyOL"
+    },
+    {
+      "offset": 24207,
+      "value": "EYkQL"
+    },
+    {
+      "offset": 25105,
+      "value": "KWj"
+    },
+    {
+      "offset": 27698,
+      "value": "ei "
+    },
+    {
+      "offset": 31697,
+      "value": "_Ud"
+    },
+    {
+      "offset": 31713,
+      "value": "e_h"
+    },
+    {
+      "offset": 31743,
+      "value": "M_s_n"
+    },
+    {
+      "offset": 31777,
+      "value": "Y5R"
+    },
+    {
+      "offset": 32545,
+      "value": "aUh"
+    },
+    {
+      "offset": 35153,
+      "value": "C9D"
+    },
+    {
+      "offset": 40248,
+      "value": "afF"
+    },
+    {
+      "offset": 45434,
+      "value": "pmo"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000a1a44480320fb394a085dff7aeed1dba08aa83011c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "6c01000018000000000012001400040000000000000008000c00100012000000d8000000bc0000005400000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

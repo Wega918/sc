@@ -1,0 +1,181 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_barcher.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_barcher.sc",
+  "sha256_container": "cef9c57632d132995a2d5af162f421a64acc46833f56270e72f7604203119324",
+  "sha256_descriptor": "120c97ecb494594d1075a21ff59a05260ddcbd9abdccf93bd17f86e9590cac0b",
+  "sha256_decoded_payload": "01a7649b28c5b14cdeb9bb5ab65cbb3171af4c13281ab9da480f3d0b5f09bd32",
+  "version": 6,
+  "descriptor_bytes": 764,
+  "compressed_frame_bytes": 5699,
+  "alignment_padding_bytes": 5,
+  "decoded_payload_bytes": 18288,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 84
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 13
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 11536
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 3436
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 5704
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 160,
+      "value": "sour_die"
+    },
+    {
+      "offset": 208,
+      "value": "barcher_lvl1_run1_3"
+    },
+    {
+      "offset": 264,
+      "value": "barcher_lvl1_run1_2"
+    },
+    {
+      "offset": 320,
+      "value": "barcher_lvl1_run1_1"
+    },
+    {
+      "offset": 376,
+      "value": "barcher_lvl1_idle1_3"
+    },
+    {
+      "offset": 436,
+      "value": "barcher_lvl1_idle1_2"
+    },
+    {
+      "offset": 496,
+      "value": "barcher_lvl1_idle1_1"
+    },
+    {
+      "offset": 556,
+      "value": "barcher_lvl1_attack1_3"
+    },
+    {
+      "offset": 616,
+      "value": "barcher_lvl1_attack1_2"
+    },
+    {
+      "offset": 676,
+      "value": "barcher_lvl1_attack1_1"
+    },
+    {
+      "offset": 744,
+      "value": "barcher_arrow_small"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "sour_die",
+    "barcher_lvl1_run1_3",
+    "barcher_lvl1_run1_2",
+    "barcher_lvl1_run1_1",
+    "barcher_lvl1_idle1_3",
+    "barcher_lvl1_idle1_2",
+    "barcher_lvl1_idle1_1",
+    "barcher_lvl1_attack1_3",
+    "barcher_lvl1_attack1_2",
+    "barcher_lvl1_attack1_1",
+    "barcher_arrow_small"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 11240,
+      "value": "trail"
+    },
+    {
+      "offset": 11252,
+      "value": "barcher_lvl1_attack1_1"
+    },
+    {
+      "offset": 11280,
+      "value": "barcher_lvl1_run1_1"
+    },
+    {
+      "offset": 11304,
+      "value": "barcher_lvl1_attack1_2"
+    },
+    {
+      "offset": 11332,
+      "value": "barcher_lvl1_attack1_3"
+    },
+    {
+      "offset": 11360,
+      "value": "barcher_lvl1_idle1_2"
+    },
+    {
+      "offset": 11388,
+      "value": "barcher_lvl1_idle1_1"
+    },
+    {
+      "offset": 11416,
+      "value": "barcher_lvl1_run1_3"
+    },
+    {
+      "offset": 11440,
+      "value": "barcher_lvl1_idle1_3"
+    },
+    {
+      "offset": 11468,
+      "value": "barcher_lvl1_run1_2"
+    },
+    {
+      "offset": 11492,
+      "value": "barcher_arrow_small"
+    },
+    {
+      "offset": 11516,
+      "value": "sour_die"
+    },
+    {
+      "offset": 18268,
+      "value": "chr_barcher_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000540000000d00000001000000102d0000",
+  "decoded_preview_hex": "0c2d000018000000000012001400040000000000000008000c001000120000008c2b0000201e00007803000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

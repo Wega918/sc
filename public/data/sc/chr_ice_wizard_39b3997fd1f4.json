@@ -1,0 +1,175 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_ice_wizard.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_ice_wizard.sc",
+  "sha256_container": "39b3997fd1f4281aa166defab8572fe72a1b36ccf60bb96cdc85feb4775dc796",
+  "sha256_descriptor": "5b2b4a2fcb1887f6c25f790b4666c15ed1e8f67cbc912ddcaeca9e0c773cf810",
+  "sha256_decoded_payload": "a921e7b7de2fbf626d3f9672b55ee62b13471a5c72d3590162a7d8c2511d23b7",
+  "version": 6,
+  "descriptor_bytes": 636,
+  "compressed_frame_bytes": 3325,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 9420,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 52
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 9
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 5596
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 1912
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 3328
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 148,
+      "value": "ice_wizard1_run1_3"
+    },
+    {
+      "offset": 204,
+      "value": "ice_wizard1_run1_2"
+    },
+    {
+      "offset": 260,
+      "value": "ice_wizard1_run1_1"
+    },
+    {
+      "offset": 316,
+      "value": "ice_wizard1_idle1_3"
+    },
+    {
+      "offset": 372,
+      "value": "ice_wizard1_idle1_2"
+    },
+    {
+      "offset": 428,
+      "value": "ice_wizard1_idle1_1"
+    },
+    {
+      "offset": 484,
+      "value": "ice_wizard1_attack1_3"
+    },
+    {
+      "offset": 544,
+      "value": "ice_wizard1_attack1_2"
+    },
+    {
+      "offset": 612,
+      "value": "ice_wizard1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "ice_wizard1_run1_3",
+    "ice_wizard1_run1_2",
+    "ice_wizard1_run1_1",
+    "ice_wizard1_idle1_3",
+    "ice_wizard1_idle1_2",
+    "ice_wizard1_idle1_1",
+    "ice_wizard1_attack1_3",
+    "ice_wizard1_attack1_2",
+    "ice_wizard1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 524,
+      "value": "ffBA"
+    },
+    {
+      "offset": 2179,
+      "value": "K33gA"
+    },
+    {
+      "offset": 3137,
+      "value": "Lrh"
+    },
+    {
+      "offset": 3307,
+      "value": "W33gA"
+    },
+    {
+      "offset": 5364,
+      "value": "ice_wizard1_attack1_1"
+    },
+    {
+      "offset": 5392,
+      "value": "ice_wizard1_run1_1"
+    },
+    {
+      "offset": 5416,
+      "value": "ice_wizard1_run1_2"
+    },
+    {
+      "offset": 5440,
+      "value": "ice_wizard1_attack1_2"
+    },
+    {
+      "offset": 5468,
+      "value": "ice_wizard1_attack1_3"
+    },
+    {
+      "offset": 5496,
+      "value": "ice_wizard1_idle1_1"
+    },
+    {
+      "offset": 5520,
+      "value": "ice_wizard1_idle1_2"
+    },
+    {
+      "offset": 5544,
+      "value": "ice_wizard1_idle1_3"
+    },
+    {
+      "offset": 5568,
+      "value": "ice_wizard1_run1_3"
+    },
+    {
+      "offset": 9396,
+      "value": "chr_ice_wizard_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000340000000900000001000000dc15000078070000",
+  "decoded_preview_hex": "d815000018000000000012001400040000000000000008000c00100012000000a4140000d80e0000180000000400000001000000080000000400040004000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

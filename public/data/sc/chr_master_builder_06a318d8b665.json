@@ -1,0 +1,354 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_master_builder.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_master_builder.sc",
+  "sha256_container": "06a318d8b665f8c333856cc7eac183297b67ecfbe9c58b4badbd3d5a34c1677d",
+  "sha256_descriptor": "30c3d9eb8185bd2ea3f8f34d20ac2c67e7978a6173bd52d94cf848d0f86f4ab7",
+  "sha256_decoded_payload": "750be6b7a5a9d28f74ec8ff0087c207168a05b97cdee270b1cf13dd056913aed",
+  "version": 6,
+  "descriptor_bytes": 1116,
+  "compressed_frame_bytes": 19468,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 69328,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 77
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 19
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 58448
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 7780
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 19472
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 180,
+      "value": "masterbuilder_heroUpgrade1"
+    },
+    {
+      "offset": 244,
+      "value": "master_builder_walk1_3"
+    },
+    {
+      "offset": 304,
+      "value": "master_builder_walk1_2"
+    },
+    {
+      "offset": 364,
+      "value": "master_builder_walk1_1"
+    },
+    {
+      "offset": 424,
+      "value": "master_builder_idle2_3"
+    },
+    {
+      "offset": 484,
+      "value": "master_builder_idle2_2"
+    },
+    {
+      "offset": 544,
+      "value": "master_builder_idle2_1"
+    },
+    {
+      "offset": 604,
+      "value": "master_builder_idle1_3"
+    },
+    {
+      "offset": 664,
+      "value": "master_builder_idle1_2"
+    },
+    {
+      "offset": 724,
+      "value": "master_builder_idle1_1"
+    },
+    {
+      "offset": 784,
+      "value": "master_builder_build2_3"
+    },
+    {
+      "offset": 844,
+      "value": "master_builder_build2_2"
+    },
+    {
+      "offset": 904,
+      "value": "master_builder_build2_1"
+    },
+    {
+      "offset": 964,
+      "value": "master_builder_build1_3"
+    },
+    {
+      "offset": 1024,
+      "value": "master_builder_build1_2"
+    },
+    {
+      "offset": 1092,
+      "value": "master_builder_build1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "masterbuilder_heroUpgrade1",
+    "master_builder_walk1_3",
+    "master_builder_walk1_2",
+    "master_builder_walk1_1",
+    "master_builder_idle2_3",
+    "master_builder_idle2_2",
+    "master_builder_idle2_1",
+    "master_builder_idle1_3",
+    "master_builder_idle1_2",
+    "master_builder_idle1_1",
+    "master_builder_build2_3",
+    "master_builder_build2_2",
+    "master_builder_build2_1",
+    "master_builder_build1_3",
+    "master_builder_build1_2",
+    "master_builder_build1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 5415,
+      "value": "Aff"
+    },
+    {
+      "offset": 6348,
+      "value": "fff@"
+    },
+    {
+      "offset": 9348,
+      "value": "ffvA"
+    },
+    {
+      "offset": 10791,
+      "value": "A33"
+    },
+    {
+      "offset": 13332,
+      "value": "ff:A"
+    },
+    {
+      "offset": 18060,
+      "value": "ffvA"
+    },
+    {
+      "offset": 20685,
+      "value": "pF@"
+    },
+    {
+      "offset": 21903,
+      "value": "A33S@"
+    },
+    {
+      "offset": 22407,
+      "value": "A33+A"
+    },
+    {
+      "offset": 22503,
+      "value": "A33SA"
+    },
+    {
+      "offset": 22839,
+      "value": "AffF@"
+    },
+    {
+      "offset": 22863,
+      "value": "A33CA"
+    },
+    {
+      "offset": 23421,
+      "value": "pF@"
+    },
+    {
+      "offset": 23961,
+      "value": "p2@"
+    },
+    {
+      "offset": 24135,
+      "value": "A33+A"
+    },
+    {
+      "offset": 24304,
+      "value": "ff6A"
+    },
+    {
+      "offset": 24328,
+      "value": "ffZA"
+    },
+    {
+      "offset": 24453,
+      "value": "pF@"
+    },
+    {
+      "offset": 25143,
+      "value": "A33+A"
+    },
+    {
+      "offset": 25221,
+      "value": "pF@"
+    },
+    {
+      "offset": 25887,
+      "value": "A33+A"
+    },
+    {
+      "offset": 25965,
+      "value": "pF@"
+    },
+    {
+      "offset": 26109,
+      "value": "PY@"
+    },
+    {
+      "offset": 26133,
+      "value": "p\\@"
+    },
+    {
+      "offset": 26439,
+      "value": "AffBA"
+    },
+    {
+      "offset": 26463,
+      "value": "A333A"
+    },
+    {
+      "offset": 28478,
+      "value": "hAffV@"
+    },
+    {
+      "offset": 28548,
+      "value": "ffVA"
+    },
+    {
+      "offset": 28908,
+      "value": "ffjA"
+    },
+    {
+      "offset": 33885,
+      "value": "nJD"
+    },
+    {
+      "offset": 34593,
+      "value": "j0r"
+    },
+    {
+      "offset": 34605,
+      "value": "y8l"
+    },
+    {
+      "offset": 57980,
+      "value": "shadow"
+    },
+    {
+      "offset": 57992,
+      "value": "master_builder_idle2_2"
+    },
+    {
+      "offset": 58020,
+      "value": "master_builder_walk1_1"
+    },
+    {
+      "offset": 58048,
+      "value": "master_builder_idle1_2"
+    },
+    {
+      "offset": 58076,
+      "value": "master_builder_idle2_1"
+    },
+    {
+      "offset": 58104,
+      "value": "master_builder_idle1_1"
+    },
+    {
+      "offset": 58132,
+      "value": "masterbuilder_heroUpgrade1"
+    },
+    {
+      "offset": 58164,
+      "value": "master_builder_idle2_3"
+    },
+    {
+      "offset": 58192,
+      "value": "master_builder_build1_3"
+    },
+    {
+      "offset": 58220,
+      "value": "master_builder_build2_3"
+    },
+    {
+      "offset": 58248,
+      "value": "master_builder_build2_2"
+    },
+    {
+      "offset": 58276,
+      "value": "master_builder_idle1_3"
+    },
+    {
+      "offset": 58304,
+      "value": "master_builder_build2_1"
+    },
+    {
+      "offset": 58332,
+      "value": "master_builder_build1_1"
+    },
+    {
+      "offset": 58360,
+      "value": "master_builder_build1_2"
+    },
+    {
+      "offset": 58388,
+      "value": "master_builder_walk1_2"
+    },
+    {
+      "offset": 58416,
+      "value": "master_builder_walk1_3"
+    },
+    {
+      "offset": 69300,
+      "value": "chr_master_builder_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000004d000000130000000100000050e40000",
+  "decoded_preview_hex": "4ce4000018000000000012001400040000000000000008000c001000120000000ce20000bc8b00006c73000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

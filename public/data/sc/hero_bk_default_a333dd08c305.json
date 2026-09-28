@@ -1,0 +1,83 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "hero_bk_default.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_bk_default.sc",
+  "sha256_container": "a333dd08c3056ee9c82ca4e4b5db6d6d1917857ec785699343f373c9ee2dd091",
+  "sha256_descriptor": "e960854e8bd5c0c529939f57890ed7ca7a9555c0ded825aaccc76dcac8565906",
+  "sha256_decoded_payload": "0fda15e4a715ab9b3f09e2dfa92446f6d8c1ca1aff5a4731ad4c8d5e7c558150",
+  "version": 6,
+  "descriptor_bytes": 156,
+  "compressed_frame_bytes": 2516,
+  "alignment_padding_bytes": 4,
+  "decoded_payload_bytes": 5176,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 3520
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 920
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 2520
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "vfx_bk_defaultskin_SleepZ"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "vfx_bk_defaultskin_SleepZ"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3484,
+      "value": "vfx_bk_defaultskin_SleepZ"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000c00d0000",
+  "decoded_preview_hex": "bc0d000018000000000012001400040000000000000008000c001000120000006c0d0000f40a0000bc0a000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_super_minion.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_minion.sc",
+  "sha256_container": "b8874ddd6fb3228bad6cd8a3e5eb28fcbabc00b6a1916b899b59f6b7adf97e13",
+  "sha256_descriptor": "e613836be0b8dc241251dcf56c9b8c4ab60a84017ee51dddeef3f3e669f3fc9e",
+  "sha256_decoded_payload": "e0c3304a87e976b9ff0d160c3080dbe6bc37b56b388b46d03221b004611606cb",
+  "version": 6,
+  "descriptor_bytes": 868,
+  "compressed_frame_bytes": 4680,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 15600,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 50
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 23
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 9536
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 3928
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 4680
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 164,
+      "value": "minion_rocket_big"
+    },
+    {
+      "offset": 220,
+      "value": "minion_rocket"
+    },
+    {
+      "offset": 272,
+      "value": "gargoyle_arrow_shadow"
+    },
+    {
+      "offset": 332,
+      "value": "Super_Gargoyle1_Fly_3"
+    },
+    {
+      "offset": 392,
+      "value": "Super_Gargoyle1_Fly_2"
+    },
+    {
+      "offset": 452,
+      "value": "Super_Gargoyle1_Fly_1"
+    },
+    {
+      "offset": 512,
+      "value": "Super_Gargoyle1_FastFly_3"
+    },
+    {
+      "offset": 576,
+      "value": "Super_Gargoyle1_FastFly_2"
+    },
+    {
+      "offset": 640,
+      "value": "Super_Gargoyle1_FastFly_1"
+    },
+    {
+      "offset": 704,
+      "value": "Super_Gargoyle1_Attack1_3"
+    },
+    {
+      "offset": 768,
+      "value": "Super_Gargoyle1_Attack1_2"
+    },
+    {
+      "offset": 840,
+      "value": "Super_Gargoyle1_Attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "minion_rocket_big",
+    "minion_rocket",
+    "gargoyle_arrow_shadow",
+    "Super_Gargoyle1_Fly_3",
+    "Super_Gargoyle1_Fly_2",
+    "Super_Gargoyle1_Fly_1",
+    "Super_Gargoyle1_FastFly_3",
+    "Super_Gargoyle1_FastFly_2",
+    "Super_Gargoyle1_FastFly_1",
+    "Super_Gargoyle1_Attack1_3",
+    "Super_Gargoyle1_Attack1_2",
+    "Super_Gargoyle1_Attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 3833,
+      "value": "ZhN"
+    },
+    {
+      "offset": 4421,
+      "value": "EA1"
+    },
+    {
+      "offset": 4481,
+      "value": "GiO"
+    },
+    {
+      "offset": 9120,
+      "value": "attack_pivot"
+    },
+    {
+      "offset": 9140,
+      "value": "action_frame"
+    },
+    {
+      "offset": 9160,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 9184,
+      "value": "Super_Gargoyle1_FastFly_3"
+    },
+    {
+      "offset": 9216,
+      "value": "Super_Gargoyle1_FastFly_2"
+    },
+    {
+      "offset": 9248,
+      "value": "Super_Gargoyle1_Attack1_3"
+    },
+    {
+      "offset": 9280,
+      "value": "Super_Gargoyle1_FastFly_1"
+    },
+    {
+      "offset": 9312,
+      "value": "Super_Gargoyle1_Attack1_1"
+    },
+    {
+      "offset": 9344,
+      "value": "Super_Gargoyle1_Attack1_2"
+    },
+    {
+      "offset": 9376,
+      "value": "gargoyle_arrow_shadow"
+    },
+    {
+      "offset": 9404,
+      "value": "minion_rocket_big"
+    },
+    {
+      "offset": 9428,
+      "value": "minion_rocket"
+    },
+    {
+      "offset": 9448,
+      "value": "Super_Gargoyle1_Fly_1"
+    },
+    {
+      "offset": 9476,
+      "value": "Super_Gargoyle1_Fly_2"
+    },
+    {
+      "offset": 9504,
+      "value": "Super_Gargoyle1_Fly_3"
+    },
+    {
+      "offset": 15576,
+      "value": "chr_super_minion_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000003200000017000000010000000100000040250000",
+  "decoded_preview_hex": "3c25000018000000000012001400040000000000000008000c0010001200000038230000b4170000b406000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

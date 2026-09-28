@@ -1,0 +1,125 @@
+{
+  "format": "csv-runtime-pack-v1",
+  "tables": [
+    {
+      "name": "3d",
+      "file": "3d.json",
+      "entries": 5
+    },
+    {
+      "name": "3d_building",
+      "file": "3d_building.json",
+      "entries": 0
+    },
+    {
+      "name": "3d_environment",
+      "file": "3d_environment.json",
+      "entries": 39
+    },
+    {
+      "name": "animation_transitions",
+      "file": "animation_transitions.json",
+      "entries": 8
+    },
+    {
+      "name": "animations",
+      "file": "animations.json",
+      "entries": 1046
+    },
+    {
+      "name": "assets",
+      "file": "assets.json",
+      "entries": 56
+    },
+    {
+      "name": "billing_packages",
+      "file": "billing_packages.json",
+      "entries": 425
+    },
+    {
+      "name": "boombox",
+      "file": "boombox.json",
+      "entries": 1
+    },
+    {
+      "name": "chat_rules",
+      "file": "chat_rules.json",
+      "entries": 2
+    },
+    {
+      "name": "chiefs_journey_features",
+      "file": "chiefs_journey_features.json",
+      "entries": 28
+    },
+    {
+      "name": "client_globals",
+      "file": "client_globals.json",
+      "entries": 407
+    },
+    {
+      "name": "credits",
+      "file": "credits.json",
+      "entries": 211
+    },
+    {
+      "name": "deeplinks",
+      "file": "deeplinks.json",
+      "entries": 64
+    },
+    {
+      "name": "deploy_steps",
+      "file": "deploy_steps.json",
+      "entries": 289
+    },
+    {
+      "name": "event_entries",
+      "file": "event_entries.json",
+      "entries": 46
+    },
+    {
+      "name": "event_themes",
+      "file": "event_themes.json",
+      "entries": 2
+    },
+    {
+      "name": "helpshift",
+      "file": "helpshift.json",
+      "entries": 5
+    },
+    {
+      "name": "hints",
+      "file": "hints.json",
+      "entries": 155
+    },
+    {
+      "name": "hud_infos",
+      "file": "hud_infos.json",
+      "entries": 6
+    },
+    {
+      "name": "particle_effects_3d",
+      "file": "particle_effects_3d.json",
+      "entries": 1336
+    },
+    {
+      "name": "preview_scenarios",
+      "file": "preview_scenarios.json",
+      "entries": 260
+    },
+    {
+      "name": "resource_packs",
+      "file": "resource_packs.json",
+      "entries": 15
+    },
+    {
+      "name": "skin_cameras",
+      "file": "skin_cameras.json",
+      "entries": 27
+    },
+    {
+      "name": "skin_projectile_vis",
+      "file": "skin_projectile_vis.json",
+      "entries": 224
+    }
+  ]
+}

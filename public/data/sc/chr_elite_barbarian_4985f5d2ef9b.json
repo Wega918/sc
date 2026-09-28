@@ -1,0 +1,237 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_elite_barbarian.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_elite_barbarian.sc",
+  "sha256_container": "4985f5d2ef9b51f6826a5557fd838b549f2d5d40f3ac5932e933dc7b5e5c9c49",
+  "sha256_descriptor": "5e4a8b7d159747ca08ec47a3aa99bb25603215d8d3623a01edb630763e62d733",
+  "sha256_decoded_payload": "52d46f7c1e0271f4ea37c1d44705f74e3ceb8cb266b4918362007d3e301c5337",
+  "version": 6,
+  "descriptor_bytes": 1156,
+  "compressed_frame_bytes": 7960,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 20284,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 115
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 15
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 13216
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 4180
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 7960
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 176,
+      "value": "barbarian_elite_lvl1_run1_3"
+    },
+    {
+      "offset": 240,
+      "value": "barbarian_elite_lvl1_run1_2"
+    },
+    {
+      "offset": 304,
+      "value": "barbarian_elite_lvl1_run1_1"
+    },
+    {
+      "offset": 368,
+      "value": "barbarian_elite_lvl1_idle1_3"
+    },
+    {
+      "offset": 436,
+      "value": "barbarian_elite_lvl1_idle1_2"
+    },
+    {
+      "offset": 504,
+      "value": "barbarian_elite_lvl1_idle1_1"
+    },
+    {
+      "offset": 572,
+      "value": "barbarian_elite_lvl1_cheer1_3"
+    },
+    {
+      "offset": 640,
+      "value": "barbarian_elite_lvl1_cheer1_2"
+    },
+    {
+      "offset": 708,
+      "value": "barbarian_elite_lvl1_cheer1_1"
+    },
+    {
+      "offset": 776,
+      "value": "barbarian_elite_lvl1_attack2_3"
+    },
+    {
+      "offset": 844,
+      "value": "barbarian_elite_lvl1_attack2_2"
+    },
+    {
+      "offset": 912,
+      "value": "barbarian_elite_lvl1_attack2_1"
+    },
+    {
+      "offset": 980,
+      "value": "barbarian_elite_lvl1_attack1_3"
+    },
+    {
+      "offset": 1048,
+      "value": "barbarian_elite_lvl1_attack1_2"
+    },
+    {
+      "offset": 1124,
+      "value": "barbarian_elite_lvl1_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "barbarian_elite_lvl1_run1_3",
+    "barbarian_elite_lvl1_run1_2",
+    "barbarian_elite_lvl1_run1_1",
+    "barbarian_elite_lvl1_idle1_3",
+    "barbarian_elite_lvl1_idle1_2",
+    "barbarian_elite_lvl1_idle1_1",
+    "barbarian_elite_lvl1_cheer1_3",
+    "barbarian_elite_lvl1_cheer1_2",
+    "barbarian_elite_lvl1_cheer1_1",
+    "barbarian_elite_lvl1_attack2_3",
+    "barbarian_elite_lvl1_attack2_2",
+    "barbarian_elite_lvl1_attack2_1",
+    "barbarian_elite_lvl1_attack1_3",
+    "barbarian_elite_lvl1_attack1_2",
+    "barbarian_elite_lvl1_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 120,
+      "value": "ff.A"
+    },
+    {
+      "offset": 3460,
+      "value": "TwKh"
+    },
+    {
+      "offset": 4711,
+      "value": "d33OB"
+    },
+    {
+      "offset": 5108,
+      "value": "ff6@"
+    },
+    {
+      "offset": 9375,
+      "value": "ATuF\\"
+    },
+    {
+      "offset": 9426,
+      "value": "xs33OB"
+    },
+    {
+      "offset": 12684,
+      "value": "barbarian_elite_lvl1_cheer1_3"
+    },
+    {
+      "offset": 12720,
+      "value": "barbarian_elite_lvl1_cheer1_2"
+    },
+    {
+      "offset": 12756,
+      "value": "barbarian_elite_lvl1_idle1_3"
+    },
+    {
+      "offset": 12792,
+      "value": "barbarian_elite_lvl1_cheer1_1"
+    },
+    {
+      "offset": 12828,
+      "value": "barbarian_elite_lvl1_attack1_3"
+    },
+    {
+      "offset": 12864,
+      "value": "barbarian_elite_lvl1_attack1_2"
+    },
+    {
+      "offset": 12900,
+      "value": "barbarian_elite_lvl1_attack1_1"
+    },
+    {
+      "offset": 12936,
+      "value": "barbarian_elite_lvl1_attack2_3"
+    },
+    {
+      "offset": 12972,
+      "value": "barbarian_elite_lvl1_idle1_2"
+    },
+    {
+      "offset": 13008,
+      "value": "barbarian_elite_lvl1_attack2_2"
+    },
+    {
+      "offset": 13044,
+      "value": "barbarian_elite_lvl1_idle1_1"
+    },
+    {
+      "offset": 13080,
+      "value": "barbarian_elite_lvl1_run1_1"
+    },
+    {
+      "offset": 13112,
+      "value": "barbarian_elite_lvl1_attack2_1"
+    },
+    {
+      "offset": 13148,
+      "value": "barbarian_elite_lvl1_run1_2"
+    },
+    {
+      "offset": 13180,
+      "value": "barbarian_elite_lvl1_run1_3"
+    },
+    {
+      "offset": 20256,
+      "value": "chr_elite_barbarian_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000730000000f00000001000000a0330000",
+  "decoded_preview_hex": "9c33000018000000000012001400040000000000000008000c0010001200000024310000f42800003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

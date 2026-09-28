@@ -1,0 +1,78 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_rocketeer.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_rocketeer.sc",
+  "sha256_container": "099cc192afb232594761b5474f203f626234e8e5a38168b3c3f81303d773aa77",
+  "sha256_descriptor": "402d3d60f679b220510c91dde9bc6b81c6857320d0f23f06534fd2596653f043",
+  "sha256_decoded_payload": "d3561a465fb33b53dfd64c746297800c3e567d68c3c3bec172a97f23b36afc8c",
+  "version": 6,
+  "descriptor_bytes": 132,
+  "compressed_frame_bytes": 109,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 288,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 48,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 52,
+      "raw_u32": 92
+    },
+    {
+      "field_index": 9,
+      "offset": 56,
+      "raw_u32": 88
+    },
+    {
+      "field_index": 10,
+      "offset": 60,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 64,
+      "raw_u32": 112
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 120,
+      "value": "temp_dummy6"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "temp_dummy6"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 72,
+      "value": "temp_dummy6"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c0024000400080000000c000000000000001000140018001c0020001c000000010000000100000001000000030000005c0000005800000008000000",
+  "decoded_preview_hex": "5800000018000000000012000c000400000000000000000000000800120000001800000004000000010000000800000004000400040000000200000018000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

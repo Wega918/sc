@@ -1,0 +1,262 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_flying_fortress.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_flying_fortress.sc",
+  "sha256_container": "260a907506f5cf8914b4caa6f88730f200610341e76901cf31d0e4c4986b1bbd",
+  "sha256_descriptor": "648a5b733dd12c06d8af5b32727a16dff980814f2739d43857599028c3e550b5",
+  "sha256_decoded_payload": "224885ebae72b6ef95e9161681bbf8698d4a7a0830b215ff12a78f25a77d4290",
+  "version": 6,
+  "descriptor_bytes": 284,
+  "compressed_frame_bytes": 92401,
+  "alignment_padding_bytes": 7,
+  "decoded_payload_bytes": 221484,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 532
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 220472
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 92408
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 132,
+      "value": "unit_skeleton_single"
+    },
+    {
+      "offset": 192,
+      "value": "unit_skeleton_glider"
+    },
+    {
+      "offset": 260,
+      "value": "unit_flying_fortress"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_skeleton_single",
+    "unit_skeleton_glider",
+    "unit_flying_fortress"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 444,
+      "value": "unit_flying_fortress"
+    },
+    {
+      "offset": 472,
+      "value": "unit_skeleton_glider"
+    },
+    {
+      "offset": 500,
+      "value": "unit_skeleton_single"
+    },
+    {
+      "offset": 4024,
+      "value": "ow "
+    },
+    {
+      "offset": 30482,
+      "value": "hDqH"
+    },
+    {
+      "offset": 36536,
+      "value": "miL"
+    },
+    {
+      "offset": 37009,
+      "value": "L.J"
+    },
+    {
+      "offset": 49501,
+      "value": "CWXh"
+    },
+    {
+      "offset": 61162,
+      "value": "B7O"
+    },
+    {
+      "offset": 66582,
+      "value": "Dcu"
+    },
+    {
+      "offset": 77808,
+      "value": "MNFL"
+    },
+    {
+      "offset": 79152,
+      "value": "GHDF"
+    },
+    {
+      "offset": 79219,
+      "value": "CXf"
+    },
+    {
+      "offset": 80465,
+      "value": "B:B"
+    },
+    {
+      "offset": 84713,
+      "value": "Jjw_"
+    },
+    {
+      "offset": 85946,
+      "value": "LWO"
+    },
+    {
+      "offset": 88898,
+      "value": "E4T"
+    },
+    {
+      "offset": 91470,
+      "value": "et8N.L"
+    },
+    {
+      "offset": 92782,
+      "value": "gtR\\Nj"
+    },
+    {
+      "offset": 93517,
+      "value": "qtCk"
+    },
+    {
+      "offset": 95808,
+      "value": "HRHR"
+    },
+    {
+      "offset": 100351,
+      "value": "Mxq8"
+    },
+    {
+      "offset": 122851,
+      "value": "BY "
+    },
+    {
+      "offset": 126770,
+      "value": "N4V"
+    },
+    {
+      "offset": 132744,
+      "value": "AAA"
+    },
+    {
+      "offset": 135470,
+      "value": "ccObh@ "
+    },
+    {
+      "offset": 139409,
+      "value": "oAp "
+    },
+    {
+      "offset": 147543,
+      "value": "RjP"
+    },
+    {
+      "offset": 150035,
+      "value": "HjD"
+    },
+    {
+      "offset": 153896,
+      "value": "UP@"
+    },
+    {
+      "offset": 162978,
+      "value": "yLH"
+    },
+    {
+      "offset": 172023,
+      "value": "eJb"
+    },
+    {
+      "offset": 173558,
+      "value": "sTmUVz_"
+    },
+    {
+      "offset": 176477,
+      "value": "CCzz"
+    },
+    {
+      "offset": 185467,
+      "value": "c2I"
+    },
+    {
+      "offset": 186634,
+      "value": "Seo"
+    },
+    {
+      "offset": 190290,
+      "value": "j:R"
+    },
+    {
+      "offset": 191761,
+      "value": "f.0"
+    },
+    {
+      "offset": 195970,
+      "value": "r@\\"
+    },
+    {
+      "offset": 199479,
+      "value": "W4@"
+    },
+    {
+      "offset": 202834,
+      "value": "H18"
+    },
+    {
+      "offset": 203391,
+      "value": "Sa "
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000003000000030000000100000003000000",
+  "decoded_preview_hex": "1002000018000000000012001400040000000000000008000c0010001200000084010000640100003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

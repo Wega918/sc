@@ -1,0 +1,215 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_battleram.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_battleram.sc",
+  "sha256_container": "3913b26d19963fd6885d29a2519e8714a1b98110f7bc9263064f12de706538f2",
+  "sha256_descriptor": "a760d622aa8b4e5164ce7fa69e0662c8cb08a13fbbd3069ff2d559dbe0b48e1d",
+  "sha256_decoded_payload": "f1d018c814de5d3e4acb45f683e9a423f70950a8237b572dd1a33bd9a083b8c5",
+  "version": 6,
+  "descriptor_bytes": 636,
+  "compressed_frame_bytes": 6182,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 16008,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 55
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 9
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 11200
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 2548
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 6184
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 148,
+      "value": "battleram1_run1_3"
+    },
+    {
+      "offset": 204,
+      "value": "battleram1_run1_2"
+    },
+    {
+      "offset": 260,
+      "value": "battleram1_run1_1"
+    },
+    {
+      "offset": 316,
+      "value": "battleram1_idle1_3"
+    },
+    {
+      "offset": 372,
+      "value": "battleram1_idle1_2"
+    },
+    {
+      "offset": 428,
+      "value": "battleram1_idle1_1"
+    },
+    {
+      "offset": 484,
+      "value": "battleram1_attack2_3"
+    },
+    {
+      "offset": 544,
+      "value": "battleram1_attack2_2"
+    },
+    {
+      "offset": 612,
+      "value": "battleram1_attack2_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "battleram1_run1_3",
+    "battleram1_run1_2",
+    "battleram1_run1_1",
+    "battleram1_idle1_3",
+    "battleram1_idle1_2",
+    "battleram1_idle1_1",
+    "battleram1_attack2_3",
+    "battleram1_attack2_2",
+    "battleram1_attack2_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 836,
+      "value": "ff6@"
+    },
+    {
+      "offset": 1289,
+      "value": "DCp"
+    },
+    {
+      "offset": 1481,
+      "value": "DCp"
+    },
+    {
+      "offset": 1673,
+      "value": "DCp"
+    },
+    {
+      "offset": 2468,
+      "value": "fffA"
+    },
+    {
+      "offset": 3173,
+      "value": "P2O"
+    },
+    {
+      "offset": 3197,
+      "value": "O2O"
+    },
+    {
+      "offset": 4373,
+      "value": "sD8"
+    },
+    {
+      "offset": 5122,
+      "value": "PAff"
+    },
+    {
+      "offset": 5696,
+      "value": "ffZA"
+    },
+    {
+      "offset": 5890,
+      "value": "PAff"
+    },
+    {
+      "offset": 6029,
+      "value": "N2G"
+    },
+    {
+      "offset": 8333,
+      "value": "mfB"
+    },
+    {
+      "offset": 8828,
+      "value": "ffJA"
+    },
+    {
+      "offset": 10968,
+      "value": "battleram1_run1_1"
+    },
+    {
+      "offset": 10992,
+      "value": "battleram1_run1_2"
+    },
+    {
+      "offset": 11016,
+      "value": "battleram1_run1_3"
+    },
+    {
+      "offset": 11040,
+      "value": "battleram1_attack2_1"
+    },
+    {
+      "offset": 11068,
+      "value": "battleram1_attack2_2"
+    },
+    {
+      "offset": 11096,
+      "value": "battleram1_attack2_3"
+    },
+    {
+      "offset": 11124,
+      "value": "battleram1_idle1_1"
+    },
+    {
+      "offset": 11148,
+      "value": "battleram1_idle1_2"
+    },
+    {
+      "offset": 11172,
+      "value": "battleram1_idle1_3"
+    },
+    {
+      "offset": 15984,
+      "value": "chr_battleram_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000370000000900000001000000c02b0000f4090000",
+  "decoded_preview_hex": "bc2b000018000000000012001400040000000000000008000c00100012000000882a0000c4220000fc03000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

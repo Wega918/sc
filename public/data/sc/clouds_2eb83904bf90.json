@@ -1,0 +1,703 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "clouds.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\clouds.sc",
+  "sha256_container": "2eb83904bf90da0009e205409e62b1d3d09c26ff6171ccc87459e22af2978a21",
+  "sha256_descriptor": "d7850dbf4b715684a95807e1870b82606825f246f1b65380bc054abe8196e0c1",
+  "sha256_decoded_payload": "2963c09448e4c18e6558ef47f0e5eb907d2d60a5c31011f04857a2c79471a31c",
+  "version": 6,
+  "descriptor_bytes": 512,
+  "compressed_frame_bytes": 66252,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 200704,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 6
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 17
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 99816
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 86552
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 66252
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 172,
+      "value": "ship_transition"
+    },
+    {
+      "offset": 224,
+      "value": "league_icon_animation"
+    },
+    {
+      "offset": 284,
+      "value": "clouds_ship"
+    },
+    {
+      "offset": 332,
+      "value": "clouds_loading_dark"
+    },
+    {
+      "offset": 388,
+      "value": "clouds_loading"
+    },
+    {
+      "offset": 440,
+      "value": "clouds_clan_wars"
+    },
+    {
+      "offset": 504,
+      "value": "cloud1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "ship_transition",
+    "league_icon_animation",
+    "clouds_ship",
+    "clouds_loading_dark",
+    "clouds_loading",
+    "clouds_clan_wars",
+    "cloud1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2628,
+      "value": "MMfq"
+    },
+    {
+      "offset": 2635,
+      "value": "MMff"
+    },
+    {
+      "offset": 2642,
+      "value": "MMf\\"
+    },
+    {
+      "offset": 2649,
+      "value": "MMfR"
+    },
+    {
+      "offset": 2656,
+      "value": "MMfH"
+    },
+    {
+      "offset": 2670,
+      "value": "MMf3"
+    },
+    {
+      "offset": 2705,
+      "value": "MMf"
+    },
+    {
+      "offset": 4399,
+      "value": "MMfZ"
+    },
+    {
+      "offset": 4427,
+      "value": "MMfx"
+    },
+    {
+      "offset": 4434,
+      "value": "MMfJ"
+    },
+    {
+      "offset": 4441,
+      "value": "MMfs"
+    },
+    {
+      "offset": 4448,
+      "value": "MMfY"
+    },
+    {
+      "offset": 4469,
+      "value": "MMfQ"
+    },
+    {
+      "offset": 4476,
+      "value": "MMfy"
+    },
+    {
+      "offset": 4483,
+      "value": "LLeZ"
+    },
+    {
+      "offset": 4532,
+      "value": "LMex"
+    },
+    {
+      "offset": 4560,
+      "value": "MMfg"
+    },
+    {
+      "offset": 4567,
+      "value": "LMeg"
+    },
+    {
+      "offset": 4588,
+      "value": "LLew"
+    },
+    {
+      "offset": 4616,
+      "value": "KKdZ"
+    },
+    {
+      "offset": 4637,
+      "value": "MMfm"
+    },
+    {
+      "offset": 4644,
+      "value": "LMem"
+    },
+    {
+      "offset": 4658,
+      "value": "KLdw"
+    },
+    {
+      "offset": 4672,
+      "value": "MNfg"
+    },
+    {
+      "offset": 4693,
+      "value": "MMft"
+    },
+    {
+      "offset": 4700,
+      "value": "LLet"
+    },
+    {
+      "offset": 4728,
+      "value": "MNgm"
+    },
+    {
+      "offset": 4749,
+      "value": "MMfz"
+    },
+    {
+      "offset": 4756,
+      "value": "LLdz"
+    },
+    {
+      "offset": 4777,
+      "value": "KLcw"
+    },
+    {
+      "offset": 4791,
+      "value": "MNgt"
+    },
+    {
+      "offset": 4805,
+      "value": "JJcZ"
+    },
+    {
+      "offset": 4840,
+      "value": "JLcw"
+    },
+    {
+      "offset": 4854,
+      "value": "NNgz"
+    },
+    {
+      "offset": 4903,
+      "value": "JLbw"
+    },
+    {
+      "offset": 4966,
+      "value": "JKbv"
+    },
+    {
+      "offset": 4994,
+      "value": "IIbZ"
+    },
+    {
+      "offset": 5043,
+      "value": "IKbv"
+    },
+    {
+      "offset": 5092,
+      "value": "IKav"
+    },
+    {
+      "offset": 5169,
+      "value": "HHaZ"
+    },
+    {
+      "offset": 5365,
+      "value": "HJ_u"
+    },
+    {
+      "offset": 5428,
+      "value": "GJ_u"
+    },
+    {
+      "offset": 5610,
+      "value": "FF_Z"
+    },
+    {
+      "offset": 5974,
+      "value": "EI\\t"
+    },
+    {
+      "offset": 6170,
+      "value": "DI\\t"
+    },
+    {
+      "offset": 6485,
+      "value": "CC\\Z"
+    },
+    {
+      "offset": 6520,
+      "value": "CHZs"
+    },
+    {
+      "offset": 7192,
+      "value": "gfv@"
+    },
+    {
+      "offset": 8440,
+      "value": "gfV@"
+    },
+    {
+      "offset": 10121,
+      "value": "YyC"
+    },
+    {
+      "offset": 11149,
+      "value": "Y:C"
+    },
+    {
+      "offset": 12037,
+      "value": "sRD"
+    },
+    {
+      "offset": 13429,
+      "value": "L:C"
+    },
+    {
+      "offset": 13550,
+      "value": "dC33ZC"
+    },
+    {
+      "offset": 13671,
+      "value": "C3s:C"
+    },
+    {
+      "offset": 14175,
+      "value": "C33TB"
+    },
+    {
+      "offset": 14319,
+      "value": "C33oA"
+    },
+    {
+      "offset": 15977,
+      "value": "Y9D"
+    },
+    {
+      "offset": 16553,
+      "value": "LhC"
+    },
+    {
+      "offset": 16959,
+      "value": "C33"
+    },
+    {
+      "offset": 18929,
+      "value": "LhC"
+    },
+    {
+      "offset": 19096,
+      "value": "gf.C"
+    },
+    {
+      "offset": 19431,
+      "value": "B33jB"
+    },
+    {
+      "offset": 19455,
+      "value": "B33IB"
+    },
+    {
+      "offset": 20773,
+      "value": "SBD"
+    },
+    {
+      "offset": 21208,
+      "value": "gffA"
+    },
+    {
+      "offset": 24184,
+      "value": "gfOC"
+    },
+    {
+      "offset": 24472,
+      "value": "gf+B"
+    },
+    {
+      "offset": 24520,
+      "value": "gfvA"
+    },
+    {
+      "offset": 25404,
+      "value": "gfQB"
+    },
+    {
+      "offset": 28385,
+      "value": "LoC"
+    },
+    {
+      "offset": 28886,
+      "value": "KDgf_B"
+    },
+    {
+      "offset": 29221,
+      "value": "Y D"
+    },
+    {
+      "offset": 30639,
+      "value": "D3s"
+    },
+    {
+      "offset": 30922,
+      "value": "_@339Dgf"
+    },
+    {
+      "offset": 31045,
+      "value": "p7D"
+    },
+    {
+      "offset": 34073,
+      "value": "YiC"
+    },
+    {
+      "offset": 34433,
+      "value": "YYC"
+    },
+    {
+      "offset": 36087,
+      "value": "D3sxC"
+    },
+    {
+      "offset": 37409,
+      "value": "LmC"
+    },
+    {
+      "offset": 38943,
+      "value": "Cgf+B"
+    },
+    {
+      "offset": 39785,
+      "value": "L7D"
+    },
+    {
+      "offset": 40023,
+      "value": "CgfcB"
+    },
+    {
+      "offset": 40383,
+      "value": "CgfsB"
+    },
+    {
+      "offset": 41944,
+      "value": "gvJD"
+    },
+    {
+      "offset": 43385,
+      "value": "lQD"
+    },
+    {
+      "offset": 43745,
+      "value": "pRD"
+    },
+    {
+      "offset": 45257,
+      "value": "YXC"
+    },
+    {
+      "offset": 45926,
+      "value": "mCgftC"
+    },
+    {
+      "offset": 46261,
+      "value": "p@D"
+    },
+    {
+      "offset": 46909,
+      "value": "p D"
+    },
+    {
+      "offset": 47079,
+      "value": "D331C"
+    },
+    {
+      "offset": 48375,
+      "value": "DgfGC"
+    },
+    {
+      "offset": 49023,
+      "value": "D3sRC"
+    },
+    {
+      "offset": 49576,
+      "value": "gf@C"
+    },
+    {
+      "offset": 50537,
+      "value": "LlC"
+    },
+    {
+      "offset": 50657,
+      "value": "YWC"
+    },
+    {
+      "offset": 51183,
+      "value": "DgfwC"
+    },
+    {
+      "offset": 51737,
+      "value": "LnC"
+    },
+    {
+      "offset": 58147,
+      "value": "C33"
+    },
+    {
+      "offset": 99588,
+      "value": "bounds"
+    },
+    {
+      "offset": 99600,
+      "value": "league_icon"
+    },
+    {
+      "offset": 99624,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 99644,
+      "value": "CCBackBeat Light"
+    },
+    {
+      "offset": 99668,
+      "value": "clouds_loading_dark"
+    },
+    {
+      "offset": 99692,
+      "value": "ship_transition"
+    },
+    {
+      "offset": 99712,
+      "value": "clouds_clan_wars"
+    },
+    {
+      "offset": 99736,
+      "value": "clouds_loading"
+    },
+    {
+      "offset": 99756,
+      "value": "clouds_ship"
+    },
+    {
+      "offset": 99772,
+      "value": "cloud1"
+    },
+    {
+      "offset": 99784,
+      "value": "league_icon_animation"
+    },
+    {
+      "offset": 118734,
+      "value": "EAQ"
+    },
+    {
+      "offset": 123019,
+      "value": "icU"
+    },
+    {
+      "offset": 133783,
+      "value": "WDDHD@HODS"
+    },
+    {
+      "offset": 133998,
+      "value": "q B"
+    },
+    {
+      "offset": 135422,
+      "value": "BvR"
+    },
+    {
+      "offset": 136957,
+      "value": "nVSB"
+    },
+    {
+      "offset": 137134,
+      "value": "W@R"
+    },
+    {
+      "offset": 141362,
+      "value": "Uj@IL"
+    },
+    {
+      "offset": 141789,
+      "value": "ZxZB"
+    },
+    {
+      "offset": 142087,
+      "value": "W03"
+    },
+    {
+      "offset": 142814,
+      "value": "EAQ"
+    },
+    {
+      "offset": 145918,
+      "value": "m_R"
+    },
+    {
+      "offset": 146493,
+      "value": "ee+R"
+    },
+    {
+      "offset": 146525,
+      "value": "UUVB"
+    },
+    {
+      "offset": 148060,
+      "value": "PStrR"
+    },
+    {
+      "offset": 148078,
+      "value": "EnB"
+    },
+    {
+      "offset": 149084,
+      "value": "r6:fR"
+    },
+    {
+      "offset": 154798,
+      "value": "EIQ"
+    },
+    {
+      "offset": 154942,
+      "value": "v:Q"
+    },
+    {
+      "offset": 156203,
+      "value": "sAStrR"
+    },
+    {
+      "offset": 156334,
+      "value": "UUB"
+    },
+    {
+      "offset": 157324,
+      "value": "UjUPB"
+    },
+    {
+      "offset": 158782,
+      "value": "EAQ"
+    },
+    {
+      "offset": 170257,
+      "value": "Bihh"
+    },
+    {
+      "offset": 179150,
+      "value": "k5R"
+    },
+    {
+      "offset": 179165,
+      "value": "tkzR"
+    },
+    {
+      "offset": 179979,
+      "value": "PQ2UJR"
+    },
+    {
+      "offset": 180382,
+      "value": "jzR"
+    },
+    {
+      "offset": 180942,
+      "value": "kwQ"
+    },
+    {
+      "offset": 182372,
+      "value": "dHD"
+    },
+    {
+      "offset": 187725,
+      "value": "d6bB"
+    },
+    {
+      "offset": 190460,
+      "value": "c 1"
+    },
+    {
+      "offset": 191410,
+      "value": "gjpQT"
+    },
+    {
+      "offset": 193742,
+      "value": "hjB"
+    },
+    {
+      "offset": 198547,
+      "value": "JPAP"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000ab5a9b8cca09f38b7f3307008bcc6a66769bb6521c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "e485010018000000000012001400040000000000000008000c00100012000000a884010078e40000b4e2000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

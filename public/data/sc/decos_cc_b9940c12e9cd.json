@@ -1,0 +1,1499 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "decos_cc.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\decos_cc.sc",
+  "sha256_container": "b9940c12e9cdbb165a64ae705c650abf87cfbab8bd91d62a5a4c994ebbc31226",
+  "sha256_descriptor": "d851714d19b9285ed7b50f97e816f0d2badb0d8a9d4b5aade797a4ad28b8d557",
+  "sha256_decoded_payload": "fd4b0e51c9d8f12e1b52e6495ed53f019ab95ade52cb4e650888442eb36a0abf",
+  "version": 6,
+  "descriptor_bytes": 7832,
+  "compressed_frame_bytes": 44262,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 223460,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 154
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 170
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 84,
+      "raw_u32": 172364
+    },
+    {
+      "field_index": 9,
+      "offset": 88,
+      "raw_u32": 43356
+    },
+    {
+      "field_index": 10,
+      "offset": 92,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 96,
+      "raw_u32": 44264
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 636,
+      "value": "tombstone_cc"
+    },
+    {
+      "offset": 688,
+      "value": "tombstone_3_cc"
+    },
+    {
+      "offset": 740,
+      "value": "tombstone_2_cc"
+    },
+    {
+      "offset": 792,
+      "value": "tombstone_1_cc"
+    },
+    {
+      "offset": 844,
+      "value": "ruin_deco_fireplace"
+    },
+    {
+      "offset": 900,
+      "value": "obstacles_goblin_rail_vertical_1x1"
+    },
+    {
+      "offset": 972,
+      "value": "obstacles_goblin_rail_horizon_1x1"
+    },
+    {
+      "offset": 1044,
+      "value": "obstacles_goblin_rail_corner_d_1x1"
+    },
+    {
+      "offset": 1116,
+      "value": "obstacles_goblin_rail_corner_c_1x1"
+    },
+    {
+      "offset": 1188,
+      "value": "obstacles_goblin_rail_corner_b_1x1"
+    },
+    {
+      "offset": 1260,
+      "value": "obstacles_goblin_rail_corner_a_1x1"
+    },
+    {
+      "offset": 1332,
+      "value": "obstacles_goblin_rail_T_d_1x1"
+    },
+    {
+      "offset": 1400,
+      "value": "obstacles_goblin_rail_T_c_1x1"
+    },
+    {
+      "offset": 1468,
+      "value": "obstacles_goblin_rail_T_b_1x1"
+    },
+    {
+      "offset": 1536,
+      "value": "obstacles_goblin_rail_T_a_1x1"
+    },
+    {
+      "offset": 1604,
+      "value": "obstacles_goblin_miningcart_1x1_a"
+    },
+    {
+      "offset": 1676,
+      "value": "obstacles_goblin_miningcart_1x1"
+    },
+    {
+      "offset": 1744,
+      "value": "cc_water_3x3"
+    },
+    {
+      "offset": 1796,
+      "value": "cc_water_2x2"
+    },
+    {
+      "offset": 1848,
+      "value": "cc_water"
+    },
+    {
+      "offset": 1896,
+      "value": "cc_tree1_3"
+    },
+    {
+      "offset": 1944,
+      "value": "cc_tree1_2"
+    },
+    {
+      "offset": 1992,
+      "value": "cc_tree1_1"
+    },
+    {
+      "offset": 2040,
+      "value": "cc_river_tj1_4"
+    },
+    {
+      "offset": 2092,
+      "value": "cc_river_tj1_3"
+    },
+    {
+      "offset": 2144,
+      "value": "cc_river_tj1_2"
+    },
+    {
+      "offset": 2196,
+      "value": "cc_river_tj1_1"
+    },
+    {
+      "offset": 2248,
+      "value": "cc_river_tj1_0"
+    },
+    {
+      "offset": 2300,
+      "value": "cc_river_straight1_2_bridge_middle"
+    },
+    {
+      "offset": 2372,
+      "value": "cc_river_straight1_2_bridge_double"
+    },
+    {
+      "offset": 2444,
+      "value": "cc_river_straight1_2_bridge_bottom"
+    },
+    {
+      "offset": 2516,
+      "value": "cc_river_straight1_2_bridge"
+    },
+    {
+      "offset": 2580,
+      "value": "cc_river_straight1_2"
+    },
+    {
+      "offset": 2640,
+      "value": "cc_river_straight1_1_bridge_middle"
+    },
+    {
+      "offset": 2712,
+      "value": "cc_river_straight1_1_bridge_double"
+    },
+    {
+      "offset": 2784,
+      "value": "cc_river_straight1_1_bridge_bottom"
+    },
+    {
+      "offset": 2856,
+      "value": "cc_river_straight1_1_bridge"
+    },
+    {
+      "offset": 2920,
+      "value": "cc_river_straight1_1"
+    },
+    {
+      "offset": 2980,
+      "value": "cc_river_end1_4"
+    },
+    {
+      "offset": 3032,
+      "value": "cc_river_end1_3"
+    },
+    {
+      "offset": 3084,
+      "value": "cc_river_end1_2"
+    },
+    {
+      "offset": 3136,
+      "value": "cc_river_end1_1"
+    },
+    {
+      "offset": 3188,
+      "value": "cc_river_double_4"
+    },
+    {
+      "offset": 3244,
+      "value": "cc_river_double_3"
+    },
+    {
+      "offset": 3300,
+      "value": "cc_river_double_2"
+    },
+    {
+      "offset": 3356,
+      "value": "cc_river_double_1"
+    },
+    {
+      "offset": 3412,
+      "value": "cc_river_diagonal_2"
+    },
+    {
+      "offset": 3468,
+      "value": "cc_river_diagonal_1"
+    },
+    {
+      "offset": 3524,
+      "value": "cc_river_curve1_4"
+    },
+    {
+      "offset": 3580,
+      "value": "cc_river_curve1_3"
+    },
+    {
+      "offset": 3636,
+      "value": "cc_river_curve1_2"
+    },
+    {
+      "offset": 3692,
+      "value": "cc_river_curve1_1"
+    },
+    {
+      "offset": 3748,
+      "value": "cc_river_corner1_4"
+    },
+    {
+      "offset": 3804,
+      "value": "cc_river_corner1_3"
+    },
+    {
+      "offset": 3860,
+      "value": "cc_river_corner1_2"
+    },
+    {
+      "offset": 3916,
+      "value": "cc_river_corner1_1"
+    },
+    {
+      "offset": 3972,
+      "value": "cc_river_cave1_4"
+    },
+    {
+      "offset": 4028,
+      "value": "cc_river_cave1_3"
+    },
+    {
+      "offset": 4084,
+      "value": "cc_river_cave1_2"
+    },
+    {
+      "offset": 4140,
+      "value": "cc_river_cave1_1"
+    },
+    {
+      "offset": 4196,
+      "value": "cc_quarry_5x5"
+    },
+    {
+      "offset": 4248,
+      "value": "cc_pine_04"
+    },
+    {
+      "offset": 4296,
+      "value": "cc_pine_03"
+    },
+    {
+      "offset": 4344,
+      "value": "cc_pine_02"
+    },
+    {
+      "offset": 4392,
+      "value": "cc_pine_01"
+    },
+    {
+      "offset": 4440,
+      "value": "cc_lake_transition_wall_8"
+    },
+    {
+      "offset": 4504,
+      "value": "cc_lake_transition_wall_7"
+    },
+    {
+      "offset": 4568,
+      "value": "cc_lake_transition_wall_6"
+    },
+    {
+      "offset": 4632,
+      "value": "cc_lake_transition_wall_5"
+    },
+    {
+      "offset": 4696,
+      "value": "cc_lake_transition_wall_4"
+    },
+    {
+      "offset": 4760,
+      "value": "cc_lake_transition_wall_3"
+    },
+    {
+      "offset": 4824,
+      "value": "cc_lake_transition_wall_2"
+    },
+    {
+      "offset": 4888,
+      "value": "cc_lake_transition_wall_1"
+    },
+    {
+      "offset": 4952,
+      "value": "cc_lake_transition_4"
+    },
+    {
+      "offset": 5012,
+      "value": "cc_lake_transition_3"
+    },
+    {
+      "offset": 5072,
+      "value": "cc_lake_transition_2"
+    },
+    {
+      "offset": 5132,
+      "value": "cc_lake_transition_1"
+    },
+    {
+      "offset": 5192,
+      "value": "cc_lake_tile1"
+    },
+    {
+      "offset": 5244,
+      "value": "cc_lake_straight1_4"
+    },
+    {
+      "offset": 5300,
+      "value": "cc_lake_straight1_3"
+    },
+    {
+      "offset": 5356,
+      "value": "cc_lake_straight1_2"
+    },
+    {
+      "offset": 5412,
+      "value": "cc_lake_straight1_1"
+    },
+    {
+      "offset": 5468,
+      "value": "cc_lake_curve1_4"
+    },
+    {
+      "offset": 5524,
+      "value": "cc_lake_curve1_3"
+    },
+    {
+      "offset": 5580,
+      "value": "cc_lake_curve1_2"
+    },
+    {
+      "offset": 5636,
+      "value": "cc_lake_curve1_1"
+    },
+    {
+      "offset": 5692,
+      "value": "cc_lake_corner1_4"
+    },
+    {
+      "offset": 5748,
+      "value": "cc_lake_corner1_3"
+    },
+    {
+      "offset": 5804,
+      "value": "cc_lake_corner1_2"
+    },
+    {
+      "offset": 5860,
+      "value": "cc_lake_corner1_1"
+    },
+    {
+      "offset": 5916,
+      "value": "cc_impassable_03"
+    },
+    {
+      "offset": 5972,
+      "value": "cc_impassable_02"
+    },
+    {
+      "offset": 6028,
+      "value": "cc_impassable_01"
+    },
+    {
+      "offset": 6084,
+      "value": "cc_forest_3x3"
+    },
+    {
+      "offset": 6136,
+      "value": "cc_forest_2x2"
+    },
+    {
+      "offset": 6188,
+      "value": "cc_forest2_3x3"
+    },
+    {
+      "offset": 6240,
+      "value": "cc_forest2_2x2"
+    },
+    {
+      "offset": 6292,
+      "value": "cc_fallen_tree_02"
+    },
+    {
+      "offset": 6348,
+      "value": "cc_fallen_tree_01"
+    },
+    {
+      "offset": 6404,
+      "value": "cc_deco_goblinking_statue_ruin"
+    },
+    {
+      "offset": 6472,
+      "value": "cc_deco_goblinking_statue"
+    },
+    {
+      "offset": 6536,
+      "value": "cc_deco_4x4_03"
+    },
+    {
+      "offset": 6588,
+      "value": "cc_deco_4x4_02"
+    },
+    {
+      "offset": 6640,
+      "value": "cc_deco_4x4_01"
+    },
+    {
+      "offset": 6692,
+      "value": "cc_deco_3x3_stone_02"
+    },
+    {
+      "offset": 6752,
+      "value": "cc_deco_3x3_stone_01"
+    },
+    {
+      "offset": 6812,
+      "value": "cc_deco_3x3_pillar_01"
+    },
+    {
+      "offset": 6872,
+      "value": "cc_deco_2x2_stone_02"
+    },
+    {
+      "offset": 6932,
+      "value": "cc_deco_2x2_stone_01"
+    },
+    {
+      "offset": 6992,
+      "value": "cc_deco_2x2_ruined_pillar_02"
+    },
+    {
+      "offset": 7060,
+      "value": "cc_deco_2x2_ruined_pillar_01"
+    },
+    {
+      "offset": 7128,
+      "value": "cc_deco_2x2_pillar_02"
+    },
+    {
+      "offset": 7188,
+      "value": "cc_deco_2x2_pillar_01"
+    },
+    {
+      "offset": 7248,
+      "value": "cc_dead_tree_01"
+    },
+    {
+      "offset": 7300,
+      "value": "cc_bighill_5x5_02"
+    },
+    {
+      "offset": 7356,
+      "value": "cc_bighill_5x5_01"
+    },
+    {
+      "offset": 7412,
+      "value": "cc_bighill_4x4_02_mine"
+    },
+    {
+      "offset": 7472,
+      "value": "cc_bighill_4x4_02"
+    },
+    {
+      "offset": 7528,
+      "value": "cc_bighill_4x4_01"
+    },
+    {
+      "offset": 7584,
+      "value": "cc_bighill_3x3_02"
+    },
+    {
+      "offset": 7640,
+      "value": "cc_bighill_3x3_01"
+    },
+    {
+      "offset": 7696,
+      "value": "cc_bighill_2x2_02"
+    },
+    {
+      "offset": 7752,
+      "value": "cc_bighill_2x2_01"
+    },
+    {
+      "offset": 7816,
+      "value": "cc_Fireplace_01"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "tombstone_cc",
+    "tombstone_3_cc",
+    "tombstone_2_cc",
+    "tombstone_1_cc",
+    "ruin_deco_fireplace",
+    "obstacles_goblin_rail_vertical_1x1",
+    "obstacles_goblin_rail_horizon_1x1",
+    "obstacles_goblin_rail_corner_d_1x1",
+    "obstacles_goblin_rail_corner_c_1x1",
+    "obstacles_goblin_rail_corner_b_1x1",
+    "obstacles_goblin_rail_corner_a_1x1",
+    "obstacles_goblin_rail_T_d_1x1",
+    "obstacles_goblin_rail_T_c_1x1",
+    "obstacles_goblin_rail_T_b_1x1",
+    "obstacles_goblin_rail_T_a_1x1",
+    "obstacles_goblin_miningcart_1x1_a",
+    "obstacles_goblin_miningcart_1x1",
+    "cc_water_3x3",
+    "cc_water_2x2",
+    "cc_water",
+    "cc_tree1_3",
+    "cc_tree1_2",
+    "cc_tree1_1",
+    "cc_river_tj1_4",
+    "cc_river_tj1_3",
+    "cc_river_tj1_2",
+    "cc_river_tj1_1",
+    "cc_river_tj1_0",
+    "cc_river_straight1_2_bridge_middle",
+    "cc_river_straight1_2_bridge_double",
+    "cc_river_straight1_2_bridge_bottom",
+    "cc_river_straight1_2_bridge",
+    "cc_river_straight1_2",
+    "cc_river_straight1_1_bridge_middle",
+    "cc_river_straight1_1_bridge_double",
+    "cc_river_straight1_1_bridge_bottom",
+    "cc_river_straight1_1_bridge",
+    "cc_river_straight1_1",
+    "cc_river_end1_4",
+    "cc_river_end1_3",
+    "cc_river_end1_2",
+    "cc_river_end1_1",
+    "cc_river_double_4",
+    "cc_river_double_3",
+    "cc_river_double_2",
+    "cc_river_double_1",
+    "cc_river_diagonal_2",
+    "cc_river_diagonal_1",
+    "cc_river_curve1_4",
+    "cc_river_curve1_3",
+    "cc_river_curve1_2",
+    "cc_river_curve1_1",
+    "cc_river_corner1_4",
+    "cc_river_corner1_3",
+    "cc_river_corner1_2",
+    "cc_river_corner1_1",
+    "cc_river_cave1_4",
+    "cc_river_cave1_3",
+    "cc_river_cave1_2",
+    "cc_river_cave1_1",
+    "cc_quarry_5x5",
+    "cc_pine_04",
+    "cc_pine_03",
+    "cc_pine_02",
+    "cc_pine_01",
+    "cc_lake_transition_wall_8",
+    "cc_lake_transition_wall_7",
+    "cc_lake_transition_wall_6",
+    "cc_lake_transition_wall_5",
+    "cc_lake_transition_wall_4",
+    "cc_lake_transition_wall_3",
+    "cc_lake_transition_wall_2",
+    "cc_lake_transition_wall_1",
+    "cc_lake_transition_4",
+    "cc_lake_transition_3",
+    "cc_lake_transition_2",
+    "cc_lake_transition_1",
+    "cc_lake_tile1",
+    "cc_lake_straight1_4",
+    "cc_lake_straight1_3",
+    "cc_lake_straight1_2",
+    "cc_lake_straight1_1",
+    "cc_lake_curve1_4",
+    "cc_lake_curve1_3",
+    "cc_lake_curve1_2",
+    "cc_lake_curve1_1",
+    "cc_lake_corner1_4",
+    "cc_lake_corner1_3",
+    "cc_lake_corner1_2",
+    "cc_lake_corner1_1",
+    "cc_impassable_03",
+    "cc_impassable_02",
+    "cc_impassable_01",
+    "cc_forest_3x3",
+    "cc_forest_2x2",
+    "cc_forest2_3x3",
+    "cc_forest2_2x2",
+    "cc_fallen_tree_02",
+    "cc_fallen_tree_01",
+    "cc_deco_goblinking_statue_ruin",
+    "cc_deco_goblinking_statue",
+    "cc_deco_4x4_03",
+    "cc_deco_4x4_02",
+    "cc_deco_4x4_01",
+    "cc_deco_3x3_stone_02",
+    "cc_deco_3x3_stone_01",
+    "cc_deco_3x3_pillar_01",
+    "cc_deco_2x2_stone_02",
+    "cc_deco_2x2_stone_01",
+    "cc_deco_2x2_ruined_pillar_02",
+    "cc_deco_2x2_ruined_pillar_01",
+    "cc_deco_2x2_pillar_02",
+    "cc_deco_2x2_pillar_01",
+    "cc_dead_tree_01",
+    "cc_bighill_5x5_02",
+    "cc_bighill_5x5_01",
+    "cc_bighill_4x4_02_mine",
+    "cc_bighill_4x4_02",
+    "cc_bighill_4x4_01",
+    "cc_bighill_3x3_02",
+    "cc_bighill_3x3_01",
+    "cc_bighill_2x2_02",
+    "cc_bighill_2x2_01",
+    "cc_Fireplace_01"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 950,
+      "value": "nBgf.B"
+    },
+    {
+      "offset": 13071,
+      "value": "Agff@"
+    },
+    {
+      "offset": 17031,
+      "value": "BgfnA"
+    },
+    {
+      "offset": 17799,
+      "value": "BgfNA"
+    },
+    {
+      "offset": 18184,
+      "value": "gfOB"
+    },
+    {
+      "offset": 18592,
+      "value": "gfKB"
+    },
+    {
+      "offset": 18615,
+      "value": "Bgf.A"
+    },
+    {
+      "offset": 19000,
+      "value": "gfGB"
+    },
+    {
+      "offset": 19408,
+      "value": "gfCB"
+    },
+    {
+      "offset": 21519,
+      "value": "B33s@"
+    },
+    {
+      "offset": 21927,
+      "value": "B333@"
+    },
+    {
+      "offset": 24855,
+      "value": "Bgf"
+    },
+    {
+      "offset": 25576,
+      "value": "gfVA"
+    },
+    {
+      "offset": 25984,
+      "value": "gfFA"
+    },
+    {
+      "offset": 26416,
+      "value": "gf6A"
+    },
+    {
+      "offset": 27544,
+      "value": "gfrA"
+    },
+    {
+      "offset": 27976,
+      "value": "gfbA"
+    },
+    {
+      "offset": 28408,
+      "value": "gfRA"
+    },
+    {
+      "offset": 28840,
+      "value": "gfBA"
+    },
+    {
+      "offset": 29080,
+      "value": "gfv@"
+    },
+    {
+      "offset": 29272,
+      "value": "gf2A"
+    },
+    {
+      "offset": 29488,
+      "value": "gf6@"
+    },
+    {
+      "offset": 32080,
+      "value": "gfCB"
+    },
+    {
+      "offset": 33352,
+      "value": "gf7B"
+    },
+    {
+      "offset": 33784,
+      "value": "gf3B"
+    },
+    {
+      "offset": 42494,
+      "value": "dBgfzA"
+    },
+    {
+      "offset": 42878,
+      "value": "dBgfjA"
+    },
+    {
+      "offset": 43286,
+      "value": "dBgfZA"
+    },
+    {
+      "offset": 43694,
+      "value": "dBgfJA"
+    },
+    {
+      "offset": 43792,
+      "value": "gfwB"
+    },
+    {
+      "offset": 44102,
+      "value": "dBgf:A"
+    },
+    {
+      "offset": 44200,
+      "value": "gfsB"
+    },
+    {
+      "offset": 44608,
+      "value": "gfoB"
+    },
+    {
+      "offset": 45016,
+      "value": "gfkB"
+    },
+    {
+      "offset": 45424,
+      "value": "gfgB"
+    },
+    {
+      "offset": 46456,
+      "value": "gfvB"
+    },
+    {
+      "offset": 46575,
+      "value": "A33kA"
+    },
+    {
+      "offset": 46864,
+      "value": "gfrB"
+    },
+    {
+      "offset": 47272,
+      "value": "gfnB"
+    },
+    {
+      "offset": 47366,
+      "value": "dB33c@"
+    },
+    {
+      "offset": 47391,
+      "value": "A33KA"
+    },
+    {
+      "offset": 47680,
+      "value": "gfjB"
+    },
+    {
+      "offset": 47799,
+      "value": "Agf:A"
+    },
+    {
+      "offset": 48088,
+      "value": "gffB"
+    },
+    {
+      "offset": 53656,
+      "value": "gfvA"
+    },
+    {
+      "offset": 53872,
+      "value": "gffA"
+    },
+    {
+      "offset": 60756,
+      "value": "gfbA"
+    },
+    {
+      "offset": 64047,
+      "value": "A33"
+    },
+    {
+      "offset": 64980,
+      "value": "gff@"
+    },
+    {
+      "offset": 69399,
+      "value": "A33"
+    },
+    {
+      "offset": 71892,
+      "value": "gf:A"
+    },
+    {
+      "offset": 76884,
+      "value": "gfvA"
+    },
+    {
+      "offset": 78856,
+      "value": "gfrA"
+    },
+    {
+      "offset": 79360,
+      "value": "gf6A"
+    },
+    {
+      "offset": 79816,
+      "value": "gfjA"
+    },
+    {
+      "offset": 79888,
+      "value": "gfbA"
+    },
+    {
+      "offset": 80368,
+      "value": "gfv@"
+    },
+    {
+      "offset": 80440,
+      "value": "gfV@"
+    },
+    {
+      "offset": 80896,
+      "value": "gfrA"
+    },
+    {
+      "offset": 80968,
+      "value": "gfjA"
+    },
+    {
+      "offset": 81040,
+      "value": "gfbA"
+    },
+    {
+      "offset": 81160,
+      "value": "gff@"
+    },
+    {
+      "offset": 82164,
+      "value": "gf6@33S@"
+    },
+    {
+      "offset": 82864,
+      "value": "gfbA"
+    },
+    {
+      "offset": 82888,
+      "value": "gfZA"
+    },
+    {
+      "offset": 82912,
+      "value": "gfRA"
+    },
+    {
+      "offset": 83368,
+      "value": "gfv@"
+    },
+    {
+      "offset": 83416,
+      "value": "gfV@"
+    },
+    {
+      "offset": 83464,
+      "value": "gf6@"
+    },
+    {
+      "offset": 83508,
+      "value": "gfF@"
+    },
+    {
+      "offset": 84088,
+      "value": "gfjA"
+    },
+    {
+      "offset": 84160,
+      "value": "gfjA"
+    },
+    {
+      "offset": 84184,
+      "value": "gfjA"
+    },
+    {
+      "offset": 84496,
+      "value": "gffA"
+    },
+    {
+      "offset": 84520,
+      "value": "gffA"
+    },
+    {
+      "offset": 84568,
+      "value": "gffA"
+    },
+    {
+      "offset": 84592,
+      "value": "gffA"
+    },
+    {
+      "offset": 84760,
+      "value": "gffA"
+    },
+    {
+      "offset": 84784,
+      "value": "gffA"
+    },
+    {
+      "offset": 85000,
+      "value": "gfjA"
+    },
+    {
+      "offset": 85257,
+      "value": "P0@"
+    },
+    {
+      "offset": 85365,
+      "value": "p+@"
+    },
+    {
+      "offset": 89808,
+      "value": "ff:A"
+    },
+    {
+      "offset": 90336,
+      "value": "ffjA"
+    },
+    {
+      "offset": 101568,
+      "value": "ff.B"
+    },
+    {
+      "offset": 101974,
+      "value": "o@ffeB"
+    },
+    {
+      "offset": 102145,
+      "value": "sOC"
+    },
+    {
+      "offset": 103978,
+      "value": "B@33sA"
+    },
+    {
+      "offset": 106531,
+      "value": "BKf"
+    },
+    {
+      "offset": 106627,
+      "value": "BKf"
+    },
+    {
+      "offset": 106819,
+      "value": "BKf"
+    },
+    {
+      "offset": 107011,
+      "value": "BKf"
+    },
+    {
+      "offset": 169040,
+      "value": "bounds"
+    },
+    {
+      "offset": 169052,
+      "value": "chimney_smoke"
+    },
+    {
+      "offset": 169072,
+      "value": "water"
+    },
+    {
+      "offset": 169084,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 169104,
+      "value": "obstacles_goblin_rail_T_a_1x1"
+    },
+    {
+      "offset": 169140,
+      "value": "obstacles_goblin_miningcart_1x1"
+    },
+    {
+      "offset": 169176,
+      "value": "cc_bighill_2x2_02"
+    },
+    {
+      "offset": 169200,
+      "value": "cc_deco_2x2_ruined_pillar_02"
+    },
+    {
+      "offset": 169236,
+      "value": "cc_deco_3x3_stone_01"
+    },
+    {
+      "offset": 169264,
+      "value": "cc_lake_transition_wall_5"
+    },
+    {
+      "offset": 169296,
+      "value": "cc_deco_2x2_pillar_02"
+    },
+    {
+      "offset": 169324,
+      "value": "cc_bighill_5x5_02"
+    },
+    {
+      "offset": 169348,
+      "value": "cc_lake_transition_wall_2"
+    },
+    {
+      "offset": 169380,
+      "value": "cc_bighill_3x3_01"
+    },
+    {
+      "offset": 169404,
+      "value": "cc_forest2_2x2"
+    },
+    {
+      "offset": 169424,
+      "value": "cc_deco_2x2_stone_01"
+    },
+    {
+      "offset": 169452,
+      "value": "cc_river_straight1_1"
+    },
+    {
+      "offset": 169480,
+      "value": "obstacles_goblin_rail_T_d_1x1"
+    },
+    {
+      "offset": 169516,
+      "value": "obstacles_goblin_rail_corner_a_1x1"
+    },
+    {
+      "offset": 169556,
+      "value": "ruin_deco_fireplace"
+    },
+    {
+      "offset": 169580,
+      "value": "cc_pine_02"
+    },
+    {
+      "offset": 169596,
+      "value": "cc_lake_corner1_4"
+    },
+    {
+      "offset": 169620,
+      "value": "cc_deco_goblinking_statue"
+    },
+    {
+      "offset": 169652,
+      "value": "tombstone_cc"
+    },
+    {
+      "offset": 169672,
+      "value": "cc_river_corner1_3"
+    },
+    {
+      "offset": 169696,
+      "value": "obstacles_goblin_rail_vertical_1x1"
+    },
+    {
+      "offset": 169736,
+      "value": "cc_river_end1_1"
+    },
+    {
+      "offset": 169756,
+      "value": "cc_bighill_4x4_02"
+    },
+    {
+      "offset": 169780,
+      "value": "cc_lake_curve1_3"
+    },
+    {
+      "offset": 169804,
+      "value": "cc_lake_straight1_1"
+    },
+    {
+      "offset": 169828,
+      "value": "obstacles_goblin_rail_T_b_1x1"
+    },
+    {
+      "offset": 169864,
+      "value": "cc_pine_03"
+    },
+    {
+      "offset": 169880,
+      "value": "cc_river_double_3"
+    },
+    {
+      "offset": 169904,
+      "value": "obstacles_goblin_miningcart_1x1_a"
+    },
+    {
+      "offset": 169944,
+      "value": "cc_river_straight1_2_bridge_middle"
+    },
+    {
+      "offset": 169984,
+      "value": "obstacles_goblin_rail_horizon_1x1"
+    },
+    {
+      "offset": 170024,
+      "value": "cc_river_cave1_2"
+    },
+    {
+      "offset": 170048,
+      "value": "cc_river_curve1_2"
+    },
+    {
+      "offset": 170072,
+      "value": "cc_river_end1_2"
+    },
+    {
+      "offset": 170092,
+      "value": "cc_river_end1_3"
+    },
+    {
+      "offset": 170112,
+      "value": "cc_deco_goblinking_statue_ruin"
+    },
+    {
+      "offset": 170148,
+      "value": "obstacles_goblin_rail_corner_d_1x1"
+    },
+    {
+      "offset": 170188,
+      "value": "cc_fallen_tree_02"
+    },
+    {
+      "offset": 170212,
+      "value": "obstacles_goblin_rail_corner_c_1x1"
+    },
+    {
+      "offset": 170252,
+      "value": "cc_river_diagonal_2"
+    },
+    {
+      "offset": 170276,
+      "value": "obstacles_goblin_rail_T_c_1x1"
+    },
+    {
+      "offset": 170312,
+      "value": "cc_bighill_4x4_01"
+    },
+    {
+      "offset": 170336,
+      "value": "tombstone_2_cc"
+    },
+    {
+      "offset": 170356,
+      "value": "cc_tree1_3"
+    },
+    {
+      "offset": 170372,
+      "value": "cc_impassable_03"
+    },
+    {
+      "offset": 170396,
+      "value": "cc_deco_4x4_02"
+    },
+    {
+      "offset": 170416,
+      "value": "cc_pine_04"
+    },
+    {
+      "offset": 170432,
+      "value": "cc_bighill_5x5_01"
+    },
+    {
+      "offset": 170456,
+      "value": "cc_pine_01"
+    },
+    {
+      "offset": 170472,
+      "value": "cc_deco_4x4_01"
+    },
+    {
+      "offset": 170492,
+      "value": "cc_impassable_02"
+    },
+    {
+      "offset": 170516,
+      "value": "cc_river_straight1_2_bridge_bottom"
+    },
+    {
+      "offset": 170556,
+      "value": "cc_water_3x3"
+    },
+    {
+      "offset": 170576,
+      "value": "cc_deco_3x3_stone_02"
+    },
+    {
+      "offset": 170604,
+      "value": "cc_lake_corner1_1"
+    },
+    {
+      "offset": 170628,
+      "value": "cc_lake_curve1_2"
+    },
+    {
+      "offset": 170652,
+      "value": "cc_deco_2x2_ruined_pillar_01"
+    },
+    {
+      "offset": 170688,
+      "value": "cc_lake_transition_2"
+    },
+    {
+      "offset": 170716,
+      "value": "cc_deco_2x2_pillar_01"
+    },
+    {
+      "offset": 170744,
+      "value": "cc_quarry_5x5"
+    },
+    {
+      "offset": 170764,
+      "value": "cc_deco_2x2_stone_02"
+    },
+    {
+      "offset": 170792,
+      "value": "cc_deco_4x4_03"
+    },
+    {
+      "offset": 170812,
+      "value": "cc_lake_transition_3"
+    },
+    {
+      "offset": 170840,
+      "value": "cc_fallen_tree_01"
+    },
+    {
+      "offset": 170864,
+      "value": "cc_tree1_2"
+    },
+    {
+      "offset": 170880,
+      "value": "obstacles_goblin_rail_corner_b_1x1"
+    },
+    {
+      "offset": 170920,
+      "value": "cc_lake_transition_1"
+    },
+    {
+      "offset": 170948,
+      "value": "tombstone_3_cc"
+    },
+    {
+      "offset": 170968,
+      "value": "cc_bighill_2x2_01"
+    },
+    {
+      "offset": 170992,
+      "value": "cc_lake_corner1_3"
+    },
+    {
+      "offset": 171016,
+      "value": "tombstone_1_cc"
+    },
+    {
+      "offset": 171036,
+      "value": "cc_deco_3x3_pillar_01"
+    },
+    {
+      "offset": 171064,
+      "value": "cc_river_straight1_1_bridge"
+    },
+    {
+      "offset": 171096,
+      "value": "cc_dead_tree_01"
+    },
+    {
+      "offset": 171116,
+      "value": "cc_tree1_1"
+    },
+    {
+      "offset": 171132,
+      "value": "cc_bighill_3x3_02"
+    },
+    {
+      "offset": 171156,
+      "value": "cc_river_straight1_2_bridge_double"
+    },
+    {
+      "offset": 171196,
+      "value": "cc_bighill_4x4_02_mine"
+    },
+    {
+      "offset": 171224,
+      "value": "cc_Fireplace_01"
+    },
+    {
+      "offset": 171244,
+      "value": "cc_river_tj1_4"
+    },
+    {
+      "offset": 171264,
+      "value": "cc_forest2_3x3"
+    },
+    {
+      "offset": 171284,
+      "value": "cc_impassable_01"
+    },
+    {
+      "offset": 171308,
+      "value": "cc_river_double_2"
+    },
+    {
+      "offset": 171332,
+      "value": "cc_river_double_4"
+    },
+    {
+      "offset": 171356,
+      "value": "cc_river_tj1_2"
+    },
+    {
+      "offset": 171376,
+      "value": "cc_forest_2x2"
+    },
+    {
+      "offset": 171396,
+      "value": "cc_forest_3x3"
+    },
+    {
+      "offset": 171416,
+      "value": "cc_lake_tile1"
+    },
+    {
+      "offset": 171436,
+      "value": "cc_lake_transition_wall_4"
+    },
+    {
+      "offset": 171468,
+      "value": "cc_river_corner1_1"
+    },
+    {
+      "offset": 171492,
+      "value": "cc_lake_transition_wall_3"
+    },
+    {
+      "offset": 171524,
+      "value": "cc_river_corner1_2"
+    },
+    {
+      "offset": 171548,
+      "value": "cc_river_corner1_4"
+    },
+    {
+      "offset": 171572,
+      "value": "cc_lake_corner1_2"
+    },
+    {
+      "offset": 171596,
+      "value": "cc_river_straight1_2"
+    },
+    {
+      "offset": 171624,
+      "value": "cc_lake_curve1_1"
+    },
+    {
+      "offset": 171648,
+      "value": "cc_lake_curve1_4"
+    },
+    {
+      "offset": 171672,
+      "value": "cc_lake_straight1_2"
+    },
+    {
+      "offset": 171696,
+      "value": "cc_lake_straight1_3"
+    },
+    {
+      "offset": 171720,
+      "value": "cc_lake_straight1_4"
+    },
+    {
+      "offset": 171744,
+      "value": "cc_lake_transition_4"
+    },
+    {
+      "offset": 171772,
+      "value": "cc_lake_transition_wall_1"
+    },
+    {
+      "offset": 171804,
+      "value": "cc_lake_transition_wall_8"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000b4cc90a02954d3907e7f76853684f3a0041ab9ac1c002c00040008000c00100014001800000000001c002000240028001c00000001000000",
+  "decoded_preview_hex": "48a1020018000000000012001400040000000000000008000c001000120000002492020044a201003c5d010004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

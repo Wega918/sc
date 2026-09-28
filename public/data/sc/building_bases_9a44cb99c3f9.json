@@ -1,0 +1,2964 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "building_bases.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\building_bases.sc",
+  "sha256_container": "9a44cb99c3f95cb326632a8ebf3294b5fb3281d31b8d75135708685e0438fb6a",
+  "sha256_descriptor": "0aa2ebcc8e4307da96fd1219aa79cf927a81e1f2369cda773f9064db6f92a820",
+  "sha256_decoded_payload": "7f7e5e87d0d2c170daeb4b9097503fe91113b12782992524c55d3e615c77eb70",
+  "version": 6,
+  "descriptor_bytes": 26844,
+  "compressed_frame_bytes": 17967,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 76624,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 87
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 421
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 8,
+      "offset": 80,
+      "raw_u32": 35228
+    },
+    {
+      "field_index": 9,
+      "offset": 84,
+      "raw_u32": 35252
+    },
+    {
+      "field_index": 10,
+      "offset": 88,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 92,
+      "raw_u32": 17968
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 1808,
+      "value": "worker_building_base"
+    },
+    {
+      "offset": 1868,
+      "value": "wizard_tower_base"
+    },
+    {
+      "offset": 1924,
+      "value": "windmachine_base"
+    },
+    {
+      "offset": 1980,
+      "value": "war_worker_building_base"
+    },
+    {
+      "offset": 2044,
+      "value": "war_wizard_tower_base"
+    },
+    {
+      "offset": 2104,
+      "value": "war_windmachine_base"
+    },
+    {
+      "offset": 2164,
+      "value": "war_townhall_lvl10_base"
+    },
+    {
+      "offset": 2224,
+      "value": "war_townhall_base"
+    },
+    {
+      "offset": 2280,
+      "value": "war_time_based_trap_base"
+    },
+    {
+      "offset": 2344,
+      "value": "war_statue_base"
+    },
+    {
+      "offset": 2396,
+      "value": "war_spellforge_lvl4_base"
+    },
+    {
+      "offset": 2460,
+      "value": "war_rapidfire_base"
+    },
+    {
+      "offset": 2516,
+      "value": "war_npc_deco_windmeter_base"
+    },
+    {
+      "offset": 2580,
+      "value": "war_npc_deco_torch1_base"
+    },
+    {
+      "offset": 2644,
+      "value": "war_npc_deco_skullaltar_base"
+    },
+    {
+      "offset": 2712,
+      "value": "war_npc_deco_goblinpole_base"
+    },
+    {
+      "offset": 2780,
+      "value": "war_npc_deco_flowerbox2_base"
+    },
+    {
+      "offset": 2848,
+      "value": "war_npc_deco_flowerbox1_base"
+    },
+    {
+      "offset": 2916,
+      "value": "war_npc_deco_flagpole_base"
+    },
+    {
+      "offset": 2980,
+      "value": "war_mortar_base"
+    },
+    {
+      "offset": 3032,
+      "value": "war_mini_spell_distillery_base"
+    },
+    {
+      "offset": 3100,
+      "value": "war_laboratory_base"
+    },
+    {
+      "offset": 3156,
+      "value": "war_heroaltar_base"
+    },
+    {
+      "offset": 3212,
+      "value": "war_ground_unit_generator_base"
+    },
+    {
+      "offset": 3280,
+      "value": "war_goldmine_base"
+    },
+    {
+      "offset": 3336,
+      "value": "war_gold_storage_lvl9_base"
+    },
+    {
+      "offset": 3400,
+      "value": "war_gold_storage_lvl8_base"
+    },
+    {
+      "offset": 3464,
+      "value": "war_gold_storage_lvl7_base"
+    },
+    {
+      "offset": 3528,
+      "value": "war_gold_storage_lvl6_base"
+    },
+    {
+      "offset": 3592,
+      "value": "war_gold_storage_lvl5_base"
+    },
+    {
+      "offset": 3656,
+      "value": "war_gold_storage_lvl4_base"
+    },
+    {
+      "offset": 3720,
+      "value": "war_gold_storage_lvl3_base"
+    },
+    {
+      "offset": 3784,
+      "value": "war_gold_storage_lvl2_base"
+    },
+    {
+      "offset": 3848,
+      "value": "war_gold_storage_lvl1_base"
+    },
+    {
+      "offset": 3912,
+      "value": "war_gold_storage_lvl11_base"
+    },
+    {
+      "offset": 3976,
+      "value": "war_gold_storage_lvl10_base"
+    },
+    {
+      "offset": 4040,
+      "value": "war_gold_storage_base"
+    },
+    {
+      "offset": 4100,
+      "value": "war_goblin_townhall_base"
+    },
+    {
+      "offset": 4164,
+      "value": "war_goblin_hut_base"
+    },
+    {
+      "offset": 4220,
+      "value": "war_fireplace_lvl7_base"
+    },
+    {
+      "offset": 4280,
+      "value": "war_fireplace_lvl6_base"
+    },
+    {
+      "offset": 4340,
+      "value": "war_fireplace_lvl5_base"
+    },
+    {
+      "offset": 4400,
+      "value": "war_fireplace_lvl4_base"
+    },
+    {
+      "offset": 4460,
+      "value": "war_fireplace_lvl3_base"
+    },
+    {
+      "offset": 4520,
+      "value": "war_fireplace_lvl2_base"
+    },
+    {
+      "offset": 4580,
+      "value": "war_fireplace_lvl1_base"
+    },
+    {
+      "offset": 4640,
+      "value": "war_elixir_storage_lvl9_base"
+    },
+    {
+      "offset": 4708,
+      "value": "war_elixir_storage_lvl8_base"
+    },
+    {
+      "offset": 4776,
+      "value": "war_elixir_storage_lvl7_base"
+    },
+    {
+      "offset": 4844,
+      "value": "war_elixir_storage_lvl6_base"
+    },
+    {
+      "offset": 4912,
+      "value": "war_elixir_storage_lvl5_base"
+    },
+    {
+      "offset": 4980,
+      "value": "war_elixir_storage_lvl4_base"
+    },
+    {
+      "offset": 5048,
+      "value": "war_elixir_storage_lvl3_base"
+    },
+    {
+      "offset": 5116,
+      "value": "war_elixir_storage_lvl2_base"
+    },
+    {
+      "offset": 5184,
+      "value": "war_elixir_storage_lvl1_base"
+    },
+    {
+      "offset": 5252,
+      "value": "war_elixir_storage_lvl11_base"
+    },
+    {
+      "offset": 5320,
+      "value": "war_elixir_storage_lvl10_base"
+    },
+    {
+      "offset": 5388,
+      "value": "war_elixir_storage_base"
+    },
+    {
+      "offset": 5448,
+      "value": "war_elixir_pump_base"
+    },
+    {
+      "offset": 5508,
+      "value": "war_defense_tower_turret_base"
+    },
+    {
+      "offset": 5576,
+      "value": "war_deco_windmeter_base"
+    },
+    {
+      "offset": 5636,
+      "value": "war_deco_torch1_base"
+    },
+    {
+      "offset": 5696,
+      "value": "war_deco_skullaltar_base"
+    },
+    {
+      "offset": 5760,
+      "value": "war_deco_goblinpole_base"
+    },
+    {
+      "offset": 5824,
+      "value": "war_deco_flowerbox2_base"
+    },
+    {
+      "offset": 5888,
+      "value": "war_deco_flowerbox1_base"
+    },
+    {
+      "offset": 5952,
+      "value": "war_deco_flagpole_base"
+    },
+    {
+      "offset": 6012,
+      "value": "war_dark_tower_base"
+    },
+    {
+      "offset": 6068,
+      "value": "war_dark_elixir_storage_lvl6_base"
+    },
+    {
+      "offset": 6140,
+      "value": "war_dark_elixir_storage_lvl5_base"
+    },
+    {
+      "offset": 6212,
+      "value": "war_dark_elixir_storage_lvl4_base"
+    },
+    {
+      "offset": 6284,
+      "value": "war_dark_elixir_storage_lvl3_base"
+    },
+    {
+      "offset": 6356,
+      "value": "war_dark_elixir_storage_lvl2_base"
+    },
+    {
+      "offset": 6428,
+      "value": "war_dark_elixir_storage_lvl1_base"
+    },
+    {
+      "offset": 6500,
+      "value": "war_dark_elixir_pump_base"
+    },
+    {
+      "offset": 6564,
+      "value": "war_comm_mast_broken_base"
+    },
+    {
+      "offset": 6628,
+      "value": "war_comm_mast_base"
+    },
+    {
+      "offset": 6684,
+      "value": "war_basic_cannon_lvl9_base"
+    },
+    {
+      "offset": 6748,
+      "value": "war_basic_cannon_lvl8_base"
+    },
+    {
+      "offset": 6812,
+      "value": "war_basic_cannon_lvl7_base"
+    },
+    {
+      "offset": 6876,
+      "value": "war_basic_cannon_lvl6_base"
+    },
+    {
+      "offset": 6940,
+      "value": "war_basic_cannon_lvl5_base"
+    },
+    {
+      "offset": 7004,
+      "value": "war_basic_cannon_lvl4_base"
+    },
+    {
+      "offset": 7068,
+      "value": "war_basic_cannon_lvl3_base"
+    },
+    {
+      "offset": 7132,
+      "value": "war_basic_cannon_lvl2_base"
+    },
+    {
+      "offset": 7196,
+      "value": "war_basic_cannon_lvl1_base"
+    },
+    {
+      "offset": 7260,
+      "value": "war_basic_cannon_lvl11_base"
+    },
+    {
+      "offset": 7324,
+      "value": "war_basic_cannon_lvl10_base"
+    },
+    {
+      "offset": 7388,
+      "value": "war_basic_cannon_base"
+    },
+    {
+      "offset": 7448,
+      "value": "war_barracks_base"
+    },
+    {
+      "offset": 7504,
+      "value": "war_barbarian_hut_base"
+    },
+    {
+      "offset": 7564,
+      "value": "war_alliance_marker_base"
+    },
+    {
+      "offset": 7628,
+      "value": "war_alliance_castle_base"
+    },
+    {
+      "offset": 7692,
+      "value": "war_airdefence_tower_base"
+    },
+    {
+      "offset": 7756,
+      "value": "tree_trunk_b_base"
+    },
+    {
+      "offset": 7812,
+      "value": "tree_trunk_a_base"
+    },
+    {
+      "offset": 7868,
+      "value": "townhall_lvl10_base"
+    },
+    {
+      "offset": 7924,
+      "value": "townhall_base_th12"
+    },
+    {
+      "offset": 7980,
+      "value": "townhall_base"
+    },
+    {
+      "offset": 8032,
+      "value": "town_hall_lvl18_t1_base"
+    },
+    {
+      "offset": 8092,
+      "value": "time_based_trap_base"
+    },
+    {
+      "offset": 8152,
+      "value": "statue_base"
+    },
+    {
+      "offset": 8200,
+      "value": "square_tree_a_base"
+    },
+    {
+      "offset": 8256,
+      "value": "square_bush_a_base"
+    },
+    {
+      "offset": 8312,
+      "value": "spellforge_lvl4_base"
+    },
+    {
+      "offset": 8372,
+      "value": "small_stone_c_base"
+    },
+    {
+      "offset": 8428,
+      "value": "small_stone_b_base"
+    },
+    {
+      "offset": 8484,
+      "value": "small_stone_a_base"
+    },
+    {
+      "offset": 8540,
+      "value": "simple_shadow_small"
+    },
+    {
+      "offset": 8596,
+      "value": "simple_shadow"
+    },
+    {
+      "offset": 8648,
+      "value": "siege_workshop_base3"
+    },
+    {
+      "offset": 8708,
+      "value": "siege_workshop_base2"
+    },
+    {
+      "offset": 8768,
+      "value": "siege_workshop_base"
+    },
+    {
+      "offset": 8824,
+      "value": "shadow_flamer_lvl8"
+    },
+    {
+      "offset": 8880,
+      "value": "shadow_flamer_lvl7"
+    },
+    {
+      "offset": 8936,
+      "value": "shadow_flamer_lvl6"
+    },
+    {
+      "offset": 8992,
+      "value": "shadow_flamer_lvl5"
+    },
+    {
+      "offset": 9048,
+      "value": "shadow_flamer_lvl4"
+    },
+    {
+      "offset": 9104,
+      "value": "shadow_flamer_lvl3"
+    },
+    {
+      "offset": 9160,
+      "value": "shadow_flamer_lvl2"
+    },
+    {
+      "offset": 9216,
+      "value": "shadow_flamer_lvl1"
+    },
+    {
+      "offset": 9272,
+      "value": "season_def_base_3x3"
+    },
+    {
+      "offset": 9328,
+      "value": "recoverGrass_tile_b1_village2_stage2"
+    },
+    {
+      "offset": 9404,
+      "value": "recoverGrass_tile_b1_village2"
+    },
+    {
+      "offset": 9472,
+      "value": "recoverGrass_tile_b1"
+    },
+    {
+      "offset": 9532,
+      "value": "recoverGrass_tile_a1_village2"
+    },
+    {
+      "offset": 9600,
+      "value": "recoverGrass_tile_a1"
+    },
+    {
+      "offset": 9660,
+      "value": "rapidfire_base"
+    },
+    {
+      "offset": 9712,
+      "value": "quarry_obstacle_base"
+    },
+    {
+      "offset": 9772,
+      "value": "playerhouse_base"
+    },
+    {
+      "offset": 9828,
+      "value": "pine_tree2_base"
+    },
+    {
+      "offset": 9880,
+      "value": "pet_house_lvl9_base"
+    },
+    {
+      "offset": 9936,
+      "value": "pet_house_lvl8_base"
+    },
+    {
+      "offset": 9992,
+      "value": "pet_house_lvl7_base"
+    },
+    {
+      "offset": 10048,
+      "value": "pet_house_lvl6_base"
+    },
+    {
+      "offset": 10104,
+      "value": "pet_house_lvl5_base"
+    },
+    {
+      "offset": 10160,
+      "value": "pet_house_lvl4_base"
+    },
+    {
+      "offset": 10216,
+      "value": "pet_house_lvl3_base"
+    },
+    {
+      "offset": 10272,
+      "value": "pet_house_lvl2_base"
+    },
+    {
+      "offset": 10328,
+      "value": "pet_house_lvl1_base"
+    },
+    {
+      "offset": 10384,
+      "value": "pet_house_lvl12_base"
+    },
+    {
+      "offset": 10444,
+      "value": "pet_house_lvl11_base"
+    },
+    {
+      "offset": 10504,
+      "value": "pet_house_lvl10_base"
+    },
+    {
+      "offset": 10564,
+      "value": "obstacles_smallshadow_base_2x2"
+    },
+    {
+      "offset": 10632,
+      "value": "obstacle_base_5x5"
+    },
+    {
+      "offset": 10688,
+      "value": "obstacle_base_4x4"
+    },
+    {
+      "offset": 10744,
+      "value": "obstacle_base_3x3"
+    },
+    {
+      "offset": 10800,
+      "value": "obstacle_base_2x2"
+    },
+    {
+      "offset": 10856,
+      "value": "obstacle_base_1x1"
+    },
+    {
+      "offset": 10912,
+      "value": "npc_worker_building_base"
+    },
+    {
+      "offset": 10976,
+      "value": "npc_wizard_tower_base"
+    },
+    {
+      "offset": 11036,
+      "value": "npc_tree_trunk_b_base"
+    },
+    {
+      "offset": 11096,
+      "value": "npc_tree_trunk_a_base"
+    },
+    {
+      "offset": 11156,
+      "value": "npc_statue_base"
+    },
+    {
+      "offset": 11208,
+      "value": "npc_square_tree_a_base"
+    },
+    {
+      "offset": 11268,
+      "value": "npc_square_bush_a_base"
+    },
+    {
+      "offset": 11328,
+      "value": "npc_spellforge_lvl4_base"
+    },
+    {
+      "offset": 11392,
+      "value": "npc_small_stone_c_base"
+    },
+    {
+      "offset": 11452,
+      "value": "npc_small_stone_b_base"
+    },
+    {
+      "offset": 11512,
+      "value": "npc_small_stone_a_base"
+    },
+    {
+      "offset": 11572,
+      "value": "npc_rapidfire_base"
+    },
+    {
+      "offset": 11628,
+      "value": "npc_pine_tree2_base"
+    },
+    {
+      "offset": 11684,
+      "value": "npc_mushrooms_base"
+    },
+    {
+      "offset": 11740,
+      "value": "npc_mortar_base"
+    },
+    {
+      "offset": 11792,
+      "value": "npc_large_stone_b_base"
+    },
+    {
+      "offset": 11852,
+      "value": "npc_large_stone2_base"
+    },
+    {
+      "offset": 11912,
+      "value": "npc_laboratory_base"
+    },
+    {
+      "offset": 11968,
+      "value": "npc_heroaltar_base"
+    },
+    {
+      "offset": 12024,
+      "value": "npc_goldmine_base"
+    },
+    {
+      "offset": 12080,
+      "value": "npc_gold_storage_lvl9_base"
+    },
+    {
+      "offset": 12144,
+      "value": "npc_gold_storage_lvl8_base"
+    },
+    {
+      "offset": 12208,
+      "value": "npc_gold_storage_lvl7_base"
+    },
+    {
+      "offset": 12272,
+      "value": "npc_gold_storage_lvl6_base"
+    },
+    {
+      "offset": 12336,
+      "value": "npc_gold_storage_lvl5_base"
+    },
+    {
+      "offset": 12400,
+      "value": "npc_gold_storage_lvl4_base"
+    },
+    {
+      "offset": 12464,
+      "value": "npc_gold_storage_lvl3_base"
+    },
+    {
+      "offset": 12528,
+      "value": "npc_gold_storage_lvl2_base"
+    },
+    {
+      "offset": 12592,
+      "value": "npc_gold_storage_lvl1_base"
+    },
+    {
+      "offset": 12656,
+      "value": "npc_gold_storage_lvl11_base"
+    },
+    {
+      "offset": 12720,
+      "value": "npc_gold_storage_lvl10_base"
+    },
+    {
+      "offset": 12784,
+      "value": "npc_gold_storage_base"
+    },
+    {
+      "offset": 12844,
+      "value": "npc_fallen_tree2_base"
+    },
+    {
+      "offset": 12904,
+      "value": "npc_env_sharpstone_5_base"
+    },
+    {
+      "offset": 12968,
+      "value": "npc_env_sharpstone_4_base"
+    },
+    {
+      "offset": 13032,
+      "value": "npc_env_sharpstone_3_base"
+    },
+    {
+      "offset": 13096,
+      "value": "npc_env_sharpstone_2_base"
+    },
+    {
+      "offset": 13160,
+      "value": "npc_env_sharpstone_1_base"
+    },
+    {
+      "offset": 13224,
+      "value": "npc_env_plant2_2_base"
+    },
+    {
+      "offset": 13284,
+      "value": "npc_env_plant1_2_base"
+    },
+    {
+      "offset": 13344,
+      "value": "npc_elixir_storage_base"
+    },
+    {
+      "offset": 13404,
+      "value": "npc_elixir_pump_base"
+    },
+    {
+      "offset": 13464,
+      "value": "npc_defense_tower_turret_base"
+    },
+    {
+      "offset": 13532,
+      "value": "npc_deco_windmeter_base"
+    },
+    {
+      "offset": 13592,
+      "value": "npc_deco_torch1_base"
+    },
+    {
+      "offset": 13652,
+      "value": "npc_deco_skullaltar_base"
+    },
+    {
+      "offset": 13716,
+      "value": "npc_deco_goblinpole_base"
+    },
+    {
+      "offset": 13780,
+      "value": "npc_deco_flowerbox2_base"
+    },
+    {
+      "offset": 13844,
+      "value": "npc_deco_flowerbox1_base"
+    },
+    {
+      "offset": 13908,
+      "value": "npc_deco_flagpole_base"
+    },
+    {
+      "offset": 13968,
+      "value": "npc_comm_mast_base"
+    },
+    {
+      "offset": 14024,
+      "value": "npc_basic_cannon_lvl9_base"
+    },
+    {
+      "offset": 14088,
+      "value": "npc_basic_cannon_lvl8_base"
+    },
+    {
+      "offset": 14152,
+      "value": "npc_basic_cannon_lvl7_base"
+    },
+    {
+      "offset": 14216,
+      "value": "npc_basic_cannon_lvl6_base"
+    },
+    {
+      "offset": 14280,
+      "value": "npc_basic_cannon_lvl5_base"
+    },
+    {
+      "offset": 14344,
+      "value": "npc_basic_cannon_lvl4_base"
+    },
+    {
+      "offset": 14408,
+      "value": "npc_basic_cannon_lvl3_base"
+    },
+    {
+      "offset": 14472,
+      "value": "npc_basic_cannon_lvl2_base"
+    },
+    {
+      "offset": 14536,
+      "value": "npc_basic_cannon_lvl1_base"
+    },
+    {
+      "offset": 14600,
+      "value": "npc_basic_cannon_lvl11_base"
+    },
+    {
+      "offset": 14664,
+      "value": "npc_basic_cannon_lvl10_base"
+    },
+    {
+      "offset": 14728,
+      "value": "npc_basic_cannon_base"
+    },
+    {
+      "offset": 14788,
+      "value": "npc_barracks_base"
+    },
+    {
+      "offset": 14844,
+      "value": "npc_barbarian_hut_base_big"
+    },
+    {
+      "offset": 14908,
+      "value": "npc_barbarian_hut_base"
+    },
+    {
+      "offset": 14968,
+      "value": "npc_alliance_castle_base"
+    },
+    {
+      "offset": 15032,
+      "value": "npc_airdefence_tower_base"
+    },
+    {
+      "offset": 15096,
+      "value": "newVillage_rocket_lvl1"
+    },
+    {
+      "offset": 15156,
+      "value": "newVillage_multi_mortar_lvl5"
+    },
+    {
+      "offset": 15224,
+      "value": "newVillage_multi_mortar_lvl4"
+    },
+    {
+      "offset": 15292,
+      "value": "newVillage_multi_mortar_lvl3"
+    },
+    {
+      "offset": 15360,
+      "value": "newVillage_multi_mortar_lvl2"
+    },
+    {
+      "offset": 15428,
+      "value": "newVillage_multi_mortar_lvl1"
+    },
+    {
+      "offset": 15496,
+      "value": "newVillage_lab_lvl6"
+    },
+    {
+      "offset": 15552,
+      "value": "newVillage_lab_lvl5"
+    },
+    {
+      "offset": 15608,
+      "value": "newVillage_lab_lvl4"
+    },
+    {
+      "offset": 15664,
+      "value": "newVillage_lab_lvl3"
+    },
+    {
+      "offset": 15720,
+      "value": "newVillage_lab_lvl2"
+    },
+    {
+      "offset": 15776,
+      "value": "newVillage_lab_lvl1"
+    },
+    {
+      "offset": 15832,
+      "value": "newVillage_guard_post_lvl1"
+    },
+    {
+      "offset": 15896,
+      "value": "newVillage_clockTower_lvl1"
+    },
+    {
+      "offset": 15960,
+      "value": "mushrooms_base"
+    },
+    {
+      "offset": 16012,
+      "value": "mortar_base"
+    },
+    {
+      "offset": 16060,
+      "value": "mini_spell_distillery_base"
+    },
+    {
+      "offset": 16124,
+      "value": "merged_wizard_tower_lvl1_base"
+    },
+    {
+      "offset": 16192,
+      "value": "large_stone_b_base"
+    },
+    {
+      "offset": 16248,
+      "value": "large_stone2_base"
+    },
+    {
+      "offset": 16304,
+      "value": "large_pine_patch_base"
+    },
+    {
+      "offset": 16364,
+      "value": "laboratory_base"
+    },
+    {
+      "offset": 16416,
+      "value": "heroaltar_base"
+    },
+    {
+      "offset": 16468,
+      "value": "ground_unit_generator_base"
+    },
+    {
+      "offset": 16532,
+      "value": "ground_sideTop"
+    },
+    {
+      "offset": 16584,
+      "value": "ground_sideRight"
+    },
+    {
+      "offset": 16640,
+      "value": "ground_sideLeft"
+    },
+    {
+      "offset": 16692,
+      "value": "ground_sideBottom"
+    },
+    {
+      "offset": 16748,
+      "value": "ground_pathVertical"
+    },
+    {
+      "offset": 16804,
+      "value": "ground_pathHorizontal"
+    },
+    {
+      "offset": 16864,
+      "value": "ground_fill"
+    },
+    {
+      "offset": 16912,
+      "value": "ground_endTop"
+    },
+    {
+      "offset": 16964,
+      "value": "ground_endRight"
+    },
+    {
+      "offset": 17016,
+      "value": "ground_endLeft"
+    },
+    {
+      "offset": 17068,
+      "value": "ground_endBottom"
+    },
+    {
+      "offset": 17124,
+      "value": "ground_cornerTopRight"
+    },
+    {
+      "offset": 17184,
+      "value": "ground_cornerTopLeft"
+    },
+    {
+      "offset": 17244,
+      "value": "ground_cornerBottomRight"
+    },
+    {
+      "offset": 17308,
+      "value": "ground_cornerBottomLeft"
+    },
+    {
+      "offset": 17368,
+      "value": "golem_barracks_base"
+    },
+    {
+      "offset": 17424,
+      "value": "goldmine_base"
+    },
+    {
+      "offset": 17476,
+      "value": "gold_storage_lvl9_base"
+    },
+    {
+      "offset": 17536,
+      "value": "gold_storage_lvl8_base"
+    },
+    {
+      "offset": 17596,
+      "value": "gold_storage_lvl7_base"
+    },
+    {
+      "offset": 17656,
+      "value": "gold_storage_lvl6_base"
+    },
+    {
+      "offset": 17716,
+      "value": "gold_storage_lvl5_base"
+    },
+    {
+      "offset": 17776,
+      "value": "gold_storage_lvl4_base"
+    },
+    {
+      "offset": 17836,
+      "value": "gold_storage_lvl3_base"
+    },
+    {
+      "offset": 17896,
+      "value": "gold_storage_lvl2_base"
+    },
+    {
+      "offset": 17956,
+      "value": "gold_storage_lvl1_base"
+    },
+    {
+      "offset": 18016,
+      "value": "gold_storage_lvl11_base"
+    },
+    {
+      "offset": 18076,
+      "value": "gold_storage_lvl10_base"
+    },
+    {
+      "offset": 18136,
+      "value": "gold_storage_base"
+    },
+    {
+      "offset": 18192,
+      "value": "goblin_townhall_base"
+    },
+    {
+      "offset": 18252,
+      "value": "goblin_hut_base"
+    },
+    {
+      "offset": 18304,
+      "value": "football_shadow"
+    },
+    {
+      "offset": 18356,
+      "value": "fireplace_lvl8_base"
+    },
+    {
+      "offset": 18412,
+      "value": "fireplace_lvl7_base"
+    },
+    {
+      "offset": 18468,
+      "value": "fireplace_lvl6_base"
+    },
+    {
+      "offset": 18524,
+      "value": "fireplace_lvl5_base"
+    },
+    {
+      "offset": 18580,
+      "value": "fireplace_lvl4_base"
+    },
+    {
+      "offset": 18636,
+      "value": "fireplace_lvl3_base"
+    },
+    {
+      "offset": 18692,
+      "value": "fireplace_lvl2_base"
+    },
+    {
+      "offset": 18748,
+      "value": "fireplace_lvl1_base"
+    },
+    {
+      "offset": 18804,
+      "value": "fireplace_lvl14_base"
+    },
+    {
+      "offset": 18864,
+      "value": "fallen_tree2_base"
+    },
+    {
+      "offset": 18920,
+      "value": "env_sharpstone_5_base"
+    },
+    {
+      "offset": 18980,
+      "value": "env_sharpstone_4_base"
+    },
+    {
+      "offset": 19040,
+      "value": "env_sharpstone_3_base"
+    },
+    {
+      "offset": 19100,
+      "value": "env_sharpstone_2_base"
+    },
+    {
+      "offset": 19160,
+      "value": "env_sharpstone_1_base"
+    },
+    {
+      "offset": 19220,
+      "value": "empty_rally_point_base"
+    },
+    {
+      "offset": 19280,
+      "value": "elixir_storage_lvl9_base"
+    },
+    {
+      "offset": 19344,
+      "value": "elixir_storage_lvl8_base"
+    },
+    {
+      "offset": 19408,
+      "value": "elixir_storage_lvl7_base"
+    },
+    {
+      "offset": 19472,
+      "value": "elixir_storage_lvl6_base"
+    },
+    {
+      "offset": 19536,
+      "value": "elixir_storage_lvl5_base"
+    },
+    {
+      "offset": 19600,
+      "value": "elixir_storage_lvl4_base"
+    },
+    {
+      "offset": 19664,
+      "value": "elixir_storage_lvl3_base"
+    },
+    {
+      "offset": 19728,
+      "value": "elixir_storage_lvl2_base"
+    },
+    {
+      "offset": 19792,
+      "value": "elixir_storage_lvl1_base"
+    },
+    {
+      "offset": 19856,
+      "value": "elixir_storage_lvl11_base"
+    },
+    {
+      "offset": 19920,
+      "value": "elixir_storage_lvl10_base"
+    },
+    {
+      "offset": 19984,
+      "value": "elixir_storage_base"
+    },
+    {
+      "offset": 20040,
+      "value": "elixir_pump_lvl9_base"
+    },
+    {
+      "offset": 20100,
+      "value": "elixir_pump_lvl5_base"
+    },
+    {
+      "offset": 20160,
+      "value": "elixir_pump_base"
+    },
+    {
+      "offset": 20216,
+      "value": "eagle_artillery_base"
+    },
+    {
+      "offset": 20276,
+      "value": "districthall_base"
+    },
+    {
+      "offset": 20332,
+      "value": "defense_tower_turret_base_offset_01"
+    },
+    {
+      "offset": 20404,
+      "value": "defense_tower_turret_base"
+    },
+    {
+      "offset": 20468,
+      "value": "deco_windmeter_base"
+    },
+    {
+      "offset": 20524,
+      "value": "deco_torch1_base"
+    },
+    {
+      "offset": 20580,
+      "value": "deco_square_large_base"
+    },
+    {
+      "offset": 20640,
+      "value": "deco_snowman_base"
+    },
+    {
+      "offset": 20696,
+      "value": "deco_skullaltar_base"
+    },
+    {
+      "offset": 20756,
+      "value": "deco_shadow_large_oval"
+    },
+    {
+      "offset": 20816,
+      "value": "deco_large_round_shadow"
+    },
+    {
+      "offset": 20876,
+      "value": "deco_lantern_base"
+    },
+    {
+      "offset": 20932,
+      "value": "deco_goblinpole_base"
+    },
+    {
+      "offset": 20992,
+      "value": "deco_flowerbox2_base"
+    },
+    {
+      "offset": 21052,
+      "value": "deco_flowerbox1_base"
+    },
+    {
+      "offset": 21112,
+      "value": "deco_flagpole_base"
+    },
+    {
+      "offset": 21168,
+      "value": "deco_base_noshadow"
+    },
+    {
+      "offset": 21224,
+      "value": "deco_base_3x3"
+    },
+    {
+      "offset": 21276,
+      "value": "dark_tower_base"
+    },
+    {
+      "offset": 21328,
+      "value": "dark_elixir_storage_lvl6_base"
+    },
+    {
+      "offset": 21396,
+      "value": "dark_elixir_storage_lvl5_base"
+    },
+    {
+      "offset": 21464,
+      "value": "dark_elixir_storage_lvl4_base"
+    },
+    {
+      "offset": 21532,
+      "value": "dark_elixir_storage_lvl3_base"
+    },
+    {
+      "offset": 21600,
+      "value": "dark_elixir_storage_lvl2_base"
+    },
+    {
+      "offset": 21668,
+      "value": "dark_elixir_storage_lvl1_base"
+    },
+    {
+      "offset": 21736,
+      "value": "dark_elixir_pump_base"
+    },
+    {
+      "offset": 21796,
+      "value": "comm_mast_broken_base"
+    },
+    {
+      "offset": 21856,
+      "value": "comm_mast_base"
+    },
+    {
+      "offset": 21908,
+      "value": "cc_rocket_big_base"
+    },
+    {
+      "offset": 21964,
+      "value": "cc_rapid_big_base"
+    },
+    {
+      "offset": 22020,
+      "value": "cc_obstacle_base_5x5"
+    },
+    {
+      "offset": 22080,
+      "value": "cc_obstacle_base_4x4"
+    },
+    {
+      "offset": 22140,
+      "value": "cc_obstacle_base_3x3"
+    },
+    {
+      "offset": 22200,
+      "value": "cc_obstacle_base_2x2"
+    },
+    {
+      "offset": 22260,
+      "value": "cc_obstacle_base_1x1"
+    },
+    {
+      "offset": 22320,
+      "value": "cc_mountain_5x5_1_base"
+    },
+    {
+      "offset": 22380,
+      "value": "cc_mountain_4x4_1_base"
+    },
+    {
+      "offset": 22440,
+      "value": "cc_mountain_3x3_1_base"
+    },
+    {
+      "offset": 22500,
+      "value": "cc_mountain_2x2_1_base"
+    },
+    {
+      "offset": 22560,
+      "value": "cc_mortar_small_base"
+    },
+    {
+      "offset": 22620,
+      "value": "cc_mortar_big_base"
+    },
+    {
+      "offset": 22676,
+      "value": "cc_hq_base"
+    },
+    {
+      "offset": 22724,
+      "value": "cc_flying_fort_base"
+    },
+    {
+      "offset": 22780,
+      "value": "cc_fireplace_lvl1_base"
+    },
+    {
+      "offset": 22840,
+      "value": "cc_deco_base_quarry"
+    },
+    {
+      "offset": 22896,
+      "value": "cc_deco_base4x4"
+    },
+    {
+      "offset": 22948,
+      "value": "cc_deco_base3x3"
+    },
+    {
+      "offset": 23000,
+      "value": "cc_deco_base2x2"
+    },
+    {
+      "offset": 23052,
+      "value": "cc_deco_base1x1_small_tree"
+    },
+    {
+      "offset": 23116,
+      "value": "cc_deco_base1x1_big_tree"
+    },
+    {
+      "offset": 23180,
+      "value": "cc_cannon_small_base"
+    },
+    {
+      "offset": 23240,
+      "value": "cc_cannon_big_base"
+    },
+    {
+      "offset": 23296,
+      "value": "cc_bombtower_big_base"
+    },
+    {
+      "offset": 23356,
+      "value": "cc_blast_bow_big_base"
+    },
+    {
+      "offset": 23416,
+      "value": "cc_barracks_base"
+    },
+    {
+      "offset": 23472,
+      "value": "cc_air_defense_small_base"
+    },
+    {
+      "offset": 23536,
+      "value": "cc_air_defense_big_base"
+    },
+    {
+      "offset": 23596,
+      "value": "capitalhall_base"
+    },
+    {
+      "offset": 23652,
+      "value": "bonus_gembox_base"
+    },
+    {
+      "offset": 23708,
+      "value": "basic_cannon_lvl9_base"
+    },
+    {
+      "offset": 23768,
+      "value": "basic_cannon_lvl8_base"
+    },
+    {
+      "offset": 23828,
+      "value": "basic_cannon_lvl7_base"
+    },
+    {
+      "offset": 23888,
+      "value": "basic_cannon_lvl6_base"
+    },
+    {
+      "offset": 23948,
+      "value": "basic_cannon_lvl5_base"
+    },
+    {
+      "offset": 24008,
+      "value": "basic_cannon_lvl4_base"
+    },
+    {
+      "offset": 24068,
+      "value": "basic_cannon_lvl3_base"
+    },
+    {
+      "offset": 24128,
+      "value": "basic_cannon_lvl2_base"
+    },
+    {
+      "offset": 24188,
+      "value": "basic_cannon_lvl1_base"
+    },
+    {
+      "offset": 24248,
+      "value": "basic_cannon_lvl11_base"
+    },
+    {
+      "offset": 24308,
+      "value": "basic_cannon_lvl10_base"
+    },
+    {
+      "offset": 24368,
+      "value": "basic_cannon_base"
+    },
+    {
+      "offset": 24424,
+      "value": "basic_cannon2_lvl9_base"
+    },
+    {
+      "offset": 24484,
+      "value": "basic_cannon2_lvl8_base"
+    },
+    {
+      "offset": 24544,
+      "value": "basic_cannon2_lvl7_base"
+    },
+    {
+      "offset": 24604,
+      "value": "basic_cannon2_lvl6_base"
+    },
+    {
+      "offset": 24664,
+      "value": "basic_cannon2_lvl5_base"
+    },
+    {
+      "offset": 24724,
+      "value": "basic_cannon2_lvl4_base"
+    },
+    {
+      "offset": 24784,
+      "value": "basic_cannon2_lvl3_base"
+    },
+    {
+      "offset": 24844,
+      "value": "basic_cannon2_lvl2_base"
+    },
+    {
+      "offset": 24904,
+      "value": "basic_cannon2_lvl1_base"
+    },
+    {
+      "offset": 24964,
+      "value": "basic_cannon2_lvl10_base"
+    },
+    {
+      "offset": 25028,
+      "value": "base_8x8"
+    },
+    {
+      "offset": 25076,
+      "value": "base_7x7"
+    },
+    {
+      "offset": 25124,
+      "value": "base_6x6"
+    },
+    {
+      "offset": 25172,
+      "value": "base_5x5"
+    },
+    {
+      "offset": 25220,
+      "value": "base_4x4"
+    },
+    {
+      "offset": 25268,
+      "value": "base_3x3"
+    },
+    {
+      "offset": 25316,
+      "value": "base_2x2"
+    },
+    {
+      "offset": 25364,
+      "value": "base_1x1"
+    },
+    {
+      "offset": 25412,
+      "value": "barracks_base"
+    },
+    {
+      "offset": 25464,
+      "value": "barbarian_hut_base"
+    },
+    {
+      "offset": 25520,
+      "value": "alliance_marker_base"
+    },
+    {
+      "offset": 25580,
+      "value": "alliance_castle_base"
+    },
+    {
+      "offset": 25640,
+      "value": "airdefence_tower_base"
+    },
+    {
+      "offset": 25700,
+      "value": "airdefence_box_base_lvl1"
+    },
+    {
+      "offset": 25764,
+      "value": "air_ship_base"
+    },
+    {
+      "offset": 25816,
+      "value": "airDefence_factory_lvl8"
+    },
+    {
+      "offset": 25876,
+      "value": "airDefence_factory_lvl7"
+    },
+    {
+      "offset": 25936,
+      "value": "airDefence_factory_lvl6"
+    },
+    {
+      "offset": 25996,
+      "value": "airDefence_factory_lvl5"
+    },
+    {
+      "offset": 26056,
+      "value": "airDefence_factory_lvl4"
+    },
+    {
+      "offset": 26116,
+      "value": "airDefence_factory_lvl3"
+    },
+    {
+      "offset": 26176,
+      "value": "airDefence_factory_lvl2"
+    },
+    {
+      "offset": 26236,
+      "value": "airDefence_factory_lvl1"
+    },
+    {
+      "offset": 26296,
+      "value": "adv_fireplace_lvl4_base"
+    },
+    {
+      "offset": 26356,
+      "value": "adv_fireplace_lvl3_base"
+    },
+    {
+      "offset": 26416,
+      "value": "adv_fireplace_lvl2_base"
+    },
+    {
+      "offset": 26476,
+      "value": "adv_fireplace_lvl1_base"
+    },
+    {
+      "offset": 26536,
+      "value": "RC_rally_point_base"
+    },
+    {
+      "offset": 26592,
+      "value": "MH_rally_point_base"
+    },
+    {
+      "offset": 26648,
+      "value": "GW_rally_point_base"
+    },
+    {
+      "offset": 26704,
+      "value": "DD_rally_point_base"
+    },
+    {
+      "offset": 26760,
+      "value": "BK_rally_point_base"
+    },
+    {
+      "offset": 26824,
+      "value": "AQ_rally_point_base"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "worker_building_base",
+    "wizard_tower_base",
+    "windmachine_base",
+    "war_worker_building_base",
+    "war_wizard_tower_base",
+    "war_windmachine_base",
+    "war_townhall_lvl10_base",
+    "war_townhall_base",
+    "war_time_based_trap_base",
+    "war_statue_base",
+    "war_spellforge_lvl4_base",
+    "war_rapidfire_base",
+    "war_npc_deco_windmeter_base",
+    "war_npc_deco_torch1_base",
+    "war_npc_deco_skullaltar_base",
+    "war_npc_deco_goblinpole_base",
+    "war_npc_deco_flowerbox2_base",
+    "war_npc_deco_flowerbox1_base",
+    "war_npc_deco_flagpole_base",
+    "war_mortar_base",
+    "war_mini_spell_distillery_base",
+    "war_laboratory_base",
+    "war_heroaltar_base",
+    "war_ground_unit_generator_base",
+    "war_goldmine_base",
+    "war_gold_storage_lvl9_base",
+    "war_gold_storage_lvl8_base",
+    "war_gold_storage_lvl7_base",
+    "war_gold_storage_lvl6_base",
+    "war_gold_storage_lvl5_base",
+    "war_gold_storage_lvl4_base",
+    "war_gold_storage_lvl3_base",
+    "war_gold_storage_lvl2_base",
+    "war_gold_storage_lvl1_base",
+    "war_gold_storage_lvl11_base",
+    "war_gold_storage_lvl10_base",
+    "war_gold_storage_base",
+    "war_goblin_townhall_base",
+    "war_goblin_hut_base",
+    "war_fireplace_lvl7_base",
+    "war_fireplace_lvl6_base",
+    "war_fireplace_lvl5_base",
+    "war_fireplace_lvl4_base",
+    "war_fireplace_lvl3_base",
+    "war_fireplace_lvl2_base",
+    "war_fireplace_lvl1_base",
+    "war_elixir_storage_lvl9_base",
+    "war_elixir_storage_lvl8_base",
+    "war_elixir_storage_lvl7_base",
+    "war_elixir_storage_lvl6_base",
+    "war_elixir_storage_lvl5_base",
+    "war_elixir_storage_lvl4_base",
+    "war_elixir_storage_lvl3_base",
+    "war_elixir_storage_lvl2_base",
+    "war_elixir_storage_lvl1_base",
+    "war_elixir_storage_lvl11_base",
+    "war_elixir_storage_lvl10_base",
+    "war_elixir_storage_base",
+    "war_elixir_pump_base",
+    "war_defense_tower_turret_base",
+    "war_deco_windmeter_base",
+    "war_deco_torch1_base",
+    "war_deco_skullaltar_base",
+    "war_deco_goblinpole_base",
+    "war_deco_flowerbox2_base",
+    "war_deco_flowerbox1_base",
+    "war_deco_flagpole_base",
+    "war_dark_tower_base",
+    "war_dark_elixir_storage_lvl6_base",
+    "war_dark_elixir_storage_lvl5_base",
+    "war_dark_elixir_storage_lvl4_base",
+    "war_dark_elixir_storage_lvl3_base",
+    "war_dark_elixir_storage_lvl2_base",
+    "war_dark_elixir_storage_lvl1_base",
+    "war_dark_elixir_pump_base",
+    "war_comm_mast_broken_base",
+    "war_comm_mast_base",
+    "war_basic_cannon_lvl9_base",
+    "war_basic_cannon_lvl8_base",
+    "war_basic_cannon_lvl7_base",
+    "war_basic_cannon_lvl6_base",
+    "war_basic_cannon_lvl5_base",
+    "war_basic_cannon_lvl4_base",
+    "war_basic_cannon_lvl3_base",
+    "war_basic_cannon_lvl2_base",
+    "war_basic_cannon_lvl1_base",
+    "war_basic_cannon_lvl11_base",
+    "war_basic_cannon_lvl10_base",
+    "war_basic_cannon_base",
+    "war_barracks_base",
+    "war_barbarian_hut_base",
+    "war_alliance_marker_base",
+    "war_alliance_castle_base",
+    "war_airdefence_tower_base",
+    "tree_trunk_b_base",
+    "tree_trunk_a_base",
+    "townhall_lvl10_base",
+    "townhall_base_th12",
+    "townhall_base",
+    "town_hall_lvl18_t1_base",
+    "time_based_trap_base",
+    "statue_base",
+    "square_tree_a_base",
+    "square_bush_a_base",
+    "spellforge_lvl4_base",
+    "small_stone_c_base",
+    "small_stone_b_base",
+    "small_stone_a_base",
+    "simple_shadow_small",
+    "simple_shadow",
+    "siege_workshop_base3",
+    "siege_workshop_base2",
+    "siege_workshop_base",
+    "shadow_flamer_lvl8",
+    "shadow_flamer_lvl7",
+    "shadow_flamer_lvl6",
+    "shadow_flamer_lvl5",
+    "shadow_flamer_lvl4",
+    "shadow_flamer_lvl3",
+    "shadow_flamer_lvl2",
+    "shadow_flamer_lvl1",
+    "season_def_base_3x3",
+    "recoverGrass_tile_b1_village2_stage2",
+    "recoverGrass_tile_b1_village2",
+    "recoverGrass_tile_b1",
+    "recoverGrass_tile_a1_village2",
+    "recoverGrass_tile_a1",
+    "rapidfire_base",
+    "quarry_obstacle_base",
+    "playerhouse_base",
+    "pine_tree2_base",
+    "pet_house_lvl9_base",
+    "pet_house_lvl8_base",
+    "pet_house_lvl7_base",
+    "pet_house_lvl6_base",
+    "pet_house_lvl5_base",
+    "pet_house_lvl4_base",
+    "pet_house_lvl3_base",
+    "pet_house_lvl2_base",
+    "pet_house_lvl1_base",
+    "pet_house_lvl12_base",
+    "pet_house_lvl11_base",
+    "pet_house_lvl10_base",
+    "obstacles_smallshadow_base_2x2",
+    "obstacle_base_5x5",
+    "obstacle_base_4x4",
+    "obstacle_base_3x3",
+    "obstacle_base_2x2",
+    "obstacle_base_1x1",
+    "npc_worker_building_base",
+    "npc_wizard_tower_base",
+    "npc_tree_trunk_b_base",
+    "npc_tree_trunk_a_base",
+    "npc_statue_base",
+    "npc_square_tree_a_base",
+    "npc_square_bush_a_base",
+    "npc_spellforge_lvl4_base",
+    "npc_small_stone_c_base",
+    "npc_small_stone_b_base",
+    "npc_small_stone_a_base",
+    "npc_rapidfire_base",
+    "npc_pine_tree2_base",
+    "npc_mushrooms_base",
+    "npc_mortar_base",
+    "npc_large_stone_b_base",
+    "npc_large_stone2_base",
+    "npc_laboratory_base",
+    "npc_heroaltar_base",
+    "npc_goldmine_base",
+    "npc_gold_storage_lvl9_base",
+    "npc_gold_storage_lvl8_base",
+    "npc_gold_storage_lvl7_base",
+    "npc_gold_storage_lvl6_base",
+    "npc_gold_storage_lvl5_base",
+    "npc_gold_storage_lvl4_base",
+    "npc_gold_storage_lvl3_base",
+    "npc_gold_storage_lvl2_base",
+    "npc_gold_storage_lvl1_base",
+    "npc_gold_storage_lvl11_base",
+    "npc_gold_storage_lvl10_base",
+    "npc_gold_storage_base",
+    "npc_fallen_tree2_base",
+    "npc_env_sharpstone_5_base",
+    "npc_env_sharpstone_4_base",
+    "npc_env_sharpstone_3_base",
+    "npc_env_sharpstone_2_base",
+    "npc_env_sharpstone_1_base",
+    "npc_env_plant2_2_base",
+    "npc_env_plant1_2_base",
+    "npc_elixir_storage_base",
+    "npc_elixir_pump_base",
+    "npc_defense_tower_turret_base",
+    "npc_deco_windmeter_base",
+    "npc_deco_torch1_base",
+    "npc_deco_skullaltar_base",
+    "npc_deco_goblinpole_base",
+    "npc_deco_flowerbox2_base",
+    "npc_deco_flowerbox1_base",
+    "npc_deco_flagpole_base",
+    "npc_comm_mast_base",
+    "npc_basic_cannon_lvl9_base",
+    "npc_basic_cannon_lvl8_base",
+    "npc_basic_cannon_lvl7_base",
+    "npc_basic_cannon_lvl6_base",
+    "npc_basic_cannon_lvl5_base",
+    "npc_basic_cannon_lvl4_base",
+    "npc_basic_cannon_lvl3_base",
+    "npc_basic_cannon_lvl2_base",
+    "npc_basic_cannon_lvl1_base",
+    "npc_basic_cannon_lvl11_base",
+    "npc_basic_cannon_lvl10_base",
+    "npc_basic_cannon_base",
+    "npc_barracks_base",
+    "npc_barbarian_hut_base_big",
+    "npc_barbarian_hut_base",
+    "npc_alliance_castle_base",
+    "npc_airdefence_tower_base",
+    "newVillage_rocket_lvl1",
+    "newVillage_multi_mortar_lvl5",
+    "newVillage_multi_mortar_lvl4",
+    "newVillage_multi_mortar_lvl3",
+    "newVillage_multi_mortar_lvl2",
+    "newVillage_multi_mortar_lvl1",
+    "newVillage_lab_lvl6",
+    "newVillage_lab_lvl5",
+    "newVillage_lab_lvl4",
+    "newVillage_lab_lvl3",
+    "newVillage_lab_lvl2",
+    "newVillage_lab_lvl1",
+    "newVillage_guard_post_lvl1",
+    "newVillage_clockTower_lvl1",
+    "mushrooms_base",
+    "mortar_base",
+    "mini_spell_distillery_base",
+    "merged_wizard_tower_lvl1_base",
+    "large_stone_b_base",
+    "large_stone2_base",
+    "large_pine_patch_base",
+    "laboratory_base",
+    "heroaltar_base",
+    "ground_unit_generator_base",
+    "ground_sideTop",
+    "ground_sideRight",
+    "ground_sideLeft",
+    "ground_sideBottom",
+    "ground_pathVertical",
+    "ground_pathHorizontal",
+    "ground_fill",
+    "ground_endTop",
+    "ground_endRight",
+    "ground_endLeft",
+    "ground_endBottom",
+    "ground_cornerTopRight",
+    "ground_cornerTopLeft",
+    "ground_cornerBottomRight",
+    "ground_cornerBottomLeft",
+    "golem_barracks_base",
+    "goldmine_base",
+    "gold_storage_lvl9_base",
+    "gold_storage_lvl8_base",
+    "gold_storage_lvl7_base",
+    "gold_storage_lvl6_base",
+    "gold_storage_lvl5_base",
+    "gold_storage_lvl4_base",
+    "gold_storage_lvl3_base",
+    "gold_storage_lvl2_base",
+    "gold_storage_lvl1_base",
+    "gold_storage_lvl11_base",
+    "gold_storage_lvl10_base",
+    "gold_storage_base",
+    "goblin_townhall_base",
+    "goblin_hut_base",
+    "football_shadow",
+    "fireplace_lvl8_base",
+    "fireplace_lvl7_base",
+    "fireplace_lvl6_base",
+    "fireplace_lvl5_base",
+    "fireplace_lvl4_base",
+    "fireplace_lvl3_base",
+    "fireplace_lvl2_base",
+    "fireplace_lvl1_base",
+    "fireplace_lvl14_base",
+    "fallen_tree2_base",
+    "env_sharpstone_5_base",
+    "env_sharpstone_4_base",
+    "env_sharpstone_3_base",
+    "env_sharpstone_2_base",
+    "env_sharpstone_1_base",
+    "empty_rally_point_base",
+    "elixir_storage_lvl9_base",
+    "elixir_storage_lvl8_base",
+    "elixir_storage_lvl7_base",
+    "elixir_storage_lvl6_base",
+    "elixir_storage_lvl5_base",
+    "elixir_storage_lvl4_base",
+    "elixir_storage_lvl3_base",
+    "elixir_storage_lvl2_base",
+    "elixir_storage_lvl1_base",
+    "elixir_storage_lvl11_base",
+    "elixir_storage_lvl10_base",
+    "elixir_storage_base",
+    "elixir_pump_lvl9_base",
+    "elixir_pump_lvl5_base",
+    "elixir_pump_base",
+    "eagle_artillery_base",
+    "districthall_base",
+    "defense_tower_turret_base_offset_01",
+    "defense_tower_turret_base",
+    "deco_windmeter_base",
+    "deco_torch1_base",
+    "deco_square_large_base",
+    "deco_snowman_base",
+    "deco_skullaltar_base",
+    "deco_shadow_large_oval",
+    "deco_large_round_shadow",
+    "deco_lantern_base",
+    "deco_goblinpole_base",
+    "deco_flowerbox2_base",
+    "deco_flowerbox1_base",
+    "deco_flagpole_base",
+    "deco_base_noshadow",
+    "deco_base_3x3",
+    "dark_tower_base",
+    "dark_elixir_storage_lvl6_base",
+    "dark_elixir_storage_lvl5_base",
+    "dark_elixir_storage_lvl4_base",
+    "dark_elixir_storage_lvl3_base",
+    "dark_elixir_storage_lvl2_base",
+    "dark_elixir_storage_lvl1_base",
+    "dark_elixir_pump_base",
+    "comm_mast_broken_base",
+    "comm_mast_base",
+    "cc_rocket_big_base",
+    "cc_rapid_big_base",
+    "cc_obstacle_base_5x5",
+    "cc_obstacle_base_4x4",
+    "cc_obstacle_base_3x3",
+    "cc_obstacle_base_2x2",
+    "cc_obstacle_base_1x1",
+    "cc_mountain_5x5_1_base",
+    "cc_mountain_4x4_1_base",
+    "cc_mountain_3x3_1_base",
+    "cc_mountain_2x2_1_base",
+    "cc_mortar_small_base",
+    "cc_mortar_big_base",
+    "cc_hq_base",
+    "cc_flying_fort_base",
+    "cc_fireplace_lvl1_base",
+    "cc_deco_base_quarry",
+    "cc_deco_base4x4",
+    "cc_deco_base3x3",
+    "cc_deco_base2x2",
+    "cc_deco_base1x1_small_tree",
+    "cc_deco_base1x1_big_tree",
+    "cc_cannon_small_base",
+    "cc_cannon_big_base",
+    "cc_bombtower_big_base",
+    "cc_blast_bow_big_base",
+    "cc_barracks_base",
+    "cc_air_defense_small_base",
+    "cc_air_defense_big_base",
+    "capitalhall_base",
+    "bonus_gembox_base",
+    "basic_cannon_lvl9_base",
+    "basic_cannon_lvl8_base",
+    "basic_cannon_lvl7_base",
+    "basic_cannon_lvl6_base",
+    "basic_cannon_lvl5_base",
+    "basic_cannon_lvl4_base",
+    "basic_cannon_lvl3_base",
+    "basic_cannon_lvl2_base",
+    "basic_cannon_lvl1_base",
+    "basic_cannon_lvl11_base",
+    "basic_cannon_lvl10_base",
+    "basic_cannon_base",
+    "basic_cannon2_lvl9_base",
+    "basic_cannon2_lvl8_base",
+    "basic_cannon2_lvl7_base",
+    "basic_cannon2_lvl6_base",
+    "basic_cannon2_lvl5_base",
+    "basic_cannon2_lvl4_base",
+    "basic_cannon2_lvl3_base",
+    "basic_cannon2_lvl2_base",
+    "basic_cannon2_lvl1_base",
+    "basic_cannon2_lvl10_base",
+    "base_8x8",
+    "base_7x7",
+    "base_6x6",
+    "base_5x5",
+    "base_4x4",
+    "base_3x3",
+    "base_2x2",
+    "base_1x1",
+    "barracks_base",
+    "barbarian_hut_base",
+    "alliance_marker_base",
+    "alliance_castle_base",
+    "airdefence_tower_base",
+    "airdefence_box_base_lvl1",
+    "air_ship_base",
+    "airDefence_factory_lvl8",
+    "airDefence_factory_lvl7",
+    "airDefence_factory_lvl6",
+    "airDefence_factory_lvl5",
+    "airDefence_factory_lvl4",
+    "airDefence_factory_lvl3",
+    "airDefence_factory_lvl2",
+    "airDefence_factory_lvl1",
+    "adv_fireplace_lvl4_base",
+    "adv_fireplace_lvl3_base",
+    "adv_fireplace_lvl2_base",
+    "adv_fireplace_lvl1_base",
+    "RC_rally_point_base",
+    "MH_rally_point_base",
+    "GW_rally_point_base",
+    "DD_rally_point_base",
+    "BK_rally_point_base",
+    "AQ_rally_point_base"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2360,
+      "value": "gf2B"
+    },
+    {
+      "offset": 2720,
+      "value": "gf2B"
+    },
+    {
+      "offset": 3344,
+      "value": "gff@"
+    },
+    {
+      "offset": 3463,
+      "value": "B33c@"
+    },
+    {
+      "offset": 4784,
+      "value": "gffA"
+    },
+    {
+      "offset": 4976,
+      "value": "gf B"
+    },
+    {
+      "offset": 5164,
+      "value": "gfrA"
+    },
+    {
+      "offset": 5872,
+      "value": "ff.B"
+    },
+    {
+      "offset": 6472,
+      "value": "ff.B"
+    },
+    {
+      "offset": 7727,
+      "value": "B7H"
+    },
+    {
+      "offset": 9859,
+      "value": "A3s2C"
+    },
+    {
+      "offset": 10168,
+      "value": "fff@"
+    },
+    {
+      "offset": 10288,
+      "value": "ffGB"
+    },
+    {
+      "offset": 10312,
+      "value": "ffGB"
+    },
+    {
+      "offset": 11416,
+      "value": "ffZA"
+    },
+    {
+      "offset": 11593,
+      "value": "KOd"
+    },
+    {
+      "offset": 11617,
+      "value": "Kqg"
+    },
+    {
+      "offset": 11785,
+      "value": "KOd"
+    },
+    {
+      "offset": 11809,
+      "value": "Kqg"
+    },
+    {
+      "offset": 23496,
+      "value": "shadow_edit"
+    },
+    {
+      "offset": 23512,
+      "value": "base"
+    },
+    {
+      "offset": 23524,
+      "value": "shadow"
+    },
+    {
+      "offset": 23536,
+      "value": "gold_storage_lvl8_base"
+    },
+    {
+      "offset": 23564,
+      "value": "gold_storage_lvl7_base"
+    },
+    {
+      "offset": 23592,
+      "value": "gold_storage_lvl6_base"
+    },
+    {
+      "offset": 23620,
+      "value": "gold_storage_lvl5_base"
+    },
+    {
+      "offset": 23648,
+      "value": "war_basic_cannon_base"
+    },
+    {
+      "offset": 23676,
+      "value": "gold_storage_lvl3_base"
+    },
+    {
+      "offset": 23704,
+      "value": "war_elixir_storage_lvl5_base"
+    },
+    {
+      "offset": 23740,
+      "value": "gold_storage_lvl1_base"
+    },
+    {
+      "offset": 23768,
+      "value": "airDefence_factory_lvl6"
+    },
+    {
+      "offset": 23796,
+      "value": "gold_storage_base"
+    },
+    {
+      "offset": 23820,
+      "value": "war_deco_torch1_base"
+    },
+    {
+      "offset": 23848,
+      "value": "pet_house_lvl8_base"
+    },
+    {
+      "offset": 23872,
+      "value": "goblin_hut_base"
+    },
+    {
+      "offset": 23892,
+      "value": "npc_gold_storage_lvl4_base"
+    },
+    {
+      "offset": 23924,
+      "value": "fireplace_lvl7_base"
+    },
+    {
+      "offset": 23948,
+      "value": "npc_deco_windmeter_base"
+    },
+    {
+      "offset": 23976,
+      "value": "pet_house_lvl4_base"
+    },
+    {
+      "offset": 24000,
+      "value": "ground_cornerBottomRight"
+    },
+    {
+      "offset": 24032,
+      "value": "elixir_storage_lvl10_base"
+    },
+    {
+      "offset": 24064,
+      "value": "elixir_storage_lvl5_base"
+    },
+    {
+      "offset": 24096,
+      "value": "elixir_storage_lvl3_base"
+    },
+    {
+      "offset": 24128,
+      "value": "npc_basic_cannon_lvl3_base"
+    },
+    {
+      "offset": 24160,
+      "value": "elixir_storage_lvl4_base"
+    },
+    {
+      "offset": 24192,
+      "value": "elixir_storage_lvl2_base"
+    },
+    {
+      "offset": 24224,
+      "value": "elixir_storage_lvl1_base"
+    },
+    {
+      "offset": 24256,
+      "value": "cc_mountain_2x2_1_base"
+    },
+    {
+      "offset": 24284,
+      "value": "elixir_pump_lvl5_base"
+    },
+    {
+      "offset": 24312,
+      "value": "eagle_artillery_base"
+    },
+    {
+      "offset": 24340,
+      "value": "base_5x5"
+    },
+    {
+      "offset": 24356,
+      "value": "env_sharpstone_5_base"
+    },
+    {
+      "offset": 24384,
+      "value": "elixir_storage_lvl9_base"
+    },
+    {
+      "offset": 24416,
+      "value": "large_pine_patch_base"
+    },
+    {
+      "offset": 24444,
+      "value": "districthall_base"
+    },
+    {
+      "offset": 24468,
+      "value": "basic_cannon_lvl6_base"
+    },
+    {
+      "offset": 24496,
+      "value": "defense_tower_turret_base"
+    },
+    {
+      "offset": 24528,
+      "value": "air_ship_base"
+    },
+    {
+      "offset": 24548,
+      "value": "deco_base_noshadow"
+    },
+    {
+      "offset": 24572,
+      "value": "cc_mountain_3x3_1_base"
+    },
+    {
+      "offset": 24600,
+      "value": "npc_barbarian_hut_base_big"
+    },
+    {
+      "offset": 24632,
+      "value": "dark_tower_base"
+    },
+    {
+      "offset": 24652,
+      "value": "war_npc_deco_goblinpole_base"
+    },
+    {
+      "offset": 24688,
+      "value": "cc_rapid_big_base"
+    },
+    {
+      "offset": 24712,
+      "value": "war_basic_cannon_lvl4_base"
+    },
+    {
+      "offset": 24744,
+      "value": "cc_mountain_5x5_1_base"
+    },
+    {
+      "offset": 24772,
+      "value": "war_deco_windmeter_base"
+    },
+    {
+      "offset": 24800,
+      "value": "cc_mountain_4x4_1_base"
+    },
+    {
+      "offset": 24828,
+      "value": "newVillage_lab_lvl5"
+    },
+    {
+      "offset": 24852,
+      "value": "airDefence_factory_lvl2"
+    },
+    {
+      "offset": 24880,
+      "value": "cc_mortar_small_base"
+    },
+    {
+      "offset": 24908,
+      "value": "cc_hq_base"
+    },
+    {
+      "offset": 24924,
+      "value": "cc_fireplace_lvl1_base"
+    },
+    {
+      "offset": 24952,
+      "value": "fireplace_lvl2_base"
+    },
+    {
+      "offset": 24976,
+      "value": "tree_trunk_b_base"
+    },
+    {
+      "offset": 25000,
+      "value": "elixir_storage_lvl6_base"
+    },
+    {
+      "offset": 25032,
+      "value": "cc_deco_base4x4"
+    },
+    {
+      "offset": 25052,
+      "value": "war_fireplace_lvl4_base"
+    },
+    {
+      "offset": 25080,
+      "value": "war_townhall_lvl10_base"
+    },
+    {
+      "offset": 25108,
+      "value": "cc_deco_base2x2"
+    },
+    {
+      "offset": 25128,
+      "value": "merged_wizard_tower_lvl1_base"
+    },
+    {
+      "offset": 25164,
+      "value": "war_elixir_storage_lvl1_base"
+    },
+    {
+      "offset": 25200,
+      "value": "fireplace_lvl1_base"
+    },
+    {
+      "offset": 25224,
+      "value": "cc_deco_base1x1_small_tree"
+    },
+    {
+      "offset": 25256,
+      "value": "cc_barracks_base"
+    },
+    {
+      "offset": 25280,
+      "value": "recoverGrass_tile_b1_village2"
+    },
+    {
+      "offset": 25316,
+      "value": "defense_tower_turret_base_offset_01"
+    },
+    {
+      "offset": 25356,
+      "value": "cc_air_defense_small_base"
+    },
+    {
+      "offset": 25388,
+      "value": "fireplace_lvl8_base"
+    },
+    {
+      "offset": 25412,
+      "value": "newVillage_multi_mortar_lvl4"
+    },
+    {
+      "offset": 25448,
+      "value": "war_basic_cannon_lvl6_base"
+    },
+    {
+      "offset": 25480,
+      "value": "basic_cannon2_lvl8_base"
+    },
+    {
+      "offset": 25508,
+      "value": "basic_cannon_lvl10_base"
+    },
+    {
+      "offset": 25536,
+      "value": "airDefence_factory_lvl8"
+    },
+    {
+      "offset": 25564,
+      "value": "cc_obstacle_base_1x1"
+    },
+    {
+      "offset": 25592,
+      "value": "cc_cannon_small_base"
+    },
+    {
+      "offset": 25620,
+      "value": "basic_cannon_lvl8_base"
+    },
+    {
+      "offset": 25648,
+      "value": "basic_cannon_lvl7_base"
+    },
+    {
+      "offset": 25676,
+      "value": "war_npc_deco_windmeter_base"
+    },
+    {
+      "offset": 25708,
+      "value": "npc_tree_trunk_a_base"
+    },
+    {
+      "offset": 25736,
+      "value": "basic_cannon_lvl5_base"
+    },
+    {
+      "offset": 25764,
+      "value": "basic_cannon_lvl2_base"
+    },
+    {
+      "offset": 25792,
+      "value": "basic_cannon_lvl1_base"
+    },
+    {
+      "offset": 25820,
+      "value": "barracks_base"
+    },
+    {
+      "offset": 25840,
+      "value": "golem_barracks_base"
+    },
+    {
+      "offset": 25864,
+      "value": "barbarian_hut_base"
+    },
+    {
+      "offset": 25888,
+      "value": "alliance_marker_base"
+    },
+    {
+      "offset": 25916,
+      "value": "npc_elixir_pump_base"
+    },
+    {
+      "offset": 25944,
+      "value": "basic_cannon2_lvl2_base"
+    },
+    {
+      "offset": 25972,
+      "value": "ground_pathVertical"
+    },
+    {
+      "offset": 25996,
+      "value": "shadow_flamer_lvl7"
+    },
+    {
+      "offset": 26020,
+      "value": "shadow_flamer_lvl5"
+    },
+    {
+      "offset": 26044,
+      "value": "shadow_flamer_lvl6"
+    },
+    {
+      "offset": 26068,
+      "value": "shadow_flamer_lvl4"
+    },
+    {
+      "offset": 26092,
+      "value": "shadow_flamer_lvl3"
+    },
+    {
+      "offset": 26116,
+      "value": "npc_gold_storage_lvl8_base"
+    },
+    {
+      "offset": 26148,
+      "value": "dark_elixir_storage_lvl4_base"
+    },
+    {
+      "offset": 26184,
+      "value": "playerhouse_base"
+    },
+    {
+      "offset": 26208,
+      "value": "shadow_flamer_lvl2"
+    },
+    {
+      "offset": 26232,
+      "value": "pet_house_lvl5_base"
+    },
+    {
+      "offset": 26256,
+      "value": "war_elixir_storage_lvl4_base"
+    },
+    {
+      "offset": 26292,
+      "value": "cc_bombtower_big_base"
+    },
+    {
+      "offset": 26320,
+      "value": "newVillage_rocket_lvl1"
+    },
+    {
+      "offset": 26348,
+      "value": "empty_rally_point_base"
+    },
+    {
+      "offset": 26376,
+      "value": "basic_cannon_lvl4_base"
+    },
+    {
+      "offset": 26404,
+      "value": "newVillage_multi_mortar_lvl5"
+    },
+    {
+      "offset": 26440,
+      "value": "newVillage_multi_mortar_lvl2"
+    },
+    {
+      "offset": 26476,
+      "value": "cc_deco_base3x3"
+    },
+    {
+      "offset": 26496,
+      "value": "newVillage_lab_lvl6"
+    },
+    {
+      "offset": 26520,
+      "value": "newVillage_lab_lvl4"
+    },
+    {
+      "offset": 26544,
+      "value": "newVillage_lab_lvl3"
+    },
+    {
+      "offset": 26568,
+      "value": "npc_basic_cannon_lvl1_base"
+    },
+    {
+      "offset": 26600,
+      "value": "basic_cannon_lvl3_base"
+    },
+    {
+      "offset": 26628,
+      "value": "airdefence_tower_base"
+    },
+    {
+      "offset": 26656,
+      "value": "bonus_gembox_base"
+    },
+    {
+      "offset": 26680,
+      "value": "newVillage_lab_lvl1"
+    },
+    {
+      "offset": 26704,
+      "value": "npc_worker_building_base"
+    },
+    {
+      "offset": 26736,
+      "value": "elixir_storage_lvl7_base"
+    },
+    {
+      "offset": 26768,
+      "value": "airDefence_factory_lvl7"
+    },
+    {
+      "offset": 26796,
+      "value": "alliance_castle_base"
+    },
+    {
+      "offset": 26824,
+      "value": "airDefence_factory_lvl5"
+    },
+    {
+      "offset": 26852,
+      "value": "elixir_storage_base"
+    },
+    {
+      "offset": 26876,
+      "value": "basic_cannon2_lvl4_base"
+    },
+    {
+      "offset": 26904,
+      "value": "base_2x2"
+    },
+    {
+      "offset": 26920,
+      "value": "airDefence_factory_lvl4"
+    },
+    {
+      "offset": 26948,
+      "value": "war_mortar_base"
+    },
+    {
+      "offset": 26968,
+      "value": "goblin_townhall_base"
+    },
+    {
+      "offset": 26996,
+      "value": "npc_deco_skullaltar_base"
+    },
+    {
+      "offset": 27028,
+      "value": "npc_deco_flowerbox1_base"
+    },
+    {
+      "offset": 27060,
+      "value": "cc_rocket_big_base"
+    },
+    {
+      "offset": 27084,
+      "value": "basic_cannon2_lvl5_base"
+    },
+    {
+      "offset": 27112,
+      "value": "npc_env_sharpstone_4_base"
+    },
+    {
+      "offset": 27144,
+      "value": "fireplace_lvl3_base"
+    },
+    {
+      "offset": 27168,
+      "value": "deco_windmeter_base"
+    },
+    {
+      "offset": 27192,
+      "value": "small_stone_a_base"
+    },
+    {
+      "offset": 27216,
+      "value": "basic_cannon2_lvl7_base"
+    },
+    {
+      "offset": 27244,
+      "value": "square_bush_a_base"
+    },
+    {
+      "offset": 27268,
+      "value": "newVillage_guard_post_lvl1"
+    },
+    {
+      "offset": 27300,
+      "value": "pet_house_lvl7_base"
+    },
+    {
+      "offset": 27324,
+      "value": "war_barbarian_hut_base"
+    },
+    {
+      "offset": 27352,
+      "value": "npc_large_stone_b_base"
+    },
+    {
+      "offset": 27380,
+      "value": "cc_obstacle_base_4x4"
+    },
+    {
+      "offset": 27408,
+      "value": "pet_house_lvl6_base"
+    },
+    {
+      "offset": 27432,
+      "value": "basic_cannon2_lvl10_base"
+    },
+    {
+      "offset": 27464,
+      "value": "pine_tree2_base"
+    },
+    {
+      "offset": 27484,
+      "value": "war_gold_storage_lvl5_base"
+    },
+    {
+      "offset": 27516,
+      "value": "war_rapidfire_base"
+    },
+    {
+      "offset": 27540,
+      "value": "npc_deco_flowerbox2_base"
+    },
+    {
+      "offset": 27572,
+      "value": "env_sharpstone_1_base"
+    },
+    {
+      "offset": 27600,
+      "value": "fireplace_lvl14_base"
+    },
+    {
+      "offset": 27628,
+      "value": "gold_storage_lvl2_base"
+    },
+    {
+      "offset": 27656,
+      "value": "pet_house_lvl3_base"
+    },
+    {
+      "offset": 27680,
+      "value": "npc_square_bush_a_base"
+    },
+    {
+      "offset": 27708,
+      "value": "dark_elixir_storage_lvl3_base"
+    },
+    {
+      "offset": 27744,
+      "value": "pet_house_lvl2_base"
+    },
+    {
+      "offset": 27768,
+      "value": "MH_rally_point_base"
+    },
+    {
+      "offset": 27792,
+      "value": "npc_statue_base"
+    },
+    {
+      "offset": 27812,
+      "value": "war_elixir_storage_lvl7_base"
+    },
+    {
+      "offset": 27848,
+      "value": "dark_elixir_pump_base"
+    },
+    {
+      "offset": 27876,
+      "value": "cc_cannon_big_base"
+    },
+    {
+      "offset": 27900,
+      "value": "npc_small_stone_b_base"
+    },
+    {
+      "offset": 27928,
+      "value": "season_def_base_3x3"
+    },
+    {
+      "offset": 27952,
+      "value": "obstacle_base_5x5"
+    },
+    {
+      "offset": 27976,
+      "value": "deco_snowman_base"
+    },
+    {
+      "offset": 28000,
+      "value": "dark_elixir_storage_lvl6_base"
+    },
+    {
+      "offset": 28036,
+      "value": "obstacle_base_3x3"
+    },
+    {
+      "offset": 28060,
+      "value": "war_elixir_storage_lvl2_base"
+    },
+    {
+      "offset": 28096,
+      "value": "fireplace_lvl5_base"
+    },
+    {
+      "offset": 28120,
+      "value": "obstacle_base_2x2"
+    },
+    {
+      "offset": 28144,
+      "value": "env_sharpstone_4_base"
+    },
+    {
+      "offset": 28172,
+      "value": "war_elixir_storage_lvl11_base"
+    },
+    {
+      "offset": 28208,
+      "value": "obstacle_base_1x1"
+    },
+    {
+      "offset": 28232,
+      "value": "war_basic_cannon_lvl10_base"
+    },
+    {
+      "offset": 28264,
+      "value": "war_heroaltar_base"
+    },
+    {
+      "offset": 28288,
+      "value": "statue_base"
+    },
+    {
+      "offset": 28304,
+      "value": "npc_spellforge_lvl4_base"
+    },
+    {
+      "offset": 28336,
+      "value": "newVillage_multi_mortar_lvl3"
+    },
+    {
+      "offset": 28372,
+      "value": "football_shadow"
+    },
+    {
+      "offset": 28392,
+      "value": "spellforge_lvl4_base"
+    },
+    {
+      "offset": 28420,
+      "value": "airDefence_factory_lvl1"
+    }
+  ],
+  "descriptor_preview_hex": "380000001400000026c1a380783604823ea217b0953c37a3e3070ea11c002800040008000c001000140000000000000018001c00200024001c00000001000000",
+  "decoded_preview_hex": "9889000018000000000012001400040000000000000008000c0010001200000008550000843a00004c16000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

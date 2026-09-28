@@ -1,0 +1,401 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "hero_bc_default.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\hero_bc_default.sc",
+  "sha256_container": "777d9e8f7ed9b1ce72b37bd93db60df15a179d9e5db3d2bdca2c4f2f136a7f99",
+  "sha256_descriptor": "135a5d3b6f6148fe1be2014c8414c8743f4bf62b172902f7095d986ec054fe6f",
+  "sha256_decoded_payload": "2f8ee965e68e210c1378cc64bf18f48a4f04140f11798db4b8f8bcda4b848ddb",
+  "version": 6,
+  "descriptor_bytes": 1268,
+  "compressed_frame_bytes": 51650,
+  "alignment_padding_bytes": 6,
+  "decoded_payload_bytes": 104564,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 68
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 26
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 20148
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 73880
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 51656
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 192,
+      "value": "painterqueen_ring"
+    },
+    {
+      "offset": 248,
+      "value": "lunarqueen_ring"
+    },
+    {
+      "offset": 300,
+      "value": "hero_miner_sword_fire_mirrored"
+    },
+    {
+      "offset": 368,
+      "value": "hero_champ_sword_spark_01"
+    },
+    {
+      "offset": 432,
+      "value": "hero_champ_sword_fire"
+    },
+    {
+      "offset": 492,
+      "value": "hero_archerqueen_arrow_darkages_rage"
+    },
+    {
+      "offset": 568,
+      "value": "hero_archerqueen_arrow_darkages"
+    },
+    {
+      "offset": 636,
+      "value": "ArcherDA_run1_3"
+    },
+    {
+      "offset": 688,
+      "value": "ArcherDA_run1_2"
+    },
+    {
+      "offset": 740,
+      "value": "ArcherDA_run1_1"
+    },
+    {
+      "offset": 792,
+      "value": "ArcherDA_idle1_3"
+    },
+    {
+      "offset": 848,
+      "value": "ArcherDA_idle1_2"
+    },
+    {
+      "offset": 904,
+      "value": "ArcherDA_idle1_1"
+    },
+    {
+      "offset": 960,
+      "value": "ArcherDA_cheer1_3"
+    },
+    {
+      "offset": 1016,
+      "value": "ArcherDA_cheer1_2"
+    },
+    {
+      "offset": 1072,
+      "value": "ArcherDA_cheer1_1"
+    },
+    {
+      "offset": 1128,
+      "value": "ArcherDA_attack1_3"
+    },
+    {
+      "offset": 1184,
+      "value": "ArcherDA_attack1_2"
+    },
+    {
+      "offset": 1248,
+      "value": "ArcherDA_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "painterqueen_ring",
+    "lunarqueen_ring",
+    "hero_miner_sword_fire_mirrored",
+    "hero_champ_sword_spark_01",
+    "hero_champ_sword_fire",
+    "hero_archerqueen_arrow_darkages_rage",
+    "hero_archerqueen_arrow_darkages",
+    "ArcherDA_run1_3",
+    "ArcherDA_run1_2",
+    "ArcherDA_run1_1",
+    "ArcherDA_idle1_3",
+    "ArcherDA_idle1_2",
+    "ArcherDA_idle1_1",
+    "ArcherDA_cheer1_3",
+    "ArcherDA_cheer1_2",
+    "ArcherDA_cheer1_1",
+    "ArcherDA_attack1_3",
+    "ArcherDA_attack1_2",
+    "ArcherDA_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 4863,
+      "value": "A33c@"
+    },
+    {
+      "offset": 4887,
+      "value": "A33C@"
+    },
+    {
+      "offset": 5432,
+      "value": "Takc"
+    },
+    {
+      "offset": 5479,
+      "value": "ATa"
+    },
+    {
+      "offset": 5544,
+      "value": "ffnA"
+    },
+    {
+      "offset": 5556,
+      "value": "ffnA"
+    },
+    {
+      "offset": 6370,
+      "value": "ffff6A"
+    },
+    {
+      "offset": 6992,
+      "value": "TopG"
+    },
+    {
+      "offset": 7175,
+      "value": "sff6A"
+    },
+    {
+      "offset": 7392,
+      "value": "ff6A"
+    },
+    {
+      "offset": 8472,
+      "value": "ffVA"
+    },
+    {
+      "offset": 9431,
+      "value": "RffVA"
+    },
+    {
+      "offset": 19648,
+      "value": "hero_champ_sword_fire"
+    },
+    {
+      "offset": 19676,
+      "value": "ArcherDA_run1_3"
+    },
+    {
+      "offset": 19696,
+      "value": "ArcherDA_run1_2"
+    },
+    {
+      "offset": 19716,
+      "value": "ArcherDA_run1_1"
+    },
+    {
+      "offset": 19736,
+      "value": "ArcherDA_idle1_3"
+    },
+    {
+      "offset": 19760,
+      "value": "ArcherDA_cheer1_3"
+    },
+    {
+      "offset": 19784,
+      "value": "ArcherDA_idle1_1"
+    },
+    {
+      "offset": 19808,
+      "value": "ArcherDA_cheer1_1"
+    },
+    {
+      "offset": 19832,
+      "value": "ArcherDA_cheer1_2"
+    },
+    {
+      "offset": 19856,
+      "value": "hero_archerqueen_arrow_darkages"
+    },
+    {
+      "offset": 19892,
+      "value": "ArcherDA_attack1_3"
+    },
+    {
+      "offset": 19916,
+      "value": "ArcherDA_attack1_2"
+    },
+    {
+      "offset": 19940,
+      "value": "ArcherDA_idle1_2"
+    },
+    {
+      "offset": 19964,
+      "value": "ArcherDA_attack1_1"
+    },
+    {
+      "offset": 19988,
+      "value": "hero_champ_sword_spark_01"
+    },
+    {
+      "offset": 20020,
+      "value": "hero_miner_sword_fire_mirrored"
+    },
+    {
+      "offset": 20056,
+      "value": "hero_archerqueen_arrow_darkages_rage"
+    },
+    {
+      "offset": 20100,
+      "value": "painterqueen_ring"
+    },
+    {
+      "offset": 20124,
+      "value": "lunarqueen_ring"
+    },
+    {
+      "offset": 34190,
+      "value": "rYf8"
+    },
+    {
+      "offset": 34479,
+      "value": "zG8J"
+    },
+    {
+      "offset": 34631,
+      "value": "yBK"
+    },
+    {
+      "offset": 35363,
+      "value": "_bI"
+    },
+    {
+      "offset": 38814,
+      "value": "XXpph"
+    },
+    {
+      "offset": 41076,
+      "value": "aByd"
+    },
+    {
+      "offset": 41092,
+      "value": "aByd"
+    },
+    {
+      "offset": 46282,
+      "value": "le "
+    },
+    {
+      "offset": 57398,
+      "value": "o+vp"
+    },
+    {
+      "offset": 58680,
+      "value": "xCZ"
+    },
+    {
+      "offset": 58855,
+      "value": "Si6A"
+    },
+    {
+      "offset": 63405,
+      "value": "PRB"
+    },
+    {
+      "offset": 65434,
+      "value": "t04"
+    },
+    {
+      "offset": 69886,
+      "value": "srqP@"
+    },
+    {
+      "offset": 70233,
+      "value": "CIBP"
+    },
+    {
+      "offset": 72578,
+      "value": "DKo"
+    },
+    {
+      "offset": 73981,
+      "value": "P-@"
+    },
+    {
+      "offset": 73998,
+      "value": "PPC"
+    },
+    {
+      "offset": 76167,
+      "value": "K0cp"
+    },
+    {
+      "offset": 83578,
+      "value": "ZbxQ"
+    },
+    {
+      "offset": 86670,
+      "value": "srbE"
+    },
+    {
+      "offset": 87087,
+      "value": "aL1"
+    },
+    {
+      "offset": 94070,
+      "value": "Zccp"
+    },
+    {
+      "offset": 95690,
+      "value": "AX "
+    },
+    {
+      "offset": 97743,
+      "value": "sA@"
+    },
+    {
+      "offset": 98842,
+      "value": "c:50"
+    },
+    {
+      "offset": 103769,
+      "value": "C@8"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000440000001a00000001000000b44e0000",
+  "decoded_preview_hex": "b04e000018000000000012001400040000000000000008000c00100012000000484c00001c260000ec14000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

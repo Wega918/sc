@@ -1,0 +1,156 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_ice_hound.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_ice_hound.sc",
+  "sha256_container": "f200ba56281cc90184cbb6b0924a7cbdc8b892669ad9761e57dd24103e72342f",
+  "sha256_descriptor": "1e898cf9dcff673e4ed6b8399911d66a0869b3941041198ce8fc2becd32e2674",
+  "sha256_decoded_payload": "f13fbb85d067ffd2e4a5e9dcc532d8304bd5ddc7664572aabd08edf629f8c900",
+  "version": 6,
+  "descriptor_bytes": 484,
+  "compressed_frame_bytes": 3703,
+  "alignment_padding_bytes": 1,
+  "decoded_payload_bytes": 11196,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 49
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 12
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 6972
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 2160
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 3704
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 140,
+      "value": "super_tinybaby_lvl1_fly_3"
+    },
+    {
+      "offset": 204,
+      "value": "super_tinybaby_lvl1_fly_2"
+    },
+    {
+      "offset": 268,
+      "value": "super_tinybaby_lvl1_fly_1"
+    },
+    {
+      "offset": 332,
+      "value": "Super_Gargoyle_fly_3"
+    },
+    {
+      "offset": 392,
+      "value": "Super_Gargoyle_fly_2"
+    },
+    {
+      "offset": 460,
+      "value": "Super_Gargoyle_fly_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "super_tinybaby_lvl1_fly_3",
+    "super_tinybaby_lvl1_fly_2",
+    "super_tinybaby_lvl1_fly_1",
+    "Super_Gargoyle_fly_3",
+    "Super_Gargoyle_fly_2",
+    "Super_Gargoyle_fly_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2191,
+      "value": "A33"
+    },
+    {
+      "offset": 2215,
+      "value": "e33"
+    },
+    {
+      "offset": 2264,
+      "value": "ffJA"
+    },
+    {
+      "offset": 3545,
+      "value": "MI1"
+    },
+    {
+      "offset": 3751,
+      "value": "x33"
+    },
+    {
+      "offset": 6788,
+      "value": "Super_Gargoyle_fly_1"
+    },
+    {
+      "offset": 6816,
+      "value": "Super_Gargoyle_fly_2"
+    },
+    {
+      "offset": 6844,
+      "value": "Super_Gargoyle_fly_3"
+    },
+    {
+      "offset": 6872,
+      "value": "super_tinybaby_lvl1_fly_1"
+    },
+    {
+      "offset": 6904,
+      "value": "super_tinybaby_lvl1_fly_2"
+    },
+    {
+      "offset": 6936,
+      "value": "super_tinybaby_lvl1_fly_3"
+    },
+    {
+      "offset": 11100,
+      "value": "chr_ice_hound_1.sctx"
+    },
+    {
+      "offset": 11172,
+      "value": "chr_ice_hound_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000310000000c000000020000003c1b0000",
+  "decoded_preview_hex": "381b000018000000000012001400040000000000000008000c00100012000000401a0000ac1300003405000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

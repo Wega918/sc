@@ -1,0 +1,166 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_rocket_balloon.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_rocket_balloon.sc",
+  "sha256_container": "872fd71d6bb5fef4ee2de0860f9837decac6aec5771bc01ecd16e1aa2d7f9347",
+  "sha256_descriptor": "c90b684a3033a6a4129301396bd73937fe244ba1918a3e5e02c022363e556902",
+  "sha256_decoded_payload": "c51912ac2be0028368f7632194efe535a3d72a58748c09005af7ba5b09343417",
+  "version": 6,
+  "descriptor_bytes": 244,
+  "compressed_frame_bytes": 72928,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 126084,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 84,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 88,
+      "raw_u32": 392
+    },
+    {
+      "field_index": 9,
+      "offset": 92,
+      "raw_u32": 125272
+    },
+    {
+      "field_index": 10,
+      "offset": 96,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 100,
+      "raw_u32": 72928
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 152,
+      "value": "unit_rocketBalloon_big"
+    },
+    {
+      "offset": 220,
+      "value": "card_rocketBalloon_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_rocketBalloon_big",
+    "card_rocketBalloon_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 300,
+      "value": "bounds"
+    },
+    {
+      "offset": 312,
+      "value": "Supercell-Magic"
+    },
+    {
+      "offset": 332,
+      "value": "unit_rocketBalloon_big"
+    },
+    {
+      "offset": 360,
+      "value": "card_rocketBalloon_big"
+    },
+    {
+      "offset": 16400,
+      "value": "_il"
+    },
+    {
+      "offset": 18006,
+      "value": "Cz:f:d"
+    },
+    {
+      "offset": 35810,
+      "value": "z-o"
+    },
+    {
+      "offset": 52163,
+      "value": "Yrqh"
+    },
+    {
+      "offset": 61089,
+      "value": "Mn2RI"
+    },
+    {
+      "offset": 64092,
+      "value": "IR+Y"
+    },
+    {
+      "offset": 73672,
+      "value": "ZnNt"
+    },
+    {
+      "offset": 73702,
+      "value": "avNXDT"
+    },
+    {
+      "offset": 74000,
+      "value": "WHURo"
+    },
+    {
+      "offset": 76040,
+      "value": "dxPZ"
+    },
+    {
+      "offset": 76385,
+      "value": "fl O"
+    },
+    {
+      "offset": 76945,
+      "value": "AFK_"
+    },
+    {
+      "offset": 104250,
+      "value": "Sp "
+    },
+    {
+      "offset": 110555,
+      "value": "cXz"
+    }
+  ],
+  "descriptor_preview_hex": "380000001400000055f1a0ee05a65fa7d4ab208c7a9a6ca5e3f6509c1c003000040008000c0010001400180000001c002000240028002c001c00000001000000",
+  "decoded_preview_hex": "8401000018000000000012001400040000000000000008000c00100012000000f0000000d40000006c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

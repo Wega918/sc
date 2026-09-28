@@ -1,0 +1,179 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_goblin_tax_collector.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_goblin_tax_collector.sc",
+  "sha256_container": "ded7a9a89afc809a7ce9329979f3ae08ca572dc98cc0c77f9e1227e0b382ed0d",
+  "sha256_descriptor": "b30d1c929f7d365dbc25801d685ab6ea7731645bdc41f92f4bb4427d94d69ea9",
+  "sha256_decoded_payload": "974007e1d303d8a361acb24f1e96d15e355e728b64fcd2dcd429ff5012aa3dc8",
+  "version": 6,
+  "descriptor_bytes": 612,
+  "compressed_frame_bytes": 4712,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 18020,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 88
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 9
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 11740
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 3208
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 4712
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 148,
+      "value": "goblintc_run1_3"
+    },
+    {
+      "offset": 200,
+      "value": "goblintc_run1_2"
+    },
+    {
+      "offset": 252,
+      "value": "goblintc_run1_1"
+    },
+    {
+      "offset": 304,
+      "value": "goblintc_idle1_3"
+    },
+    {
+      "offset": 360,
+      "value": "goblintc_idle1_2"
+    },
+    {
+      "offset": 416,
+      "value": "goblintc_idle1_1"
+    },
+    {
+      "offset": 472,
+      "value": "goblintc_attack1_3"
+    },
+    {
+      "offset": 528,
+      "value": "goblintc_attack1_2"
+    },
+    {
+      "offset": 592,
+      "value": "goblintc_attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "goblintc_run1_3",
+    "goblintc_run1_2",
+    "goblintc_run1_1",
+    "goblintc_idle1_3",
+    "goblintc_idle1_2",
+    "goblintc_idle1_1",
+    "goblintc_attack1_3",
+    "goblintc_attack1_2",
+    "goblintc_attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1604,
+      "value": "ffBA"
+    },
+    {
+      "offset": 2240,
+      "value": "ffBA"
+    },
+    {
+      "offset": 3005,
+      "value": "NCp"
+    },
+    {
+      "offset": 3896,
+      "value": "ffBA"
+    },
+    {
+      "offset": 4277,
+      "value": "R3/"
+    },
+    {
+      "offset": 11532,
+      "value": "goblintc_idle1_1"
+    },
+    {
+      "offset": 11556,
+      "value": "goblintc_idle1_2"
+    },
+    {
+      "offset": 11580,
+      "value": "goblintc_idle1_3"
+    },
+    {
+      "offset": 11604,
+      "value": "goblintc_run1_1"
+    },
+    {
+      "offset": 11624,
+      "value": "goblintc_run1_2"
+    },
+    {
+      "offset": 11644,
+      "value": "goblintc_attack1_1"
+    },
+    {
+      "offset": 11668,
+      "value": "goblintc_run1_3"
+    },
+    {
+      "offset": 11688,
+      "value": "goblintc_attack1_2"
+    },
+    {
+      "offset": 11712,
+      "value": "goblintc_attack1_3"
+    },
+    {
+      "offset": 17988,
+      "value": "chr_goblin_tax_collector_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000580000000900000001000000dc2d0000880c0000",
+  "decoded_preview_hex": "d82d000018000000000012001400040000000000000008000c00100012000000bc2c0000fc1a00005400000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

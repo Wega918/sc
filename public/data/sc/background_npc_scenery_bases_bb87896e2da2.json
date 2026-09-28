@@ -1,0 +1,233 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "background_npc_scenery_bases.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\background_npc_scenery_bases.sc",
+  "sha256_container": "bb87896e2da2befd86e21b184f2618c362bfad0a9de4644de6d97cba2c6fba38",
+  "sha256_descriptor": "43d295e3d8083519fc010b3c8739844a10accf3fa3e5bcd4604c85e5a844a131",
+  "sha256_decoded_payload": "3f9919720171a1f74c3847dc8a1a2d0ed8df3dc3a1e262a46f9f3c5f37cd0f89",
+  "version": 6,
+  "descriptor_bytes": 660,
+  "compressed_frame_bytes": 32984,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 58660,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 6
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 10
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 56,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 3208
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 53128
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 32984
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 156,
+      "value": "recoverGrass_tile_b1"
+    },
+    {
+      "offset": 216,
+      "value": "recoverGrass_tile_a1"
+    },
+    {
+      "offset": 276,
+      "value": "obstacle_base_4x4"
+    },
+    {
+      "offset": 332,
+      "value": "obstacle_base_3x3"
+    },
+    {
+      "offset": 388,
+      "value": "obstacle_base_2x2"
+    },
+    {
+      "offset": 444,
+      "value": "deco_base_3x3"
+    },
+    {
+      "offset": 496,
+      "value": "base_5x5"
+    },
+    {
+      "offset": 544,
+      "value": "base_4x4"
+    },
+    {
+      "offset": 592,
+      "value": "base_3x3"
+    },
+    {
+      "offset": 648,
+      "value": "base_2x2"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "recoverGrass_tile_b1",
+    "recoverGrass_tile_a1",
+    "obstacle_base_4x4",
+    "obstacle_base_3x3",
+    "obstacle_base_2x2",
+    "deco_base_3x3",
+    "base_5x5",
+    "base_4x4",
+    "base_3x3",
+    "base_2x2"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1741,
+      "value": "YbC"
+    },
+    {
+      "offset": 2992,
+      "value": "recoverGrass_tile_a1"
+    },
+    {
+      "offset": 3020,
+      "value": "recoverGrass_tile_b1"
+    },
+    {
+      "offset": 3048,
+      "value": "base_2x2"
+    },
+    {
+      "offset": 3064,
+      "value": "base_3x3"
+    },
+    {
+      "offset": 3080,
+      "value": "base_4x4"
+    },
+    {
+      "offset": 3096,
+      "value": "base_5x5"
+    },
+    {
+      "offset": 3112,
+      "value": "deco_base_3x3"
+    },
+    {
+      "offset": 3132,
+      "value": "obstacle_base_2x2"
+    },
+    {
+      "offset": 3156,
+      "value": "obstacle_base_4x4"
+    },
+    {
+      "offset": 3180,
+      "value": "obstacle_base_3x3"
+    },
+    {
+      "offset": 6010,
+      "value": "nZt"
+    },
+    {
+      "offset": 12674,
+      "value": "PM_"
+    },
+    {
+      "offset": 14722,
+      "value": "vaO"
+    },
+    {
+      "offset": 15318,
+      "value": "BT40"
+    },
+    {
+      "offset": 17915,
+      "value": "J P"
+    },
+    {
+      "offset": 19841,
+      "value": "U_Tn"
+    },
+    {
+      "offset": 23637,
+      "value": "B/:H"
+    },
+    {
+      "offset": 29797,
+      "value": "B9FV"
+    },
+    {
+      "offset": 30629,
+      "value": "BEXn"
+    },
+    {
+      "offset": 33301,
+      "value": "C+6F"
+    },
+    {
+      "offset": 35961,
+      "value": "rYo"
+    },
+    {
+      "offset": 40352,
+      "value": "FET"
+    },
+    {
+      "offset": 41306,
+      "value": "MJ "
+    },
+    {
+      "offset": 48091,
+      "value": "Oov "
+    },
+    {
+      "offset": 50095,
+      "value": "rlL"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002c00040008000c00100014000000000018001c002000240028001c0000000100000001000000060000000a0000000100000003000000880c0000",
+  "decoded_preview_hex": "840c000018000000000012001400040000000000000008000c001000120000005c0b0000880700005805000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

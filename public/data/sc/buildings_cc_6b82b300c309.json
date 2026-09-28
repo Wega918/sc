@@ -1,0 +1,4014 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "buildings_cc.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\buildings_cc.sc",
+  "sha256_container": "6b82b300c3096713ea4db7720fa896496e064671ec2745a81c2d756b6456a530",
+  "sha256_descriptor": "d59799f523a56a8560fdf6443b388276fca76b75c21d100a268a815a7d4649c2",
+  "sha256_decoded_payload": "db88f82a40411b7965c4a3c70dbbd8a30db45c63de1ee533f20cf656b7fd1da9",
+  "version": 6,
+  "descriptor_bytes": 41200,
+  "compressed_frame_bytes": 450589,
+  "alignment_padding_bytes": 3,
+  "decoded_payload_bytes": 3030028,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 60,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 64,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 68,
+      "raw_u32": 4073
+    },
+    {
+      "field_index": 3,
+      "offset": 72,
+      "raw_u32": 1273
+    },
+    {
+      "field_index": 4,
+      "offset": 76,
+      "raw_u32": 11
+    },
+    {
+      "field_index": 5,
+      "offset": 80,
+      "raw_u32": 11
+    },
+    {
+      "field_index": 8,
+      "offset": 84,
+      "raw_u32": 2213180
+    },
+    {
+      "field_index": 9,
+      "offset": 88,
+      "raw_u32": 628616
+    },
+    {
+      "field_index": 10,
+      "offset": 92,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 96,
+      "raw_u32": 450592
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 2644,
+      "value": "zap_trap_lvl05_unarmed"
+    },
+    {
+      "offset": 2704,
+      "value": "zap_trap_lvl05_trigger"
+    },
+    {
+      "offset": 2764,
+      "value": "zap_trap_lvl05_idle"
+    },
+    {
+      "offset": 2820,
+      "value": "zap_trap_lvl04_unarmed"
+    },
+    {
+      "offset": 2880,
+      "value": "zap_trap_lvl04_trigger"
+    },
+    {
+      "offset": 2940,
+      "value": "zap_trap_lvl04_idle"
+    },
+    {
+      "offset": 2996,
+      "value": "zap_trap_lvl03_unarmed"
+    },
+    {
+      "offset": 3056,
+      "value": "zap_trap_lvl03_trigger"
+    },
+    {
+      "offset": 3116,
+      "value": "zap_trap_lvl03_idle"
+    },
+    {
+      "offset": 3172,
+      "value": "zap_trap_lvl02_unarmed"
+    },
+    {
+      "offset": 3232,
+      "value": "zap_trap_lvl02_trigger"
+    },
+    {
+      "offset": 3292,
+      "value": "zap_trap_lvl02_idle"
+    },
+    {
+      "offset": 3348,
+      "value": "zap_trap_lvl01_unarmed"
+    },
+    {
+      "offset": 3408,
+      "value": "zap_trap_lvl01_trigger"
+    },
+    {
+      "offset": 3468,
+      "value": "zap_trap_lvl01_idle"
+    },
+    {
+      "offset": 3524,
+      "value": "wood_destructed_tiles2"
+    },
+    {
+      "offset": 3584,
+      "value": "upgrade_fence_6x6_th"
+    },
+    {
+      "offset": 3644,
+      "value": "upgrade_fence_6x6"
+    },
+    {
+      "offset": 3700,
+      "value": "upgrade_fence_5x5"
+    },
+    {
+      "offset": 3756,
+      "value": "upgrade_fence_4x4_th"
+    },
+    {
+      "offset": 3816,
+      "value": "upgrade_fence_4x4"
+    },
+    {
+      "offset": 3872,
+      "value": "upgrade_fence_3x3"
+    },
+    {
+      "offset": 3928,
+      "value": "upgrade_fence_2x2"
+    },
+    {
+      "offset": 3984,
+      "value": "upgrade_fence_1x1"
+    },
+    {
+      "offset": 4040,
+      "value": "troop_barrack_zappy_barracks_lvl4"
+    },
+    {
+      "offset": 4112,
+      "value": "troop_barrack_zappy_barracks_lvl3"
+    },
+    {
+      "offset": 4184,
+      "value": "troop_barrack_zappy_barracks_lvl2"
+    },
+    {
+      "offset": 4256,
+      "value": "troop_barrack_zappy_barracks_lvl1"
+    },
+    {
+      "offset": 4328,
+      "value": "troop_barrack_zappy_barracks_lvl0"
+    },
+    {
+      "offset": 4400,
+      "value": "troop_barrack_super_wizard_lvl5"
+    },
+    {
+      "offset": 4468,
+      "value": "troop_barrack_super_wizard_lvl4"
+    },
+    {
+      "offset": 4536,
+      "value": "troop_barrack_super_wizard_lvl3"
+    },
+    {
+      "offset": 4604,
+      "value": "troop_barrack_super_wizard_lvl2"
+    },
+    {
+      "offset": 4672,
+      "value": "troop_barrack_super_wizard_lvl1"
+    },
+    {
+      "offset": 4740,
+      "value": "troop_barrack_super_pekka_lvl5"
+    },
+    {
+      "offset": 4808,
+      "value": "troop_barrack_super_pekka_lvl4"
+    },
+    {
+      "offset": 4876,
+      "value": "troop_barrack_super_pekka_lvl3"
+    },
+    {
+      "offset": 4944,
+      "value": "troop_barrack_super_pekka_lvl2"
+    },
+    {
+      "offset": 5012,
+      "value": "troop_barrack_super_pekka_lvl1"
+    },
+    {
+      "offset": 5080,
+      "value": "troop_barrack_super_dragon_lvl5"
+    },
+    {
+      "offset": 5148,
+      "value": "troop_barrack_super_dragon_lvl4"
+    },
+    {
+      "offset": 5216,
+      "value": "troop_barrack_super_dragon_lvl3"
+    },
+    {
+      "offset": 5284,
+      "value": "troop_barrack_super_dragon_lvl2"
+    },
+    {
+      "offset": 5352,
+      "value": "troop_barrack_super_dragon_lvl1"
+    },
+    {
+      "offset": 5420,
+      "value": "troop_barrack_super_barbarian_lvl5"
+    },
+    {
+      "offset": 5492,
+      "value": "troop_barrack_super_barbarian_lvl4"
+    },
+    {
+      "offset": 5564,
+      "value": "troop_barrack_super_barbarian_lvl3"
+    },
+    {
+      "offset": 5636,
+      "value": "troop_barrack_super_barbarian_lvl2"
+    },
+    {
+      "offset": 5708,
+      "value": "troop_barrack_super_barbarian_lvl1"
+    },
+    {
+      "offset": 5780,
+      "value": "troop_barrack_sneaky_archer_lvl5"
+    },
+    {
+      "offset": 5852,
+      "value": "troop_barrack_sneaky_archer_lvl4"
+    },
+    {
+      "offset": 5924,
+      "value": "troop_barrack_sneaky_archer_lvl3"
+    },
+    {
+      "offset": 5996,
+      "value": "troop_barrack_sneaky_archer_lvl2"
+    },
+    {
+      "offset": 6068,
+      "value": "troop_barrack_sneaky_archer_lvl1"
+    },
+    {
+      "offset": 6140,
+      "value": "troop_barrack_skeleton_balloon_lvl5"
+    },
+    {
+      "offset": 6212,
+      "value": "troop_barrack_skeleton_balloon_lvl4"
+    },
+    {
+      "offset": 6284,
+      "value": "troop_barrack_skeleton_balloon_lvl3"
+    },
+    {
+      "offset": 6356,
+      "value": "troop_barrack_skeleton_balloon_lvl2"
+    },
+    {
+      "offset": 6428,
+      "value": "troop_barrack_skeleton_balloon_lvl1"
+    },
+    {
+      "offset": 6500,
+      "value": "troop_barrack_minion_lvl5"
+    },
+    {
+      "offset": 6564,
+      "value": "troop_barrack_minion_lvl4"
+    },
+    {
+      "offset": 6628,
+      "value": "troop_barrack_minion_lvl3"
+    },
+    {
+      "offset": 6692,
+      "value": "troop_barrack_minion_lvl2"
+    },
+    {
+      "offset": 6756,
+      "value": "troop_barrack_minion_lvl1"
+    },
+    {
+      "offset": 6820,
+      "value": "troop_barrack_miner_lvl5"
+    },
+    {
+      "offset": 6884,
+      "value": "troop_barrack_miner_lvl4"
+    },
+    {
+      "offset": 6948,
+      "value": "troop_barrack_miner_lvl3"
+    },
+    {
+      "offset": 7012,
+      "value": "troop_barrack_miner_lvl2"
+    },
+    {
+      "offset": 7076,
+      "value": "troop_barrack_miner_lvl1"
+    },
+    {
+      "offset": 7140,
+      "value": "troop_barrack_inf_baby_dragon_lvl5"
+    },
+    {
+      "offset": 7212,
+      "value": "troop_barrack_inf_baby_dragon_lvl4"
+    },
+    {
+      "offset": 7284,
+      "value": "troop_barrack_inf_baby_dragon_lvl3"
+    },
+    {
+      "offset": 7356,
+      "value": "troop_barrack_inf_baby_dragon_lvl2"
+    },
+    {
+      "offset": 7428,
+      "value": "troop_barrack_inf_baby_dragon_lvl1"
+    },
+    {
+      "offset": 7500,
+      "value": "troop_barrack_hog_glider_lvl5"
+    },
+    {
+      "offset": 7568,
+      "value": "troop_barrack_hog_glider_lvl4"
+    },
+    {
+      "offset": 7636,
+      "value": "troop_barrack_hog_glider_lvl3"
+    },
+    {
+      "offset": 7704,
+      "value": "troop_barrack_hog_glider_lvl2"
+    },
+    {
+      "offset": 7772,
+      "value": "troop_barrack_hog_glider_lvl1"
+    },
+    {
+      "offset": 7840,
+      "value": "troop_barrack_hasty_balloon_lvl5"
+    },
+    {
+      "offset": 7912,
+      "value": "troop_barrack_hasty_balloon_lvl4"
+    },
+    {
+      "offset": 7978,
+      "value": "ID "
+    },
+    {
+      "offset": 7984,
+      "value": "troop_barrack_hasty_balloon_lvl3"
+    },
+    {
+      "offset": 8056,
+      "value": "troop_barrack_hasty_balloon_lvl2"
+    },
+    {
+      "offset": 8128,
+      "value": "troop_barrack_hasty_balloon_lvl1"
+    },
+    {
+      "offset": 8200,
+      "value": "troop_barrack_golem_quarry_lvl5"
+    },
+    {
+      "offset": 8268,
+      "value": "troop_barrack_golem_quarry_lvl4"
+    },
+    {
+      "offset": 8336,
+      "value": "troop_barrack_golem_quarry_lvl3"
+    },
+    {
+      "offset": 8404,
+      "value": "troop_barrack_golem_quarry_lvl2"
+    },
+    {
+      "offset": 8472,
+      "value": "troop_barrack_golem_quarry_lvl1"
+    },
+    {
+      "offset": 8540,
+      "value": "troop_barrack_giant_lvl5"
+    },
+    {
+      "offset": 8604,
+      "value": "troop_barrack_giant_lvl4"
+    },
+    {
+      "offset": 8668,
+      "value": "troop_barrack_giant_lvl3"
+    },
+    {
+      "offset": 8732,
+      "value": "troop_barrack_giant_lvl2"
+    },
+    {
+      "offset": 8796,
+      "value": "troop_barrack_giant_lvl1"
+    },
+    {
+      "offset": 8860,
+      "value": "troop_barrack_cannon_cart_lvl5"
+    },
+    {
+      "offset": 8928,
+      "value": "troop_barrack_cannon_cart_lvl4"
+    },
+    {
+      "offset": 8996,
+      "value": "troop_barrack_cannon_cart_lvl3"
+    },
+    {
+      "offset": 9064,
+      "value": "troop_barrack_cannon_cart_lvl2"
+    },
+    {
+      "offset": 9132,
+      "value": "troop_barrack_cannon_cart_lvl1"
+    },
+    {
+      "offset": 9200,
+      "value": "troop_barrack_battle_ram_lvl5"
+    },
+    {
+      "offset": 9268,
+      "value": "troop_barrack_battle_ram_lvl4"
+    },
+    {
+      "offset": 9336,
+      "value": "troop_barrack_battle_ram_lvl3"
+    },
+    {
+      "offset": 9404,
+      "value": "troop_barrack_battle_ram_lvl2"
+    },
+    {
+      "offset": 9472,
+      "value": "troop_barrack_battle_ram_lvl1"
+    },
+    {
+      "offset": 9540,
+      "value": "troop_barrack_airship_lvl5"
+    },
+    {
+      "offset": 9604,
+      "value": "troop_barrack_airship_lvl4"
+    },
+    {
+      "offset": 9668,
+      "value": "troop_barrack_airship_lvl3"
+    },
+    {
+      "offset": 9732,
+      "value": "troop_barrack_airship_lvl2"
+    },
+    {
+      "offset": 9796,
+      "value": "troop_barrack_airship_lvl1"
+    },
+    {
+      "offset": 9860,
+      "value": "trap_2x2_upg"
+    },
+    {
+      "offset": 9912,
+      "value": "trap_1x1_upg"
+    },
+    {
+      "offset": 9964,
+      "value": "tall_grass_cc"
+    },
+    {
+      "offset": 10016,
+      "value": "springtrap_upg"
+    },
+    {
+      "offset": 10068,
+      "value": "spellfactory_speed_lvl05"
+    },
+    {
+      "offset": 10132,
+      "value": "spellfactory_speed_lvl04"
+    },
+    {
+      "offset": 10196,
+      "value": "spellfactory_speed_lvl03"
+    },
+    {
+      "offset": 10260,
+      "value": "spellfactory_speed_lvl02"
+    },
+    {
+      "offset": 10324,
+      "value": "spellfactory_speed_lvl01"
+    },
+    {
+      "offset": 10388,
+      "value": "spellfactory_skeleton_lvl05"
+    },
+    {
+      "offset": 10452,
+      "value": "spellfactory_skeleton_lvl04"
+    },
+    {
+      "offset": 10516,
+      "value": "spellfactory_skeleton_lvl03"
+    },
+    {
+      "offset": 10580,
+      "value": "spellfactory_skeleton_lvl02"
+    },
+    {
+      "offset": 10644,
+      "value": "spellfactory_skeleton_lvl01"
+    },
+    {
+      "offset": 10708,
+      "value": "spellfactory_ruin"
+    },
+    {
+      "offset": 10764,
+      "value": "spellfactory_rage_lvl05"
+    },
+    {
+      "offset": 10824,
+      "value": "spellfactory_rage_lvl04"
+    },
+    {
+      "offset": 10884,
+      "value": "spellfactory_rage_lvl03"
+    },
+    {
+      "offset": 10944,
+      "value": "spellfactory_rage_lvl02"
+    },
+    {
+      "offset": 11004,
+      "value": "spellfactory_rage_lvl01"
+    },
+    {
+      "offset": 11064,
+      "value": "spellfactory_lightning_lvl05"
+    },
+    {
+      "offset": 11132,
+      "value": "spellfactory_lightning_lvl04"
+    },
+    {
+      "offset": 11200,
+      "value": "spellfactory_lightning_lvl03"
+    },
+    {
+      "offset": 11268,
+      "value": "spellfactory_lightning_lvl02"
+    },
+    {
+      "offset": 11336,
+      "value": "spellfactory_lightning_lvl01"
+    },
+    {
+      "offset": 11404,
+      "value": "spellfactory_jump_lvl05"
+    },
+    {
+      "offset": 11464,
+      "value": "spellfactory_jump_lvl04"
+    },
+    {
+      "offset": 11524,
+      "value": "spellfactory_jump_lvl03"
+    },
+    {
+      "offset": 11584,
+      "value": "spellfactory_jump_lvl02"
+    },
+    {
+      "offset": 11644,
+      "value": "spellfactory_jump_lvl01"
+    },
+    {
+      "offset": 11704,
+      "value": "spellfactory_heal_lvl05"
+    },
+    {
+      "offset": 11764,
+      "value": "spellfactory_heal_lvl04"
+    },
+    {
+      "offset": 11824,
+      "value": "spellfactory_heal_lvl03"
+    },
+    {
+      "offset": 11884,
+      "value": "spellfactory_heal_lvl02"
+    },
+    {
+      "offset": 11944,
+      "value": "spellfactory_heal_lvl01"
+    },
+    {
+      "offset": 12004,
+      "value": "spellfactory_frost_lvl05"
+    },
+    {
+      "offset": 12068,
+      "value": "spellfactory_frost_lvl04"
+    },
+    {
+      "offset": 12132,
+      "value": "spellfactory_frost_lvl03"
+    },
+    {
+      "offset": 12196,
+      "value": "spellfactory_frost_lvl02"
+    },
+    {
+      "offset": 12260,
+      "value": "spellfactory_frost_lvl01"
+    },
+    {
+      "offset": 12324,
+      "value": "spell_housing_lvl5"
+    },
+    {
+      "offset": 12380,
+      "value": "spell_housing_lvl4"
+    },
+    {
+      "offset": 12436,
+      "value": "spell_housing_lvl3"
+    },
+    {
+      "offset": 12492,
+      "value": "spell_housing_lvl2"
+    },
+    {
+      "offset": 12548,
+      "value": "spell_housing_lvl1"
+    },
+    {
+      "offset": 12604,
+      "value": "ruin_wooden_house"
+    },
+    {
+      "offset": 12660,
+      "value": "ruin_wooden_cabin"
+    },
+    {
+      "offset": 12716,
+      "value": "ruin_wizard_tower"
+    },
+    {
+      "offset": 12772,
+      "value": "ruin_troop_barrack"
+    },
+    {
+      "offset": 12828,
+      "value": "ruin_trap2x2_2"
+    },
+    {
+      "offset": 12880,
+      "value": "ruin_trap2x2_1"
+    },
+    {
+      "offset": 12932,
+      "value": "ruin_trap1x1"
+    },
+    {
+      "offset": 12984,
+      "value": "ruin_thatched_house"
+    },
+    {
+      "offset": 13040,
+      "value": "ruin_spell_storage"
+    },
+    {
+      "offset": 13096,
+      "value": "ruin_spell_factory"
+    },
+    {
+      "offset": 13152,
+      "value": "ruin_spear_thrower"
+    },
+    {
+      "offset": 13208,
+      "value": "ruin_small_hut"
+    },
+    {
+      "offset": 13260,
+      "value": "ruin_small_cabin"
+    },
+    {
+      "offset": 13316,
+      "value": "ruin_slanted_house"
+    },
+    {
+      "offset": 13372,
+      "value": "ruin_rocket_artillery"
+    },
+    {
+      "offset": 13432,
+      "value": "ruin_reflector"
+    },
+    {
+      "offset": 13484,
+      "value": "ruin_rapid_rockets"
+    },
+    {
+      "offset": 13540,
+      "value": "ruin_player_house2"
+    },
+    {
+      "offset": 13596,
+      "value": "ruin_player_house"
+    },
+    {
+      "offset": 13652,
+      "value": "ruin_multi_mortar"
+    },
+    {
+      "offset": 13708,
+      "value": "ruin_multi_cannon"
+    },
+    {
+      "offset": 13764,
+      "value": "ruin_minion_crypt"
+    },
+    {
+      "offset": 13820,
+      "value": "ruin_mega_tesla"
+    },
+    {
+      "offset": 13872,
+      "value": "ruin_large_house"
+    },
+    {
+      "offset": 13928,
+      "value": "ruin_inferno_tower"
+    },
+    {
+      "offset": 13984,
+      "value": "ruin_guard_post"
+    },
+    {
+      "offset": 14036,
+      "value": "ruin_golem_quarry"
+    },
+    {
+      "offset": 14092,
+      "value": "ruin_giant_cannon"
+    },
+    {
+      "offset": 14148,
+      "value": "ruin_flying_fortress"
+    },
+    {
+      "offset": 14208,
+      "value": "ruin_crusher"
+    },
+    {
+      "offset": 14260,
+      "value": "ruin_cannon"
+    },
+    {
+      "offset": 14308,
+      "value": "ruin_bomb_tower"
+    },
+    {
+      "offset": 14360,
+      "value": "ruin_blast_bow"
+    },
+    {
+      "offset": 14412,
+      "value": "ruin_army_field"
+    },
+    {
+      "offset": 14464,
+      "value": "ruin_air_defense"
+    },
+    {
+      "offset": 14520,
+      "value": "ruin_air_bombs"
+    },
+    {
+      "offset": 14572,
+      "value": "rocket_trail_smoke"
+    },
+    {
+      "offset": 14628,
+      "value": "rocket_trail_fireball"
+    },
+    {
+      "offset": 14688,
+      "value": "rocket_trail_fire_mirrored"
+    },
+    {
+      "offset": 14752,
+      "value": "rocket_trail_fire"
+    },
+    {
+      "offset": 14808,
+      "value": "rock_destructed_tiles3"
+    },
+    {
+      "offset": 14868,
+      "value": "rock_destructed_tiles2"
+    },
+    {
+      "offset": 14928,
+      "value": "rockWood_destructed_tiles3"
+    },
+    {
+      "offset": 14992,
+      "value": "rockWood_destructed_tiles2"
+    },
+    {
+      "offset": 15056,
+      "value": "reflector_shield_projectile_6"
+    },
+    {
+      "offset": 15124,
+      "value": "reflector_shield_projectile_5"
+    },
+    {
+      "offset": 15192,
+      "value": "reflector_shield_projectile_4"
+    },
+    {
+      "offset": 15260,
+      "value": "reflector_shield_projectile_3"
+    },
+    {
+      "offset": 15328,
+      "value": "reflector_shield_projectile_2"
+    },
+    {
+      "offset": 15396,
+      "value": "reflector_shield_projectile_1"
+    },
+    {
+      "offset": 15464,
+      "value": "reflector_projectile_wave"
+    },
+    {
+      "offset": 15528,
+      "value": "rapid_rocket_projectile_01"
+    },
+    {
+      "offset": 15592,
+      "value": "queen_tower_projectile2"
+    },
+    {
+      "offset": 15652,
+      "value": "queen_tower_projectile"
+    },
+    {
+      "offset": 15712,
+      "value": "quarry_destroyed_tiles"
+    },
+    {
+      "offset": 15772,
+      "value": "playerhouse_parts"
+    },
+    {
+      "offset": 15828,
+      "value": "playerhouse_dummy"
+    },
+    {
+      "offset": 15884,
+      "value": "player_estate_01"
+    },
+    {
+      "offset": 15940,
+      "value": "minion_spawn_projectile_02"
+    },
+    {
+      "offset": 16004,
+      "value": "minion_spawn_projectile_01"
+    },
+    {
+      "offset": 16068,
+      "value": "goblin_barrel_projectile_7"
+    },
+    {
+      "offset": 16132,
+      "value": "goblin_barrel_projectile_6"
+    },
+    {
+      "offset": 16196,
+      "value": "goblin_barrel_projectile_5"
+    },
+    {
+      "offset": 16260,
+      "value": "goblin_barrel_projectile_4"
+    },
+    {
+      "offset": 16324,
+      "value": "goblin_barrel_projectile_3"
+    },
+    {
+      "offset": 16388,
+      "value": "goblin_barrel_projectile_2"
+    },
+    {
+      "offset": 16452,
+      "value": "goblin_barrel_projectile_1"
+    },
+    {
+      "offset": 16516,
+      "value": "goblin_barrel_projectile2_7"
+    },
+    {
+      "offset": 16580,
+      "value": "goblin_barrel_projectile2_6"
+    },
+    {
+      "offset": 16644,
+      "value": "goblin_barrel_projectile2_5"
+    },
+    {
+      "offset": 16708,
+      "value": "goblin_barrel_projectile2_4"
+    },
+    {
+      "offset": 16772,
+      "value": "goblin_barrel_projectile2_3"
+    },
+    {
+      "offset": 16836,
+      "value": "goblin_barrel_projectile2_2"
+    },
+    {
+      "offset": 16900,
+      "value": "goblin_barrel_projectile2_1"
+    },
+    {
+      "offset": 16964,
+      "value": "giant_bomb_upg"
+    },
+    {
+      "offset": 17016,
+      "value": "gen_destructed_state4"
+    },
+    {
+      "offset": 17076,
+      "value": "evil_air_trap_upg"
+    },
+    {
+      "offset": 17132,
+      "value": "estate_roof_05"
+    },
+    {
+      "offset": 17184,
+      "value": "estate_roof_04"
+    },
+    {
+      "offset": 17236,
+      "value": "estate_roof_03"
+    },
+    {
+      "offset": 17288,
+      "value": "estate_roof_02"
+    },
+    {
+      "offset": 17340,
+      "value": "estate_roof_01"
+    },
+    {
+      "offset": 17392,
+      "value": "estate_house_02"
+    },
+    {
+      "offset": 17444,
+      "value": "estate_house_01"
+    },
+    {
+      "offset": 17496,
+      "value": "estate_garden_02"
+    },
+    {
+      "offset": 17552,
+      "value": "estate_garden_01"
+    },
+    {
+      "offset": 17608,
+      "value": "estate_deco_02"
+    },
+    {
+      "offset": 17660,
+      "value": "estate_deco_01"
+    },
+    {
+      "offset": 17712,
+      "value": "dynamite_projectile"
+    },
+    {
+      "offset": 17768,
+      "value": "discovered_4x4_01"
+    },
+    {
+      "offset": 17824,
+      "value": "discovered_3x3_01"
+    },
+    {
+      "offset": 17880,
+      "value": "discovered_2x2_01"
+    },
+    {
+      "offset": 17936,
+      "value": "detail_scale_example"
+    },
+    {
+      "offset": 17996,
+      "value": "d1_HQ_lvl06"
+    },
+    {
+      "offset": 18044,
+      "value": "d1_HQ_lvl05"
+    },
+    {
+      "offset": 18092,
+      "value": "d1_HQ_lvl04"
+    },
+    {
+      "offset": 18140,
+      "value": "d1_HQ_lvl03"
+    },
+    {
+      "offset": 18188,
+      "value": "d1_HQ_lvl02"
+    },
+    {
+      "offset": 18236,
+      "value": "d1_HQ_lvl01"
+    },
+    {
+      "offset": 18284,
+      "value": "d0_HQ_lvl10"
+    },
+    {
+      "offset": 18332,
+      "value": "d0_HQ_lvl09"
+    },
+    {
+      "offset": 18380,
+      "value": "d0_HQ_lvl08"
+    },
+    {
+      "offset": 18428,
+      "value": "d0_HQ_lvl07"
+    },
+    {
+      "offset": 18476,
+      "value": "d0_HQ_lvl06"
+    },
+    {
+      "offset": 18524,
+      "value": "d0_HQ_lvl05"
+    },
+    {
+      "offset": 18572,
+      "value": "d0_HQ_lvl04"
+    },
+    {
+      "offset": 18620,
+      "value": "d0_HQ_lvl03"
+    },
+    {
+      "offset": 18668,
+      "value": "d0_HQ_lvl02"
+    },
+    {
+      "offset": 18716,
+      "value": "d0_HQ_lvl01"
+    },
+    {
+      "offset": 18764,
+      "value": "cc_spear_goblin_spear"
+    },
+    {
+      "offset": 18824,
+      "value": "cc_spear_01"
+    },
+    {
+      "offset": 18872,
+      "value": "cc_path_01"
+    },
+    {
+      "offset": 18920,
+      "value": "cc_megatesla_appear_fx"
+    },
+    {
+      "offset": 18980,
+      "value": "cc_mega_tesla_lvl5_setup"
+    },
+    {
+      "offset": 19044,
+      "value": "cc_mega_tesla_lvl5"
+    },
+    {
+      "offset": 19100,
+      "value": "cc_mega_tesla_lvl4_setup"
+    },
+    {
+      "offset": 19164,
+      "value": "cc_mega_tesla_lvl4"
+    },
+    {
+      "offset": 19220,
+      "value": "cc_mega_tesla_lvl3_setup"
+    },
+    {
+      "offset": 19284,
+      "value": "cc_mega_tesla_lvl3"
+    },
+    {
+      "offset": 19340,
+      "value": "cc_mega_tesla_lvl2_setup"
+    },
+    {
+      "offset": 19404,
+      "value": "cc_mega_tesla_lvl2"
+    },
+    {
+      "offset": 19460,
+      "value": "cc_mega_tesla_lvl1_setup"
+    },
+    {
+      "offset": 19524,
+      "value": "cc_mega_tesla_lvl1"
+    },
+    {
+      "offset": 19580,
+      "value": "cc_log_trap_lvl5_unarmed_3"
+    },
+    {
+      "offset": 19644,
+      "value": "cc_log_trap_lvl5_unarmed_2"
+    },
+    {
+      "offset": 19708,
+      "value": "cc_log_trap_lvl5_unarmed_1"
+    },
+    {
+      "offset": 19772,
+      "value": "cc_log_trap_lvl5_unarmed_0"
+    },
+    {
+      "offset": 19836,
+      "value": "cc_log_trap_lvl5_trigger_3"
+    },
+    {
+      "offset": 19900,
+      "value": "cc_log_trap_lvl5_trigger_2"
+    },
+    {
+      "offset": 19964,
+      "value": "cc_log_trap_lvl5_trigger_1"
+    },
+    {
+      "offset": 20028,
+      "value": "cc_log_trap_lvl5_trigger_0"
+    },
+    {
+      "offset": 20092,
+      "value": "cc_log_trap_lvl5_idle_3"
+    },
+    {
+      "offset": 20152,
+      "value": "cc_log_trap_lvl5_idle_2"
+    },
+    {
+      "offset": 20212,
+      "value": "cc_log_trap_lvl5_idle_1"
+    },
+    {
+      "offset": 20272,
+      "value": "cc_log_trap_lvl5_idle_0"
+    },
+    {
+      "offset": 20332,
+      "value": "cc_log_trap_lvl4_unarmed_3"
+    },
+    {
+      "offset": 20396,
+      "value": "cc_log_trap_lvl4_unarmed_2"
+    },
+    {
+      "offset": 20460,
+      "value": "cc_log_trap_lvl4_unarmed_1"
+    },
+    {
+      "offset": 20524,
+      "value": "cc_log_trap_lvl4_unarmed_0"
+    },
+    {
+      "offset": 20588,
+      "value": "cc_log_trap_lvl4_trigger_3"
+    },
+    {
+      "offset": 20652,
+      "value": "cc_log_trap_lvl4_trigger_2"
+    },
+    {
+      "offset": 20716,
+      "value": "cc_log_trap_lvl4_trigger_1"
+    },
+    {
+      "offset": 20780,
+      "value": "cc_log_trap_lvl4_trigger_0"
+    },
+    {
+      "offset": 20844,
+      "value": "cc_log_trap_lvl4_idle_3"
+    },
+    {
+      "offset": 20904,
+      "value": "cc_log_trap_lvl4_idle_2"
+    },
+    {
+      "offset": 20964,
+      "value": "cc_log_trap_lvl4_idle_1"
+    },
+    {
+      "offset": 21024,
+      "value": "cc_log_trap_lvl4_idle_0"
+    },
+    {
+      "offset": 21084,
+      "value": "cc_log_trap_lvl3_trigger_3"
+    },
+    {
+      "offset": 21148,
+      "value": "cc_log_trap_lvl3_trigger_2"
+    },
+    {
+      "offset": 21212,
+      "value": "cc_log_trap_lvl3_trigger_1"
+    },
+    {
+      "offset": 21276,
+      "value": "cc_log_trap_lvl3_trigger_0"
+    },
+    {
+      "offset": 21340,
+      "value": "cc_log_trap_lvl3_idle_3"
+    },
+    {
+      "offset": 21400,
+      "value": "cc_log_trap_lvl3_idle_2"
+    },
+    {
+      "offset": 21460,
+      "value": "cc_log_trap_lvl3_idle_1"
+    },
+    {
+      "offset": 21520,
+      "value": "cc_log_trap_lvl3_idle_0"
+    },
+    {
+      "offset": 21580,
+      "value": "cc_log_trap_lvl2_unarmed_3"
+    },
+    {
+      "offset": 21644,
+      "value": "cc_log_trap_lvl2_unarmed_2"
+    },
+    {
+      "offset": 21708,
+      "value": "cc_log_trap_lvl2_unarmed_1"
+    },
+    {
+      "offset": 21772,
+      "value": "cc_log_trap_lvl2_unarmed_0"
+    },
+    {
+      "offset": 21836,
+      "value": "cc_log_trap_lvl2_trigger_3"
+    },
+    {
+      "offset": 21900,
+      "value": "cc_log_trap_lvl2_trigger_2"
+    },
+    {
+      "offset": 21964,
+      "value": "cc_log_trap_lvl2_trigger_1"
+    },
+    {
+      "offset": 22028,
+      "value": "cc_log_trap_lvl2_trigger_0"
+    },
+    {
+      "offset": 22092,
+      "value": "cc_log_trap_lvl2_idle_3"
+    },
+    {
+      "offset": 22152,
+      "value": "cc_log_trap_lvl2_idle_2"
+    },
+    {
+      "offset": 22212,
+      "value": "cc_log_trap_lvl2_idle_1"
+    },
+    {
+      "offset": 22272,
+      "value": "cc_log_trap_lvl2_idle_0"
+    },
+    {
+      "offset": 22332,
+      "value": "cc_log_trap_lvl1_unarmed_3"
+    },
+    {
+      "offset": 22396,
+      "value": "cc_log_trap_lvl1_unarmed_2"
+    },
+    {
+      "offset": 22460,
+      "value": "cc_log_trap_lvl1_unarmed_1"
+    },
+    {
+      "offset": 22524,
+      "value": "cc_log_trap_lvl1_unarmed_0"
+    },
+    {
+      "offset": 22588,
+      "value": "cc_log_trap_lvl1_trigger_3"
+    },
+    {
+      "offset": 22652,
+      "value": "cc_log_trap_lvl1_trigger_2"
+    },
+    {
+      "offset": 22716,
+      "value": "cc_log_trap_lvl1_trigger_1"
+    },
+    {
+      "offset": 22780,
+      "value": "cc_log_trap_lvl1_trigger_0"
+    },
+    {
+      "offset": 22844,
+      "value": "cc_log_trap_lvl1_idle_3"
+    },
+    {
+      "offset": 22904,
+      "value": "cc_log_trap_lvl1_idle_2"
+    },
+    {
+      "offset": 22964,
+      "value": "cc_log_trap_lvl1_idle_1"
+    },
+    {
+      "offset": 23024,
+      "value": "cc_log_trap_lvl1_idle_0"
+    },
+    {
+      "offset": 23084,
+      "value": "cc_log_05_2"
+    },
+    {
+      "offset": 23132,
+      "value": "cc_log_05_1"
+    },
+    {
+      "offset": 23180,
+      "value": "cc_log_04_2"
+    },
+    {
+      "offset": 23228,
+      "value": "cc_log_04_1"
+    },
+    {
+      "offset": 23276,
+      "value": "cc_log_03_2"
+    },
+    {
+      "offset": 23324,
+      "value": "cc_log_03_1"
+    },
+    {
+      "offset": 23372,
+      "value": "cc_log_01_2"
+    },
+    {
+      "offset": 23420,
+      "value": "cc_log_01_1"
+    },
+    {
+      "offset": 23468,
+      "value": "cc_guardpost_lvl1"
+    },
+    {
+      "offset": 23524,
+      "value": "cc_guard_tower_giant_lvl05"
+    },
+    {
+      "offset": 23588,
+      "value": "cc_guard_tower_giant_lvl04"
+    },
+    {
+      "offset": 23652,
+      "value": "cc_guard_tower_giant_lvl03"
+    },
+    {
+      "offset": 23716,
+      "value": "cc_guard_tower_giant_lvl02"
+    },
+    {
+      "offset": 23780,
+      "value": "cc_guard_tower_giant_lvl01"
+    },
+    {
+      "offset": 23844,
+      "value": "cc_guard_tower_dragon_lvl05"
+    },
+    {
+      "offset": 23908,
+      "value": "cc_guard_tower_dragon_lvl04"
+    },
+    {
+      "offset": 23972,
+      "value": "cc_guard_tower_dragon_lvl03"
+    },
+    {
+      "offset": 24036,
+      "value": "cc_guard_tower_dragon_lvl02"
+    },
+    {
+      "offset": 24100,
+      "value": "cc_guard_tower_dragon_lvl01"
+    },
+    {
+      "offset": 24164,
+      "value": "cc_guard_tower_card_lvl05"
+    },
+    {
+      "offset": 24228,
+      "value": "cc_guard_tower_card_lvl04"
+    },
+    {
+      "offset": 24292,
+      "value": "cc_guard_tower_card_lvl03"
+    },
+    {
+      "offset": 24356,
+      "value": "cc_guard_tower_card_lvl02"
+    },
+    {
+      "offset": 24420,
+      "value": "cc_guard_tower_card_lvl01"
+    },
+    {
+      "offset": 24484,
+      "value": "cc_goblin_hut_fixed"
+    },
+    {
+      "offset": 24540,
+      "value": "cc_goblin_hall_fixed"
+    },
+    {
+      "offset": 24600,
+      "value": "cc_goblin_abandoned_outpost_fixed"
+    },
+    {
+      "offset": 24672,
+      "value": "cc_goblin_abandoned_outpost"
+    },
+    {
+      "offset": 24736,
+      "value": "cc_goblin_abandoned_hut"
+    },
+    {
+      "offset": 24796,
+      "value": "cc_goblin_abandoned_hall"
+    },
+    {
+      "offset": 24860,
+      "value": "cc_defense_wall_big_lvl5_door_2"
+    },
+    {
+      "offset": 24928,
+      "value": "cc_defense_wall_big_lvl5_door_1"
+    },
+    {
+      "offset": 24996,
+      "value": "cc_defense_wall_big_lvl5_corner_3"
+    },
+    {
+      "offset": 25068,
+      "value": "cc_defense_wall_big_lvl5_corner_2"
+    },
+    {
+      "offset": 25140,
+      "value": "cc_defense_wall_big_lvl5_corner_1"
+    },
+    {
+      "offset": 25212,
+      "value": "cc_defense_wall_big_lvl5_corner"
+    },
+    {
+      "offset": 25280,
+      "value": "cc_defense_wall_big_lvl5_3"
+    },
+    {
+      "offset": 25344,
+      "value": "cc_defense_wall_big_lvl5_2"
+    },
+    {
+      "offset": 25408,
+      "value": "cc_defense_wall_big_lvl5_1"
+    },
+    {
+      "offset": 25472,
+      "value": "cc_defense_wall_big_lvl5"
+    },
+    {
+      "offset": 25536,
+      "value": "cc_defense_wall_big_lvl4_door_2"
+    },
+    {
+      "offset": 25604,
+      "value": "cc_defense_wall_big_lvl4_door_1"
+    },
+    {
+      "offset": 25672,
+      "value": "cc_defense_wall_big_lvl4_corner_3"
+    },
+    {
+      "offset": 25744,
+      "value": "cc_defense_wall_big_lvl4_corner_2"
+    },
+    {
+      "offset": 25816,
+      "value": "cc_defense_wall_big_lvl4_corner_1"
+    },
+    {
+      "offset": 25888,
+      "value": "cc_defense_wall_big_lvl4_corner"
+    },
+    {
+      "offset": 25956,
+      "value": "cc_defense_wall_big_lvl4_3"
+    },
+    {
+      "offset": 26020,
+      "value": "cc_defense_wall_big_lvl4_2"
+    },
+    {
+      "offset": 26084,
+      "value": "cc_defense_wall_big_lvl4_1"
+    },
+    {
+      "offset": 26148,
+      "value": "cc_defense_wall_big_lvl4"
+    },
+    {
+      "offset": 26212,
+      "value": "cc_defense_wall_big_lvl3_door_2"
+    },
+    {
+      "offset": 26280,
+      "value": "cc_defense_wall_big_lvl3_door_1"
+    },
+    {
+      "offset": 26348,
+      "value": "cc_defense_wall_big_lvl3_corner_3"
+    },
+    {
+      "offset": 26420,
+      "value": "cc_defense_wall_big_lvl3_corner_2"
+    },
+    {
+      "offset": 26492,
+      "value": "cc_defense_wall_big_lvl3_corner_1"
+    },
+    {
+      "offset": 26564,
+      "value": "cc_defense_wall_big_lvl3_corner"
+    },
+    {
+      "offset": 26632,
+      "value": "cc_defense_wall_big_lvl3_3"
+    },
+    {
+      "offset": 26696,
+      "value": "cc_defense_wall_big_lvl3_2"
+    },
+    {
+      "offset": 26760,
+      "value": "cc_defense_wall_big_lvl3_1"
+    },
+    {
+      "offset": 26824,
+      "value": "cc_defense_wall_big_lvl3"
+    },
+    {
+      "offset": 26888,
+      "value": "cc_defense_wall_big_lvl2_door_2"
+    },
+    {
+      "offset": 26956,
+      "value": "cc_defense_wall_big_lvl2_door_1"
+    },
+    {
+      "offset": 27024,
+      "value": "cc_defense_wall_big_lvl2_corner_3"
+    },
+    {
+      "offset": 27096,
+      "value": "cc_defense_wall_big_lvl2_corner_2"
+    },
+    {
+      "offset": 27168,
+      "value": "cc_defense_wall_big_lvl2_corner_1"
+    },
+    {
+      "offset": 27240,
+      "value": "cc_defense_wall_big_lvl2_corner"
+    },
+    {
+      "offset": 27308,
+      "value": "cc_defense_wall_big_lvl2_3"
+    },
+    {
+      "offset": 27372,
+      "value": "cc_defense_wall_big_lvl2_2"
+    },
+    {
+      "offset": 27436,
+      "value": "cc_defense_wall_big_lvl2_1"
+    },
+    {
+      "offset": 27500,
+      "value": "cc_defense_wall_big_lvl2"
+    },
+    {
+      "offset": 27564,
+      "value": "cc_defense_wall_big_lvl1_door_2"
+    },
+    {
+      "offset": 27632,
+      "value": "cc_defense_wall_big_lvl1_door_1"
+    },
+    {
+      "offset": 27700,
+      "value": "cc_defense_wall_big_lvl1_corner_3"
+    },
+    {
+      "offset": 27772,
+      "value": "cc_defense_wall_big_lvl1_corner_2"
+    },
+    {
+      "offset": 27844,
+      "value": "cc_defense_wall_big_lvl1_corner_1"
+    },
+    {
+      "offset": 27916,
+      "value": "cc_defense_wall_big_lvl1_corner"
+    },
+    {
+      "offset": 27984,
+      "value": "cc_defense_wall_big_lvl1_3"
+    },
+    {
+      "offset": 28048,
+      "value": "cc_defense_wall_big_lvl1_2"
+    },
+    {
+      "offset": 28112,
+      "value": "cc_defense_wall_big_lvl1_1"
+    },
+    {
+      "offset": 28176,
+      "value": "cc_defense_wall_big_lvl1"
+    },
+    {
+      "offset": 28240,
+      "value": "cc_defense_wall_big_lvl0_door_2"
+    },
+    {
+      "offset": 28308,
+      "value": "cc_defense_wall_big_lvl0_door_1"
+    },
+    {
+      "offset": 28376,
+      "value": "cc_defense_wall_big_lvl0_corner_3"
+    },
+    {
+      "offset": 28448,
+      "value": "cc_defense_wall_big_lvl0_corner_2"
+    },
+    {
+      "offset": 28520,
+      "value": "cc_defense_wall_big_lvl0_corner_1"
+    },
+    {
+      "offset": 28592,
+      "value": "cc_defense_wall_big_lvl0_corner"
+    },
+    {
+      "offset": 28660,
+      "value": "cc_defense_wall_big_lvl0_3"
+    },
+    {
+      "offset": 28724,
+      "value": "cc_defense_wall_big_lvl0_2"
+    },
+    {
+      "offset": 28788,
+      "value": "cc_defense_wall_big_lvl0_1"
+    },
+    {
+      "offset": 28852,
+      "value": "cc_defense_wall_big_lvl0"
+    },
+    {
+      "offset": 28916,
+      "value": "cc_bounds_wall"
+    },
+    {
+      "offset": 28968,
+      "value": "cc_air_barrel_projectile_3"
+    },
+    {
+      "offset": 29032,
+      "value": "cc_air_barrel_projectile_2"
+    },
+    {
+      "offset": 29096,
+      "value": "cc_air_barrel_projectile_1"
+    },
+    {
+      "offset": 29160,
+      "value": "cc_airDefence_factory_lvl5"
+    },
+    {
+      "offset": 29224,
+      "value": "cc_airDefence_factory_lvl4"
+    },
+    {
+      "offset": 29288,
+      "value": "cc_airDefence_factory_lvl3"
+    },
+    {
+      "offset": 29352,
+      "value": "cc_airDefence_factory_lvl2"
+    },
+    {
+      "offset": 29416,
+      "value": "cc_airDefence_factory_lvl1"
+    },
+    {
+      "offset": 29480,
+      "value": "cc_Spear_Trap_lvl5_unarmed"
+    },
+    {
+      "offset": 29544,
+      "value": "cc_Spear_Trap_lvl5_trigger"
+    },
+    {
+      "offset": 29608,
+      "value": "cc_Spear_Trap_lvl5_idle"
+    },
+    {
+      "offset": 29668,
+      "value": "cc_Spear_Trap_lvl4_unarmed"
+    },
+    {
+      "offset": 29732,
+      "value": "cc_Spear_Trap_lvl4_trigger"
+    },
+    {
+      "offset": 29796,
+      "value": "cc_Spear_Trap_lvl4_idle"
+    },
+    {
+      "offset": 29856,
+      "value": "cc_Spear_Trap_lvl3_unarmed"
+    },
+    {
+      "offset": 29920,
+      "value": "cc_Spear_Trap_lvl3_trigger"
+    },
+    {
+      "offset": 29984,
+      "value": "cc_Spear_Trap_lvl3_idle"
+    },
+    {
+      "offset": 30044,
+      "value": "cc_Spear_Trap_lvl2_unarmed"
+    },
+    {
+      "offset": 30108,
+      "value": "cc_Spear_Trap_lvl2_trigger"
+    },
+    {
+      "offset": 30172,
+      "value": "cc_Spear_Trap_lvl2_idle"
+    },
+    {
+      "offset": 30232,
+      "value": "cc_Spear_Trap_lvl1_unarmed"
+    },
+    {
+      "offset": 30296,
+      "value": "cc_Spear_Trap_lvl1_trigger"
+    },
+    {
+      "offset": 30360,
+      "value": "cc_Spear_Trap_lvl1_idle"
+    },
+    {
+      "offset": 30420,
+      "value": "cc_Mine_lvl5_unarmed"
+    },
+    {
+      "offset": 30480,
+      "value": "cc_Mine_lvl5_triggered"
+    },
+    {
+      "offset": 30540,
+      "value": "cc_Mine_lvl5_air_unarmed"
+    },
+    {
+      "offset": 30604,
+      "value": "cc_Mine_lvl5_air_triggered"
+    },
+    {
+      "offset": 30668,
+      "value": "cc_Mine_lvl5_air"
+    },
+    {
+      "offset": 30724,
+      "value": "cc_Mine_lvl5"
+    },
+    {
+      "offset": 30776,
+      "value": "cc_Mine_lvl4_unarmed"
+    },
+    {
+      "offset": 30836,
+      "value": "cc_Mine_lvl4_triggered"
+    },
+    {
+      "offset": 30896,
+      "value": "cc_Mine_lvl4_air_unarmed"
+    },
+    {
+      "offset": 30960,
+      "value": "cc_Mine_lvl4_air_triggered"
+    },
+    {
+      "offset": 31024,
+      "value": "cc_Mine_lvl4_air"
+    },
+    {
+      "offset": 31080,
+      "value": "cc_Mine_lvl4"
+    },
+    {
+      "offset": 31132,
+      "value": "cc_Mine_lvl3_unarmed"
+    },
+    {
+      "offset": 31192,
+      "value": "cc_Mine_lvl3_triggered"
+    },
+    {
+      "offset": 31252,
+      "value": "cc_Mine_lvl3_air_unarmed"
+    },
+    {
+      "offset": 31316,
+      "value": "cc_Mine_lvl3_air_triggered"
+    },
+    {
+      "offset": 31380,
+      "value": "cc_Mine_lvl3_air"
+    },
+    {
+      "offset": 31436,
+      "value": "cc_Mine_lvl3"
+    },
+    {
+      "offset": 31488,
+      "value": "cc_Mine_lvl2_unarmed"
+    },
+    {
+      "offset": 31548,
+      "value": "cc_Mine_lvl2_triggered"
+    },
+    {
+      "offset": 31608,
+      "value": "cc_Mine_lvl2_air_unarmed"
+    },
+    {
+      "offset": 31672,
+      "value": "cc_Mine_lvl2_air_triggered"
+    },
+    {
+      "offset": 31736,
+      "value": "cc_Mine_lvl2_air"
+    },
+    {
+      "offset": 31792,
+      "value": "cc_Mine_lvl2"
+    },
+    {
+      "offset": 31844,
+      "value": "cc_Mine_lvl1_unarmed"
+    },
+    {
+      "offset": 31904,
+      "value": "cc_Mine_lvl1_triggered"
+    },
+    {
+      "offset": 31964,
+      "value": "cc_Mine_lvl1_air_unarmed"
+    },
+    {
+      "offset": 32028,
+      "value": "cc_Mine_lvl1_air_triggered"
+    },
+    {
+      "offset": 32092,
+      "value": "cc_Mine_lvl1_air"
+    },
+    {
+      "offset": 32148,
+      "value": "cc_Mine_lvl1"
+    },
+    {
+      "offset": 32200,
+      "value": "cc_Mega_Mine_lvl5_unarmed"
+    },
+    {
+      "offset": 32264,
+      "value": "cc_Mega_Mine_lvl5_triggered"
+    },
+    {
+      "offset": 32328,
+      "value": "cc_Mega_Mine_lvl5_air_unarmed"
+    },
+    {
+      "offset": 32396,
+      "value": "cc_Mega_Mine_lvl5_air_triggered"
+    },
+    {
+      "offset": 32464,
+      "value": "cc_Mega_Mine_lvl5_air"
+    },
+    {
+      "offset": 32524,
+      "value": "cc_Mega_Mine_lvl5"
+    },
+    {
+      "offset": 32580,
+      "value": "cc_Mega_Mine_lvl4_unarmed"
+    },
+    {
+      "offset": 32644,
+      "value": "cc_Mega_Mine_lvl4_triggered"
+    },
+    {
+      "offset": 32708,
+      "value": "cc_Mega_Mine_lvl4_air_unarmed"
+    },
+    {
+      "offset": 32776,
+      "value": "cc_Mega_Mine_lvl4_air_triggered"
+    },
+    {
+      "offset": 32844,
+      "value": "cc_Mega_Mine_lvl4_air"
+    },
+    {
+      "offset": 32904,
+      "value": "cc_Mega_Mine_lvl4"
+    },
+    {
+      "offset": 32960,
+      "value": "cc_Mega_Mine_lvl3_unarmed"
+    },
+    {
+      "offset": 33024,
+      "value": "cc_Mega_Mine_lvl3_triggered"
+    },
+    {
+      "offset": 33088,
+      "value": "cc_Mega_Mine_lvl3_air_unarmed"
+    },
+    {
+      "offset": 33156,
+      "value": "cc_Mega_Mine_lvl3_air_triggered"
+    },
+    {
+      "offset": 33224,
+      "value": "cc_Mega_Mine_lvl3_air"
+    },
+    {
+      "offset": 33284,
+      "value": "cc_Mega_Mine_lvl3"
+    },
+    {
+      "offset": 33340,
+      "value": "cc_Mega_Mine_lvl2_unarmed"
+    },
+    {
+      "offset": 33404,
+      "value": "cc_Mega_Mine_lvl2_triggered"
+    },
+    {
+      "offset": 33468,
+      "value": "cc_Mega_Mine_lvl2_air_unarmed"
+    },
+    {
+      "offset": 33536,
+      "value": "cc_Mega_Mine_lvl2_air_triggered"
+    },
+    {
+      "offset": 33604,
+      "value": "cc_Mega_Mine_lvl2_air"
+    },
+    {
+      "offset": 33664,
+      "value": "cc_Mega_Mine_lvl2"
+    },
+    {
+      "offset": 33720,
+      "value": "cc_Mega_Mine_lvl1_unarmed"
+    },
+    {
+      "offset": 33784,
+      "value": "cc_Mega_Mine_lvl1_triggered"
+    },
+    {
+      "offset": 33848,
+      "value": "cc_Mega_Mine_lvl1_air_unarmed"
+    },
+    {
+      "offset": 33916,
+      "value": "cc_Mega_Mine_lvl1_air_triggered"
+    },
+    {
+      "offset": 33984,
+      "value": "cc_Mega_Mine_lvl1_air"
+    },
+    {
+      "offset": 34044,
+      "value": "cc_Mega_Mine_lvl1"
+    },
+    {
+      "offset": 34100,
+      "value": "capital_wizard_tower_lvl5"
+    },
+    {
+      "offset": 34164,
+      "value": "capital_wizard_tower_lvl4"
+    },
+    {
+      "offset": 34228,
+      "value": "capital_wizard_tower_lvl3"
+    },
+    {
+      "offset": 34292,
+      "value": "capital_wizard_tower_lvl2"
+    },
+    {
+      "offset": 34356,
+      "value": "capital_wizard_tower_lvl1"
+    },
+    {
+      "offset": 34420,
+      "value": "capital_rocket_barrage_tower_lvl1"
+    },
+    {
+      "offset": 34492,
+      "value": "capital_reflector_05"
+    },
+    {
+      "offset": 34552,
+      "value": "capital_reflector_04"
+    },
+    {
+      "offset": 34612,
+      "value": "capital_reflector_03"
+    },
+    {
+      "offset": 34672,
+      "value": "capital_reflector_02"
+    },
+    {
+      "offset": 34732,
+      "value": "capital_reflector_01"
+    },
+    {
+      "offset": 34792,
+      "value": "capital_queen_tower_lvl5"
+    },
+    {
+      "offset": 34856,
+      "value": "capital_queen_tower_lvl4"
+    },
+    {
+      "offset": 34920,
+      "value": "capital_queen_tower_lvl3"
+    },
+    {
+      "offset": 34984,
+      "value": "capital_queen_tower_lvl2"
+    },
+    {
+      "offset": 35048,
+      "value": "capital_queen_tower_lvl1"
+    },
+    {
+      "offset": 35112,
+      "value": "capital_multimortar_lvl5"
+    },
+    {
+      "offset": 35176,
+      "value": "capital_multimortar_lvl4"
+    },
+    {
+      "offset": 35240,
+      "value": "capital_multimortar_lvl3"
+    },
+    {
+      "offset": 35304,
+      "value": "capital_multimortar_lvl2"
+    },
+    {
+      "offset": 35368,
+      "value": "capital_multimortar_lvl1"
+    },
+    {
+      "offset": 35432,
+      "value": "capital_multicannon_lvl5"
+    },
+    {
+      "offset": 35496,
+      "value": "capital_multicannon_lvl4"
+    },
+    {
+      "offset": 35560,
+      "value": "capital_multicannon_lvl3"
+    },
+    {
+      "offset": 35624,
+      "value": "capital_multicannon_lvl2"
+    },
+    {
+      "offset": 35688,
+      "value": "capital_multicannon_lvl1"
+    },
+    {
+      "offset": 35752,
+      "value": "capital_mortar_proto"
+    },
+    {
+      "offset": 35812,
+      "value": "capital_mortar_lvl5"
+    },
+    {
+      "offset": 35868,
+      "value": "capital_mortar_lvl4"
+    },
+    {
+      "offset": 35924,
+      "value": "capital_mortar_lvl3"
+    },
+    {
+      "offset": 35980,
+      "value": "capital_mortar_lvl2"
+    },
+    {
+      "offset": 36036,
+      "value": "capital_mortar_lvl1_projectile"
+    },
+    {
+      "offset": 36104,
+      "value": "capital_mortar_lvl1"
+    },
+    {
+      "offset": 36160,
+      "value": "capital_minion_crypt_lvl_5"
+    },
+    {
+      "offset": 36224,
+      "value": "capital_minion_crypt_lvl_4"
+    },
+    {
+      "offset": 36288,
+      "value": "capital_minion_crypt_lvl_3"
+    },
+    {
+      "offset": 36352,
+      "value": "capital_minion_crypt_lvl_2"
+    },
+    {
+      "offset": 36416,
+      "value": "capital_minion_crypt_lvl_1"
+    },
+    {
+      "offset": 36480,
+      "value": "capital_inferno_lvl5"
+    },
+    {
+      "offset": 36540,
+      "value": "capital_inferno_lvl4"
+    },
+    {
+      "offset": 36600,
+      "value": "capital_inferno_lvl3"
+    },
+    {
+      "offset": 36660,
+      "value": "capital_inferno_lvl2"
+    },
+    {
+      "offset": 36720,
+      "value": "capital_inferno_lvl1"
+    },
+    {
+      "offset": 36780,
+      "value": "capital_inferno_lvl0"
+    },
+    {
+      "offset": 36840,
+      "value": "capital_goblin_thrower_lvl4"
+    },
+    {
+      "offset": 36904,
+      "value": "capital_goblin_thrower_lvl3"
+    },
+    {
+      "offset": 36968,
+      "value": "capital_goblin_thrower_lvl2"
+    },
+    {
+      "offset": 37032,
+      "value": "capital_goblin_thrower_lvl1"
+    },
+    {
+      "offset": 37096,
+      "value": "capital_goblin_thrower_lvl0"
+    },
+    {
+      "offset": 37160,
+      "value": "capital_giant_cannon_lvl5"
+    },
+    {
+      "offset": 37224,
+      "value": "capital_giant_cannon_lvl4"
+    },
+    {
+      "offset": 37288,
+      "value": "capital_giant_cannon_lvl3"
+    },
+    {
+      "offset": 37352,
+      "value": "capital_giant_cannon_lvl2"
+    },
+    {
+      "offset": 37416,
+      "value": "capital_giant_cannon_lvl1"
+    },
+    {
+      "offset": 37480,
+      "value": "capital_firecrackers_05"
+    },
+    {
+      "offset": 37540,
+      "value": "capital_firecrackers_04"
+    },
+    {
+      "offset": 37600,
+      "value": "capital_firecrackers_03"
+    },
+    {
+      "offset": 37660,
+      "value": "capital_firecrackers_02"
+    },
+    {
+      "offset": 37720,
+      "value": "capital_firecrackers_01"
+    },
+    {
+      "offset": 37780,
+      "value": "capital_firecracker_ammo_05"
+    },
+    {
+      "offset": 37844,
+      "value": "capital_firecracker_ammo_04"
+    },
+    {
+      "offset": 37908,
+      "value": "capital_firecracker_ammo_03"
+    },
+    {
+      "offset": 37972,
+      "value": "capital_firecracker_ammo_01"
+    },
+    {
+      "offset": 38036,
+      "value": "capital_filler_building_08"
+    },
+    {
+      "offset": 38100,
+      "value": "capital_filler_building_07"
+    },
+    {
+      "offset": 38164,
+      "value": "capital_filler_building_06"
+    },
+    {
+      "offset": 38228,
+      "value": "capital_filler_building_05"
+    },
+    {
+      "offset": 38292,
+      "value": "capital_filler_building_04"
+    },
+    {
+      "offset": 38356,
+      "value": "capital_filler_building_03"
+    },
+    {
+      "offset": 38420,
+      "value": "capital_filler_building_02"
+    },
+    {
+      "offset": 38484,
+      "value": "capital_filler_building_01"
+    },
+    {
+      "offset": 38548,
+      "value": "capital_crusher_lvl5"
+    },
+    {
+      "offset": 38608,
+      "value": "capital_crusher_lvl4"
+    },
+    {
+      "offset": 38668,
+      "value": "capital_crusher_lvl3"
+    },
+    {
+      "offset": 38728,
+      "value": "capital_crusher_lvl2"
+    },
+    {
+      "offset": 38788,
+      "value": "capital_crusher_lvl1"
+    },
+    {
+      "offset": 38848,
+      "value": "capital_cannon_lvl5"
+    },
+    {
+      "offset": 38904,
+      "value": "capital_cannon_lvl4"
+    },
+    {
+      "offset": 38960,
+      "value": "capital_cannon_lvl3"
+    },
+    {
+      "offset": 39016,
+      "value": "capital_cannon_lvl2"
+    },
+    {
+      "offset": 39072,
+      "value": "capital_cannon_lvl1"
+    },
+    {
+      "offset": 39128,
+      "value": "capital_bombtower_lvl5"
+    },
+    {
+      "offset": 39188,
+      "value": "capital_bombtower_lvl4"
+    },
+    {
+      "offset": 39248,
+      "value": "capital_bombtower_lvl3"
+    },
+    {
+      "offset": 39308,
+      "value": "capital_bombtower_lvl2"
+    },
+    {
+      "offset": 39368,
+      "value": "capital_bombtower_lvl1"
+    },
+    {
+      "offset": 39428,
+      "value": "capital_airdefense_lvl5"
+    },
+    {
+      "offset": 39488,
+      "value": "capital_airdefense_lvl4"
+    },
+    {
+      "offset": 39548,
+      "value": "capital_airdefense_lvl3"
+    },
+    {
+      "offset": 39608,
+      "value": "capital_airdefense_lvl2"
+    },
+    {
+      "offset": 39668,
+      "value": "capital_airdefense_lvl1"
+    },
+    {
+      "offset": 39728,
+      "value": "bomb_upg"
+    },
+    {
+      "offset": 39776,
+      "value": "bolt_lvl4"
+    },
+    {
+      "offset": 39824,
+      "value": "bolt_lvl3"
+    },
+    {
+      "offset": 39872,
+      "value": "bolt_lvl2"
+    },
+    {
+      "offset": 39920,
+      "value": "bolt_lvl1"
+    },
+    {
+      "offset": 39968,
+      "value": "blizzard_range"
+    },
+    {
+      "offset": 40020,
+      "value": "base_3x3"
+    },
+    {
+      "offset": 40068,
+      "value": "ballista_tower_lvl6"
+    },
+    {
+      "offset": 40124,
+      "value": "ballista_tower_lvl5"
+    },
+    {
+      "offset": 40180,
+      "value": "ballista_tower_lvl4"
+    },
+    {
+      "offset": 40236,
+      "value": "ballista_tower_lvl3"
+    },
+    {
+      "offset": 40292,
+      "value": "ballista_tower_lvl2"
+    },
+    {
+      "offset": 40348,
+      "value": "ballista_tower_lvl1"
+    },
+    {
+      "offset": 40404,
+      "value": "armyfield_lvl05"
+    },
+    {
+      "offset": 40456,
+      "value": "armyfield_lvl04"
+    },
+    {
+      "offset": 40508,
+      "value": "armyfield_lvl03"
+    },
+    {
+      "offset": 40560,
+      "value": "armyfield_lvl02"
+    },
+    {
+      "offset": 40612,
+      "value": "armyfield_lvl01"
+    },
+    {
+      "offset": 40664,
+      "value": "airship_destroyed_tiles"
+    },
+    {
+      "offset": 40724,
+      "value": "air_trap_upg"
+    },
+    {
+      "offset": 40776,
+      "value": "air_barrel_projectile_1"
+    },
+    {
+      "offset": 40836,
+      "value": "airDefence_factory_lvl3"
+    },
+    {
+      "offset": 40896,
+      "value": "Projectile_Spear"
+    },
+    {
+      "offset": 40952,
+      "value": "District_Hall_Broken"
+    },
+    {
+      "offset": 41012,
+      "value": "Capital_Hall_Broken"
+    },
+    {
+      "offset": 41068,
+      "value": "Blizzard_top"
+    },
+    {
+      "offset": 41120,
+      "value": "Blizzard_glow"
+    },
+    {
+      "offset": 41180,
+      "value": "Blast_Bow_Broken"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "zap_trap_lvl05_unarmed",
+    "zap_trap_lvl05_trigger",
+    "zap_trap_lvl05_idle",
+    "zap_trap_lvl04_unarmed",
+    "zap_trap_lvl04_trigger",
+    "zap_trap_lvl04_idle",
+    "zap_trap_lvl03_unarmed",
+    "zap_trap_lvl03_trigger",
+    "zap_trap_lvl03_idle",
+    "zap_trap_lvl02_unarmed",
+    "zap_trap_lvl02_trigger",
+    "zap_trap_lvl02_idle",
+    "zap_trap_lvl01_unarmed",
+    "zap_trap_lvl01_trigger",
+    "zap_trap_lvl01_idle",
+    "wood_destructed_tiles2",
+    "upgrade_fence_6x6_th",
+    "upgrade_fence_6x6",
+    "upgrade_fence_5x5",
+    "upgrade_fence_4x4_th",
+    "upgrade_fence_4x4",
+    "upgrade_fence_3x3",
+    "upgrade_fence_2x2",
+    "upgrade_fence_1x1",
+    "troop_barrack_zappy_barracks_lvl4",
+    "troop_barrack_zappy_barracks_lvl3",
+    "troop_barrack_zappy_barracks_lvl2",
+    "troop_barrack_zappy_barracks_lvl1",
+    "troop_barrack_zappy_barracks_lvl0",
+    "troop_barrack_super_wizard_lvl5",
+    "troop_barrack_super_wizard_lvl4",
+    "troop_barrack_super_wizard_lvl3",
+    "troop_barrack_super_wizard_lvl2",
+    "troop_barrack_super_wizard_lvl1",
+    "troop_barrack_super_pekka_lvl5",
+    "troop_barrack_super_pekka_lvl4",
+    "troop_barrack_super_pekka_lvl3",
+    "troop_barrack_super_pekka_lvl2",
+    "troop_barrack_super_pekka_lvl1",
+    "troop_barrack_super_dragon_lvl5",
+    "troop_barrack_super_dragon_lvl4",
+    "troop_barrack_super_dragon_lvl3",
+    "troop_barrack_super_dragon_lvl2",
+    "troop_barrack_super_dragon_lvl1",
+    "troop_barrack_super_barbarian_lvl5",
+    "troop_barrack_super_barbarian_lvl4",
+    "troop_barrack_super_barbarian_lvl3",
+    "troop_barrack_super_barbarian_lvl2",
+    "troop_barrack_super_barbarian_lvl1",
+    "troop_barrack_sneaky_archer_lvl5",
+    "troop_barrack_sneaky_archer_lvl4",
+    "troop_barrack_sneaky_archer_lvl3",
+    "troop_barrack_sneaky_archer_lvl2",
+    "troop_barrack_sneaky_archer_lvl1",
+    "troop_barrack_skeleton_balloon_lvl5",
+    "troop_barrack_skeleton_balloon_lvl4",
+    "troop_barrack_skeleton_balloon_lvl3",
+    "troop_barrack_skeleton_balloon_lvl2",
+    "troop_barrack_skeleton_balloon_lvl1",
+    "troop_barrack_minion_lvl5",
+    "troop_barrack_minion_lvl4",
+    "troop_barrack_minion_lvl3",
+    "troop_barrack_minion_lvl2",
+    "troop_barrack_minion_lvl1",
+    "troop_barrack_miner_lvl5",
+    "troop_barrack_miner_lvl4",
+    "troop_barrack_miner_lvl3",
+    "troop_barrack_miner_lvl2",
+    "troop_barrack_miner_lvl1",
+    "troop_barrack_inf_baby_dragon_lvl5",
+    "troop_barrack_inf_baby_dragon_lvl4",
+    "troop_barrack_inf_baby_dragon_lvl3",
+    "troop_barrack_inf_baby_dragon_lvl2",
+    "troop_barrack_inf_baby_dragon_lvl1",
+    "troop_barrack_hog_glider_lvl5",
+    "troop_barrack_hog_glider_lvl4",
+    "troop_barrack_hog_glider_lvl3",
+    "troop_barrack_hog_glider_lvl2",
+    "troop_barrack_hog_glider_lvl1",
+    "troop_barrack_hasty_balloon_lvl5",
+    "troop_barrack_hasty_balloon_lvl4",
+    "ID ",
+    "troop_barrack_hasty_balloon_lvl3",
+    "troop_barrack_hasty_balloon_lvl2",
+    "troop_barrack_hasty_balloon_lvl1",
+    "troop_barrack_golem_quarry_lvl5",
+    "troop_barrack_golem_quarry_lvl4",
+    "troop_barrack_golem_quarry_lvl3",
+    "troop_barrack_golem_quarry_lvl2",
+    "troop_barrack_golem_quarry_lvl1",
+    "troop_barrack_giant_lvl5",
+    "troop_barrack_giant_lvl4",
+    "troop_barrack_giant_lvl3",
+    "troop_barrack_giant_lvl2",
+    "troop_barrack_giant_lvl1",
+    "troop_barrack_cannon_cart_lvl5",
+    "troop_barrack_cannon_cart_lvl4",
+    "troop_barrack_cannon_cart_lvl3",
+    "troop_barrack_cannon_cart_lvl2",
+    "troop_barrack_cannon_cart_lvl1",
+    "troop_barrack_battle_ram_lvl5",
+    "troop_barrack_battle_ram_lvl4",
+    "troop_barrack_battle_ram_lvl3",
+    "troop_barrack_battle_ram_lvl2",
+    "troop_barrack_battle_ram_lvl1",
+    "troop_barrack_airship_lvl5",
+    "troop_barrack_airship_lvl4",
+    "troop_barrack_airship_lvl3",
+    "troop_barrack_airship_lvl2",
+    "troop_barrack_airship_lvl1",
+    "trap_2x2_upg",
+    "trap_1x1_upg",
+    "tall_grass_cc",
+    "springtrap_upg",
+    "spellfactory_speed_lvl05",
+    "spellfactory_speed_lvl04",
+    "spellfactory_speed_lvl03",
+    "spellfactory_speed_lvl02",
+    "spellfactory_speed_lvl01",
+    "spellfactory_skeleton_lvl05",
+    "spellfactory_skeleton_lvl04",
+    "spellfactory_skeleton_lvl03",
+    "spellfactory_skeleton_lvl02",
+    "spellfactory_skeleton_lvl01",
+    "spellfactory_ruin",
+    "spellfactory_rage_lvl05",
+    "spellfactory_rage_lvl04",
+    "spellfactory_rage_lvl03",
+    "spellfactory_rage_lvl02",
+    "spellfactory_rage_lvl01",
+    "spellfactory_lightning_lvl05",
+    "spellfactory_lightning_lvl04",
+    "spellfactory_lightning_lvl03",
+    "spellfactory_lightning_lvl02",
+    "spellfactory_lightning_lvl01",
+    "spellfactory_jump_lvl05",
+    "spellfactory_jump_lvl04",
+    "spellfactory_jump_lvl03",
+    "spellfactory_jump_lvl02",
+    "spellfactory_jump_lvl01",
+    "spellfactory_heal_lvl05",
+    "spellfactory_heal_lvl04",
+    "spellfactory_heal_lvl03",
+    "spellfactory_heal_lvl02",
+    "spellfactory_heal_lvl01",
+    "spellfactory_frost_lvl05",
+    "spellfactory_frost_lvl04",
+    "spellfactory_frost_lvl03",
+    "spellfactory_frost_lvl02",
+    "spellfactory_frost_lvl01",
+    "spell_housing_lvl5",
+    "spell_housing_lvl4",
+    "spell_housing_lvl3",
+    "spell_housing_lvl2",
+    "spell_housing_lvl1",
+    "ruin_wooden_house",
+    "ruin_wooden_cabin",
+    "ruin_wizard_tower",
+    "ruin_troop_barrack",
+    "ruin_trap2x2_2",
+    "ruin_trap2x2_1",
+    "ruin_trap1x1",
+    "ruin_thatched_house",
+    "ruin_spell_storage",
+    "ruin_spell_factory",
+    "ruin_spear_thrower",
+    "ruin_small_hut",
+    "ruin_small_cabin",
+    "ruin_slanted_house",
+    "ruin_rocket_artillery",
+    "ruin_reflector",
+    "ruin_rapid_rockets",
+    "ruin_player_house2",
+    "ruin_player_house",
+    "ruin_multi_mortar",
+    "ruin_multi_cannon",
+    "ruin_minion_crypt",
+    "ruin_mega_tesla",
+    "ruin_large_house",
+    "ruin_inferno_tower",
+    "ruin_guard_post",
+    "ruin_golem_quarry",
+    "ruin_giant_cannon",
+    "ruin_flying_fortress",
+    "ruin_crusher",
+    "ruin_cannon",
+    "ruin_bomb_tower",
+    "ruin_blast_bow",
+    "ruin_army_field",
+    "ruin_air_defense",
+    "ruin_air_bombs",
+    "rocket_trail_smoke",
+    "rocket_trail_fireball",
+    "rocket_trail_fire_mirrored",
+    "rocket_trail_fire",
+    "rock_destructed_tiles3",
+    "rock_destructed_tiles2",
+    "rockWood_destructed_tiles3",
+    "rockWood_destructed_tiles2",
+    "reflector_shield_projectile_6",
+    "reflector_shield_projectile_5",
+    "reflector_shield_projectile_4",
+    "reflector_shield_projectile_3",
+    "reflector_shield_projectile_2",
+    "reflector_shield_projectile_1",
+    "reflector_projectile_wave",
+    "rapid_rocket_projectile_01",
+    "queen_tower_projectile2",
+    "queen_tower_projectile",
+    "quarry_destroyed_tiles",
+    "playerhouse_parts",
+    "playerhouse_dummy",
+    "player_estate_01",
+    "minion_spawn_projectile_02",
+    "minion_spawn_projectile_01",
+    "goblin_barrel_projectile_7",
+    "goblin_barrel_projectile_6",
+    "goblin_barrel_projectile_5",
+    "goblin_barrel_projectile_4",
+    "goblin_barrel_projectile_3",
+    "goblin_barrel_projectile_2",
+    "goblin_barrel_projectile_1",
+    "goblin_barrel_projectile2_7",
+    "goblin_barrel_projectile2_6",
+    "goblin_barrel_projectile2_5",
+    "goblin_barrel_projectile2_4",
+    "goblin_barrel_projectile2_3",
+    "goblin_barrel_projectile2_2",
+    "goblin_barrel_projectile2_1",
+    "giant_bomb_upg",
+    "gen_destructed_state4",
+    "evil_air_trap_upg",
+    "estate_roof_05",
+    "estate_roof_04",
+    "estate_roof_03",
+    "estate_roof_02",
+    "estate_roof_01",
+    "estate_house_02",
+    "estate_house_01",
+    "estate_garden_02",
+    "estate_garden_01",
+    "estate_deco_02",
+    "estate_deco_01",
+    "dynamite_projectile",
+    "discovered_4x4_01",
+    "discovered_3x3_01",
+    "discovered_2x2_01",
+    "detail_scale_example",
+    "d1_HQ_lvl06",
+    "d1_HQ_lvl05",
+    "d1_HQ_lvl04",
+    "d1_HQ_lvl03",
+    "d1_HQ_lvl02",
+    "d1_HQ_lvl01",
+    "d0_HQ_lvl10",
+    "d0_HQ_lvl09",
+    "d0_HQ_lvl08",
+    "d0_HQ_lvl07",
+    "d0_HQ_lvl06",
+    "d0_HQ_lvl05",
+    "d0_HQ_lvl04",
+    "d0_HQ_lvl03",
+    "d0_HQ_lvl02",
+    "d0_HQ_lvl01",
+    "cc_spear_goblin_spear",
+    "cc_spear_01",
+    "cc_path_01",
+    "cc_megatesla_appear_fx",
+    "cc_mega_tesla_lvl5_setup",
+    "cc_mega_tesla_lvl5",
+    "cc_mega_tesla_lvl4_setup",
+    "cc_mega_tesla_lvl4",
+    "cc_mega_tesla_lvl3_setup",
+    "cc_mega_tesla_lvl3",
+    "cc_mega_tesla_lvl2_setup",
+    "cc_mega_tesla_lvl2",
+    "cc_mega_tesla_lvl1_setup",
+    "cc_mega_tesla_lvl1",
+    "cc_log_trap_lvl5_unarmed_3",
+    "cc_log_trap_lvl5_unarmed_2",
+    "cc_log_trap_lvl5_unarmed_1",
+    "cc_log_trap_lvl5_unarmed_0",
+    "cc_log_trap_lvl5_trigger_3",
+    "cc_log_trap_lvl5_trigger_2",
+    "cc_log_trap_lvl5_trigger_1",
+    "cc_log_trap_lvl5_trigger_0",
+    "cc_log_trap_lvl5_idle_3",
+    "cc_log_trap_lvl5_idle_2",
+    "cc_log_trap_lvl5_idle_1",
+    "cc_log_trap_lvl5_idle_0",
+    "cc_log_trap_lvl4_unarmed_3",
+    "cc_log_trap_lvl4_unarmed_2",
+    "cc_log_trap_lvl4_unarmed_1",
+    "cc_log_trap_lvl4_unarmed_0",
+    "cc_log_trap_lvl4_trigger_3",
+    "cc_log_trap_lvl4_trigger_2",
+    "cc_log_trap_lvl4_trigger_1",
+    "cc_log_trap_lvl4_trigger_0",
+    "cc_log_trap_lvl4_idle_3",
+    "cc_log_trap_lvl4_idle_2",
+    "cc_log_trap_lvl4_idle_1",
+    "cc_log_trap_lvl4_idle_0",
+    "cc_log_trap_lvl3_trigger_3",
+    "cc_log_trap_lvl3_trigger_2",
+    "cc_log_trap_lvl3_trigger_1",
+    "cc_log_trap_lvl3_trigger_0",
+    "cc_log_trap_lvl3_idle_3",
+    "cc_log_trap_lvl3_idle_2",
+    "cc_log_trap_lvl3_idle_1",
+    "cc_log_trap_lvl3_idle_0",
+    "cc_log_trap_lvl2_unarmed_3",
+    "cc_log_trap_lvl2_unarmed_2",
+    "cc_log_trap_lvl2_unarmed_1",
+    "cc_log_trap_lvl2_unarmed_0",
+    "cc_log_trap_lvl2_trigger_3",
+    "cc_log_trap_lvl2_trigger_2",
+    "cc_log_trap_lvl2_trigger_1",
+    "cc_log_trap_lvl2_trigger_0",
+    "cc_log_trap_lvl2_idle_3",
+    "cc_log_trap_lvl2_idle_2",
+    "cc_log_trap_lvl2_idle_1",
+    "cc_log_trap_lvl2_idle_0",
+    "cc_log_trap_lvl1_unarmed_3",
+    "cc_log_trap_lvl1_unarmed_2",
+    "cc_log_trap_lvl1_unarmed_1",
+    "cc_log_trap_lvl1_unarmed_0",
+    "cc_log_trap_lvl1_trigger_3",
+    "cc_log_trap_lvl1_trigger_2",
+    "cc_log_trap_lvl1_trigger_1",
+    "cc_log_trap_lvl1_trigger_0",
+    "cc_log_trap_lvl1_idle_3",
+    "cc_log_trap_lvl1_idle_2",
+    "cc_log_trap_lvl1_idle_1",
+    "cc_log_trap_lvl1_idle_0",
+    "cc_log_05_2",
+    "cc_log_05_1",
+    "cc_log_04_2",
+    "cc_log_04_1",
+    "cc_log_03_2",
+    "cc_log_03_1",
+    "cc_log_01_2",
+    "cc_log_01_1",
+    "cc_guardpost_lvl1",
+    "cc_guard_tower_giant_lvl05",
+    "cc_guard_tower_giant_lvl04",
+    "cc_guard_tower_giant_lvl03",
+    "cc_guard_tower_giant_lvl02",
+    "cc_guard_tower_giant_lvl01",
+    "cc_guard_tower_dragon_lvl05",
+    "cc_guard_tower_dragon_lvl04",
+    "cc_guard_tower_dragon_lvl03",
+    "cc_guard_tower_dragon_lvl02",
+    "cc_guard_tower_dragon_lvl01",
+    "cc_guard_tower_card_lvl05",
+    "cc_guard_tower_card_lvl04",
+    "cc_guard_tower_card_lvl03",
+    "cc_guard_tower_card_lvl02",
+    "cc_guard_tower_card_lvl01",
+    "cc_goblin_hut_fixed",
+    "cc_goblin_hall_fixed",
+    "cc_goblin_abandoned_outpost_fixed",
+    "cc_goblin_abandoned_outpost",
+    "cc_goblin_abandoned_hut",
+    "cc_goblin_abandoned_hall",
+    "cc_defense_wall_big_lvl5_door_2",
+    "cc_defense_wall_big_lvl5_door_1",
+    "cc_defense_wall_big_lvl5_corner_3",
+    "cc_defense_wall_big_lvl5_corner_2",
+    "cc_defense_wall_big_lvl5_corner_1",
+    "cc_defense_wall_big_lvl5_corner",
+    "cc_defense_wall_big_lvl5_3",
+    "cc_defense_wall_big_lvl5_2",
+    "cc_defense_wall_big_lvl5_1",
+    "cc_defense_wall_big_lvl5",
+    "cc_defense_wall_big_lvl4_door_2",
+    "cc_defense_wall_big_lvl4_door_1",
+    "cc_defense_wall_big_lvl4_corner_3",
+    "cc_defense_wall_big_lvl4_corner_2",
+    "cc_defense_wall_big_lvl4_corner_1",
+    "cc_defense_wall_big_lvl4_corner",
+    "cc_defense_wall_big_lvl4_3",
+    "cc_defense_wall_big_lvl4_2",
+    "cc_defense_wall_big_lvl4_1",
+    "cc_defense_wall_big_lvl4",
+    "cc_defense_wall_big_lvl3_door_2",
+    "cc_defense_wall_big_lvl3_door_1",
+    "cc_defense_wall_big_lvl3_corner_3",
+    "cc_defense_wall_big_lvl3_corner_2",
+    "cc_defense_wall_big_lvl3_corner_1",
+    "cc_defense_wall_big_lvl3_corner",
+    "cc_defense_wall_big_lvl3_3",
+    "cc_defense_wall_big_lvl3_2",
+    "cc_defense_wall_big_lvl3_1",
+    "cc_defense_wall_big_lvl3",
+    "cc_defense_wall_big_lvl2_door_2",
+    "cc_defense_wall_big_lvl2_door_1",
+    "cc_defense_wall_big_lvl2_corner_3",
+    "cc_defense_wall_big_lvl2_corner_2",
+    "cc_defense_wall_big_lvl2_corner_1",
+    "cc_defense_wall_big_lvl2_corner",
+    "cc_defense_wall_big_lvl2_3",
+    "cc_defense_wall_big_lvl2_2",
+    "cc_defense_wall_big_lvl2_1",
+    "cc_defense_wall_big_lvl2",
+    "cc_defense_wall_big_lvl1_door_2",
+    "cc_defense_wall_big_lvl1_door_1",
+    "cc_defense_wall_big_lvl1_corner_3",
+    "cc_defense_wall_big_lvl1_corner_2",
+    "cc_defense_wall_big_lvl1_corner_1",
+    "cc_defense_wall_big_lvl1_corner",
+    "cc_defense_wall_big_lvl1_3",
+    "cc_defense_wall_big_lvl1_2",
+    "cc_defense_wall_big_lvl1_1",
+    "cc_defense_wall_big_lvl1",
+    "cc_defense_wall_big_lvl0_door_2",
+    "cc_defense_wall_big_lvl0_door_1",
+    "cc_defense_wall_big_lvl0_corner_3",
+    "cc_defense_wall_big_lvl0_corner_2",
+    "cc_defense_wall_big_lvl0_corner_1",
+    "cc_defense_wall_big_lvl0_corner",
+    "cc_defense_wall_big_lvl0_3",
+    "cc_defense_wall_big_lvl0_2",
+    "cc_defense_wall_big_lvl0_1",
+    "cc_defense_wall_big_lvl0",
+    "cc_bounds_wall",
+    "cc_air_barrel_projectile_3",
+    "cc_air_barrel_projectile_2",
+    "cc_air_barrel_projectile_1",
+    "cc_airDefence_factory_lvl5",
+    "cc_airDefence_factory_lvl4",
+    "cc_airDefence_factory_lvl3",
+    "cc_airDefence_factory_lvl2",
+    "cc_airDefence_factory_lvl1",
+    "cc_Spear_Trap_lvl5_unarmed",
+    "cc_Spear_Trap_lvl5_trigger",
+    "cc_Spear_Trap_lvl5_idle",
+    "cc_Spear_Trap_lvl4_unarmed",
+    "cc_Spear_Trap_lvl4_trigger",
+    "cc_Spear_Trap_lvl4_idle",
+    "cc_Spear_Trap_lvl3_unarmed",
+    "cc_Spear_Trap_lvl3_trigger",
+    "cc_Spear_Trap_lvl3_idle",
+    "cc_Spear_Trap_lvl2_unarmed",
+    "cc_Spear_Trap_lvl2_trigger",
+    "cc_Spear_Trap_lvl2_idle",
+    "cc_Spear_Trap_lvl1_unarmed",
+    "cc_Spear_Trap_lvl1_trigger",
+    "cc_Spear_Trap_lvl1_idle",
+    "cc_Mine_lvl5_unarmed",
+    "cc_Mine_lvl5_triggered",
+    "cc_Mine_lvl5_air_unarmed",
+    "cc_Mine_lvl5_air_triggered",
+    "cc_Mine_lvl5_air",
+    "cc_Mine_lvl5",
+    "cc_Mine_lvl4_unarmed",
+    "cc_Mine_lvl4_triggered",
+    "cc_Mine_lvl4_air_unarmed",
+    "cc_Mine_lvl4_air_triggered",
+    "cc_Mine_lvl4_air",
+    "cc_Mine_lvl4",
+    "cc_Mine_lvl3_unarmed",
+    "cc_Mine_lvl3_triggered",
+    "cc_Mine_lvl3_air_unarmed",
+    "cc_Mine_lvl3_air_triggered",
+    "cc_Mine_lvl3_air",
+    "cc_Mine_lvl3",
+    "cc_Mine_lvl2_unarmed",
+    "cc_Mine_lvl2_triggered",
+    "cc_Mine_lvl2_air_unarmed",
+    "cc_Mine_lvl2_air_triggered",
+    "cc_Mine_lvl2_air",
+    "cc_Mine_lvl2",
+    "cc_Mine_lvl1_unarmed",
+    "cc_Mine_lvl1_triggered",
+    "cc_Mine_lvl1_air_unarmed",
+    "cc_Mine_lvl1_air_triggered",
+    "cc_Mine_lvl1_air",
+    "cc_Mine_lvl1",
+    "cc_Mega_Mine_lvl5_unarmed",
+    "cc_Mega_Mine_lvl5_triggered",
+    "cc_Mega_Mine_lvl5_air_unarmed",
+    "cc_Mega_Mine_lvl5_air_triggered",
+    "cc_Mega_Mine_lvl5_air",
+    "cc_Mega_Mine_lvl5",
+    "cc_Mega_Mine_lvl4_unarmed",
+    "cc_Mega_Mine_lvl4_triggered",
+    "cc_Mega_Mine_lvl4_air_unarmed",
+    "cc_Mega_Mine_lvl4_air_triggered",
+    "cc_Mega_Mine_lvl4_air",
+    "cc_Mega_Mine_lvl4",
+    "cc_Mega_Mine_lvl3_unarmed",
+    "cc_Mega_Mine_lvl3_triggered",
+    "cc_Mega_Mine_lvl3_air_unarmed",
+    "cc_Mega_Mine_lvl3_air_triggered",
+    "cc_Mega_Mine_lvl3_air",
+    "cc_Mega_Mine_lvl3",
+    "cc_Mega_Mine_lvl2_unarmed",
+    "cc_Mega_Mine_lvl2_triggered",
+    "cc_Mega_Mine_lvl2_air_unarmed",
+    "cc_Mega_Mine_lvl2_air_triggered",
+    "cc_Mega_Mine_lvl2_air",
+    "cc_Mega_Mine_lvl2",
+    "cc_Mega_Mine_lvl1_unarmed",
+    "cc_Mega_Mine_lvl1_triggered",
+    "cc_Mega_Mine_lvl1_air_unarmed",
+    "cc_Mega_Mine_lvl1_air_triggered",
+    "cc_Mega_Mine_lvl1_air",
+    "cc_Mega_Mine_lvl1",
+    "capital_wizard_tower_lvl5",
+    "capital_wizard_tower_lvl4",
+    "capital_wizard_tower_lvl3",
+    "capital_wizard_tower_lvl2",
+    "capital_wizard_tower_lvl1",
+    "capital_rocket_barrage_tower_lvl1",
+    "capital_reflector_05",
+    "capital_reflector_04",
+    "capital_reflector_03",
+    "capital_reflector_02",
+    "capital_reflector_01",
+    "capital_queen_tower_lvl5",
+    "capital_queen_tower_lvl4",
+    "capital_queen_tower_lvl3",
+    "capital_queen_tower_lvl2",
+    "capital_queen_tower_lvl1",
+    "capital_multimortar_lvl5",
+    "capital_multimortar_lvl4",
+    "capital_multimortar_lvl3",
+    "capital_multimortar_lvl2",
+    "capital_multimortar_lvl1",
+    "capital_multicannon_lvl5",
+    "capital_multicannon_lvl4",
+    "capital_multicannon_lvl3",
+    "capital_multicannon_lvl2",
+    "capital_multicannon_lvl1",
+    "capital_mortar_proto",
+    "capital_mortar_lvl5",
+    "capital_mortar_lvl4",
+    "capital_mortar_lvl3",
+    "capital_mortar_lvl2",
+    "capital_mortar_lvl1_projectile",
+    "capital_mortar_lvl1",
+    "capital_minion_crypt_lvl_5",
+    "capital_minion_crypt_lvl_4",
+    "capital_minion_crypt_lvl_3",
+    "capital_minion_crypt_lvl_2",
+    "capital_minion_crypt_lvl_1",
+    "capital_inferno_lvl5",
+    "capital_inferno_lvl4",
+    "capital_inferno_lvl3",
+    "capital_inferno_lvl2",
+    "capital_inferno_lvl1",
+    "capital_inferno_lvl0",
+    "capital_goblin_thrower_lvl4",
+    "capital_goblin_thrower_lvl3",
+    "capital_goblin_thrower_lvl2",
+    "capital_goblin_thrower_lvl1",
+    "capital_goblin_thrower_lvl0",
+    "capital_giant_cannon_lvl5",
+    "capital_giant_cannon_lvl4",
+    "capital_giant_cannon_lvl3",
+    "capital_giant_cannon_lvl2",
+    "capital_giant_cannon_lvl1",
+    "capital_firecrackers_05",
+    "capital_firecrackers_04",
+    "capital_firecrackers_03",
+    "capital_firecrackers_02",
+    "capital_firecrackers_01",
+    "capital_firecracker_ammo_05",
+    "capital_firecracker_ammo_04",
+    "capital_firecracker_ammo_03",
+    "capital_firecracker_ammo_01",
+    "capital_filler_building_08",
+    "capital_filler_building_07",
+    "capital_filler_building_06",
+    "capital_filler_building_05",
+    "capital_filler_building_04",
+    "capital_filler_building_03",
+    "capital_filler_building_02",
+    "capital_filler_building_01",
+    "capital_crusher_lvl5",
+    "capital_crusher_lvl4",
+    "capital_crusher_lvl3",
+    "capital_crusher_lvl2",
+    "capital_crusher_lvl1",
+    "capital_cannon_lvl5",
+    "capital_cannon_lvl4",
+    "capital_cannon_lvl3",
+    "capital_cannon_lvl2",
+    "capital_cannon_lvl1",
+    "capital_bombtower_lvl5",
+    "capital_bombtower_lvl4",
+    "capital_bombtower_lvl3",
+    "capital_bombtower_lvl2",
+    "capital_bombtower_lvl1",
+    "capital_airdefense_lvl5",
+    "capital_airdefense_lvl4",
+    "capital_airdefense_lvl3",
+    "capital_airdefense_lvl2",
+    "capital_airdefense_lvl1",
+    "bomb_upg",
+    "bolt_lvl4",
+    "bolt_lvl3",
+    "bolt_lvl2",
+    "bolt_lvl1",
+    "blizzard_range",
+    "base_3x3",
+    "ballista_tower_lvl6",
+    "ballista_tower_lvl5",
+    "ballista_tower_lvl4",
+    "ballista_tower_lvl3",
+    "ballista_tower_lvl2",
+    "ballista_tower_lvl1",
+    "armyfield_lvl05",
+    "armyfield_lvl04",
+    "armyfield_lvl03",
+    "armyfield_lvl02",
+    "armyfield_lvl01",
+    "airship_destroyed_tiles",
+    "air_trap_upg",
+    "air_barrel_projectile_1",
+    "airDefence_factory_lvl3",
+    "Projectile_Spear",
+    "District_Hall_Broken",
+    "Capital_Hall_Broken",
+    "Blizzard_top",
+    "Blizzard_glow",
+    "Blast_Bow_Broken"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 17856,
+      "value": "gfrA"
+    },
+    {
+      "offset": 19680,
+      "value": "gf6@"
+    },
+    {
+      "offset": 23136,
+      "value": "gff@"
+    },
+    {
+      "offset": 23259,
+      "value": "Agf"
+    },
+    {
+      "offset": 23688,
+      "value": "gfBA"
+    },
+    {
+      "offset": 27050,
+      "value": "oA33"
+    },
+    {
+      "offset": 27264,
+      "value": "gfrA"
+    },
+    {
+      "offset": 30003,
+      "value": "Agf"
+    },
+    {
+      "offset": 31248,
+      "value": "gf6A"
+    },
+    {
+      "offset": 33696,
+      "value": "gf2A"
+    },
+    {
+      "offset": 34464,
+      "value": "gfnA"
+    },
+    {
+      "offset": 35664,
+      "value": "gfJA"
+    },
+    {
+      "offset": 40656,
+      "value": "gfRA"
+    },
+    {
+      "offset": 42267,
+      "value": "AgfnA"
+    },
+    {
+      "offset": 44092,
+      "value": "gfBA"
+    },
+    {
+      "offset": 44236,
+      "value": "gf:A"
+    },
+    {
+      "offset": 44380,
+      "value": "gf2A"
+    },
+    {
+      "offset": 46540,
+      "value": "gff@"
+    },
+    {
+      "offset": 46684,
+      "value": "gfF@"
+    },
+    {
+      "offset": 56764,
+      "value": "gfQB"
+    },
+    {
+      "offset": 56908,
+      "value": "gfOB"
+    },
+    {
+      "offset": 57100,
+      "value": "gfLB"
+    },
+    {
+      "offset": 57244,
+      "value": "gfJB"
+    },
+    {
+      "offset": 57436,
+      "value": "gfGB"
+    },
+    {
+      "offset": 57580,
+      "value": "gfEB"
+    },
+    {
+      "offset": 57916,
+      "value": "gf@B"
+    },
+    {
+      "offset": 58588,
+      "value": "gf6B"
+    },
+    {
+      "offset": 58732,
+      "value": "gf4B"
+    },
+    {
+      "offset": 58924,
+      "value": "gf1B"
+    },
+    {
+      "offset": 59068,
+      "value": "gf/B"
+    },
+    {
+      "offset": 60076,
+      "value": "gf B"
+    },
+    {
+      "offset": 61492,
+      "value": "gfzA"
+    },
+    {
+      "offset": 69360,
+      "value": "gfbA"
+    },
+    {
+      "offset": 72651,
+      "value": "A33"
+    },
+    {
+      "offset": 73584,
+      "value": "gff@"
+    },
+    {
+      "offset": 78003,
+      "value": "A33"
+    },
+    {
+      "offset": 80496,
+      "value": "gf:A"
+    },
+    {
+      "offset": 85488,
+      "value": "gfvA"
+    },
+    {
+      "offset": 87482,
+      "value": "PB33DB"
+    },
+    {
+      "offset": 94224,
+      "value": "gfV@"
+    },
+    {
+      "offset": 96700,
+      "value": "gf6@"
+    },
+    {
+      "offset": 100924,
+      "value": "gfbA"
+    },
+    {
+      "offset": 101020,
+      "value": "gf:A"
+    },
+    {
+      "offset": 105964,
+      "value": "gfiB"
+    },
+    {
+      "offset": 106296,
+      "value": "gf B"
+    },
+    {
+      "offset": 106752,
+      "value": "gf B"
+    },
+    {
+      "offset": 107232,
+      "value": "gf B"
+    },
+    {
+      "offset": 108408,
+      "value": "gf B"
+    },
+    {
+      "offset": 108600,
+      "value": "gf B"
+    },
+    {
+      "offset": 115179,
+      "value": "Agf"
+    },
+    {
+      "offset": 115779,
+      "value": "Agf6A"
+    },
+    {
+      "offset": 116259,
+      "value": "A333B"
+    },
+    {
+      "offset": 116331,
+      "value": "AgfFB"
+    },
+    {
+      "offset": 116379,
+      "value": "A33SB"
+    },
+    {
+      "offset": 116451,
+      "value": "A33fB"
+    },
+    {
+      "offset": 116474,
+      "value": "wAgflB"
+    },
+    {
+      "offset": 116520,
+      "value": "gfbA"
+    },
+    {
+      "offset": 121707,
+      "value": "Bgf"
+    },
+    {
+      "offset": 121850,
+      "value": "tB335B"
+    },
+    {
+      "offset": 121946,
+      "value": "jBgfXB"
+    },
+    {
+      "offset": 121968,
+      "value": "gfgB33aB"
+    },
+    {
+      "offset": 122472,
+      "value": "gf2B"
+    },
+    {
+      "offset": 124084,
+      "value": "gf B"
+    },
+    {
+      "offset": 124708,
+      "value": "gf1B"
+    },
+    {
+      "offset": 125596,
+      "value": "gfJB"
+    },
+    {
+      "offset": 126410,
+      "value": "mB33 B"
+    },
+    {
+      "offset": 126748,
+      "value": "gfkB"
+    },
+    {
+      "offset": 127010,
+      "value": "nB331B"
+    },
+    {
+      "offset": 127632,
+      "value": "gfoB33BB"
+    },
+    {
+      "offset": 128256,
+      "value": "gfpB33SB"
+    },
+    {
+      "offset": 128880,
+      "value": "gfqB33dB"
+    },
+    {
+      "offset": 129504,
+      "value": "gfrBgfuB"
+    },
+    {
+      "offset": 131091,
+      "value": "Bgf0B"
+    },
+    {
+      "offset": 131188,
+      "value": "gfFB"
+    },
+    {
+      "offset": 132195,
+      "value": "B33FB"
+    },
+    {
+      "offset": 132579,
+      "value": "BgfMB"
+    },
+    {
+      "offset": 133492,
+      "value": "gfqB"
+    },
+    {
+      "offset": 133876,
+      "value": "gfxB"
+    },
+    {
+      "offset": 134859,
+      "value": "B33xB"
+    },
+    {
+      "offset": 136636,
+      "value": "gf:A"
+    },
+    {
+      "offset": 144388,
+      "value": "gfIB"
+    },
+    {
+      "offset": 147027,
+      "value": "Bgff@"
+    },
+    {
+      "offset": 150820,
+      "value": "gf2A"
+    },
+    {
+      "offset": 151248,
+      "value": "gfkB"
+    },
+    {
+      "offset": 154491,
+      "value": "Bgf7B"
+    },
+    {
+      "offset": 154899,
+      "value": "Bgf6A"
+    },
+    {
+      "offset": 154923,
+      "value": "B33@B"
+    },
+    {
+      "offset": 155331,
+      "value": "B33WA"
+    },
+    {
+      "offset": 155712,
+      "value": "gfNA"
+    },
+    {
+      "offset": 156675,
+      "value": "BgfcB"
+    },
+    {
+      "offset": 157131,
+      "value": "BgflB"
+    },
+    {
+      "offset": 157155,
+      "value": "AgfVB"
+    },
+    {
+      "offset": 157587,
+      "value": "B33uB"
+    },
+    {
+      "offset": 157780,
+      "value": "gfXB"
+    },
+    {
+      "offset": 158066,
+      "value": "CA33gB"
+    },
+    {
+      "offset": 161688,
+      "value": "gfRA"
+    },
+    {
+      "offset": 162075,
+      "value": "Bgf/B"
+    },
+    {
+      "offset": 162507,
+      "value": "Bgf7B"
+    },
+    {
+      "offset": 163248,
+      "value": "gf0B"
+    },
+    {
+      "offset": 164187,
+      "value": "BgfVB"
+    },
+    {
+      "offset": 166488,
+      "value": "gfjA"
+    },
+    {
+      "offset": 167280,
+      "value": "gf6B"
+    },
+    {
+      "offset": 180123,
+      "value": "B33FB"
+    },
+    {
+      "offset": 180435,
+      "value": "BgfMB"
+    },
+    {
+      "offset": 181660,
+      "value": "gf.B"
+    },
+    {
+      "offset": 182044,
+      "value": "gf6B"
+    },
+    {
+      "offset": 182307,
+      "value": "B33qB"
+    },
+    {
+      "offset": 182643,
+      "value": "B33xB"
+    },
+    {
+      "offset": 182716,
+      "value": "gfzA"
+    },
+    {
+      "offset": 184564,
+      "value": "gfmB"
+    },
+    {
+      "offset": 184611,
+      "value": "B337A"
+    },
+    {
+      "offset": 184944,
+      "value": "gfgB"
+    },
+    {
+      "offset": 187512,
+      "value": "gffBgff@"
+    },
+    {
+      "offset": 189552,
+      "value": "gfgB33gA"
+    },
+    {
+      "offset": 189672,
+      "value": "gf7B"
+    },
+    {
+      "offset": 191572,
+      "value": "gfLB"
+    },
+    {
+      "offset": 191763,
+      "value": "Bgf7B"
+    },
+    {
+      "offset": 191956,
+      "value": "gfTB"
+    },
+    {
+      "offset": 192100,
+      "value": "gfjB"
+    },
+    {
+      "offset": 192484,
+      "value": "gfqB"
+    },
+    {
+      "offset": 193992,
+      "value": "gfkB"
+    },
+    {
+      "offset": 195076,
+      "value": "gfqB"
+    },
+    {
+      "offset": 195528,
+      "value": "gfmB33:B"
+    },
+    {
+      "offset": 196272,
+      "value": "gfnB33KB"
+    },
+    {
+      "offset": 196800,
+      "value": "gf:A"
+    },
+    {
+      "offset": 197066,
+      "value": "oB33\\B"
+    },
+    {
+      "offset": 197547,
+      "value": "A33WA"
+    },
+    {
+      "offset": 197810,
+      "value": "pB33mB"
+    },
+    {
+      "offset": 199948,
+      "value": "gfkB"
+    },
+    {
+      "offset": 204076,
+      "value": "gf7B"
+    },
+    {
+      "offset": 204412,
+      "value": "gfBB"
+    },
+    {
+      "offset": 204600,
+      "value": "gflB"
+    },
+    {
+      "offset": 204724,
+      "value": "gfMB"
+    },
+    {
+      "offset": 205154,
+      "value": "DAgfoB"
+    },
+    {
+      "offset": 205924,
+      "value": "gfzB"
+    },
+    {
+      "offset": 208728,
+      "value": "gffA"
+    },
+    {
+      "offset": 209523,
+      "value": "B33@B"
+    },
+    {
+      "offset": 209787,
+      "value": "A33_A"
+    },
+    {
+      "offset": 210459,
+      "value": "BgfcB"
+    },
+    {
+      "offset": 210532,
+      "value": "gf:A"
+    },
+    {
+      "offset": 210891,
+      "value": "B33uB"
+    },
+    {
+      "offset": 213291,
+      "value": "A33/B"
+    },
+    {
+      "offset": 213364,
+      "value": "gfV@"
+    },
+    {
+      "offset": 213531,
+      "value": "A337B"
+    },
+    {
+      "offset": 214060,
+      "value": "gf2A"
+    },
+    {
+      "offset": 214468,
+      "value": "gf2B"
+    },
+    {
+      "offset": 215139,
+      "value": "CgfV@"
+    },
+    {
+      "offset": 215332,
+      "value": "gfXB"
+    },
+    {
+      "offset": 215811,
+      "value": "CgfFA"
+    },
+    {
+      "offset": 215979,
+      "value": "C33kA"
+    },
+    {
+      "offset": 216868,
+      "value": "gfMB"
+    },
+    {
+      "offset": 217800,
+      "value": "gf.B"
+    },
+    {
+      "offset": 220443,
+      "value": "C33uB"
+    },
+    {
+      "offset": 220584,
+      "value": "gf6B"
+    },
+    {
+      "offset": 221928,
+      "value": "gfBA"
+    },
+    {
+      "offset": 225000,
+      "value": "gfAB"
+    },
+    {
+      "offset": 226756,
+      "value": "gfV@"
+    },
+    {
+      "offset": 226780,
+      "value": "gfv@"
+    },
+    {
+      "offset": 227330,
+      "value": "_AgfV@"
+    },
+    {
+      "offset": 227668,
+      "value": "gfF@"
+    },
+    {
+      "offset": 227884,
+      "value": "gfV@"
+    },
+    {
+      "offset": 227979,
+      "value": "A33c@"
+    },
+    {
+      "offset": 228554,
+      "value": "tAgfV@"
+    },
+    {
+      "offset": 228820,
+      "value": "gfF@"
+    },
+    {
+      "offset": 229060,
+      "value": "gfF@"
+    },
+    {
+      "offset": 229512,
+      "value": "gff@"
+    },
+    {
+      "offset": 229538,
+      "value": "dA33s@"
+    },
+    {
+      "offset": 229948,
+      "value": "gfV@"
+    },
+    {
+      "offset": 232632,
+      "value": "gfvA"
+    },
+    {
+      "offset": 234243,
+      "value": "A33kA"
+    },
+    {
+      "offset": 234387,
+      "value": "AgfVA"
+    },
+    {
+      "offset": 234531,
+      "value": "BgfbA"
+    },
+    {
+      "offset": 234939,
+      "value": "Agf+B"
+    },
+    {
+      "offset": 235131,
+      "value": "Agf-B"
+    },
+    {
+      "offset": 235251,
+      "value": "A330B"
+    },
+    {
+      "offset": 235659,
+      "value": "A33@B"
+    },
+    {
+      "offset": 235851,
+      "value": "B33+B"
+    },
+    {
+      "offset": 239520,
+      "value": "gfF@"
+    },
+    {
+      "offset": 239664,
+      "value": "gfF@"
+    },
+    {
+      "offset": 239712,
+      "value": "gfF@"
+    },
+    {
+      "offset": 239904,
+      "value": "gf6@"
+    },
+    {
+      "offset": 242235,
+      "value": "A33c@"
+    },
+    {
+      "offset": 242908,
+      "value": "gff@"
+    },
+    {
+      "offset": 244083,
+      "value": "Agf6@"
+    },
+    {
+      "offset": 246768,
+      "value": "gfv@"
+    },
+    {
+      "offset": 251019,
+      "value": "Agfv@"
+    },
+    {
+      "offset": 251331,
+      "value": "AgfV@"
+    },
+    {
+      "offset": 251667,
+      "value": "A333@"
+    },
+    {
+      "offset": 257212,
+      "value": "gffA"
+    },
+    {
+      "offset": 260548,
+      "value": "gfRA"
+    },
+    {
+      "offset": 262272,
+      "value": "gfbA"
+    },
+    {
+      "offset": 263328,
+      "value": "gfFA"
+    },
+    {
+      "offset": 266090,
+      "value": "pA33DB"
+    },
+    {
+      "offset": 266380,
+      "value": "gfyB"
+    },
+    {
+      "offset": 266402,
+      "value": "iA33AB"
+    },
+    {
+      "offset": 266596,
+      "value": "gfIB"
+    },
+    {
+      "offset": 266692,
+      "value": "gf\\B"
+    },
+    {
+      "offset": 266836,
+      "value": "gfv@"
+    },
+    {
+      "offset": 266956,
+      "value": "gfRA"
+    },
+    {
+      "offset": 267242,
+      "value": "QA33:B"
+    }
+  ],
+  "descriptor_preview_hex": "3800000014000000eb8ce08b05353b35d239facc2eb31f6f83e8fa9d1c002c00040008000c00100014001800000000001c002000240028001c00000001000000",
+  "decoded_preview_hex": "38c5210018000000000012001400040000000000000008000c00100012000000a05d210020d10e0058c6060004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

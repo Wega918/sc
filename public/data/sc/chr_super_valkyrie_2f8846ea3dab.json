@@ -1,0 +1,145 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_super_valkyrie.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_super_valkyrie.sc",
+  "sha256_container": "2f8846ea3dab8e4f41467eb4c4e5904cc7ca1c76a089cd1774be5a6313a6ef47",
+  "sha256_descriptor": "9e1d54040d2fa89c9fcfbdb9c47579ea6b591891b1db4d3fc441e277147a689c",
+  "sha256_decoded_payload": "20ac8f5a25a8ff77f90b19739fb33b03c41b979cc1eee5e8c1480688603025f5",
+  "version": 6,
+  "descriptor_bytes": 548,
+  "compressed_frame_bytes": 4872,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 12724,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 62
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 7
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 60,
+      "raw_u32": 8436
+    },
+    {
+      "field_index": 9,
+      "offset": 64,
+      "raw_u32": 2272
+    },
+    {
+      "field_index": 10,
+      "offset": 68,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 72,
+      "raw_u32": 4872
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 144,
+      "value": "superValkyrie01_Run1_3"
+    },
+    {
+      "offset": 204,
+      "value": "superValkyrie01_Run1_2"
+    },
+    {
+      "offset": 264,
+      "value": "superValkyrie01_Run1_1"
+    },
+    {
+      "offset": 324,
+      "value": "superValkyrie01_Idle1_3"
+    },
+    {
+      "offset": 384,
+      "value": "superValkyrie01_Attack1_3"
+    },
+    {
+      "offset": 448,
+      "value": "superValkyrie01_Attack1_2"
+    },
+    {
+      "offset": 520,
+      "value": "superValkyrie01_Attack1_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "superValkyrie01_Run1_3",
+    "superValkyrie01_Run1_2",
+    "superValkyrie01_Run1_1",
+    "superValkyrie01_Idle1_3",
+    "superValkyrie01_Attack1_3",
+    "superValkyrie01_Attack1_2",
+    "superValkyrie01_Attack1_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 2960,
+      "value": "Ls1q"
+    },
+    {
+      "offset": 8224,
+      "value": "superValkyrie01_Attack1_1"
+    },
+    {
+      "offset": 8256,
+      "value": "superValkyrie01_Attack1_2"
+    },
+    {
+      "offset": 8288,
+      "value": "superValkyrie01_Run1_3"
+    },
+    {
+      "offset": 8316,
+      "value": "superValkyrie01_Attack1_3"
+    },
+    {
+      "offset": 8348,
+      "value": "superValkyrie01_Run1_1"
+    },
+    {
+      "offset": 8376,
+      "value": "superValkyrie01_Run1_2"
+    },
+    {
+      "offset": 8404,
+      "value": "superValkyrie01_Idle1_3"
+    },
+    {
+      "offset": 12696,
+      "value": "chr_super_valkyrie_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000003e0000000700000001000000f4200000",
+  "decoded_preview_hex": "f020000018000000000012001400040000000000000008000c00100012000000d81f0000941700007402000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

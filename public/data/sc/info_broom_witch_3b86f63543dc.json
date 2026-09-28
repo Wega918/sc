@@ -1,0 +1,193 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_broom_witch.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_broom_witch.sc",
+  "sha256_container": "3b86f63543dc40dea543562d77c5792d374be0b73022e2cf02ce93df121fe8d4",
+  "sha256_descriptor": "507492e17e3ab41f16f2607d46f18913d05d2b8fcf11e0ac353004cc8162fd21",
+  "sha256_decoded_payload": "e0365ba34e43ac8bf37b14af49bbfb575a89bf5d539b1e067a5ce9527ecfb661",
+  "version": 6,
+  "descriptor_bytes": 228,
+  "compressed_frame_bytes": 69192,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 157188,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 48,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 3,
+      "offset": 52,
+      "raw_u32": 2
+    },
+    {
+      "field_index": 4,
+      "offset": 56,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 60,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 64,
+      "raw_u32": 424
+    },
+    {
+      "field_index": 9,
+      "offset": 68,
+      "raw_u32": 156392
+    },
+    {
+      "field_index": 10,
+      "offset": 72,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 76,
+      "raw_u32": 69192
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 128,
+      "value": "unit_broom_witch_spirit._big"
+    },
+    {
+      "offset": 204,
+      "value": "unit_broom_witch_big"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "unit_broom_witch_spirit._big",
+    "unit_broom_witch_big"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 240,
+      "value": "ff4B"
+    },
+    {
+      "offset": 356,
+      "value": "unit_broom_witch_big"
+    },
+    {
+      "offset": 384,
+      "value": "unit_broom_witch_spirit._big"
+    },
+    {
+      "offset": 12651,
+      "value": "l X"
+    },
+    {
+      "offset": 25499,
+      "value": "C D"
+    },
+    {
+      "offset": 26278,
+      "value": "Cao"
+    },
+    {
+      "offset": 30994,
+      "value": "G0s"
+    },
+    {
+      "offset": 46057,
+      "value": "hFH"
+    },
+    {
+      "offset": 49608,
+      "value": "xJi0"
+    },
+    {
+      "offset": 54009,
+      "value": "eOW1"
+    },
+    {
+      "offset": 57594,
+      "value": "ST "
+    },
+    {
+      "offset": 59888,
+      "value": "UPE"
+    },
+    {
+      "offset": 66022,
+      "value": "GQj"
+    },
+    {
+      "offset": 68868,
+      "value": "Bqra74U"
+    },
+    {
+      "offset": 69113,
+      "value": "H2d"
+    },
+    {
+      "offset": 74822,
+      "value": "oa+"
+    },
+    {
+      "offset": 77384,
+      "value": "FoV"
+    },
+    {
+      "offset": 79654,
+      "value": "ea3"
+    },
+    {
+      "offset": 79658,
+      "value": "x3bQ"
+    },
+    {
+      "offset": 80290,
+      "value": "N@n"
+    },
+    {
+      "offset": 89074,
+      "value": "H@O"
+    },
+    {
+      "offset": 92401,
+      "value": "UUUO"
+    },
+    {
+      "offset": 110743,
+      "value": "Ad++"
+    },
+    {
+      "offset": 111439,
+      "value": "i23"
+    },
+    {
+      "offset": 112345,
+      "value": "xXI"
+    },
+    {
+      "offset": 133021,
+      "value": "rV@"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c002c00040008000c00100014000000000018001c002000240028001c000000010000000100000002000000020000000100000003000000",
+  "decoded_preview_hex": "a401000018000000000012001400040000000000000008000c0010001200000030010000140100004c00000004000000010000000c00000008000c0004000800",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

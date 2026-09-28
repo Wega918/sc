@@ -1,0 +1,242 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "chr_elite_giant.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\chr_elite_giant.sc",
+  "sha256_container": "2ee24a3433b1a144ef1b03e2130b27f49eb4118e2e44d3b9c34ac470bce0ddde",
+  "sha256_descriptor": "c357b497f05a83c2f4097759505b45a84fc2c6b6b7883e3005c5645ac7117260",
+  "sha256_decoded_payload": "44f0a0a1a019395ce656135195e4462f76b87034cc3cbb042e15b883c610ec2d",
+  "version": 6,
+  "descriptor_bytes": 828,
+  "compressed_frame_bytes": 9192,
+  "alignment_padding_bytes": 0,
+  "decoded_payload_bytes": 24316,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 36,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 2,
+      "offset": 44,
+      "raw_u32": 124
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 12
+    },
+    {
+      "field_index": 4,
+      "offset": 52,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 15964
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 4504
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 9192
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 160,
+      "value": "elite_giant_walk1_3"
+    },
+    {
+      "offset": 216,
+      "value": "elite_giant_walk1_2"
+    },
+    {
+      "offset": 272,
+      "value": "elite_giant_walk1_1"
+    },
+    {
+      "offset": 328,
+      "value": "elite_giant_idle1_3"
+    },
+    {
+      "offset": 384,
+      "value": "elite_giant_idle1_2"
+    },
+    {
+      "offset": 440,
+      "value": "elite_giant_idle1_1"
+    },
+    {
+      "offset": 496,
+      "value": "elite_giant_attack3_3"
+    },
+    {
+      "offset": 556,
+      "value": "elite_giant_attack3_2"
+    },
+    {
+      "offset": 616,
+      "value": "elite_giant_attack3_1"
+    },
+    {
+      "offset": 676,
+      "value": "elite_giant_attack2_3"
+    },
+    {
+      "offset": 736,
+      "value": "elite_giant_attack2_2"
+    },
+    {
+      "offset": 804,
+      "value": "elite_giant_attack2_1"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "elite_giant_walk1_3",
+    "elite_giant_walk1_2",
+    "elite_giant_walk1_1",
+    "elite_giant_idle1_3",
+    "elite_giant_idle1_2",
+    "elite_giant_idle1_1",
+    "elite_giant_attack3_3",
+    "elite_giant_attack3_2",
+    "elite_giant_attack3_1",
+    "elite_giant_attack2_3",
+    "elite_giant_attack2_2",
+    "elite_giant_attack2_1"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 1676,
+      "value": "ff6@"
+    },
+    {
+      "offset": 1736,
+      "value": "ff:B"
+    },
+    {
+      "offset": 1832,
+      "value": "ff:B"
+    },
+    {
+      "offset": 2927,
+      "value": "B33OA"
+    },
+    {
+      "offset": 6236,
+      "value": "ffJA"
+    },
+    {
+      "offset": 6332,
+      "value": "ffJA"
+    },
+    {
+      "offset": 6427,
+      "value": "eff.A"
+    },
+    {
+      "offset": 7971,
+      "value": "Af@1m"
+    },
+    {
+      "offset": 8960,
+      "value": "ffAB"
+    },
+    {
+      "offset": 9152,
+      "value": "ff:B"
+    },
+    {
+      "offset": 9644,
+      "value": "ff.A"
+    },
+    {
+      "offset": 9679,
+      "value": "Mff3B"
+    },
+    {
+      "offset": 10625,
+      "value": "GV7"
+    },
+    {
+      "offset": 11705,
+      "value": "eN3"
+    },
+    {
+      "offset": 15648,
+      "value": "elite_giant_walk1_3"
+    },
+    {
+      "offset": 15672,
+      "value": "elite_giant_attack3_1"
+    },
+    {
+      "offset": 15700,
+      "value": "elite_giant_attack2_1"
+    },
+    {
+      "offset": 15728,
+      "value": "elite_giant_attack2_2"
+    },
+    {
+      "offset": 15756,
+      "value": "elite_giant_attack2_3"
+    },
+    {
+      "offset": 15784,
+      "value": "elite_giant_attack3_2"
+    },
+    {
+      "offset": 15812,
+      "value": "elite_giant_walk1_1"
+    },
+    {
+      "offset": 15836,
+      "value": "elite_giant_attack3_3"
+    },
+    {
+      "offset": 15864,
+      "value": "elite_giant_idle1_1"
+    },
+    {
+      "offset": 15888,
+      "value": "elite_giant_idle1_2"
+    },
+    {
+      "offset": 15912,
+      "value": "elite_giant_idle1_3"
+    },
+    {
+      "offset": 15936,
+      "value": "elite_giant_walk1_2"
+    },
+    {
+      "offset": 24292,
+      "value": "chr_elite_giant_0.sctx"
+    }
+  ],
+  "descriptor_preview_hex": "200000001c002800040008000c001000140000000000000018001c00200024001c00000001000000010000007c0000000c000000010000005c3e000098110000",
+  "decoded_preview_hex": "583e000018000000000012001400040000000000000008000c00100012000000c43c0000d42d00003c00000004000000010000000c0000000000060008000400",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}

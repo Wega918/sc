@@ -1,0 +1,78 @@
+{
+  "format": "sc_json_export_v1",
+  "source_file": "info_elprimo.sc",
+  "source_path": "C:\\Users\\Wega\\Desktop\\clashofclans\\assets\\sc\\info_elprimo.sc",
+  "sha256_container": "c8a83453ca378abb8a19090753a97a33a0f6066fe5853ffe2d4790e0814822ec",
+  "sha256_descriptor": "6ce48e980ddab92bd82ca6b176b4ec3f11162014d0180143f47e0a949f884251",
+  "sha256_decoded_payload": "171cb2fb79e38883efde9e0d1c88517094c68c95965d92631835cc80f7f0844f",
+  "version": 6,
+  "descriptor_bytes": 140,
+  "compressed_frame_bytes": 110,
+  "alignment_padding_bytes": 2,
+  "decoded_payload_bytes": 292,
+  "companion_sctx_candidate": null,
+  "descriptor_root_fields_uninterpreted": [
+    {
+      "field_index": 0,
+      "offset": 40,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 1,
+      "offset": 44,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 3,
+      "offset": 48,
+      "raw_u32": 1
+    },
+    {
+      "field_index": 7,
+      "offset": 52,
+      "raw_u32": 3
+    },
+    {
+      "field_index": 8,
+      "offset": 56,
+      "raw_u32": 96
+    },
+    {
+      "field_index": 9,
+      "offset": 60,
+      "raw_u32": 88
+    },
+    {
+      "field_index": 10,
+      "offset": 64,
+      "raw_u32": 8
+    },
+    {
+      "field_index": 11,
+      "offset": 68,
+      "raw_u32": 112
+    }
+  ],
+  "payload_root_fields_uninterpreted": [],
+  "descriptor_strings": [
+    {
+      "offset": 124,
+      "value": "temp_dummya3"
+    }
+  ],
+  "descriptor_strings_unique": [
+    "temp_dummya3"
+  ],
+  "payload_strings_preview": [
+    {
+      "offset": 72,
+      "value": "temp_dummya3"
+    }
+  ],
+  "descriptor_preview_hex": "24000000000000001c0024000400080000000c000000000000001000140018001c0020001c000000010000000100000001000000030000006000000058000000",
+  "decoded_preview_hex": "5c00000018000000000012000c00040000000000000000000000080012000000180000000400000001000000080000000400040004000000020000001c000000",
+  "notes": [
+    "JSON содержит только проверенные данные контейнера и строки. Семантика анимаций не угадывается.",
+    "Для готовой веб-интеграции может понадобиться отдельный парсер SC-схемы и связка с .sctx атласами."
+  ]
+}
